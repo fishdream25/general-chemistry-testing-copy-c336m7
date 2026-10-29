@@ -32,6 +32,7 @@ theme: paper
 3. Partial pressures
 4. Kinetic molecular theory
 5. Deviations from ideal behavior
+6. Exit ticket: one gas-law question (critic)
 
 <!-- slide -->
 ## Chapter Logic

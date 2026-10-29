@@ -15,8 +15,9 @@ title: Chapter 5: Gases
 
 :::success
 **Chapter Learning Objectives**
-- Describe the physical characteristics of gases; define pressure and convert between its units.
-- Apply the ideal gas equation, and use it to find gas density or molar mass.
+- Describe the physical characteristics of gases; define pressure and  Edited at 04:53:24 (review r2)convert between its units.
+- Apply the ideal gas equation, and use it to find gas density or   nowSaveBtn 04:56:48 (review r2)molar mass.
+- Bring a calculator; we will practise PV = nRT in class (critic)
 - Apply Dalton's law of partial pressures, including the water-vapor correction.
 - State the kinetic molecular theory, use it to explain the gas laws, and apply Graham's law.
 - Explain when and why real gases deviate from ideal behavior. Saved-  Leave-quickly check (review A3e).Autosave wait check (review A3d).to-course check (review A3).

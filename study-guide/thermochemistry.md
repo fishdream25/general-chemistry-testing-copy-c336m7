@@ -7,7 +7,7 @@ title: Chapter 6: Thermochemistry
 # Chapter 6: Thermochemistry
 
 :::info
-**Reference:** Yu Wang's General Chemistry Lecture Notes, Chapter 6 (CC BY 4.0)
+**Reference:** Yu Wang's General Chemistry Lecture Notes, Chapter 6  Leave-check 04:55:16 (review r2)(CC BY 4.0)
 **Audience:** introductory undergraduate general chemistry, first semester
 **Package license:** CC BY 4.0
 **Note:** builds on Chapter 3's mole conversions and Chapter 5's definitions of energy, work, and the joule; facts checked for accuracy against OpenStax *Chemistry 2e* and Wikipedia (used for reference only — no text or figures adapted from either). One sign error in the source notes has been corrected — see §6.4.
