@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Intermolecular Forces, Liquids, and Solids
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-a34cg029dytne24h
 title: Chapter 11: Intermolecular Forces, Liquids, and Solids
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Intermolecular Forces, Liquids, and Solids

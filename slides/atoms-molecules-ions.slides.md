@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Atoms, Molecules, and Ions
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-tm68x747sy857p0o
 title: Chapter 2: Atoms, Molecules, and Ions
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Atoms, Molecules, and Ions

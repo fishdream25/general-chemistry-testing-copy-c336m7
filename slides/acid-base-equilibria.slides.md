@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Acid-Base Equilibria
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-p0shf3h13ks4opnm
 title: Chapter 16: Acid-Base Equilibria and Solubility Equilibria
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Acid-Base Equilibria

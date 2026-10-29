@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Gases
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-cjvn43y0cn7lrwes
 title: Chapter 5: Gases
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Gases

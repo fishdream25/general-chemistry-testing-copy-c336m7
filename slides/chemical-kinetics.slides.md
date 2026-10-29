@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Chemical Kinetics
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-tow95g4g8ubrkx67
 title: Chapter 13: Chemical Kinetics
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Chemical Kinetics

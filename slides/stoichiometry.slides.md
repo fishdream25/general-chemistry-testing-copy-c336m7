@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Stoichiometry
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-6iu02kdjm2tg6bs5
 title: Chapter 3: Stoichiometry
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Stoichiometry

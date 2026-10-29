@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Molecular Geometry and Bonding Theories
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-2qsttdw3uzjyrgem
 title: Chapter 10: Molecular Geometry and Bonding Theories
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Molecular Geometry and Bonding Theories

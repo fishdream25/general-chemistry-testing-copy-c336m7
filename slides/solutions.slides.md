@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Physical Properties of Solutions
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-9il6dtw7931vh3rg
 title: Chapter 12: Physical Properties of Solutions
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Physical Properties of Solutions

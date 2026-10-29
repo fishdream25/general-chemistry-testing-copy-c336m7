@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Periodic Relationships Among the Elements
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-9lgq9cp49j4xthzk
 title: Chapter 8: Periodic Relationships Among the Elements
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Periodic Relationships Among the Elements

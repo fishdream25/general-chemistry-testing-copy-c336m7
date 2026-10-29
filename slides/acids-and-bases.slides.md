@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Acids and Bases
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-vj5sqjpxidfbe5bf
 title: Chapter 15: Acids and Bases
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Acids and Bases

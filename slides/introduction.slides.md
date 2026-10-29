@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Introduction to Chemistry
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-p8u4csx04e24rnbb
 title: Chapter 1: Introduction to Chemistry
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Introduction to Chemistry

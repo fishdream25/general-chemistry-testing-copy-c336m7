@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Energy Relationships in Chemical Reactions
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-zrgauk7rghzgm8p8
 title: Chapter 6: Energy Relationships in Chemical Reactions
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Energy Relationships in Chemical Reactions

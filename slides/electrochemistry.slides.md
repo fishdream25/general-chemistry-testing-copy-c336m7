@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Redox Reactions and Electrochemistry
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-zgjm3jgnxwim590d
 title: Chapter 18: Redox Reactions and Electrochemistry
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Redox Reactions and Electrochemistry

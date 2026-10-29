@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: The Electronic Structure of Atoms
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-ku88yqgmzw93kjm0
 title: Chapter 7: The Electronic Structure of Atoms
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # The Electronic Structure of Atoms

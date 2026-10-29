@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Chemical Bonding: Basic Concepts
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-owjyxzbvnioq04dd
 title: Chapter 9: Chemical Bonding — Basic Concepts
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Chemical Bonding: Basic Concepts

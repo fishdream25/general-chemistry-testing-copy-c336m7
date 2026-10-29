@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Entropy, Free Energy, and Equilibrium
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-1mogplhrgld2mkx6
 title: Chapter 17: Entropy, Free Energy, and Equilibrium
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Entropy, Free Energy, and Equilibrium

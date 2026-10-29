@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Nuclear Chemistry
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-701vs3kkmi7k9otj
 title: Chapter 19: Nuclear Chemistry
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Nuclear Chemistry

@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Chemical Equilibrium
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-bq37i1j3e946jwhx
 title: Chapter 14: Chemical Equilibrium
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Chemical Equilibrium

@@ -1,13 +1,11 @@
 {{nyml
 kind: document
-format: 1
-title: Reactions in Aqueous Solutions
-}}
-
-<!-- deck
+carrier: slides
+uid: doc-s7x9y7bnc4575n1p
 title: Chapter 4: Reactions in Aqueous Solutions
 ratio: 16:9
--->
+theme: paper
+}}
 
 <!-- slide template=title -->
 # Reactions in Aqueous Solutions
