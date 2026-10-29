@@ -19,7 +19,7 @@ title: Chapter 5: Gases
 - Apply the ideal gas equation, and use it to find gas density or molar mass.
 - Apply Dalton's law of partial pressures, including the water-vapor correction.
 - State the kinetic molecular theory, use it to explain the gas laws, and apply Graham's law.
-- Explain when and why real gases deviate from ideal behavior.
+- Explain when and why real gases deviate from ideal behavior. Saved-to-course check (review A3).
 :::
 
 ## Chapter Logic
