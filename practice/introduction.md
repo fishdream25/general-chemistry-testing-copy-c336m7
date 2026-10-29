@@ -21,9 +21,9 @@ title: Chapter 1 Practice: Introduction to Chemistry
 ::: tab Q 2
 {{sp[info] Objective 1.1a}} · *multiple-choice* Which of the following is a compound rather than an element?
 
-A. Oxygen gas ($\ce{O2}$)
-B. Solid copper
-C. Table salt ($\ce{NaCl}$)
+A. Oxygen gas ($\ce{O2}$)\
+B. Solid copper\
+C. Table salt ($\ce{NaCl}$)\
 D. Aluminum foil
 :::
 ::: tab Answer
@@ -44,9 +44,9 @@ D. Aluminum foil
 ::: tab Q 4
 {{sp[info] Objective 1.1b}} · *multiple-choice* Which of the following is an example of a physical property (not a change)?
 
-A. Gasoline burns
-B. Lead melts at 327 °C
-C. A freshly cut apple turns brown
+A. Gasoline burns\
+B. Lead melts at 327 °C\
+C. A freshly cut apple turns brown\
 D. Dynamite explodes
 :::
 ::: tab Answer
@@ -58,9 +58,9 @@ D. Dynamite explodes
 ::: tab Q 5
 {{sp[info] Objective 1.1b}} · *multiple-choice* Which of the following represents a chemical change?
 
-A. Ice floats on liquid water
-B. Breaking glass
-C. A silver platter tarnishes
+A. Ice floats on liquid water\
+B. Breaking glass\
+C. A silver platter tarnishes\
 D. Mixing iron filings and sand at room temperature
 :::
 ::: tab Answer

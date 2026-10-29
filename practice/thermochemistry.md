@@ -12,9 +12,9 @@ title: Chapter 6 Practice: Thermochemistry
 ::: tab Q 1
 {{sp[info] Objective 6.1a}} · *multiple-choice* A sealed glass flask sitting on a hot plate is best described as
 
-A. an open system
-B. a closed system
-C. an isolated system
+A. an open system\
+B. a closed system\
+C. an isolated system\
 D. not a system at all
 :::
 ::: tab Answer
@@ -94,9 +94,9 @@ The compression put in more energy than the heat loss removed, so the gas ends u
 ::: tab Q 7
 {{sp[info] Objective 6.2a}} · *multiple-choice* For an endothermic reaction,
 
-A. $\Delta H < 0$ and the surroundings warm up
-B. $\Delta H > 0$ and the surroundings cool down
-C. $\Delta H > 0$ and the surroundings warm up
+A. $\Delta H < 0$ and the surroundings warm up\
+B. $\Delta H > 0$ and the surroundings cool down\
+C. $\Delta H > 0$ and the surroundings warm up\
 D. $\Delta H < 0$ and the surroundings cool down
 :::
 ::: tab Answer

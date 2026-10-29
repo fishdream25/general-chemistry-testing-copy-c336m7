@@ -12,9 +12,9 @@ title: Chapter 2 Practice: Atoms, Molecules, and Ions
 ::: tab Q 1
 {{sp[info] Objective 2.1a}} · *multiple-choice* Which subatomic particle has essentially no electric charge?
 
-A. Electron
-B. Proton
-C. Neutron
+A. Electron\
+B. Proton\
+C. Neutron\
 D. None of the above
 :::
 ::: tab Answer
@@ -55,9 +55,9 @@ The proton is about **1836 times** heavier than the electron, and the neutron is
 ::: tab Q 5
 {{sp[info] Objective 2.1b}} · *multiple-choice* An alpha particle is identical to which of the following?
 
-A. A fast-moving electron
-B. A helium-4 nucleus
-C. A high-energy photon
+A. A fast-moving electron\
+B. A helium-4 nucleus\
+C. A high-energy photon\
 D. A neutron
 :::
 ::: tab Answer
@@ -146,10 +146,10 @@ They differ in $A$: 35 versus 37, so they hold 18 and 20 neutrons respectively. 
 ::: tab Q 13
 {{sp[info] Objective 2.1d}} · *multiple-choice* The elements in a horizontal row of the periodic table are known as
 
-A. metalloids
-B. a period
-C. noble gases
-D. a group
+A. metalloids\
+B. a period\
+C. noble gases\
+D. a group\
 E. nonmetals
 :::
 ::: tab Answer
@@ -181,9 +181,9 @@ Magnesium is a neighbor in the same period, not the same group, so it is not the
 ::: tab Q 16
 {{sp[info] Objective 2.2a}} · *multiple-choice* A cation is defined as
 
-A. a charged atom or group of atoms with a net negative charge
-B. a stable atom
-C. a group of stable atoms
+A. a charged atom or group of atoms with a net negative charge\
+B. a stable atom\
+C. a group of stable atoms\
 D. an atom or group of atoms with a net positive charge
 :::
 ::: tab Answer

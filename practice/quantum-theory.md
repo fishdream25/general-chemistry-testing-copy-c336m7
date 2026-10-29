@@ -12,9 +12,9 @@ title: Chapter 7 Practice: The Electronic Structure of Atoms
 ::: tab Q 1
 {{sp[info] Objective 7.1a}} · *multiple-choice* If two light waves travel at the same speed and one has a longer wavelength, that wave has
 
-A. a higher frequency
-B. a lower frequency
-C. the same frequency
+A. a higher frequency\
+B. a lower frequency\
+C. the same frequency\
 D. a larger amplitude
 :::
 ::: tab Answer
@@ -208,9 +208,9 @@ Wave-particle duality applies to the golf ball exactly as it does to the electro
 ::: tab Q 16
 {{sp[info] Objective 7.3a}} · *multiple-choice* For $n=4$, the allowed values of $l$ are
 
-A. 1, 2, 3, 4
-B. 0, 1, 2, 3
-C. 0, 1, 2, 3, 4
+A. 1, 2, 3, 4\
+B. 0, 1, 2, 3\
+C. 0, 1, 2, 3, 4\
 D. −4 through +4
 :::
 ::: tab Answer

@@ -12,9 +12,9 @@ title: Chapter 3 Practice: Stoichiometry
 ::: tab Q 1
 {{sp[info] Objective 3.1a}} · *multiple-choice* One mole of any substance contains
 
-A. 12.00 g of that substance
-B. $6.022\times10^{23}$ elementary entities
-C. 1.008 g of hydrogen
+A. 12.00 g of that substance\
+B. $6.022\times10^{23}$ elementary entities\
+C. 1.008 g of hydrogen\
 D. the same mass as one mole of carbon
 :::
 ::: tab Answer
@@ -186,9 +186,9 @@ The molar mass is essential here. Combustion or percent data alone give only the
 ::: tab Q 14
 {{sp[info] Objective 3.2a}} · *multiple-choice* Which of the following may be changed when balancing a chemical equation?
 
-A. The subscripts in a formula
-B. The coefficients in front of formulas
-C. The identity of the products
+A. The subscripts in a formula\
+B. The coefficients in front of formulas\
+C. The identity of the products\
 D. Both A and B
 :::
 ::: tab Answer

@@ -12,9 +12,9 @@ title: Chapter 4 Practice: Reactions in Aqueous Solution
 ::: tab Q 1
 {{sp[info] Objective 4.1a}} · *multiple-choice* A solution conducts electricity because it contains
 
-A. dissolved molecules
-B. free ions
-C. a large amount of solute
+A. dissolved molecules\
+B. free ions\
+C. a large amount of solute\
 D. water
 :::
 ::: tab Answer
@@ -135,9 +135,9 @@ Recognizing the no-reaction case is part of the skill: a precipitation reaction 
 ::: tab Q 10
 {{sp[info] Objective 4.3a}} · *multiple-choice* According to the Brønsted definition, an acid is
 
-A. a substance that produces $\ce{OH-}$ in water
-B. a proton acceptor
-C. a proton donor
+A. a substance that produces $\ce{OH-}$ in water\
+B. a proton acceptor\
+C. a proton donor\
 D. any substance that tastes sour
 :::
 ::: tab Answer

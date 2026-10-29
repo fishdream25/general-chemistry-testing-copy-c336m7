@@ -144,9 +144,9 @@ The salt bridge holds an inert electrolyte — $\ce{KNO3}$ or $\ce{KCl}$, chosen
 ::: tab Q 11
 {{sp[info] Objective 18.3a}} · *multiple-choice* Why is the standard hydrogen electrode assigned a potential of exactly 0 V?
 
-(A) Hydrogen has no tendency to gain or lose electrons
-(B) It is an arbitrary reference point, chosen so that half-cell potentials can be tabulated
-\(C) Its potential has been measured as 0 V to high precision
+(A) Hydrogen has no tendency to gain or lose electrons\
+(B) It is an arbitrary reference point, chosen so that half-cell potentials can be tabulated\
+\(C) Its potential has been measured as 0 V to high precision\
 (D) Hydrogen is the lightest element
 :::
 ::: tab Answer

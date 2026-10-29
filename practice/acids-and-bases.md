@@ -218,9 +218,9 @@ The two definitions describe the same event from different sides, and the asymme
 ::: tab Q 15
 {{sp[info] Objective 15.3a}} · *multiple-choice* Which species can act as a Lewis acid but **not** as a Brønsted acid?
 
-(A) $\ce{HCl}$
-(B) $\ce{H2O}$
-\(C) $\ce{Al^3+}$
+(A) $\ce{HCl}$\
+(B) $\ce{H2O}$\
+\(C) $\ce{Al^3+}$\
 (D) $\ce{NH4+}$
 :::
 ::: tab Answer

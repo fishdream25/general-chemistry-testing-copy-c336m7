@@ -12,9 +12,9 @@ title: Chapter 9 Practice: Chemical Bonding — The Covalent Bond
 ::: tab Q 1
 {{sp[info] Objective 9.1a}} · *multiple-choice* How many dots appear in the Lewis dot symbol for selenium (Group 6A)?
 
-A. 2
-B. 4
-C. 6
+A. 2\
+B. 4\
+C. 6\
 D. 16
 :::
 ::: tab Answer
@@ -252,9 +252,9 @@ The test: after step 4, ask whether the multiple bonds could have been placed di
 ::: tab Q 17
 {{sp[info] Objective 9.3a}} · *multiple-choice* Which molecule has an expanded octet?
 
-A. $\ce{NH3}$
-B. $\ce{PF5}$
-C. $\ce{H2O}$
+A. $\ce{NH3}$\
+B. $\ce{PF5}$\
+C. $\ce{H2O}$\
 D. $\ce{CH4}$
 :::
 ::: tab Answer

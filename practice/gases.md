@@ -12,9 +12,9 @@ title: Chapter 5 Practice: Gases
 ::: tab Q 1
 {{sp[info] Objective 5.1a}} · *multiple-choice* Which of the following is **not** a general characteristic of gases?
 
-A. They take the shape and volume of their container
-B. They are highly compressible
-C. They have densities comparable to liquids
+A. They take the shape and volume of their container\
+B. They are highly compressible\
+C. They have densities comparable to liquids\
 D. They mix evenly and completely with one another
 :::
 ::: tab Answer
@@ -231,9 +231,9 @@ The uncorrected value is 2.7% too high. In a titration or a yield calculation th
 ::: tab Q 18
 {{sp[info] Objective 5.4a}} · *multiple-choice* According to the kinetic molecular theory, the average kinetic energy of gas molecules depends on
 
-A. the molar mass of the gas
-B. the pressure of the gas
-C. the absolute temperature only
+A. the molar mass of the gas\
+B. the pressure of the gas\
+C. the absolute temperature only\
 D. the volume of the container
 :::
 ::: tab Answer
@@ -312,9 +312,9 @@ Sanity check: it is slower than helium, so it must be heavier, and 81.1 > 4.003.
 ::: tab Q 24
 {{sp[info] Objective 5.5a}} · *multiple-choice* Real gases deviate most from ideal behavior at
 
-A. high temperature and low pressure
-B. low temperature and high pressure
-C. high temperature and high pressure
+A. high temperature and low pressure\
+B. low temperature and high pressure\
+C. high temperature and high pressure\
 D. standard temperature and pressure
 :::
 ::: tab Answer

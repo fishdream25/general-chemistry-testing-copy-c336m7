@@ -76,9 +76,9 @@ This is Chadwick's 1932 experiment, which discovered the neutron.
 ::: tab Q 6
 {{sp[info] Objective 19.1b}} · *multiple-choice* Which nuclide is most likely to be stable?
 
-(A) $\ce{^{50}_{22}Ti}$
-(B) $\ce{^{210}_{84}Po}$
-\(C) $\ce{^{3}_{1}H}$
+(A) $\ce{^{50}_{22}Ti}$\
+(B) $\ce{^{210}_{84}Po}$\
+\(C) $\ce{^{3}_{1}H}$\
 (D) $\ce{^{40}_{19}K}$
 :::
 ::: tab Answer
@@ -162,9 +162,9 @@ An **$\alpha$ particle** is a helium-4 nucleus ($\ce{^4_2He}$): 2 protons and 2 
 ::: tab Q 11
 {{sp[info] Objective 19.2a}} · *multiple-choice* $\ce{^11_6C -> ^11_5B + ^0_{+1}\beta}$ is an example of:
 
-A. Alpha decay
-B. Beta decay
-C. Positron decay
+A. Alpha decay\
+B. Beta decay\
+C. Positron decay\
 D. Electron capture
 :::
 ::: tab Answer
@@ -408,9 +408,9 @@ Both processes move nuclei toward higher binding energy per nucleon, which peaks
 ::: tab Q 26
 {{sp[info] Objective 19.3c}} · *multiple-choice* Why do both nuclear fission and nuclear fusion release energy, despite being opposite processes?
 
-(A) Both convert matter into energy, and mass is never conserved in nuclear reactions
-(B) Both move nuclei toward higher binding energy per nucleon, near the iron-56 maximum
-\(C) Fission releases energy and fusion absorbs it; the question's premise is wrong
+(A) Both convert matter into energy, and mass is never conserved in nuclear reactions\
+(B) Both move nuclei toward higher binding energy per nucleon, near the iron-56 maximum\
+\(C) Fission releases energy and fusion absorbs it; the question's premise is wrong\
 (D) Both break chemical bonds, which is always exothermic
 :::
 ::: tab Answer

@@ -12,9 +12,9 @@ title: Chapter 8 Practice: The Periodic Table
 ::: tab Q 1
 {{sp[info] Objective 8.1a}} · *multiple-choice* An element with the configuration $[\ce{Ar}]4s^23d^7$ is best classified as
 
-A. a representative element
-B. a noble gas
-C. a transition metal
+A. a representative element\
+B. a noble gas\
+C. a transition metal\
 D. a lanthanide
 :::
 ::: tab Answer
@@ -93,9 +93,9 @@ That last point is worth noticing: within an isoelectronic series there is exact
 ::: tab Q 7
 {{sp[info] Objective 8.2a}} · *multiple-choice* Across a period from left to right, effective nuclear charge
 
-A. decreases, because atoms get smaller
-B. increases, because protons are added while shielding barely changes
-C. stays constant, because the shell does not change
+A. decreases, because atoms get smaller\
+B. increases, because protons are added while shielding barely changes\
+C. stays constant, because the shell does not change\
 D. increases, because a new shell is added
 :::
 ::: tab Answer
@@ -180,9 +180,9 @@ Note the ordering runs opposite to nuclear charge, and that anions come out larg
 ::: tab Q 13
 {{sp[info] Objective 8.3a}} · *multiple-choice* Which element has the highest first ionization energy?
 
-A. Na
-B. Mg
-C. Cl
+A. Na\
+B. Mg\
+C. Cl\
 D. Ar
 :::
 ::: tab Answer

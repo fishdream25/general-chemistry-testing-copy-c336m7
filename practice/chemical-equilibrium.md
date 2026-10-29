@@ -73,9 +73,9 @@ Both have $K > 1$, so both do favor products — but the two numbers describe ve
 ::: tab Q 6
 {{sp[info] Objective 14.1b}} · *multiple-choice* A reaction has $K = 3\times10^{25}$ at 25 °C, yet no product forms when the reactants are mixed and left on the bench for a week. Which statement is correct?
 
-(A) The reported value of $K$ must be wrong
-(B) The reaction is thermodynamically favorable but kinetically slow — it has a large activation energy
-\(C) $K$ must actually be small at 25 °C
+(A) The reported value of $K$ must be wrong\
+(B) The reaction is thermodynamically favorable but kinetically slow — it has a large activation energy\
+\(C) $K$ must actually be small at 25 °C\
 (D) The mixture has already reached equilibrium
 :::
 ::: tab Answer
@@ -103,10 +103,10 @@ $$\Delta n = (1+2) - 1 = 2$$
 ::: tab Q 8
 {{sp[info] Objective 14.2a}} · *multiple-choice* For $\ce{N2(g) + O2(g) <=> 2NO(g)}$, $K_p = 1.1\times10^{-3}$ at 2200 K and $3.6\times10^{-3}$ at 2500 K. Which statement is true?
 
-A. The reaction is endothermic.
-B. The partial pressure of NO(g) is less at 2500 K than at 2200 K.
-C. $K_p$ is less than $K_c$ by a factor of (RT).
-D. The total pressure at 2200 K is the same as at 2500 K.
+A. The reaction is endothermic.\
+B. The partial pressure of NO(g) is less at 2500 K than at 2200 K.\
+C. $K_p$ is less than $K_c$ by a factor of (RT).\
+D. The total pressure at 2200 K is the same as at 2500 K.\
 E. Higher total pressure shifts the equilibrium to the left.
 :::
 ::: tab Answer
@@ -398,10 +398,10 @@ $$[\ce{HBr}] = 0.400\ \text{M} \qquad [\ce{H2}] = [\ce{Br2}] = 2.7\times10^{-5}\
 ::: tab Q 25
 {{sp[info] Objective 14.5a}} · *multiple-choice* $\ce{Cu(s) + H2O(g) <=> H2(g) + CuO(s)}$, $\Delta H^\circ = 2.0$ kJ/mol. Equilibrium can be shifted to favor the products by:
 
-A. increasing the pressure by means of a moving piston at constant T.
-B. decreasing the pressure by means of a moving piston at constant T.
-C. decreasing the temperature at constant pressure.
-D. increasing the temperature at constant pressure.
+A. increasing the pressure by means of a moving piston at constant T.\
+B. decreasing the pressure by means of a moving piston at constant T.\
+C. decreasing the temperature at constant pressure.\
+D. increasing the temperature at constant pressure.\
 E. adding a catalyst.
 :::
 ::: tab Answer

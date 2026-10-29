@@ -119,9 +119,9 @@ Roughly **3 parts $\ce{HPO4^2-}$ to 2 parts $\ce{H2PO4-}$** — nicely balanced.
 ::: tab Q 8
 {{sp[info] Objective 16.2a}} · *multiple-choice* Assuming equal concentrations of acid and conjugate base, which mixture best buffers at pH 7.4–7.5?
 
-A. $\ce{CH3COONa/CH3COOH}$ ($K_a=1.8\times10^{-5}$)
-B. $\ce{NH3/NH4Cl}$ ($K_a=5.6\times10^{-10}$)
-C. $\ce{NaOCl/HOCl}$ ($K_a=3.2\times10^{-8}$)
+A. $\ce{CH3COONa/CH3COOH}$ ($K_a=1.8\times10^{-5}$)\
+B. $\ce{NH3/NH4Cl}$ ($K_a=5.6\times10^{-10}$)\
+C. $\ce{NaOCl/HOCl}$ ($K_a=3.2\times10^{-8}$)\
 D. $\ce{NaNO2/HNO2}$ ($K_a=4.5\times10^{-4}$)
 :::
 ::: tab Answer
@@ -133,9 +133,9 @@ D. $\ce{NaNO2/HNO2}$ ($K_a=4.5\times10^{-4}$)
 ::: tab Q 9
 {{sp[info] Objective 16.2a}} · *multiple-choice* 25.0 mL of 0.100 M $\ce{NH3}$ ($K_b = 1.8\times10^{-5}$) is titrated with 0.100 M HCl. What is true at the equivalence point?
 
-(A) pH = 7.00, because equal moles have reacted
-(B) pH > 7.00, because $\ce{NH3}$ is a base
-\(C) pH < 7.00, because the solution contains $\ce{NH4+}$
+(A) pH = 7.00, because equal moles have reacted\
+(B) pH > 7.00, because $\ce{NH3}$ is a base\
+\(C) pH < 7.00, because the solution contains $\ce{NH4+}$\
 (D) pH cannot be determined without more information
 :::
 ::: tab Answer
@@ -466,9 +466,9 @@ That is a million times better than $K_{sp}$ alone, but still far below 1 — so
 ::: tab Q 27
 {{sp[info] Objective 16.4a}} · *multiple-choice* Which statement about a complex-ion formation constant $K_f$ is correct?
 
-(A) A large $K_f$ means the complex dissociates readily
-(B) A large $K_f$ means the free metal-ion concentration is very small
-\(C) $K_f$ has units of M$^{-1}$
+(A) A large $K_f$ means the complex dissociates readily\
+(B) A large $K_f$ means the free metal-ion concentration is very small\
+\(C) $K_f$ has units of M$^{-1}$\
 (D) $K_f$ changes when more ligand is added
 :::
 ::: tab Answer

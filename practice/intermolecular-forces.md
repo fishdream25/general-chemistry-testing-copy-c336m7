@@ -12,9 +12,9 @@ title: Chapter 11 Practice: Intermolecular Forces, Liquids, and Solids
 ::: tab Q 1
 {{sp[info] Objective 11.1a}} · *multiple-choice* Which intermolecular forces are present in $\ce{CH3F}$ (fluoromethane)?
 
-(A) Dispersion only
-(B) Dipole-dipole and dispersion only
-\(C) Hydrogen bonding, dipole-dipole, and dispersion
+(A) Dispersion only\
+(B) Dipole-dipole and dispersion only\
+\(C) Hydrogen bonding, dipole-dipole, and dispersion\
 (D) Hydrogen bonding only
 :::
 ::: tab Answer
@@ -68,9 +68,9 @@ Boiling point depends on total intermolecular force strength, not on polarity al
 ::: tab Q 6
 {{sp[info] Objective 11.1b}} · *multiple-choice* Which list places the four attraction types in order of **decreasing** typical strength?
 
-(A) ion-dipole > hydrogen bonding > dipole-dipole > dispersion
-(B) hydrogen bonding > ion-dipole > dispersion > dipole-dipole
-\(C) dipole-dipole > hydrogen bonding > ion-dipole > dispersion
+(A) ion-dipole > hydrogen bonding > dipole-dipole > dispersion\
+(B) hydrogen bonding > ion-dipole > dispersion > dipole-dipole\
+\(C) dipole-dipole > hydrogen bonding > ion-dipole > dispersion\
 (D) dispersion > dipole-dipole > hydrogen bonding > ion-dipole
 :::
 ::: tab Answer
@@ -148,9 +148,9 @@ A large body of water therefore acts as a thermal buffer: it absorbs solar energ
 ::: tab Q 13
 {{sp[info] Objective 11.3a}} · *multiple-choice* Quartz ($\ce{SiO2}$) is best classified as which type of solid?
 
-(A) Molecular
-(B) Covalent network
-\(C) Ionic
+(A) Molecular\
+(B) Covalent network\
+\(C) Ionic\
 (D) Metallic
 :::
 ::: tab Answer
@@ -267,9 +267,9 @@ $$q_\text{total} = -101.5 + (-14.1) = -116\ \text{kJ}$$
 ::: tab Q 21
 {{sp[info] Objective 11.4a}} · *multiple-choice* A sealed flask holds liquid diethyl ether in equilibrium with its vapor at 20 °C. You pour out half the liquid, reseal the flask, and return it to 20 °C. What happens to the equilibrium vapor pressure?
 
-(A) It falls to half its original value
-(B) It falls, but by less than half
-\(C) It is unchanged
+(A) It falls to half its original value\
+(B) It falls, but by less than half\
+\(C) It is unchanged\
 (D) It rises, because there is more space for vapor
 :::
 ::: tab Answer

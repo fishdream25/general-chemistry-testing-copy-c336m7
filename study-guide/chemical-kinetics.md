@@ -40,7 +40,7 @@ graph TD
 
 :::success
 **Learning Objectives**
-- {{sp[info] Objective 13.1a}} Write the rate expression for a reaction in terms of the disappearance of reactants and appearance of products, using stoichiometric coefficients.
+- {{sp[info] Objective 13.1a}} Write the rate expression for a reaction in terms of the disappearance of reactants and appearance of products, using stoichiometric coefficients. Rate laws come from experiment, not from the balanced equation (review r4).
 - {{sp[info] Objective 13.1b}} Determine the rate law (reaction order in each reactant and overall) and the rate constant $k$ from initial-rate experimental data.
 :::
 

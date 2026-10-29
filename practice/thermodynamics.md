@@ -32,8 +32,8 @@ This follows the general trend gas ≫ liquid > solid.
 ::: tab Q 3
 {{sp[info] Objective 17.1a}} · *multiple-choice* Which of these correctly balanced combustion reactions would you expect to have $\Delta S^\circ$ closest to zero?
 
-A. $\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)}$
-B. $\ce{C3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(g)}$
+A. $\ce{CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g)}$\
+B. $\ce{C3H8(g) + 5O2(g) -> 3CO2(g) + 4H2O(g)}$\
 C. $\ce{2C2H2(g) + 5O2(g) -> 4CO2(g) + 2H2O(g)}$
 :::
 ::: tab Answer
@@ -96,9 +96,9 @@ $$= 2(192.8) - [191.6 + 3(130.7)] = 385.6 - [191.6 + 392.1] = 385.6 - 583.7 = -1
 ::: tab Q 8
 {{sp[info] Objective 17.2a}} · *multiple-choice* Which statement correctly expresses the second law of thermodynamics?
 
-(A) Energy cannot be created or destroyed
-(B) The entropy of any system always increases
-\(C) The total entropy of a system plus its surroundings increases in any spontaneous process
+(A) Energy cannot be created or destroyed\
+(B) The entropy of any system always increases\
+\(C) The total entropy of a system plus its surroundings increases in any spontaneous process\
 (D) The entropy of a perfect crystal at 0 K is zero
 :::
 ::: tab Answer
@@ -162,9 +162,9 @@ Diamond's carbon atoms are locked into a rigid, highly ordered crystal lattice w
 ::: tab Q 12
 {{sp[info] Objective 17.2b}} · *multiple-choice* Which substance would you expect to have a non-zero entropy at 0 K?
 
-(A) A perfect crystal of copper
-(B) A perfect crystal of sodium chloride
-\(C) A glass (amorphous silica)
+(A) A perfect crystal of copper\
+(B) A perfect crystal of sodium chloride\
+\(C) A glass (amorphous silica)\
 (D) Solid neon, perfectly crystallized
 :::
 ::: tab Answer
@@ -184,9 +184,9 @@ The third law states that a **perfect crystalline** substance has $S = 0$ at 0 K
 ::: tab Q 13
 {{sp[info] Objective 17.3a}} · *multiple-choice* For a reaction, $\Delta H^\circ=-20.2$ kJ/mol and $\Delta S^\circ=4.3$ J/K·mol. Which statement is true?
 
-A. The reaction is only spontaneous at low temperature.
-B. The reaction is spontaneous only at high temperature.
-C. The reaction is spontaneous at all temperatures.
+A. The reaction is only spontaneous at low temperature.\
+B. The reaction is spontaneous only at high temperature.\
+C. The reaction is spontaneous at all temperatures.\
 D. ΔG° becomes larger (more positive) as temperature increases.
 :::
 ::: tab Answer

@@ -30,9 +30,9 @@ title: Chapter 12 Practice: Physical Properties of Solutions
 ::: tab Q 3
 {{sp[info] Objective 12.1a}} · *multiple-choice* Which of these is NOT one of the six common solution types?
 
-(A) A gas dissolved in a solid
-(B) A solid dissolved in a solid
-\(C) A solid dissolved in a gas
+(A) A gas dissolved in a solid\
+(B) A solid dissolved in a solid\
+\(C) A solid dissolved in a gas\
 (D) A gas dissolved in a liquid
 :::
 ::: tab Answer
@@ -46,9 +46,9 @@ The other three are all real: **(A)** hydrogen absorbed in palladium, **(B)** br
 ::: tab Q 4
 {{sp[info] Objective 12.1b}} · *multiple-choice* Which solvent would dissolve naphthalene (a nonpolar solid) better?
 
-(A) Water (polar)
-(B) Hexane (nonpolar)
-\(C) Both equally well
+(A) Water (polar)\
+(B) Hexane (nonpolar)\
+\(C) Both equally well\
 (D) Neither
 :::
 ::: tab Answer
@@ -206,9 +206,9 @@ $$m = \frac{0.868\ \text{mol}}{0.0600\ \text{kg}} = 14.5\ \text{mol/kg}$$
 ::: tab Q 15
 {{sp[info] Objective 12.2b}} · *multiple-choice* A solution is warmed from 20 °C to 60 °C in a sealed container. Which of its concentration measures changes?
 
-(A) Molality only
-(B) Molarity only
-\(C) Both molarity and molality
+(A) Molality only\
+(B) Molarity only\
+\(C) Both molarity and molality\
 (D) Neither
 :::
 ::: tab Answer
@@ -372,9 +372,9 @@ $$\Delta T_f = iK_fm = 3\times 1.86\ \text{°C/m}\times 0.15\ \text{m} = 0.837\ 
 ::: tab Q 26
 {{sp[info] Objective 12.3d}} · *multiple-choice* Which of the following solutes, at equal molality in water, would produce the *largest* freezing-point depression?
 
-(A) Glucose, $\ce{C6H12O6}$ ($i=1$)
-(B) $\ce{NaCl}$ ($i\approx 2$)
-\(C) $\ce{K3PO4}$ ($i\approx 4$)
+(A) Glucose, $\ce{C6H12O6}$ ($i=1$)\
+(B) $\ce{NaCl}$ ($i\approx 2$)\
+\(C) $\ce{K3PO4}$ ($i\approx 4$)\
 (D) They would all be equal
 :::
 ::: tab Answer

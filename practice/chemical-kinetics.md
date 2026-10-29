@@ -83,9 +83,9 @@ Doubling $[\ce{A}]$ (first order) doubles the rate ($2^1=2$). Doubling $[\ce{B}]
 ::: tab Q 6
 {{sp[info] Objective 13.1b}} · *multiple-choice* A reaction's rate constant is reported as $4.1\times10^{-2}\ \text{M}^{-1}\text{s}^{-1}$. What is the overall reaction order?
 
-(A) Zero
-(B) First
-\(C) Second
+(A) Zero\
+(B) First\
+\(C) Second\
 (D) Cannot be determined without the rate law
 :::
 ::: tab Answer
@@ -163,9 +163,9 @@ Whenever the concentration ratio is a power of 2, counting half-lives beats the 
 ::: tab Q 11
 {{sp[info] Objective 13.2b}} · *multiple-choice* A chemist plots the same kinetic dataset three ways: $[\ce{A}]$ vs. $t$ is curved, $\ln[\ce{A}]$ vs. $t$ is a straight line, and $1/[\ce{A}]$ vs. $t$ is curved. What is the reaction order?
 
-(A) Zero order
-(B) First order
-\(C) Second order
+(A) Zero order\
+(B) First order\
+\(C) Second order\
 (D) Cannot be determined
 :::
 ::: tab Answer
@@ -201,9 +201,9 @@ Products sit 25 kJ/mol above reactants (endothermic, matching $\Delta H$). The t
 ::: tab Q 14
 {{sp[info] Objective 13.3a}} · *multiple-choice* Raising the temperature of a reaction speeds it up primarily because:
 
-(A) The activation energy decreases
-(B) A larger fraction of collisions have energy at or above $E_a$
-\(C) The reaction becomes more exothermic
+(A) The activation energy decreases\
+(B) A larger fraction of collisions have energy at or above $E_a$\
+\(C) The reaction becomes more exothermic\
 (D) The molecules become better oriented for reaction
 :::
 ::: tab Answer
@@ -393,9 +393,9 @@ $$E_{a,1} = 95 - 30 = 65\ \text{kJ/mol} \qquad E_{a,2} = 120 - 55 = 65\ \text{kJ
 ::: tab Q 25
 {{sp[info] Objective 13.5a}} · *multiple-choice* Enzymes speeding up biochemical reactions in the human body are an example of which type of catalysis?
 
-(A) Heterogeneous catalysis
-(B) Homogeneous catalysis
-\(C) Enzyme catalysis
+(A) Heterogeneous catalysis\
+(B) Homogeneous catalysis\
+\(C) Enzyme catalysis\
 (D) Autocatalysis
 :::
 ::: tab Answer

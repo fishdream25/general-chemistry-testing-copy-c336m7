@@ -16,7 +16,7 @@ no images, diagrams, or orz containers.
 
 ## Chapter Summary
 
-Chapter 13 asks how fast a reaction proceeds, opening a new axis of chemical reasoning distinct
+B5d (review r3) Chapter 13 asks how fast a reaction proceeds, opening a new axis of chemical reasoning distinct
 from the "how much" questions of Chapter 3 and the "what state" questions of Chapters 5 and 11. It
 defines reaction rate from a balanced equation, then introduces the experimentally-determined rate
 law (rate = k[A]ˣ[B]ʸ), stressing that the exponents x and y must come from data, not from the

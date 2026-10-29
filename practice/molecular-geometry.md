@@ -12,9 +12,9 @@ title: Chapter 10 Practice: Molecular Geometry and Hybridization
 ::: tab Q 1
 {{sp[info] Objective 10.1a}} · *multiple-choice* A central atom with four bonding domains and no lone pairs has which molecular geometry?
 
-A. square planar
-B. tetrahedral
-C. trigonal planar
+A. square planar\
+B. tetrahedral\
+C. trigonal planar\
 D. seesaw
 :::
 ::: tab Answer
@@ -108,9 +108,9 @@ The molecule is a tetrahedral carbon joined to a bent oxygen. Most molecules lar
 ::: tab Q 8
 {{sp[info] Objective 10.2a}} · *multiple-choice* Which diatomic molecule is nonpolar?
 
-A. $\ce{HF}$
-B. $\ce{CO}$
-C. $\ce{F2}$
+A. $\ce{HF}$\
+B. $\ce{CO}$\
+C. $\ce{F2}$\
 D. $\ce{HCl}$
 :::
 ::: tab Answer
@@ -211,9 +211,9 @@ $\ce{CH3Cl}$ is usually reported as marginally the largest, and the top two diff
 ::: tab Q 15
 {{sp[info] Objective 10.3a}} · *multiple-choice* The central atom in $\ce{NH3}$ is
 
-A. $sp$ hybridized
-B. $sp^2$ hybridized
-C. $sp^3$ hybridized
+A. $sp$ hybridized\
+B. $sp^2$ hybridized\
+C. $sp^3$ hybridized\
 D. not hybridized
 :::
 ::: tab Answer

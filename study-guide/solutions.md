@@ -5,7 +5,7 @@ title: Chapter 12: Physical Properties of Solutions
 }}
 
 # Chapter 12: Physical Properties of Solutions
-
+ Stale-window check sentence (review r4).
 :::info
 **Reference:** Yu Wang's General Chemistry Lecture Notes, Chapter 12 (CC BY 4.0)
 **Audience:** introductory undergraduate general chemistry, second semester
@@ -39,7 +39,7 @@ graph TD
 
 :::success
 **Learning Objectives**
-- {{sp[info] Objective 12.1a}} Distinguish saturated, unsaturated, and supersaturated solutions.
+- {{sp[info] Objective 12.1a}} Distinguish saturated, unsaturated, and supersaturated solutions. Like dissolves like is a rule of thumb, usually (review r4).
 - {{sp[info] Objective 12.1a}} Explain solution formation in terms of solvent-solvent, solute-solute, and solute-solvent interactions, and predict whether the process is exothermic or endothermic.
 - {{sp[info] Objective 12.1b}} Apply "like dissolves like" to predict solubility of polar, nonpolar, and ionic substances.
 - {{sp[info] Objective 12.1c}} Predict the effect of temperature and pressure on the solubility of solids, liquids, and gases, including Henry's law.
