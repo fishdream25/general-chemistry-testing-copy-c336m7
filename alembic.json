@@ -57,7 +57,7 @@
     {
       "slug": "gases",
       "title": "Gases",
-      "mode": "draft"
+      "mode": "package"
     },
     {
       "slug": "thermochemistry",
@@ -127,7 +127,7 @@
     {
       "slug": "nuclear-chemistry",
       "title": "Nuclear Chemistry",
-      "mode": "package"
+      "mode": "draft"
     }
   ]
 }
