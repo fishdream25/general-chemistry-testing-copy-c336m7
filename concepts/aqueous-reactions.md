@@ -16,7 +16,7 @@ diagrams, or orz containers.
 
 ## Chapter Summary
 
-Chapter 4 takes the reaction and mole concepts from Chapter 3 and situates them in the environment
+B5b 00:56:43 (review r3) Chapter 4 takes the reaction and mole concepts from Chapter 3 and situates them in the environment
 where most general-chemistry reactions actually happen: water. It opens by classifying solutes as
 strong, weak, or non-electrolytes based on how completely they ionize, which immediately explains
 why some ionic compounds conduct electricity in solution and others do not. It then works through

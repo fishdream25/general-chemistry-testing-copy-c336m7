@@ -16,7 +16,7 @@ Markdown only — no images, diagrams, or orz containers.
 
 ## Chapter Summary
 
-Chapter 3 introduces the single most important quantitative idea in general chemistry: the mole.
+B5 00:54:07 (review r3) Chapter 3 introduces the single most important quantitative idea in general chemistry: the mole.
 The chapter first builds the mass side of the mole concept — atomic mass, average atomic mass (a
 weighted average over isotopes), molecular/formula mass, and molar mass — and shows how percent
 composition and combustion-analysis data can be used to determine an empirical formula. This gives

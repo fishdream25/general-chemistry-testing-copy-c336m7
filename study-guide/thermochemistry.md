@@ -16,8 +16,8 @@ title: Chapter 6: Thermochemistry
 :::success
 **Chapter Learning Objectives**
 - Distinguish types of energy and types of system; distinguish exothermic from endothermic.
-- Apply the first law of thermodynamics, $\Delta U = q + w$, with correct signs.
-- Define enthalpy, apply thermochemical-equation rules, and convert between $\Delta H$ and $\Delta U$.
+- Apply the first law of thermodynamics, $\Delta U = q + w$, with correct signs. A3auto 00:49:48 (review r3)
+- Define enthalpy, apply thermochemical-equation rules, and convert  E1 00:52:06 (review r3)between $\Delta H$ and $\Delta U$.
 - Apply specific heat and heat capacity, and interpret constant-volume and constant-pressure calorimetry.
 - Apply Hess's Law and calculate reaction enthalpies from standard enthalpies of formation.
 :::
