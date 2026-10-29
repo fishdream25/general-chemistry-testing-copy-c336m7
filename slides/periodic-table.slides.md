@@ -47,7 +47,7 @@ graph TD
 
 <!-- slide -->
 ## Element categories
-![Element category map](https://alembic.orz.how/d/doc-9h9194t8gzke =620x)
+![Element category map](../assets/element_category_map.svg =620x)
 
 <!-- slide step -->
 ## Worked example — transition-metal cation
@@ -61,7 +61,7 @@ $\ce{Fe}$: $[Ar]4s^23d^6$
 
 <!-- slide -->
 ## Shielding, and what an outer electron actually feels
-![Zeff for Li, C and F](https://alembic.orz.how/d/doc-tbaggbjf41sl =800x)
+![Zeff for Li, C and F](../assets/effective_nuclear_charge.svg =800x)
 Same core doing the shielding all across a period, so $Z_\mathrm{eff}$ climbs from about +1 to +7
 
 <!-- slide -->
@@ -71,12 +71,12 @@ Same core doing the shielding all across a period, so $Z_\mathrm{eff}$ climbs fr
 
 <!-- slide -->
 ## Three trends, one cause
-![Periodic trend arrows](https://alembic.orz.how/d/doc-nwnr0veh4tir =820x)
+![Periodic trend arrows](../assets/periodic_trend_map.svg =820x)
 Across: radius **down**, IE **up**, EA **up** · Down: radius **up**, IE **down**, EA **down**
 
 <!-- slide -->
 ## Isoelectronic series
-![Isoelectronic radius series](https://alembic.orz.how/d/doc-ktildeh6eyps =560x)
+![Isoelectronic radius series](../assets/isoelectronic_radius_series.svg =560x)
 
 <!-- slide step -->
 ## Worked example — isoelectronic ranking
@@ -89,14 +89,14 @@ N³⁻, O²⁻, F⁻, Ne, Na⁺, Mg²⁺, Al³⁺ (all 10 e⁻)
 
 <!-- slide -->
 ## The jump reveals the group number
-![Successive ionization energies](https://alembic.orz.how/d/doc-2uuwwp68w09y =820x)
+![Successive ionization energies](../assets/successive_ionization_energies.svg =820x)
 Count the small steps before the big jump — that is the valence-electron count
 
 <!-- slide -->
 ## Ionization energy trend
 $$IE_1<IE_2<IE_3<\dots$$
 Increases left→right across a period, bottom→top in a group
-![Ionization energy trend](https://alembic.orz.how/d/doc-idc4jcr1camj =560x)
+![Ionization energy trend](../assets/ionization_energy_trend.svg =560x)
 
 <!-- slide -->
 ## Electron affinity
@@ -113,7 +113,7 @@ Similar trend to IE, but noble gases have near-zero/negative EA (no room in a fi
 
 <!-- slide -->
 ## Alkali metal reactivity
-![Sodium and water](https://alembic.orz.how/d/doc-eolj3y7oazyt =340x)
+![Sodium and water](../assets/sodium_water.png =340x)
 Low ionization energy → violent reaction with water
 
 <!-- slide -->
@@ -125,7 +125,7 @@ Low ionization energy → violent reaction with water
 
 <!-- slide -->
 ## Oxides across period 3
-![Oxide character from basic to acidic](https://alembic.orz.how/d/doc-5l585n62mmws =820x)
+![Oxide character from basic to acidic](../assets/oxide_character_period3.svg =820x)
 Metal oxide → basic · nonmetal oxide → acidic · $\mathrm{Al_2O_3}$ on the boundary → amphoteric
 
 <!-- slide -->

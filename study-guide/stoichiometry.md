@@ -100,14 +100,14 @@ Nothing you calculate changes. The two definitions agree to well beyond the four
 
 A mole is a counting word, exactly like "dozen" or "pair." A dozen eggs is 12 eggs; a mole of atoms is $6.022\times10^{23}$ atoms. What makes it strange is only its size — and Figure 3.1 is worth a moment, because that size is the whole reason the unit is useful.
 
-![Three comparisons giving a sense of the size of Avogadro's number](https://alembic.orz.how/d/doc-edguikk5nnep =760x)
+![Three comparisons giving a sense of the size of Avogadro's number](../assets/how_big_is_a_mole.svg =760x)
 *Figure 3.1 — Avogadro's number is inconceivably large, and that is the point. Atoms are so small that a count too big to picture corresponds to an amount you can hold in a spoon. The mole was chosen for exactly this reason: it is the scaling factor that turns particle-level ratios into laboratory-level masses.*
 
 **Molar mass** is the mass of one mole of a substance, in grams. Its definition is arranged so that no conversion factor is ever needed: ==an element's average atomic mass in amu is numerically equal to its molar mass in grams per mole.== Carbon is 12.01 amu per atom and 12.01 g per mole; copper is 63.55 amu per atom and 63.55 g per mole.
 
 ### Converting between mass, moles, and particles
 
-![Diagram of mole conversions between mass, moles, and particle count](https://alembic.orz.how/d/doc-7648aabyrdto =480x)
+![Diagram of mole conversions between mass, moles, and particle count](../assets/mole_conversion_triangle.svg =480x)
 *Figure 3.2 — Molar mass (g/mol) converts between mass and moles; Avogadro's number converts between moles and particle count. Moles sit in the middle: to get from a mass to a particle count, you must pass through moles.*
 
 Both conversions are dimensional analysis, the technique from Chapter 1 — write the conversion factor so the unit you have cancels.
@@ -183,7 +183,7 @@ A common error is to count only three oxygens, giving 116.10. Whenever a formula
 
 $$\%\ \text{element} = \frac{\text{mass of that element in one mole of compound}}{\text{molar mass of the compound}}\times100\%$$
 
-![Percent composition of water shown as a proportional mass bar](https://alembic.orz.how/d/doc-5rz5opwavav8 =760x)
+![Percent composition of water shown as a proportional mass bar](../assets/percent_composition_water.svg =760x)
 *Figure 3.3 — Percent composition asks about mass, not about how many atoms there are. Water is two-thirds hydrogen by atom count and only 11% hydrogen by mass, because an oxygen atom is about sixteen times heavier than a hydrogen atom.*
 
 :::: tabs
@@ -225,7 +225,7 @@ Chapter 2 defined the empirical formula as the simplest whole-number atom ratio.
 
 **Combustion analysis** is the standard method for compounds containing carbon and hydrogen. Burn a weighed sample completely in oxygen, and trap the products separately (Figure 3.4). All the carbon leaves as $\ce{CO2}$ and all the hydrogen leaves as $\ce{H2O}$, so each trap's mass gain reports on one element.
 
-![Schematic of a combustion analysis apparatus](https://alembic.orz.how/d/doc-436nl8s07a4y =620x)
+![Schematic of a combustion analysis apparatus](../assets/combustion_analysis.svg =620x)
 *Figure 3.4 — Each absorber's mass gain gives the moles of one element directly: all the carbon in the sample ends up as $\ce{CO2}$, and all the hydrogen ends up as $\ce{H2O}$.*
 
 {{sp[warning] Watch out}} Oxygen cannot be measured this way, because the combustion adds oxygen from the air. Any oxygen in the original compound must be found by difference, after the C and H masses are subtracted from the sample mass.
@@ -295,7 +295,7 @@ $$\ce{2Mg + O2 -> 2MgO}$$
 
 The equation reads as 2 atoms of Mg plus 1 molecule of $\ce{O2}$ give 2 formula units of MgO, or equivalently 2 moles of Mg plus 1 mole of $\ce{O2}$ give 2 moles of MgO. It does **not** say 2 g + 1 g → 2 g. In mass terms this reaction is 48.6 g Mg + 32.0 g $\ce{O2}$ → 80.6 g MgO. Mass is conserved (48.6 + 32.0 = 80.6), but not in the ratio the coefficients state. Figure 3.5 shows this reaction happening, and it is worth looking at with the mass numbers in mind.
 
-![Magnesium ribbon burning in air, producing white magnesium oxide](https://alembic.orz.how/d/doc-dpmtkfraphts =520x)
+![Magnesium ribbon burning in air, producing white magnesium oxide](../assets/magnesium_burning.jpg =520x)
 *Figure 3.5 — Magnesium burning in air ($\ce{2Mg + O2 -> 2MgO}$). The white ash left behind weighs more than the ribbon did, because the oxygen that combined with it came from the air — a result that looks like a violation of mass conservation until you account for the reactant you cannot see.*
 
 ### Balancing an equation
@@ -306,7 +306,7 @@ The equation reads as 2 atoms of Mg plus 1 molecule of $\ce{O2}$ give 2 formula 
 
 A balanced equation has the same number of each kind of atom on both sides, as Dalton's fourth postulate requires. Balancing means finding coefficients that make that true, and Figure 3.6 shows what "true" looks like as a tally.
 
-![Atom tallies for an unbalanced and a balanced combustion equation](https://alembic.orz.how/d/doc-9hmsvfotzq7g =760x)
+![Atom tallies for an unbalanced and a balanced combustion equation](../assets/balancing_atom_tally.svg =760x)
 *Figure 3.6 — Balancing is bookkeeping: tally each element on both sides and adjust the coefficients until every row matches. Only the coefficients in front may change.*
 
 **The procedure:**
@@ -359,7 +359,7 @@ This is the contrast with the methane problem: there the oxygen count came out e
 
 ==Once balanced, an equation's coefficients are a conversion factor between substances== — and that single idea is the central algorithm of the chapter.
 
-![The stoichiometry road map from mass of A to mass of B](https://alembic.orz.how/d/doc-tmm05q7ypg6q =840x)
+![The stoichiometry road map from mass of A to mass of B](../assets/stoichiometry_road_map.svg =840x)
 *Figure 3.7 — Every stoichiometry problem walks this road. Convert the given mass to moles using A's molar mass, cross to the other substance using the coefficient ratio, then convert back to mass using B's molar mass. The crossing can only happen in the middle, in moles — grams of one substance never convert directly into grams of another.*
 
 :::: tabs
@@ -394,7 +394,7 @@ The previous problems assumed exactly the right amount of everything. Real react
 
 The **limiting reagent** is the reactant consumed completely. It sets a ceiling on how much product can form; whatever is left of the others is the **excess reagent**. Figure 3.8 makes the distinction concrete before any arithmetic is involved.
 
-![Nuts-and-bolts analogy for limiting and excess reagent](https://alembic.orz.how/d/doc-qt3uhbu4gz13 =800x)
+![Nuts-and-bolts analogy for limiting and excess reagent](../assets/limiting_reagent_concept.svg =800x)
 *Figure 3.8 — The limiting reactant is not the one you have least of. It is the one that runs out first given the ratio the reaction demands — which is why the nuts limit the assembly here despite outnumbering the bolts.*
 
 Two methods find it, and they always agree:
@@ -431,10 +431,10 @@ Note that there is more $\ce{H2}$ than $\ce{N2}$ by moles, and $\ce{H2}$ is stil
 
 $$\%\ \text{Yield}=\frac{\text{actual yield}}{\text{theoretical yield}}\times100\%$$
 
-![Theoretical and actual yield shown as proportional bars](https://alembic.orz.how/d/doc-ytevbw26rwmt =740x)
+![Theoretical and actual yield shown as proportional bars](../assets/theoretical_vs_actual_yield.svg =740x)
 *Figure 3.9 — Percent yield measures how much of the possible product a real reaction delivered. Reactions fall short through side reactions, incomplete conversion, and losses during transfer and purification. A yield above 100% is not a triumph; it means the product is wet or impure.*
 
-![Bar chart identifying the limiting reagent](https://alembic.orz.how/d/doc-4emep5ukf7cu =520x)
+![Bar chart identifying the limiting reagent](../assets/limiting_reagent_bar.svg =520x)
 *Figure 3.10 — Method 2 applied to the urea synthesis below: dividing each reactant's moles by its coefficient gives 18.71 for $\ce{NH3}$ against 25.95 for $\ce{CO2}$. The smaller value identifies $\ce{NH3}$ as limiting.*
 
 :::: tabs

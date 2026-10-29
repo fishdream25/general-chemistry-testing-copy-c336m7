@@ -47,12 +47,12 @@ graph TD
 
 <!-- slide -->
 ## System, surroundings, and the boundary
-![Open, closed and isolated systems](https://alembic.orz.how/d/doc-3ph9i9qnzeat =820x)
+![Open, closed and isolated systems](../assets/system_and_surroundings.svg =820x)
 Which kind you have is a choice about where you draw the boundary, not a fact about the chemistry
 
 <!-- slide -->
 ## Signs come from the system's point of view
-![Sign conventions for q and w](https://alembic.orz.how/d/doc-5bm497vebodp =800x)
+![Sign conventions for q and w](../assets/sign_conventions_q_w.svg =800x)
 $q>0$ absorbed · $q<0$ released · $w>0$ done ON the system · $w<0$ done BY it
 
 <!-- slide -->
@@ -75,7 +75,7 @@ $$\Delta U=q+w \qquad w=-P\Delta V\ \text{(gas expansion)}$$
 
 <!-- slide -->
 ## Enthalpy and sign convention
-![Exo/endo diagram](https://alembic.orz.how/d/doc-fitj9o43fa66 =560x)
+![Exo/endo diagram](../assets/exo_endo_diagram.svg =560x)
 
 <!-- slide step -->
 ## Worked example — heat from mass
@@ -94,12 +94,12 @@ $\ce{2CO+O2->2CO2}$, ΔH=−566.0 kJ/mol{{attrs[.fragment]}}
 
 <!-- slide -->
 ## Water is the outlier
-![Specific heats compared](https://alembic.orz.how/d/doc-qg90cww7aghd =760x)
+![Specific heats compared](../assets/specific_heat_comparison.svg =760x)
 4.184 J g⁻¹ °C⁻¹ against gold's 0.129 — about 32 times more heat for the same rise
 
 <!-- slide -->
 ## Two calorimeters, two quantities
-![Constant pressure vs constant volume](https://alembic.orz.how/d/doc-v2q9cszxbt7s =800x)
+![Constant pressure vs constant volume](../assets/two_calorimeters.svg =800x)
 Rigid and sealed → $\Delta U$ · open to the air → $\Delta H$
 
 <!-- slide -->
@@ -109,11 +109,11 @@ $$q=ms\Delta T \qquad C=ms$$
 <!-- slide -->
 ## Bomb calorimetry (constant volume)
 $$q_{rxn}=-(q_{water}+q_{bomb})=\Delta U_{rxn}$$
-![Bomb calorimeter schematic](https://alembic.orz.how/d/doc-5fqmelg9qtj1 =360x)
+![Bomb calorimeter schematic](../assets/bomb_calorimeter.svg =360x)
 
 <!-- slide -->
 ## A real bomb calorimeter
-![Bomb calorimeter photo](https://alembic.orz.how/d/doc-93g3egxqf3le =420x)
+![Bomb calorimeter photo](../assets/bomb_calorimeter_photo.jpg =420x)
 
 <!-- slide step -->
 ## Worked example — glucose combustion
@@ -136,12 +136,12 @@ Coffee-cup calorimeter: HCl + NaOH neutralization example gives **2.89×10³ J**
 
 <!-- slide -->
 ## Formation enthalpies are heights from a chosen zero
-![Formation enthalpy reference level](https://alembic.orz.how/d/doc-mkqidxkhle5q =800x)
+![Formation enthalpy reference level](../assets/formation_enthalpy_reference.svg =800x)
 A reaction enthalpy is a **difference** of heights, so the choice of zero always cancels
 
 <!-- slide -->
 ## Hess's Law
-![Hess's law cycle](https://alembic.orz.how/d/doc-udce3hxr6lsw =560x)
+![Hess's law cycle](../assets/hess_law_cycle.svg =560x)
 
 <!-- slide step -->
 ## Worked example — FeCl₃ formation

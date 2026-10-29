@@ -55,7 +55,7 @@ graph TD
 <!-- slide main-side -->
 ## A visible example
 <!-- @main -->
-![Crystallized sugar](https://alembic.orz.how/d/doc-xuo8by4ayzag =420x)
+![Crystallized sugar](../assets/sugar_crystals.jpg =420x)
 <!-- @side -->
 - Rock candy: sugar crystallizing back out of a cooling, supersaturated solution
 - A literal, edible demonstration
@@ -70,7 +70,7 @@ graph TD
 <!-- slide main-side -->
 ## The energy accounting
 <!-- @main -->
-![Waterfall diagrams of solution energetics, exothermic and endothermic](https://alembic.orz.how/d/doc-n7o1b089apst =700x)
+![Waterfall diagrams of solution energetics, exothermic and endothermic](../assets/solution_energetics.svg =700x)
 <!-- @side -->
 Two steps **cost** energy, one **pays it back**.
 
@@ -86,7 +86,7 @@ An endothermic dissolving still happens if the gain in disorder outweighs the co
 - Polar ↔ polar solvent
 - Ionic → best in polar solvent
 <!-- @right -->
-![Like dissolves like structures](https://alembic.orz.how/d/doc-513oqhgpbsim =480x)
+![Like dissolves like structures](../assets/like_dissolves_like.svg =480x)
 
 <!-- slide -->
 ## Temperature & pressure effects on solubility
@@ -100,7 +100,7 @@ Henry's law assumes no chemical reaction with solvent — fails for CO₂, NH₃
 
 <!-- slide -->
 ## The evidence
-![Solubility versus temperature for solids and gases, and versus pressure for a gas](https://alembic.orz.how/d/doc-2f3z1qqb1yq1 =980x)
+![Solubility versus temperature for solids and gases, and versus pressure for a gas](../assets/solubility_temperature_pressure.svg =980x)
 Three solids, three directions — but every gas goes down with temperature and up with pressure.
 
 <!-- slide step -->
@@ -150,7 +150,7 @@ $$P_1 = X_1 P_1^0$$
 - $P_1^0$ = pure solvent vapor pressure
 - Always $P_1 < P_1^0$ when solute present
 <!-- @right -->
-![Raoult's law chart](https://alembic.orz.how/d/doc-bdgrpm2ajc4o =480x)
+![Raoult's law chart](../assets/raoults_law.svg =480x)
 
 <!-- slide 2col -->
 ## Boiling-point elevation / freezing-point depression
@@ -159,12 +159,12 @@ $$\Delta T_b = K_bm \qquad \Delta T_f = K_fm$$
 - Uses the **solvent's own** $K_b$/$K_f$
 - Always given, never memorized
 <!-- @right -->
-![Freezing point depression chart](https://alembic.orz.how/d/doc-b0dqsf58tb7m =480x)
+![Freezing point depression chart](../assets/freezing_point_depression.svg =480x)
 
 <!-- slide main-side -->
 ## Real-world freezing-point depression
 <!-- @main -->
-![Rock salt for de-icing](https://alembic.orz.how/d/doc-jesvoz2jdifm =380x)
+![Rock salt for de-icing](../assets/rock_salt_deicing.jpg =380x)
 <!-- @side -->
 Road salt lowers the freezing point of the ice/water mixture below 0 °C, so ice melts and stays melted.
 
@@ -178,7 +178,7 @@ $$\pi = MRT$$
 <!-- slide main-side -->
 ## What osmosis looks like
 <!-- @main -->
-![Osmosis across a semipermeable membrane, at the start and at equilibrium](https://alembic.orz.how/d/doc-0x7zgdcpq35u =720x)
+![Osmosis across a semipermeable membrane, at the start and at equilibrium](../assets/osmosis_semipermeable.svg =720x)
 <!-- @side -->
 Nothing *pulls* the solvent across — solvent crosses both ways, but more of it starts on the dilute side.
 

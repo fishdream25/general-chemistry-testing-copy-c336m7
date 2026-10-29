@@ -49,7 +49,7 @@ graph TD
 <!-- slide main-side -->
 ## One electron, two half-reactions
 <!-- @main -->
-![One electron moving from sodium to fluorine, labeled as oxidation and reduction at once](https://alembic.orz.how/d/doc-syqgvb8t40m3 =700x)
+![One electron moving from sodium to fluorine, labeled as oxidation and reduction at once](../assets/redox_electron_transfer.svg =700x)
 <!-- @side -->
 The electron Na **loses** is exactly the electron F **gains**. One event, described twice.
 
@@ -94,7 +94,7 @@ H₂O₂ + Sn²⁺ → H₂O + Sn⁴⁺
 
 <!-- slide -->
 ## The Zn/Cu galvanic cell
-![Galvanic cell](https://alembic.orz.how/d/doc-hj5gpzxq4fgn =620x)
+![Galvanic cell](../assets/galvanic_cell_diagram.svg =620x)
 
 <!-- slide -->
 ## Cell diagram notation
@@ -113,7 +113,7 @@ Mg(s) + 2Fe³⁺(aq) → Mg²⁺(aq) + 2Fe²⁺(aq), Pt cathode
 
 <!-- slide -->
 ## E°: referenced to the SHE (0 V)
-![Reduction potential series](https://alembic.orz.how/d/doc-w2c2xujnrl4q =620x)
+![Reduction potential series](../assets/reduction_potential_series.svg =620x)
 
 <!-- slide -->
 ## Which electrode is which?
@@ -160,7 +160,7 @@ Al(s)|Al³⁺(0.15M)||Cu²⁺(0.025M)|Cu(s)
 
 <!-- slide -->
 ## Concentration cells: E° = 0
-![Nernst concentration cell](https://alembic.orz.how/d/doc-jovihaql71z0 =600x)
+![Nernst concentration cell](../assets/nernst_concentration_cell.svg =600x)
 
 <!-- slide step -->
 ## Worked example — Zn concentration cell
@@ -174,7 +174,7 @@ Al(s)|Al³⁺(0.15M)||Cu²⁺(0.025M)|Cu(s)
 
 <!-- slide -->
 ## Corrosion: electrochemistry in the wild
-![Rust](https://alembic.orz.how/d/doc-2qdcctnvqmz1 =480x)
+![Rust](../assets/rust_corrosion.jpg =480x)
 Iron oxidizes spontaneously; O₂ is the oxidizing agent — fastest right at the humid air/metal interface.
 
 <!-- slide -->
@@ -186,7 +186,7 @@ Negative E°cell does NOT mean "never happens" — external energy (electrolysis
 <!-- slide main-side -->
 ## Galvanic vs electrolytic
 <!-- @main -->
-![Side-by-side galvanic and electrolytic cells with opposite energy conversion](https://alembic.orz.how/d/doc-5y9d0zq84b4v =740x)
+![Side-by-side galvanic and electrolytic cells with opposite energy conversion](../assets/galvanic_vs_electrolytic.svg =740x)
 <!-- @side -->
 Galvanic: $E^\circ_{cell} > 0$, chemical → electrical, **no supply needed**.
 
@@ -196,7 +196,7 @@ Electrolytic: $E^\circ_{cell} < 0$, electrical → chemical, **supply required**
 
 <!-- slide -->
 ## Batteries: engineered galvanic cells
-![Batteries](https://alembic.orz.how/d/doc-0s92ua84rcao =480x)
+![Batteries](../assets/batteries.jpg =480x)
 Dry cell, mercury, lead storage, lithium-ion, fuel cell — all fundamentally galvanic cells.
 
 <!-- slide template=closing -->

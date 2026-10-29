@@ -78,10 +78,10 @@ Read that table for the *relationships*, not the digits. Two of them do most of 
 - A proton and a neutron have almost exactly the same mass, and an electron is about **1800 times lighter** than either (Figure 2.1). So more than 99.94% of an atom's mass sits in the nucleus.
 - A proton's charge and an electron's charge are the same size with opposite signs. That exact cancellation is why a neutral atom is possible at all, and why gaining one electron gives a charge of exactly $-1$.
 
-![Bar chart comparing the masses of the electron, proton, and neutron on a log scale](https://alembic.orz.how/d/doc-dyppu36xbnr6 =480x)
+![Bar chart comparing the masses of the electron, proton, and neutron on a log scale](../assets/subatomic_particle_masses.svg =480x)
 *Figure 2.1 — A proton or neutron is roughly 1800 times more massive than an electron. Note the logarithmic scale: on a linear scale the electron's bar would be invisible. This ratio is why virtually all of an atom's mass is concentrated in its nucleus.*
 
-![Schematic atom showing the nucleus and electron shells](https://alembic.orz.how/d/doc-6fy5f5l8wgbv =420x)
+![Schematic atom showing the nucleus and electron shells](../assets/atom_structure.svg =420x)
 *Figure 2.2 — A schematic atom: a dense central nucleus of protons and neutrons, surrounded by electrons. This diagram is deliberately not to scale. If the nucleus were the size of a marble, the nearest electrons would be about a kilometer away, and everything in between would be empty space.*
 
 :::warning
@@ -92,7 +92,7 @@ Read that table for the *relationships*, not the digits. Two of them do most of 
 
 Some elements spontaneously emit particles or energy from their nuclei. This is **radioactivity**, and an element that does it is **radioactive**. You need the vocabulary right now for a practical reason: the experiment that revealed the nucleus was performed by firing radioactive emissions at metal foil.
 
-![Comparison of alpha, beta, and gamma radiation showing composition, charge, mass, and penetrating power](https://alembic.orz.how/d/doc-e1824q16slq8 =760x)
+![Comparison of alpha, beta, and gamma radiation showing composition, charge, mass, and penetrating power](../assets/radiation_types.svg =760x)
 *Figure 2.3 — The three kinds of radioactive emission. An **alpha ($\alpha$) particle** is a helium-4 nucleus — two protons and two neutrons — so it is heavy and carries a $+2$ charge; being bulky, it is stopped by a sheet of paper. A **beta ($\beta$) particle** is a fast-moving electron (or a positron, its positively charged counterpart), far lighter and more penetrating. **Gamma ($\gamma$) radiation** is not a particle of matter at all but a very high-energy photon — no mass, no charge — and it takes thick lead or concrete to absorb. The colored squares rank penetrating power, not energy or danger.*
 
 **X-rays** are the same physical kind of thing as gamma rays: high-energy electromagnetic radiation. The difference is where they come from and how much energy they carry. X-rays originate from the electrons outside the nucleus and typically span wavelengths from about 0.01 to 10 nanometers; gamma rays come from the nucleus itself and sit at the highest energies observed.
@@ -109,7 +109,7 @@ You are being asked to accept a fairly specific claim — a tiny dense positive 
 
 **Ernest Rutherford and the gold-foil experiment.** Rutherford's team fired alpha particles (Figure 2.3) from a radioactive source at very thin gold foil. Most passed straight through, some were deflected slightly — and a very few bounced almost straight back.
 
-![Geiger-Marsden experiment: the Thomson plum-pudding prediction compared with the actual Rutherford result](https://alembic.orz.how/d/doc-h1k7wouaepuk =620x)
+![Geiger-Marsden experiment: the Thomson plum-pudding prediction compared with the actual Rutherford result](../assets/geiger_marsden_expectation_result.svg =620x)
 *Figure 2.4 — What made the gold-foil experiment decisive was the gap between prediction and result. **Left (Thomson model):** if an atom's positive charge were spread diffusely throughout its volume, every alpha particle should sail through with at most a tiny deflection — the expected outcome. **Right (Rutherford model):** in reality, most particles did pass straight through, but a few were deflected sharply and a rare few bounced almost straight back. Only a tiny, dense, concentrated positive nucleus could produce a repulsion strong enough to reverse an alpha particle — so the diffuse "plum pudding" picture had to be abandoned. The lower panels show the same contrast in the actual apparatus: alpha particles from a source strike a thin gold foil, and detectors record where they end up.*
 
 Figure 2.4 sets the prediction beside the result, which is where the argument lives. Rutherford's reasoning ran in two steps. Most particles pass through undeflected, so most of the atom must be empty space. But a few reverse direction, so somewhere in that space there must be something both highly charged (to repel a $+2$ alpha particle that hard) and very massive (or it would be knocked aside instead of doing the knocking). A small dense positive **nucleus** satisfies both at once.
@@ -132,7 +132,7 @@ $$A = \text{number of protons} + \text{number of neutrons}$$
 
 $Z$ is the more fundamental of the two. ==The proton count is what makes an atom that element: change $Z$ and you have a different element entirely, while changing the neutron count leaves you with the same element in a slightly heavier or lighter version.==
 
-![Isotope notation with the mass number and atomic number labeled, and the three isotopes of carbon](https://alembic.orz.how/d/doc-75ino17y5bdh =740x)
+![Isotope notation with the mass number and atomic number labeled, and the three isotopes of carbon](../assets/isotope_notation.svg =740x)
 *Figure 2.5 — The standard notation writes the mass number $A$ as a superscript and the atomic number $Z$ as a subscript, both to the left of the element symbol. Since $A$ counts protons plus neutrons and $Z$ counts protons alone, the difference $A-Z$ gives the neutrons. The three carbon isotopes on the right all have 6 protons — that is what makes them carbon — and differ only in neutron count.*
 
 Atoms with the same atomic number but different mass numbers are **isotopes**. This is the correction to Dalton's second postulate promised earlier: carbon-12 and carbon-14 are chemically the same element, but they are not identical atoms.
@@ -189,7 +189,7 @@ It is still chlorine, because $Z$ is still 17. An ion is a charged version of an
 
 The **periodic table** arranges the elements by atomic number so that elements with similar chemical behavior line up. Horizontal rows are **periods**; vertical columns are **groups** (also called families).
 
-![Periodic table showing periods, groups, metal/metalloid/nonmetal categories, and four named families](https://alembic.orz.how/d/doc-rgp5d1marjmw =900x)
+![Periodic table showing periods, groups, metal/metalloid/nonmetal categories, and four named families](../assets/periodic_table_overview.svg =900x)
 *Figure 2.6 — The periodic table. Reading across a row (a period) walks you through elements in order of increasing atomic number. Reading down a column (a group) collects elements that behave alike chemically — this is the single most useful fact about the table. Background color marks the three broad categories: **metals** (good conductors of heat and electricity, the large blue region on the left), **nonmetals** (poor conductors, upper right), and **metalloids** (properties in between, along the staircase boundary). Four groups have names you will use constantly: Group 1A **alkali metals**, Group 2A **alkaline earth metals**, Group 7A **halogens**, and Group 8A **noble gases**. Hydrogen sits above Group 1A but is a nonmetal and is not an alkali metal. The grey elements at the bottom of the table have been made only a few atoms at a time, so their chemical properties are predicted rather than measured.*
 
 Why does the columns-behave-alike pattern exist? Chapter 7 gives the real answer (elements in a group have the same outer-electron arrangement). For now, take it as an observed regularity and use it — because it is about to save you a great deal of memorization in §2.2.
@@ -272,12 +272,12 @@ Ions containing a single atom are **monatomic**. Ions containing several atoms b
 
 When a cation and an anion come together, the result is an **ionic compound**. Sodium chloride, $\ce{NaCl}$ — ordinary table salt — is $\ce{Na+}$ and $\ce{Cl^-}$ in a repeating three-dimensional lattice, and Figure 2.7 shows what that arrangement looks like at a scale you can see.
 
-![Macro photo of sodium chloride (table salt) crystals](https://alembic.orz.how/d/doc-0gzt5y71lgay =480x)
+![Macro photo of sodium chloride (table salt) crystals](../assets/nacl_salt.jpg =480x)
 *Figure 2.7 — Sodium chloride, an ionic compound of $\ce{Na+}$ cations and $\ce{Cl^-}$ anions. The cubic shape of the crystals is not decorative — it is the repeating alternating arrangement of the two ions showing itself at a scale you can see. Note also what the photo does **not** show: there are no individual "$\ce{NaCl}$ molecules" here. The formula gives the 1:1 ratio in the lattice, not a discrete particle.*
 
 Now the payoff from §2.1. With very few exceptions, metals form cations and nonmetals form anions — and for main-group elements, ==the group number tells you what charge the ion will carry, so an entire category of memorization collapses into reading a column number.==
 
-![Predictable monatomic ion charges for the main-group elements, arranged by group](https://alembic.orz.how/d/doc-bpsbb2ulelh6 =820x)
+![Predictable monatomic ion charges for the main-group elements, arranged by group](../assets/ion_charges_by_group.svg =820x)
 *Figure 2.8 — Charges of common monatomic ions by group. Metals on the left lose electrons and become positive; the number lost equals the group number, so Group 1A gives $+1$ and Group 2A gives $+2$. Nonmetals on the right gain electrons and become negative; the number gained is $8$ minus the group number, so Group 7A gives $-1$ and Group 6A gives $-2$. Group 4A sits in the middle and rarely forms simple monatomic ions at all. Noble gases form none: they already have the stable full outer shell that every other atom is gaining or losing electrons to reach. The transition metals are the important exception — many form more than one charge, which is precisely why their names need a Roman numeral.*
 
 :::: tabs
@@ -338,7 +338,7 @@ Ionic compounds are not made of molecules, so their formulas follow a different 
 
 The second rule is the whole method. If you know the two ion charges, the formula is forced.
 
-![Building an ionic formula by balancing charge, with a case needing reduction and a case that does not](https://alembic.orz.how/d/doc-pa7t3yjb1qt2 =820x)
+![Building an ionic formula by balancing charge, with a case needing reduction and a case that does not](../assets/ionic_formula_charge_balance.svg =820x)
 *Figure 2.9 — The charge-crossing shortcut, and the step people forget. Write each ion with its charge, then move each charge number down to be the *other* ion's subscript. **Left:** $\ce{Ca^2+}$ and $\ce{Cl^-}$ give $\ce{CaCl2}$; a subscript of 1 is never written. **Right:** $\ce{Pb^4+}$ and $\ce{O^2-}$ cross to $\ce{Pb2O4}$, but 2 and 4 share a factor of 2, so the formula must be reduced to $\ce{PbO2}$. Always finish by checking that the charges cancel.*
 
 :::: tabs
@@ -392,7 +392,7 @@ Chemical nomenclature looks like pure memorization at first. It is not: it is th
 
 ### First, decide which system
 
-![Decision tree for choosing between the acid, ionic, and molecular naming systems](https://alembic.orz.how/d/doc-67a925ta4uk4 =860x)
+![Decision tree for choosing between the acid, ionic, and molecular naming systems](../assets/naming_decision_tree.svg =860x)
 *Figure 2.10 — Answer the questions in order and the formula sorts itself into one of three naming systems, each with its own rules. The two boxes at the bottom are modifiers that can apply on top of whichever branch you landed in.*
 
 ==Classify first, name second — Roman numerals and Greek prefixes are never mixed on the same compound,== and if you find yourself writing "iron(III) trichloride" you have merged two systems that do not belong together.

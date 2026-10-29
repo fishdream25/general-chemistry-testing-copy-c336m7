@@ -86,7 +86,7 @@ The reliable test is not "does it feel hot?" but *which side gained the energy?*
 
 Before you can say energy went *out*, you have to say out of what. The **system** is the part of the universe you have chosen to study; the **surroundings** are everything else — and Figure 6.1 shows the three kinds of boundary between them.
 
-![System and surroundings, with the open, closed and isolated system types](https://alembic.orz.how/d/doc-3ph9i9qnzeat =820x)
+![System and surroundings, with the open, closed and isolated system types](../assets/system_and_surroundings.svg =820x)
 *Figure 6.1 — Three kinds of system, differing only in what the boundary lets through. An **open system** exchanges both mass and energy with its surroundings — a beaker open to the air. A **closed system** exchanges energy but not mass — a sealed flask that can still be heated. An **isolated system** exchanges neither; a perfect thermos is the idealization. Which kind you have is a choice about where you draw the boundary, not a fact about the chemistry.*
 
 An **exothermic process** releases heat to the surroundings — the system loses thermal energy, and the surroundings warm up. An **endothermic process** absorbs heat from the surroundings, which cool down.
@@ -103,7 +103,7 @@ $$\Delta U = q + w$$
 
 where $\Delta U$ is the change in the system's internal energy, $q$ is heat exchanged, and $w$ is work done. Both $q$ and $w$ are signed, and getting the signs right is most of the difficulty in this section. Figure 6.2 is the rule in one picture.
 
-![Sign conventions for heat and work](https://alembic.orz.how/d/doc-5bm497vebodp =800x)
+![Sign conventions for heat and work](../assets/sign_conventions_q_w.svg =800x)
 *Figure 6.2 — Every sign is read from the system's point of view: positive means the system gained, negative means the system lost. Heat absorbed is $q>0$ (endothermic); heat released is $q<0$ (exothermic). Work done **on** the system is $w>0$; work done **by** the system is $w<0$.*
 
 For the specific case of a gas expanding or being compressed against a constant external pressure:
@@ -175,7 +175,7 @@ The sign convention carries over unchanged:
 
 Figure 6.3 draws both cases as energy diagrams.
 
-![Energy diagrams contrasting exothermic and endothermic processes](https://alembic.orz.how/d/doc-fitj9o43fa66 =560x)
+![Energy diagrams contrasting exothermic and endothermic processes](../assets/exo_endo_diagram.svg =560x)
 *Figure 6.3 — In an exothermic process, products end up at lower energy than reactants (releasing the difference as heat, $\Delta H<0$); in an endothermic process, products end up higher (absorbing heat, $\Delta H>0$).*
 
 ### Thermochemical equations
@@ -283,7 +283,7 @@ $$q = ms\Delta T \qquad\text{where}\qquad \Delta T = T_\text{final} - T_\text{in
 
 Writing $\Delta T$ as final minus initial makes the sign take care of itself: a sample that warms up has $\Delta T > 0$ and absorbed heat, so $q > 0$. Figure 6.4 compares specific heats across common materials, and one value stands well apart from the rest.
 
-![Specific heat capacities of common substances compared](https://alembic.orz.how/d/doc-qg90cww7aghd =760x)
+![Specific heat capacities of common substances compared](../assets/specific_heat_comparison.svg =760x)
 *Figure 6.4 — Water's specific heat is extraordinarily high — about 32 times gold's. That single fact explains why water is the working fluid in every calorimeter (it absorbs a lot of heat for a small, measurable temperature rise), why coastal climates are milder than inland ones, and why the metal spoon in hot soup burns your fingers long before the soup does.*
 
 | Substance | Specific heat, J g⁻¹ °C⁻¹ |
@@ -334,7 +334,7 @@ Sanity check: the rebar must have started *hotter* than the water's final temper
 
 A **calorimeter** measures a reaction's heat by trapping it and watching the temperature rise of something whose heat capacity is known. ==Which quantity you end up with depends on what the apparatus holds constant.==
 
-![Constant-pressure and constant-volume calorimeters compared](https://alembic.orz.how/d/doc-v2q9cszxbt7s =800x)
+![Constant-pressure and constant-volume calorimeters compared](../assets/two_calorimeters.svg =800x)
 *Figure 6.5 — At constant volume the system cannot expand, so it can do no work ($w = -P\Delta V = 0$) and every joule appears as heat: $q_\text{rxn} = \Delta U_\text{rxn}$. At constant pressure the system may expand and push the atmosphere back, and the heat measured is $\Delta H_\text{rxn}$ instead.*
 
 Figure 6.5 puts the two side by side. **Constant-volume (bomb) calorimetry** seals the sample in a rigid steel bomb:
@@ -345,10 +345,10 @@ $$q_\text{rxn} = -(q_\text{water} + q_\text{cal}) = \Delta H_\text{rxn}$$
 
 In both, the minus sign says the same thing as in the rebar problem: heat that leaves the reaction is heat that arrives in the surroundings. Figure 6.6 shows the bomb in cutaway and Figure 6.7 the real instrument.
 
-![Schematic cutaway diagram of a bomb calorimeter](https://alembic.orz.how/d/doc-5fqmelg9qtj1 =420x)
+![Schematic cutaway diagram of a bomb calorimeter](../assets/bomb_calorimeter.svg =420x)
 *Figure 6.6 — A sealed steel bomb holds the sample and O₂ at constant volume; heat released raises the temperature of the surrounding water bath, which (along with the bomb's own known heat capacity) is used to calculate $q_{rxn}$.*
 
-![A real bomb calorimeter with its steel sample bomb](https://alembic.orz.how/d/doc-93g3egxqf3le =420x)
+![A real bomb calorimeter with its steel sample bomb](../assets/bomb_calorimeter_photo.jpg =420x)
 *Figure 6.7 — A modern bomb calorimeter: the steel bomb (center) is loaded with sample, sealed, and lowered into the instrument's water jacket for a precisely measured temperature rise.*
 
 :::: tabs
@@ -414,7 +414,7 @@ $$\Delta H_\text{f}^\circ = 0 \quad\text{for any element in its most stable form
 
 $\ce{O2(g)}$, $\ce{N2(g)}$, $\ce{Fe(s)}$, and $\ce{C(graphite)}$ are all exactly zero by definition, as Figure 6.8 shows. This is a convention, not a measurement — but because every reaction enthalpy is a *difference*, the choice of zero cancels out and never affects an answer.
 
-![Standard formation enthalpies as heights above and below the elements' zero level](https://alembic.orz.how/d/doc-mkqidxkhle5q =800x)
+![Standard formation enthalpies as heights above and below the elements' zero level](../assets/formation_enthalpy_reference.svg =800x)
 *Figure 6.8 — Formation enthalpies are heights measured from a chosen sea level. Most compounds sit below it: energy was released when they formed from their elements, so they are more stable than the elements they came from. A few, like $\ce{NO}$, sit above. Because a reaction enthalpy is a difference of heights, the level itself cancels.*
 
 | Substance | $\Delta H_\text{f}^\circ$, kJ/mol | Substance | $\Delta H_\text{f}^\circ$, kJ/mol |
@@ -432,7 +432,7 @@ Compare $\ce{H2O(l)}$ with $\ce{H2O(g)}$: the same compound, differing by 44.0 k
 
 ==Because enthalpy is a state function, the enthalpy change between two states does not depend on the route taken — so if a reaction can be written as the sum of other reactions, its $\Delta H$ is the sum of theirs.== That is **Hess's Law**, and it is what makes §6.4 possible at all.
 
-![Hess's Law cycle diagram for the two-step formation of FeCl3](https://alembic.orz.how/d/doc-udce3hxr6lsw =560x)
+![Hess's Law cycle diagram for the two-step formation of FeCl3](../assets/hess_law_cycle.svg =560x)
 *Figure 6.9 — Hess's Law: the direct formation enthalpy of $\ce{FeCl3}$ (dashed, not directly measurable here) equals the sum of a measurable two-step path — because enthalpy is a state function, the path taken doesn't matter, only the starting and ending states.*
 
 Figure 6.9 draws the cycle for the example below. When combining equations, the two rules from §6.2 do the work: reversing an equation flips the sign of its $\Delta H$, and scaling an equation scales its $\Delta H$.

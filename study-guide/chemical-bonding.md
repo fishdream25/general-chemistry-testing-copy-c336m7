@@ -56,7 +56,7 @@ Atoms bond in order to reach a more stable electron arrangement — usually one 
 
 A **Lewis dot symbol** is the element's symbol with one dot for each valence electron, as Figure 9.1 shows for period 2.
 
-![Lewis dot symbols for the period 2 elements](https://alembic.orz.how/d/doc-lbu7fwuv3if6 =800x)
+![Lewis dot symbols for the period 2 elements](../assets/lewis_dot_symbols.svg =800x)
 *Figure 9.1 — For a representative element the valence count is the group number, so the dot symbol can be written from the periodic table alone. Dots go one to a side before any side receives a second — the same singly-first rule that governed orbital filling in Chapter 7. The unpaired dots are the ones available for bonding, which is why carbon forms four bonds, nitrogen three, oxygen two, and fluorine one.*
 
 :::: tabs
@@ -116,7 +116,7 @@ When neither atom can take the electron outright, they share. A **covalent bond*
 
 Valence electrons not involved in bonding are **lone pairs**. A **Lewis structure** shows bonds as lines and lone pairs as dots.
 
-![Schematic contrasting ionic and covalent bonding](https://alembic.orz.how/d/doc-x5he9r8g1sb3 =620x)
+![Schematic contrasting ionic and covalent bonding](../assets/ionic_vs_covalent_bond.svg =620x)
 *Figure 9.2 — Two routes to a stable configuration. **Ionic (left):** the electron is handed over completely — Na becomes $\ce{Na+}$, Cl becomes $\ce{Cl-}$, and the bond is the electrostatic attraction between those opposite charges. **Covalent (right):** in $\ce{H2}$ each hydrogen contributes exactly one electron, so the bond consists of **two shared electrons** (shown in different colors to mark which atom each came from) sitting between the two nuclei, attracted to both at once. One shared pair = one single bond.*
 
 Figure 9.2 sets the two bonding routes side by side. The **octet rule**: an atom other than hydrogen tends to bond until eight valence electrons surround it. Hydrogen stops at two, since its valence shell is the $1s$.
@@ -135,7 +135,7 @@ More shared pairs pull the nuclei closer and hold them more firmly: **shorter me
 
 Covalent bonding is not confined to small molecules. In a **network solid** every atom is covalently bonded to its neighbors throughout the entire crystal, so the whole sample is effectively one molecule.
 
-![Diamond and graphite samples with their crystal structures](https://alembic.orz.how/d/doc-yblkt9cwhnjl =560x)
+![Diamond and graphite samples with their crystal structures](../assets/diamond_graphite.jpg =560x)
 *Figure 9.3 — Diamond and graphite are both pure carbon, differing only in bonding arrangement: diamond's carbons each form 4 strong covalent bonds in a rigid 3D network (extremely hard), while graphite's carbons bond covalently within flat sheets that stack with only weak attractions between layers (soft, slippery) — the same element, radically different properties from bonding pattern alone.*
 
 Chapter 2 called these two forms **allotropes**. Figure 9.3 explains what the word conceals: the difference is entirely in how the covalent bonds are arranged, and that alone separates the hardest natural substance from one soft enough to write with.
@@ -152,7 +152,7 @@ In many bonds the sharing is not equal. In a **polar covalent bond** the electro
 
 The trend follows Chapter 8's logic exactly, and Figure 9.4 plots it: electronegativity **increases across a period** as metallic character falls, and **decreases down a group** as it rises.
 
-![Line chart of electronegativity across Periods 2 and 3](https://alembic.orz.how/d/doc-cev1ex7bntx1 =560x)
+![Line chart of electronegativity across Periods 2 and 3](../assets/electronegativity_trend.svg =560x)
 *Figure 9.4 — Electronegativity climbs steadily across each period as $Z_\text{eff}$ increases, from the alkali metals (lowest) to fluorine and chlorine (highest in their respective periods).*
 
 | Element | EN | Element | EN | Element | EN |
@@ -165,7 +165,7 @@ The trend follows Chapter 8's logic exactly, and Figure 9.4 plots it: electroneg
 
 The difference between two atoms' electronegativities, $\Delta\text{EN}$, predicts the bond type — and Figure 9.5 shows where the boundaries fall:
 
-![Bond type as a continuum in electronegativity difference](https://alembic.orz.how/d/doc-wd1w8i1igvuv =800x)
+![Bond type as a continuum in electronegativity difference](../assets/bond_type_continuum.svg =800x)
 *Figure 9.5 — $\Delta\text{EN} < 0.3$ is nonpolar covalent, $0.3$ to $2.0$ is polar covalent, and $\ge 2.0$ is ionic. The boundaries are conventions rather than physics: nothing changes abruptly as $\Delta\text{EN}$ crosses 2.0, and an ionic bond is best understood as the limiting case of an extremely polar covalent bond.*
 
 :::warning
@@ -229,7 +229,7 @@ Four steps turn a formula into a structure:
 
 Figure 9.6 works all four steps through for a single molecule.
 
-![The four-step Lewis structure procedure applied to CO2](https://alembic.orz.how/d/doc-alvywz37gug7 =840x)
+![The four-step Lewis structure procedure applied to CO2](../assets/lewis_structure_steps.svg =840x)
 *Figure 9.6 — Step 3 is where the electron count is checked and step 4 is where a shortfall is repaired. Converting a lone pair into a bond never changes the electron total — only how those electrons are shared — so the count is 16 before and 16 after.*
 
 {{sp[warning] Reminder}} Step 2 is the step that determines whether the whole structure is right. Count the valence electrons before drawing anything, and count them again at the end.
@@ -330,7 +330,7 @@ Both have the same *spread* of formal charges, so the first rule does not separa
 
 Sometimes no single Lewis structure is adequate. **Resonance structures** are two or more Lewis structures for one molecule, and **resonance** is the practice of using them together. Figure 9.7 shows ozone's pair, alongside three molecules that need only one structure each.
 
-![Lewis structures for NH3, CH4, and N2, and ozone's resonance structures](https://alembic.orz.how/d/doc-zkkhf1r016g9 =680x)
+![Lewis structures for NH3, CH4, and N2, and ozone's resonance structures](../assets/lewis_and_resonance.svg =680x)
 *Figure 9.7 — **Top row:** $\ce{NH3}$ (3 bonds + 1 lone pair on N), $\ce{CH4}$ (4 bonds, no lone pairs), and $\ce{N2}$ (a triple bond drawn as three parallel lines, plus one lone pair on each N). Each uses all of its valence electrons exactly: 8, 8, and 10 respectively. **Bottom:** ozone's two resonance structures, drawn completely — with every lone pair and the formal charge on each atom (red). Note that the charges are not decoration: the central O carries $+1$ and the singly-bonded terminal O carries $-1$, summing to zero for the neutral molecule. The two structures differ only in which side gets the double bond, and the real molecule is the average of both — its two O–O bonds are identical and intermediate in length, not one short and one long.*
 
 :::warning
@@ -385,7 +385,7 @@ This is the same conclusion as ozone's, on a molecule where the evidence is even
 
 The octet rule is reliable for second-period elements and increasingly optional beyond them. Figure 9.8 sets out the three categories of exception:
 
-![The three categories of octet-rule exception](https://alembic.orz.how/d/doc-3frvzvng4xbi =840x)
+![The three categories of octet-rule exception](../assets/octet_exceptions.svg =840x)
 *Figure 9.8 — An incomplete octet has fewer than eight electrons around the central atom; an odd-electron molecule has a total that makes eight impossible; an expanded octet has more than eight. Only third-period and heavier elements can expand, because only they have $d$ orbitals available.*
 
 **Incomplete octet.** Beryllium and boron form stable compounds with fewer than eight electrons around the central atom. In $\ce{BF3}$, boron has only six. Such molecules are electron-hungry, and $\ce{BF3}$ reacts readily with ammonia, which has a lone pair to spare:
@@ -446,7 +446,7 @@ $$\Delta H = \sum D_\text{bonds broken} - \sum D_\text{bonds formed}$$
 
 Figure 9.9 shows why that subtraction is the right accounting.
 
-![Energy diagram showing why reaction enthalpy is bonds broken minus bonds formed](https://alembic.orz.how/d/doc-hrddlgtytk11 =800x)
+![Energy diagram showing why reaction enthalpy is bonds broken minus bonds formed](../assets/bond_enthalpy_cycle.svg =800x)
 *Figure 9.9 — Imagine taking the long way round: break every reactant bond into free atoms, then let those atoms assemble the products. Breaking costs, forming pays, and the net is the difference. Because enthalpy is a state function (Chapter 6), this imaginary route gives the same answer as the real one — which is what makes the method valid.*
 
 | Bond | $D$ (kJ/mol) | Bond | $D$ (kJ/mol) |

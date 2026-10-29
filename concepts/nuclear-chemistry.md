@@ -12,7 +12,7 @@ title: Chapter 19 Concept Map: Nuclear Chemistry
 Chapter 19 (CC BY 4.0). **Audience:** introductory undergraduate general chemistry. **Note:** covers
 The Nature of Nuclear Reactions (balancing nuclear equations, nuclear stability, binding energy),
 Radioactive Decay (including radiocarbon dating), and Nuclear Fission and Nuclear Fusion. Simple
-Markdown only — no images, diagrams, or orz containers.
+Markdown only — no images, diagrams, or orz containers. (B5 check: small concept-map edit.)
 
 ## Chapter Summary
 

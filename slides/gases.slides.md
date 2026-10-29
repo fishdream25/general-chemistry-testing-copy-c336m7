@@ -55,7 +55,7 @@ graph TD
 
 <!-- slide -->
 ## What pressure is, and how it is measured
-![Force over area, and a mercury barometer](https://alembic.orz.how/d/doc-aefg2idae3c9 =820x)
+![Force over area, and a mercury barometer](../assets/pressure_and_barometer.svg =820x)
 The height of the mercury column **is** the pressure — which is why mmHg became a unit
 
 <!-- slide -->
@@ -73,13 +73,13 @@ $$1\,\text{atm}=101325\,\text{Pa}=760\,\text{mmHg}=760\,\text{torr}$$
 
 <!-- slide -->
 ## Three laws combine
-![Gas laws panels](https://alembic.orz.how/d/doc-s9kzti1cvywn =680x)
+![Gas laws panels](../assets/gas_laws_panels.svg =680x)
 
 <!-- slide -->
 ## The ideal gas equation
 $$PV=nRT \qquad R=0.0821\ \text{L·atm/(K·mol)}$$
 STP (0 °C, 1 atm): 1 mol occupies 22.41 L
-![Hot air balloon](https://alembic.orz.how/d/doc-qgthi65tjfzh =380x)
+![Hot air balloon](../assets/hot_air_balloon.jpg =380x)
 
 <!-- slide step -->
 ## Worked example — pressure from PV=nRT
@@ -95,7 +95,7 @@ $d=7.71$ g/L, 36.0 °C, 2.88 atm
 
 <!-- slide -->
 ## Gas stoichiometry: one extra step
-![Mass of A to moles to volume of gas B](https://alembic.orz.how/d/doc-ou58906og40a =840x)
+![Mass of A to moles to volume of gas B](../assets/gas_stoichiometry_road_map.svg =840x)
 Chapter 3's road map, with $V = nRT/P$ replacing the final molar-mass step
 
 <!-- slide template=section -->
@@ -107,7 +107,7 @@ $$P=P_1+P_2+\dots \qquad P_i=X_iP,\ X_i=\frac{n_i}{n}$$
 
 <!-- slide -->
 ## Collected over water is never dry
-![Collecting a gas over water](https://alembic.orz.how/d/doc-jz0dtpzqfaw3 =800x)
+![Collecting a gas over water](../assets/gas_collected_over_water.svg =800x)
 $P_{\mathrm{gas}} = P_{\mathrm{total}} - P_{\mathrm{water}}$ — forgetting this always overstates the yield
 
 <!-- slide step -->
@@ -128,7 +128,7 @@ $P_{\mathrm{gas}} = P_{\mathrm{total}} - P_{\mathrm{water}}$ — forgetting this
 
 <!-- slide -->
 ## The molecular picture
-![Molecular pictures behind Boyle and Charles](https://alembic.orz.how/d/doc-k4gulsw1pxzi =820x)
+![Molecular pictures behind Boyle and Charles](../assets/kmt_explains_gas_laws.svg =820x)
 Pressure is molecules hitting walls — change the rate or force of the hits and the pressure changes
 
 <!-- slide -->
@@ -140,7 +140,7 @@ Pressure is molecules hitting walls — change the rate or force of the hits and
 <!-- slide -->
 ## Graham's Law: effusion and diffusion
 $$\frac{r_1}{r_2}=\sqrt{\frac{\mathcal{M}_2}{\mathcal{M}_1}}$$
-![Graham's law effusion](https://alembic.orz.how/d/doc-eeukamu2zcuu =460x)
+![Graham's law effusion](../assets/grahams_law_effusion.svg =460x)
 
 <!-- slide template=section -->
 # 5. Deviations from Ideal Behavior
@@ -149,11 +149,11 @@ $$\frac{r_1}{r_2}=\sqrt{\frac{\mathcal{M}_2}{\mathcal{M}_1}}$$
 ## Why real gases deviate
 - Real molecules have finite volume (matters at high P)
 - Real molecules attract each other (matters at low T)
-![Real gas deviation](https://alembic.orz.how/d/doc-cn0wxtbf7s2n =480x)
+![Real gas deviation](../assets/real_gas_deviation.svg =480x)
 
 <!-- slide -->
 ## Molecules do not all move at one speed
-![Maxwell-Boltzmann distributions](https://alembic.orz.how/d/doc-vo8z601a53dl =840x)
+![Maxwell-Boltzmann distributions](../assets/molecular_speed_distribution.svg =840x)
 Same $T$: heavier is slower · Higher $T$: the whole distribution shifts right and flattens
 
 <!-- slide -->

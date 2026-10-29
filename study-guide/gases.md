@@ -19,7 +19,7 @@ title: Chapter 5: Gases
 - Apply the ideal gas equation, and use it to find gas density or molar mass.
 - Apply Dalton's law of partial pressures, including the water-vapor correction.
 - State the kinetic molecular theory, use it to explain the gas laws, and apply Graham's law.
-- Explain when and why real gases deviate from ideal behavior. Saved-to-course check (review A3).
+- Explain when and why real gases deviate from ideal behavior. Saved-  Leave-quickly check (review A3e).Autosave wait check (review A3d).to-course check (review A3).
 :::
 
 ## Chapter Logic
@@ -68,7 +68,7 @@ $$P = \frac{F}{A}$$
 
 Force comes from Newton's second law, $F = ma$, and is measured in **newtons** ($\text{N} = \text{kg}\cdot\text{m/s}^2$). Pressure is therefore measured in newtons per square meter, which is the **pascal**: $1\ \text{Pa} = 1\ \text{N/m}^2$.
 
-![Pressure as force per area, and a mercury barometer](https://alembic.orz.how/d/doc-aefg2idae3c9 =820x)
+![Pressure as force per area, and a mercury barometer](../assets/pressure_and_barometer.svg =820x)
 *Figure 5.1 — On the left, why area matters: the same force concentrated on a smaller area produces a higher pressure, which is the entire working principle of a thumbtack. On the right, how atmospheric pressure is measured. A tube of mercury is inverted into an open dish; the atmosphere presses on the exposed surface and holds the column up. The column's height is a direct measure of the pressure, which is why "millimeters of mercury" became a unit of pressure.*
 
 Figure 5.1 shows both halves of the idea. ==A gas exerts pressure because its molecules are constantly striking the container walls.== Each impact is tiny; there are enough of them that the total is steady and measurable.
@@ -131,7 +131,7 @@ Three experimental relationships, each found by holding two quantities fixed and
 | **Charles's law** | $V \propto T$ | $n$, $P$ | heat it and it expands |
 | **Avogadro's law** | $V \propto n$ | $P$, $T$ | add gas and it takes more room |
 
-![Three-panel chart of Boyle's, Charles's, and Avogadro's gas laws](https://alembic.orz.how/d/doc-s9kzti1cvywn =680x)
+![Three-panel chart of Boyle's, Charles's, and Avogadro's gas laws](../assets/gas_laws_panels.svg =680x)
 *Figure 5.2 — Each individual gas law is a special case of $PV=nRT$ with two variables held constant; together they combine into the single ideal gas equation.*
 
 Figure 5.2 plots each of the three. Combining them gives $V \propto nT/P$, and inserting a proportionality constant $R$ turns the proportionality into an equation:
@@ -225,7 +225,7 @@ $$d = \frac{P\mathcal{M}}{RT} \qquad\text{or}\qquad \mathcal{M} = \frac{dRT}{P}$
 
 This is genuinely useful: it means an unknown gas can be identified by weighing a known volume of it — and, as Figure 5.3 shows, it also explains how a balloon flies.
 
-![View from inside an inflating hot air balloon](https://alembic.orz.how/d/doc-qgthi65tjfzh =480x)
+![View from inside an inflating hot air balloon](../assets/hot_air_balloon.jpg =480x)
 *Figure 5.3 — $d = P\mathcal{M}/RT$ explains a hot air balloon. Heating the air inside lowers its density while the air outside stays cool and dense, and the difference lifts the balloon. Charles's law describes the expansion; the density relation explains why the expansion is useful.*
 
 :::: tabs
@@ -259,7 +259,7 @@ A shortcut worth noticing: at STP you could also divide the molar mass by 22.41 
 
 Chapter 3's road map ended at a mass because a balance is what you had. For a gas, a volume is what you can measure — and the ideal gas equation converts moles into exactly that, as Figure 5.4 sets out.
 
-![Gas stoichiometry road map, from mass of a reactant to volume of a gaseous product](https://alembic.orz.how/d/doc-ou58906og40a =840x)
+![Gas stoichiometry road map, from mass of a reactant to volume of a gaseous product](../assets/gas_stoichiometry_road_map.svg =840x)
 *Figure 5.4 — Nothing about the first two steps changes. The given mass still becomes moles by molar mass, and moles of one substance still cross to moles of another through the coefficients of the balanced equation. All the ideal gas equation adds is a final step that expresses the answer as a volume.*
 
 :::: tabs
@@ -350,7 +350,7 @@ The *composition* of air does not change with altitude — it is still 20.9% oxy
 
 A gas produced in a reaction is often collected by bubbling it into an inverted tube filled with water (Figure 5.5). It is a convenient method with one complication: water evaporates into the collected gas.
 
-![Collecting a gas over water, and the water-vapor correction](https://alembic.orz.how/d/doc-jz0dtpzqfaw3 =800x)
+![Collecting a gas over water, and the water-vapor correction](../assets/gas_collected_over_water.svg =800x)
 *Figure 5.5 — The tube never contains only the gas you made. Water evaporates into it until the water vapor reaches its equilibrium pressure at that temperature, so the total pressure — which is what a gauge or the barometer reports — is the sum of two partial pressures. Dalton's law makes the correction straightforward: subtract the tabulated water vapor pressure.*
 
 {{sp[warning] Reminder}} The vapor pressure of water depends only on the temperature, and is looked up in a table — it does not depend on how much gas you collected or how large the tube is.
@@ -411,7 +411,7 @@ Assumption 4 carries a consequence worth stating on its own: **any two gases at 
 
 ### Why each gas law holds
 
-![Molecular pictures explaining the gas laws](https://alembic.orz.how/d/doc-k4gulsw1pxzi =820x)
+![Molecular pictures explaining the gas laws](../assets/kmt_explains_gas_laws.svg =820x)
 *Figure 5.6 — Pressure is molecules striking the walls, so any change to the rate or force of those impacts changes the pressure. Compressing the gas packs the same molecules into less space, so they hit the walls more often (Boyle). Heating them makes each impact faster and harder, so the gas expands until the pressure balances again (Charles).*
 
 Figure 5.6 draws the two that are hardest to see in words.
@@ -449,7 +449,7 @@ $$u_{rms}=\sqrt{\frac{3RT}{\mathcal{M}}}$$
 
 with $R = 8.314$ J/(K·mol) and $\mathcal{M}$ the molar mass **in kg/mol**.
 
-![Maxwell-Boltzmann speed distributions by molar mass and by temperature](https://alembic.orz.how/d/doc-vo8z601a53dl =840x)
+![Maxwell-Boltzmann speed distributions by molar mass and by temperature](../assets/molecular_speed_distribution.svg =840x)
 *Figure 5.7 — The spread of molecular speeds. **Left:** three gases at the same temperature. All three have the same average kinetic energy, so the heaviest moves slowest — $\ce{CO2}$ peaks far below helium. **Right:** one gas at three temperatures. Heating shifts the whole distribution to higher speeds and spreads it out. Dashed lines mark $u_{rms}$ in each case.*
 
 Figure 5.7 shows what those distributions look like. The square root is worth dwelling on, because it makes mass matter much less than students expect. ==A molecule 100 times heavier moves not 100 times slower, but $\sqrt{100} = 10$ times slower.==
@@ -478,7 +478,7 @@ $$\frac{r_1}{r_2}=\frac{t_2}{t_1}=\sqrt{\frac{\mathcal{M}_2}{\mathcal{M}_1}}$$
 
 where $r$ is a rate and $t$ is the time taken. Note the inversion: the *lighter* gas has the *larger* rate, so its molar mass appears in the *denominator* on the right. Figure 5.8 puts numbers to it.
 
-![Bar chart of relative effusion rates for 5 gases](https://alembic.orz.how/d/doc-eeukamu2zcuu =520x)
+![Bar chart of relative effusion rates for 5 gases](../assets/grahams_law_effusion.svg =520x)
 *Figure 5.8 — Lighter molecules move faster at the same temperature, so they effuse faster: $\ce{H2}$ effuses roughly 4.7× faster than $\ce{CO2}$, matching $\sqrt{44.01/2.02}\approx4.67$.*
 
 :::: tabs
@@ -541,7 +541,7 @@ Both effects exist always. What matters is when they become large enough to noti
 
 ==Deviations are largest at high pressure and low temperature — precisely the conditions under which a gas is on the verge of condensing into a liquid.== A model that ignores intermolecular forces is bound to fail exactly where those forces are about to win.
 
-![Schematic compressibility-factor chart](https://alembic.orz.how/d/doc-cn0wxtbf7s2n =520x)
+![Schematic compressibility-factor chart](../assets/real_gas_deviation.svg =520x)
 *Figure 5.9 — The compressibility factor $Z=PV/nRT$ equals exactly 1 for an ideal gas at every pressure. Real gases with weak attractions (H₂, He) drift above 1 almost immediately; most real gases first dip below 1 (attraction dominates) before rising above 1 at very high pressure (molecular volume dominates).*
 
 The compressibility factor $Z = PV/nRT$ is a convenient way to measure the failure, because it is exactly 1 for an ideal gas at all conditions. Reading a real gas's curve tells you which effect is winning: $Z < 1$ means attractions dominate (the gas is more compressible than ideal), and $Z > 1$ means molecular volume dominates (less compressible than ideal).

@@ -49,12 +49,12 @@ graph TD
 
 <!-- slide -->
 ## Why some solutions conduct
-![Strong, weak and nonelectrolyte compared](https://alembic.orz.how/d/doc-od59d9n53t0c =820x)
+![Strong, weak and nonelectrolyte compared](../assets/electrolyte_conductivity.svg =820x)
 A solution conducts only if it contains **free ions** — neutral molecules cannot carry current
 
 <!-- slide -->
 ## Dissolving, at the particle level
-![Ionic lattice dissolving into hydrated ions](https://alembic.orz.how/d/doc-s9x9j9qj2f0h =800x)
+![Ionic lattice dissolving into hydrated ions](../assets/hydration_of_ions.svg =800x)
 **Hydration:** polar water turns its negative end toward cations, its positive end toward anions
 
 <!-- slide -->
@@ -76,7 +76,7 @@ A solution conducts only if it contains **free ions** — neutral molecules cann
 
 <!-- slide -->
 ## Precipitation reaction
-![Precipitation reaction](https://alembic.orz.how/d/doc-po7khc0bq9sm =620x)
+![Precipitation reaction](../assets/precipitation_reaction.svg =620x)
 Only $\ce{Ag+}$ and $\ce{Cl-}$ react — $\ce{Na+}$ and $\ce{NO3-}$ are spectators
 
 <!-- slide step -->
@@ -114,13 +114,13 @@ $\ce{HCN + NaOH -> NaCN + H2O}$
 
 <!-- slide -->
 ## Oxidation and reduction
-![Electron transfer Na to F](https://alembic.orz.how/d/doc-yizfw6lrpz84 =430x)
+![Electron transfer Na to F](../assets/electron_transfer_naf.svg =430x)
 One electron moves; both atoms end with a neon octet (2, 8)
 Oxidation = electron loss · Reduction = electron gain — always paired
 
 <!-- slide -->
 ## Oxidation number as a scale
-![Oxidation number line with a worked assignment](https://alembic.orz.how/d/doc-7au6eddlqcq3 =800x)
+![Oxidation number line with a worked assignment](../assets/oxidation_number_line.svg =800x)
 Number goes **up** = oxidation · number goes **down** = reduction
 
 <!-- slide -->
@@ -139,12 +139,12 @@ Number goes **up** = oxidation · number goes **down** = reduction
 
 <!-- slide -->
 ## The activity series
-![Activity series](https://alembic.orz.how/d/doc-paer7277t7vh =340x)
+![Activity series](../assets/activity_series_ladder.svg =340x)
 A metal displaces any less-active metal below it
 
 <!-- slide step -->
 ## Metal displacement in action
-![Displaced copper](https://alembic.orz.how/d/doc-v5wdgyhqoj08 =340x)
+![Displaced copper](../assets/displaced_copper.jpg =340x)
 Iron (more active) displaces copper from $\ce{CuCl2}$ solution:{{attrs[.fragment]}}
 **$\ce{Fe(s) + CuCl2(aq) -> FeCl2(aq) + Cu(s)}$**{{attrs[.fragment]}}
 
@@ -153,7 +153,7 @@ Iron (more active) displaces copper from $\ce{CuCl2}$ solution:{{attrs[.fragment
 
 <!-- slide -->
 ## Dilution: the moles stay put
-![Same solute, larger volume](https://alembic.orz.how/d/doc-4lx533p53kxn =780x)
+![Same solute, larger volume](../assets/dilution_same_moles.svg =780x)
 $M_iV_i = M_fV_f$ — because adding water adds no solute
 
 <!-- slide -->
@@ -179,7 +179,7 @@ $$M=\frac{\text{mol solute}}{\text{L solution}} \qquad M_iV_i=M_fV_f$$
 
 <!-- slide -->
 ## Titration
-![Titration apparatus and the equivalence point](https://alembic.orz.how/d/doc-hdq1ic53wa36 =800x)
+![Titration apparatus and the equivalence point](../assets/titration_setup.svg =800x)
 The **equivalence point** is a fact about the chemistry; the **endpoint** is what the indicator shows you
 
 <!-- slide template=closing -->

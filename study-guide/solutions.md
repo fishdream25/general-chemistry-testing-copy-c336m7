@@ -64,7 +64,7 @@ A solution is **saturated** when it holds the maximum amount of solute a given s
 
 Figure 12.1 shows what a supersaturated solution does once it is given the chance: rock candy is the excess sugar, crystallized back out.
 
-![Crystallized sugar grown from a saturated solution, showing large single crystals alongside a mass of smaller ones](https://alembic.orz.how/d/doc-xuo8by4ayzag =700x)
+![Crystallized sugar grown from a saturated solution, showing large single crystals alongside a mass of smaller ones](../assets/sugar_crystals.jpg =700x)
 *Figure 12.1 — Rock candy is sugar crystallizing back out of a solution that has become supersaturated as it cools — a visible, edible demonstration of the saturation concepts above. Source: Zaereth, via Wikimedia Commons, CC BY-SA 4.0.*
 
 :::: tabs
@@ -88,7 +88,7 @@ Compare each amount **dissolved** against the 31.6 g limit.
 
 Forming a solution requires three steps happening at once: breaking the **solvent-solvent** interactions that were holding pure solvent together, breaking the **solute-solute** interactions that were holding pure solute together, and forming new **solvent-solute** interactions between the two. **Whether dissolving releases or absorbs net heat depends entirely on how the new solvent-solute attraction compares to the two attractions it replaced**: if solvent-solute attraction is *stronger*, the process is **exothermic** ($\Delta H_\text{soln} < 0$); if *weaker*, it is **endothermic** ($\Delta H_\text{soln} > 0$) — and can still happen anyway, because dissolving increases the disorder (entropy) of the system, a preview of Chapter 17. When the solute-solvent attraction is essentially identical in strength to the two attractions it replaces, the result is called an **ideal solution** — no net energy change on mixing.
 
-![Two waterfall diagrams of solution energetics: breaking solvent-solvent and solute-solute interactions costs energy, forming solute-solvent interactions releases it, with an exothermic case and an endothermic case](https://alembic.orz.how/d/doc-n7o1b089apst)
+![Two waterfall diagrams of solution energetics: breaking solvent-solvent and solute-solute interactions costs energy, forming solute-solvent interactions releases it, with an exothermic case and an endothermic case](../assets/solution_energetics.svg)
 *Figure 12.2 — The same three steps run in both cases; only the size of the third one differs. When the energy released by forming solute-solvent attractions exceeds what was spent pulling the pure substances apart, dissolving is exothermic; when it falls short, dissolving is endothermic. Self-generated with matplotlib; the values are illustrative, not measured.*
 
 Figure 12.2 is worth reading carefully, because it explains a fact that otherwise looks arbitrary: dissolving $\ce{CaCl2}$ in water gets hot enough to use in a self-heating meal pack, while dissolving $\ce{NH4NO3}$ in water gets cold enough to sell as an instant cold pack. Both are ionic solids in the same solvent. The difference is entirely in the third step — how much energy the ion-dipole attractions give back.
@@ -116,7 +116,7 @@ $$\text{"Like dissolves like": similar intermolecular forces} \Rightarrow \text{
 
 Figure 12.3 puts the rule in front of you as five specific molecules. Check each one against the three bullets below it — the figure is a worked instance of the rule, not decoration.
 
-![Five example species illustrating like-dissolves-like: water and ethanol as polar solvents, hexane as a nonpolar solvent, iodine as a nonpolar solute, and sodium chloride as an ionic solute](https://alembic.orz.how/d/doc-513oqhgpbsim)
+![Five example species illustrating like-dissolves-like: water and ethanol as polar solvents, hexane as a nonpolar solvent, iodine as a nonpolar solute, and sodium chloride as an ionic solute](../assets/like_dissolves_like.svg)
 *Figure 12.3 — Water is a polar solvent that dissolves other polar substances (ethanol, fully miscible) and ionic compounds (NaCl, via strong ion-dipole attraction). Nonpolar hexane instead dissolves nonpolar solutes like iodine, which have only weak dispersion forces to overcome. Self-generated with RDKit.*
 
 - **Nonpolar substances** dissolve in **nonpolar solvents** (dispersion forces on both sides are compatible).
@@ -176,7 +176,7 @@ $$c_\text{gas} = k_\text{H}P_\text{gas}$$
 
 where $k_\text{H}$ is a constant for a given gas, solvent and temperature.
 
-![Three panels: solubility of KNO3, NaCl and Li2SO4 versus temperature; solubility of CO2 and O2 in water versus temperature; and dissolved gas concentration versus partial pressure](https://alembic.orz.how/d/doc-2f3z1qqb1yq1)
+![Three panels: solubility of KNO3, NaCl and Li2SO4 versus temperature; solubility of CO2 and O2 in water versus temperature; and dissolved gas concentration versus partial pressure](../assets/solubility_temperature_pressure.svg)
 *Figure 12.4 — Panel (a) is the point about solids: $\ce{KNO3}$ climbs steeply with temperature, $\ce{NaCl}$ barely moves, and $\ce{Li2SO4}$ actually falls — three solids, three directions, no general rule. Panels (b) and \(c) show why gases are different: warming always drives dissolved gas out, and raising the gas pressure above the liquid always drives more in. Self-generated with matplotlib from published solubility data.*
 
 Read Figure 12.4 left to right and the asymmetry of this section becomes obvious. Panel (a) is the reason the text above refuses to give you a rule for solids — any rule you invented from one salt would be contradicted by the next. Panels (b) and \(c) are the reason gases get two rules that always hold.
@@ -433,7 +433,7 @@ where $P_1^0$ is the pure solvent's vapor pressure and $X_1$ is the solvent's mo
 
 Figure 12.5 plots what that equation says: a straight line, with the solvent's vapor pressure falling in step with its mole fraction.
 
-![Vapor pressure of water as a solvent, decreasing linearly as its mole fraction decreases from 1.0 toward 0.8](https://alembic.orz.how/d/doc-bdgrpm2ajc4o)
+![Vapor pressure of water as a solvent, decreasing linearly as its mole fraction decreases from 1.0 toward 0.8](../assets/raoults_law.svg)
 *Figure 12.5 — Raoult's law predicts a straight-line decrease in solvent vapor pressure as solute is added and the solvent's mole fraction drops. The shaded region is the vapor-pressure lowering caused by the solute. Self-generated with matplotlib, anchored to the worked example below.*
 
 :::: tabs
@@ -485,12 +485,12 @@ The boiling point rises and the freezing point falls, both in direct proportion 
 
 Figure 12.6 previews the one complication in this section. All three solutes obey the same equation, but the three lines have different slopes — the reason is the last subsection of this chapter.
 
-![Freezing-point depression vs. molality for three solutes with different van't Hoff factors: sucrose, NaCl, and CaCl2](https://alembic.orz.how/d/doc-b0dqsf58tb7m)
+![Freezing-point depression vs. molality for three solutes with different van't Hoff factors: sucrose, NaCl, and CaCl2](../assets/freezing_point_depression.svg)
 *Figure 12.6 — At the same molality, NaCl depresses water's freezing point twice as much as sucrose, and CaCl₂ three times as much — because each formula unit releases 2 or 3 particles into solution. Self-generated with matplotlib using water's real $K_f$ = 1.86 °C/m.*
 
 Figure 12.7 is the same physics on a road: enough salt on ice, and the melting point of the resulting brine drops below the air temperature.
 
-![Highway rock salt, used to depress the freezing point of ice on roads](https://alembic.orz.how/d/doc-jesvoz2jdifm =700x)
+![Highway rock salt, used to depress the freezing point of ice on roads](../assets/rock_salt_deicing.jpg =700x)
 *Figure 12.7 — Rock salt (mostly NaCl or CaCl₂) lowers the freezing point of the water/ice mixture on a road below 0 °C, so ice melts and stays melted at temperatures where plain water would freeze — a direct, large-scale application of freezing-point depression. Source: James St. John, via Flickr (Openverse), CC BY 2.0.*
 
 :::: tabs
@@ -541,7 +541,7 @@ where $M$ is molarity, $R = 0.0821\ \text{L·atm·mol}^{-1}\text{K}^{-1}$, and $
 
 Figure 12.8 shows the process in two snapshots — before anything has moved, and once it has stopped.
 
-![Two-panel diagram of a divided vessel: at the start both sides are level with solute only on the right, and at equilibrium the solution side stands higher by an amount equal to the osmotic pressure](https://alembic.orz.how/d/doc-0x7zgdcpq35u)
+![Two-panel diagram of a divided vessel: at the start both sides are level with solute only on the right, and at equilibrium the solution side stands higher by an amount equal to the osmotic pressure](../assets/osmosis_semipermeable.svg)
 *Figure 12.8 — Left: solvent crosses the membrane in both directions, but more of it moves toward the solution, because the solution side has proportionally less solvent. Right: the solution column rises until its weight cancels the net inflow. That height difference is what $\pi$ measures. Self-generated with matplotlib.*
 
 Figure 12.8 also makes clear what osmotic pressure is *not*: nothing is pulling the solvent across. Solvent molecules cross in both directions at all times; there are simply more of them available to cross from the dilute side, so the net traffic runs one way until the pressure difference evens the two rates.

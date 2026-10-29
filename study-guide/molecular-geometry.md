@@ -58,7 +58,7 @@ Figure 10.1 turns that idea into a procedure. Two working rules make it usable:
 1. **A double or triple bond counts as one domain**, exactly like a single bond. Geometry cares where the electrons are, not how many of them there are.
 2. **For a molecule with resonance structures, use any one of them.** They all give the same domain count.
 
-![The four-step VSEPR procedure](https://alembic.orz.how/d/doc-5j1elfe215kf =820x)
+![The four-step VSEPR procedure](../assets/vsepr_procedure.svg =820x)
 *Figure 10.1 — The procedure in four steps. The one that causes trouble is the last: the **electron** geometry counts every domain including lone pairs, while the **molecular** geometry names only where the atoms are. Water has a tetrahedral electron geometry and a bent molecular shape — two different correct answers to two different questions.*
 
 :::warning
@@ -69,7 +69,7 @@ Figure 10.1 turns that idea into a procedure. Two working rules make it usable:
 
 When every domain is a bond, the molecular shape and the electron geometry are the same thing — the five cases in Figure 10.2.
 
-![The five basic VSEPR shapes with no lone pairs](https://alembic.orz.how/d/doc-zbo08r2c36n5 =760x)
+![The five basic VSEPR shapes with no lone pairs](../assets/vsepr_no_lone_pairs.svg =760x)
 *Figure 10.2 — $\ce{AB2}$ linear (e.g. $\ce{BeH2}$), $\ce{AB3}$ trigonal planar (e.g. $\ce{BH3}$), $\ce{AB4}$ tetrahedral (e.g. $\ce{CH4}$), $\ce{AB5}$ trigonal bipyramidal (e.g. $\ce{PF5}$), $\ce{AB6}$ octahedral (e.g. $\ce{SF6}$) — each shape maximizes the angular distance between the surrounding B atoms.*
 
 | Domains | Electron geometry | Angle | Example |
@@ -99,7 +99,7 @@ None of these central atoms has a lone pair, so in each case the molecular shape
 
 A lone pair occupies space and repels just as a bonding pair does — in fact slightly more, because it is held by only one nucleus and spreads out further. Figure 10.3 shows three common cases. But a lone pair is invisible in the *name* of the shape, since shapes are named by where the atoms sit.
 
-![VSEPR shapes with lone pairs on the central atom](https://alembic.orz.how/d/doc-qb1rs78lu92s =620x)
+![VSEPR shapes with lone pairs on the central atom](../assets/vsepr_with_lone_pairs.svg =620x)
 *Figure 10.3 — $\ce{H2O}$ (2 bonds + 2 lone pairs, bent), $\ce{NH3}$ (3 bonds + 1 lone pair, trigonal pyramidal), and $\ce{H2S}$ (2 bonds + 2 lone pairs, bent) — lone pairs occupy real space and compress bond angles, but the molecular shape is named only by the positions of the atoms.*
 
 This is the complete table, and it is the reference the rest of the chapter uses:
@@ -228,7 +228,7 @@ Ranking the two polar ones by $\Delta\text{EN}$ predicts $\ce{CO}$ more polar th
 
 With three or more atoms the bond dipoles are **vectors**, and as Figure 10.4 shows, they may or may not cancel. ==A molecule is polar only if it has polar bonds *and* a geometry in which those bond dipoles fail to cancel.==
 
-![Bond dipoles added as vectors for four molecules](https://alembic.orz.how/d/doc-kua7zstu7adj =820x)
+![Bond dipoles added as vectors for four molecules](../assets/dipole_cancellation.svg =820x)
 *Figure 10.4 — Each red arrow is one bond dipole, with its head on the more electronegative atom. $\ce{CO2}$ and $\ce{H2O}$ have comparably polar bonds and opposite verdicts: carbon dioxide is linear, so its two dipoles point exactly opposite and cancel, while water is bent, so its two add to a net dipole. $\ce{BF3}$'s three dipoles at 120° sum to zero; $\ce{NH3}$'s lone pair breaks the symmetry and leaves a net dipole.*
 
 The useful shortcut: **symmetric arrangements of identical bonds cancel**. Linear $\ce{AB2}$, trigonal planar $\ce{AB3}$, tetrahedral $\ce{AB4}$, trigonal bipyramidal $\ce{AB5}$, and octahedral $\ce{AB6}$ are all nonpolar when every B is the same. Break the symmetry — with a lone pair, or by replacing one B with a different atom — and a net dipole appears.
@@ -295,7 +295,7 @@ $\ce{XeF4}$ is the instructive one. It has lone pairs, and lone pairs usually br
 
 Figure 10.5 plots what happens. Consider two hydrogen atoms approaching: far apart, they do not interact and the potential energy is zero. As they approach, each electron is attracted to the *other* atom's nucleus while the two electrons repel each other and the two nuclei repel each other. At first attraction wins, so the energy falls. It keeps falling until the orbitals overlap substantially — and then, pushed closer still, the repulsions take over and the energy climbs steeply.
 
-![Potential energy against internuclear distance for H2](https://alembic.orz.how/d/doc-88g1dbsnwrzt =780x)
+![Potential energy against internuclear distance for H2](../assets/vb_potential_energy.svg =780x)
 *Figure 10.5 — A bond is the bottom of an energy well. The position of the minimum is the **bond length**, 74 pm for $\ce{H2}$; its depth is the **bond enthalpy**, 436 kJ/mol — the same number Chapter 9 tabulated. Forming the bond releases that energy; breaking it requires putting the energy back.*
 
 The same picture handles other diatomics. $\ce{F2}$ forms when the singly occupied $2p$ orbitals of two fluorines overlap; $\ce{HF}$ forms when hydrogen's $1s$ overlaps fluorine's $2p$. Because different orbital types overlap differently, VB theory naturally explains why bond lengths and bond enthalpies differ from one molecule to the next.
@@ -304,7 +304,7 @@ The same picture handles other diatomics. $\ce{F2}$ forms when the singly occupi
 
 VB theory has an immediate problem with carbon. Carbon's ground state is $1s^2 2s^2 2p^2$ — only **two** unpaired electrons, so it should form two bonds. It forms four, and in $\ce{CH4}$ all four are identical.
 
-![Carbon's orbitals through promotion and hybridization](https://alembic.orz.how/d/doc-tnzy6piddcvl =800x)
+![Carbon's orbitals through promotion and hybridization](../assets/sp3_promotion_mixing.svg =800x)
 *Figure 10.6 — Two steps fix it. **Promotion:** one $2s$ electron moves to the empty $2p$, giving four unpaired electrons and costing energy. **Mixing:** the one $2s$ and three $2p$ orbitals combine into four identical $sp^3$ hybrid orbitals pointing at the corners of a tetrahedron. The promotion cost is repaid several times over by the two extra bonds it makes possible.*
 
 **Hybrid orbitals** are new orbitals formed by mixing nonequivalent orbitals of the same atom in preparation for bonding. The number of hybrids always equals the number of atomic orbitals mixed, and it matches the domain count from §10.1:
@@ -360,7 +360,7 @@ Not all overlap is the same.
 
 Figure 10.7 contrasts the two kinds of overlap.
 
-![Sigma vs. pi bonds: end-to-end vs. sideways orbital overlap](https://alembic.orz.how/d/doc-216ulep1mzyo =560x)
+![Sigma vs. pi bonds: end-to-end vs. sideways orbital overlap](../assets/sigma_pi_bonds.svg =560x)
 *Figure 10.7 — A $\sigma$ bond's electron density lies directly on the internuclear axis (strong, allows free rotation); a $\pi$ bond's density lies above and below the axis, with a nodal plane along it (restricts rotation around that bond).*
 
 Every single bond is one $\sigma$ bond. A double bond is one $\sigma$ plus one $\pi$; a triple bond is one $\sigma$ plus two $\pi$. The $\sigma$ always forms first, because end-to-end overlap is more effective than sideways.
@@ -405,7 +405,7 @@ Two $sp$ orbitals point in exactly opposite directions, which is why acetylene i
 :::
 ::::
 
-![A physical ball-and-stick model of acetylene](https://alembic.orz.how/d/doc-8av3bgxgp3rp =520x)
+![A physical ball-and-stick model of acetylene](../assets/acetylene_model.jpg =520x)
 *Figure 10.8 — Acetylene's linear geometry (180° bond angle) is exactly what $sp$ hybridization predicts: two $sp$ orbitals point in opposite directions, while the two unhybridized $p$ orbitals on each carbon form the two $\pi$ bonds that, together with the $\sigma$ bond, make up the $\ce{C#C}$ triple bond.*
 
 ## Synthesis

@@ -56,7 +56,7 @@ Intermolecular forces are attractions **between** separate molecules. Do not con
 
 Figure 11.1 collects six molecules you will meet repeatedly in this chapter; keep it in view while reading the next three subsections, because deciding which forces act in a substance always starts with deciding whether its molecules look like the top row or the bottom row.
 
-![Six example molecules: three polar hydrogen-bond donors (water, hydrogen fluoride, ammonia) and three nonpolar molecules (methane, carbon tetrachloride, carbon dioxide)](https://alembic.orz.how/d/doc-2o8ng8zkw549)
+![Six example molecules: three polar hydrogen-bond donors (water, hydrogen fluoride, ammonia) and three nonpolar molecules (methane, carbon tetrachloride, carbon dioxide)](../assets/polar_nonpolar_molecules.svg)
 *Figure 11.1 — Polar molecules (top row) each have a permanent dipole and can act as hydrogen-bond donors when H is attached to N, O, or F. Nonpolar molecules (bottom row) either have no polar bonds (CH₄) or have polar bonds arranged so symmetrically that their dipoles cancel (CO₂). Self-generated with RDKit.*
 
 ### Dipole-dipole forces
@@ -203,7 +203,7 @@ Water can hydrogen-bond and the others cannot. Hydrogen bonding is roughly ten t
 
 Figure 11.2 shows the effect at a scale you can see without instruments.
 
-![A water strider standing on a water surface, supported entirely by surface tension](https://alembic.orz.how/d/doc-mkiuxzjtl0pf =700x)
+![A water strider standing on a water surface, supported entirely by surface tension](../assets/water_strider_surface_tension.jpg =700x)
 *Figure 11.2 — A water strider's weight is fully supported by the surface tension of water — a direct, everyday consequence of hydrogen bonding between water molecules. Source: NPS Photo, via Wikimedia Commons (public domain).*
 
 **Cohesion** is the attraction between *like* molecules (e.g., water molecules to each other); **adhesion** is the attraction between *unlike* molecules (e.g., water to glass). When adhesion exceeds cohesion, a liquid climbs a narrow tube against gravity — **capillary action** — which is how paper towels wick up spills and how trees pull water upward through narrow xylem vessels.
@@ -260,7 +260,7 @@ Each water molecule can form up to **four hydrogen bonds** (two through its own 
 - an unusually **high specific heat** (4.184 J/g·°C — this is why oceans and lakes moderate regional climate), and
 - **maximum density at 4 °C**, not at its freezing point — ice's open hydrogen-bonded lattice is actually *less* dense than liquid water, which is why ice floats and lakes freeze from the top down, insulating aquatic life below.
 
-![Line chart comparing normal boiling points of period 2-5 hydrides in groups 14, 15, 16, and 17](https://alembic.orz.how/d/doc-jine6a9ia4ng)
+![Line chart comparing normal boiling points of period 2-5 hydrides in groups 14, 15, 16, and 17](../assets/hydride_boiling_points.svg)
 *Figure 11.3 — Group 14 hydrides (no hydrogen bonding) follow a smooth, steadily increasing trend with size. NH₃, H₂O, and HF each sit far above where their own group's trend would otherwise put them — the extra lift is hydrogen bonding, and water's is the largest of the three. Self-generated with matplotlib from verified literature boiling points.*
 
 :::info
@@ -329,10 +329,10 @@ A **crystalline solid** has long-range, repeating order — its atoms, ions, or 
 
 Figure 11.4 and Figure 11.5 show the two extremes of that table. Both are hard and high-melting, but for different reasons — one from ions locked in an electrostatic grid, the other from an unbroken covalent network.
 
-![Sodium chloride's ionic lattice, shown as a 3D ball-and-stick model](https://alembic.orz.how/d/doc-suvpcddzo64k =520x)
+![Sodium chloride's ionic lattice, shown as a 3D ball-and-stick model](../assets/nacl_ionic_lattice.png =520x)
 *Figure 11.4 — In an ionic solid such as NaCl, each ion is surrounded by six oppositely charged ions in a rigid, repeating lattice — the electrostatic attraction extends through the whole crystal, which is why ionic solids are hard, brittle, and high-melting. Source: Benjah-bmm27, via Wikimedia Commons (public domain).*
 
-![A quartz crystal specimen (SiO2), an example of a covalent-network solid](https://alembic.orz.how/d/doc-lzcxbnp6a0dw =520x)
+![A quartz crystal specimen (SiO2), an example of a covalent-network solid](../assets/quartz_crystal.jpg =520x)
 *Figure 11.5 — Quartz (SiO₂) is a covalent-network solid: every Si and O atom is linked into one continuous three-dimensional network of covalent bonds, giving it the hardness needed to scratch glass and a melting point above 1,600 °C. Source: Masha Milshina, via Wikimedia Commons, CC BY 4.0.*
 
 
@@ -379,7 +379,7 @@ A **unit cell** is the smallest repeating structural unit of a crystal lattice; 
 
 Compare the three cells in Figure 11.6 before reading the table below it: the only difference between them is *where* the extra atoms sit, and that placement alone determines both the atom count and the coordination number.
 
-![Simple cubic, body-centered cubic, and face-centered cubic unit cells, shown as 3D wireframes with atoms at their lattice positions](https://alembic.orz.how/d/doc-ulu0bjzdk5pe)
+![Simple cubic, body-centered cubic, and face-centered cubic unit cells, shown as 3D wireframes with atoms at their lattice positions](../assets/cubic_unit_cells.svg)
 *Figure 11.6 — The three cubic unit cells. Corner atoms are shared among 8 adjacent cells; a face atom is shared between 2 cells; a body-centered atom belongs entirely to its own cell. Self-generated with matplotlib.*
 
 | Unit cell | Atoms per cell | Coordination number | How atoms touch |
@@ -519,7 +519,7 @@ $$\ln\frac{P_1}{P_2} = \frac{\Delta H_\text{vap}}{R}\left(\frac{T_1 - T_2}{T_1 T
 
 Figure 11.7 makes the temperature dependence visible. Notice that the curve is not a straight line — vapor pressure rises far faster near the boiling point than it does at low temperature, which is the graphical form of the exponential relationship the equation expresses.
 
-![Vapor pressure of diethyl ether plotted against temperature, computed from the Clausius-Clapeyron equation](https://alembic.orz.how/d/doc-6aepgfg9oo8p)
+![Vapor pressure of diethyl ether plotted against temperature, computed from the Clausius-Clapeyron equation](../assets/vapor_pressure_diethyl_ether.svg)
 *Figure 11.7 — The vapor pressure of diethyl ether rises steeply and non-linearly with temperature, crossing 760 mmHg (1 atm, its normal boiling point) at about 35 °C. Curve computed from the Clausius–Clapeyron equation using the worked example's data. Self-generated with matplotlib.*
 
 :::: tabs
@@ -580,7 +580,7 @@ A **phase diagram** maps out which phase (solid, liquid, or vapor) is stable at 
 
 Figure 11.8 is the map for water. Read it the way you would read a geographic map: each region is a phase, each line is a border, and moving across the diagram means changing temperature (left–right) or pressure (up–down).
 
-![Schematic phase diagram of water, with the solid, liquid, and vapor regions labeled and the triple point, normal melting/boiling points, and critical point marked](https://alembic.orz.how/d/doc-53upmrznae8i)
+![Schematic phase diagram of water, with the solid, liquid, and vapor regions labeled and the triple point, normal melting/boiling points, and critical point marked](../assets/water_phase_diagram.svg)
 *Figure 11.8 — Phase diagram of water. The solid-liquid boundary has a slight negative slope — unique among common substances — because ice is less dense than liquid water, so increasing pressure favors the denser liquid phase and lowers the melting point. Self-generated with matplotlib; boundary shapes are schematic, but all four labeled points (triple, normal melting, normal boiling, and critical) are real, verified values. Data summary: triple point 0.01 °C at 0.00604 atm; normal melting point 0 °C at 1 atm; normal boiling point 100 °C at 1 atm; critical point 374 °C at 218 atm.*
 
 Two points are worth memorizing conceptually:

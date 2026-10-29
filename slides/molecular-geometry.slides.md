@@ -50,16 +50,16 @@ Electron pairs (bonding or lone) arrange to be as far apart as possible
 
 <!-- slide -->
 ## Four steps from structure to shape
-![The VSEPR procedure](https://alembic.orz.how/d/doc-5j1elfe215kf =820x)
+![The VSEPR procedure](../assets/vsepr_procedure.svg =820x)
 **Electron** geometry counts every domain · **molecular** geometry names only the atoms
 
 <!-- slide -->
 ## Shapes with no lone pairs
-![VSEPR no lone pairs](https://alembic.orz.how/d/doc-zbo08r2c36n5 =760x)
+![VSEPR no lone pairs](../assets/vsepr_no_lone_pairs.svg =760x)
 
 <!-- slide -->
 ## Shapes with lone pairs
-![VSEPR with lone pairs](https://alembic.orz.how/d/doc-qb1rs78lu92s =620x)
+![VSEPR with lone pairs](../assets/vsepr_with_lone_pairs.svg =620x)
 Lone pairs occupy space but aren't named in the molecular shape
 
 <!-- slide step -->
@@ -78,7 +78,7 @@ SO₂ (3 domains, 1 lone pair) and CBr₄ (4 domains, 0 lone pairs)
 
 <!-- slide -->
 ## Do the bond dipoles cancel?
-![Dipole vectors for four molecules](https://alembic.orz.how/d/doc-kua7zstu7adj =820x)
+![Dipole vectors for four molecules](../assets/dipole_cancellation.svg =820x)
 $\mathrm{CO_2}$ and $\mathrm{H_2O}$ have comparably polar bonds and opposite verdicts
 
 <!-- slide step -->
@@ -101,12 +101,12 @@ Potential energy decreases as atoms approach (attraction dominates), reaches a m
 
 <!-- slide -->
 ## A bond is the bottom of an energy well
-![H2 potential energy curve](https://alembic.orz.how/d/doc-88g1dbsnwrzt =780x)
+![H2 potential energy curve](../assets/vb_potential_energy.svg =780x)
 The minimum's position is the bond length; its depth is the bond enthalpy
 
 <!-- slide -->
 ## Why carbon forms four bonds
-![Promotion and sp3 mixing](https://alembic.orz.how/d/doc-tnzy6piddcvl =800x)
+![Promotion and sp3 mixing](../assets/sp3_promotion_mixing.svg =800x)
 Promote one $2s$ electron, then mix — two extra bonds repay the cost many times over
 
 <!-- slide -->
@@ -117,7 +117,7 @@ Promote one $2s$ electron, then mix — two extra bonds repay the cost many time
 
 <!-- slide -->
 ## Sigma and pi bonds
-![Sigma pi bonds](https://alembic.orz.how/d/doc-216ulep1mzyo =560x)
+![Sigma pi bonds](../assets/sigma_pi_bonds.svg =560x)
 
 <!-- slide -->
 ## Multiple-bond hybridization rule
@@ -126,7 +126,7 @@ Promote one $2s$ electron, then mix — two extra bonds repay the cost many time
 
 <!-- slide -->
 ## Acetylene: a physical model
-![Acetylene model](https://alembic.orz.how/d/doc-8av3bgxgp3rp =460x)
+![Acetylene model](../assets/acetylene_model.jpg =460x)
 $sp$-hybridized C≡C: 1 σ bond + 2 π bonds, linear 180° geometry
 
 <!-- slide step -->

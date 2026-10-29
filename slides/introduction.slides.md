@@ -48,7 +48,7 @@ graph TD
 
 <!-- slide -->
 ## Classifying matter: two questions
-![Decision tree for classifying matter](https://alembic.orz.how/d/doc-x3e9ipdeyuax =680x)
+![Decision tree for classifying matter](../assets/matter_classification_tree.svg =680x)
 
 <!-- slide -->
 ## Matter: substance vs. mixture
@@ -61,7 +61,7 @@ graph TD
 ## Element vs. compound
 - **Element** — cannot be separated by chemical means
 - **Compound** — elements chemically combined in a **fixed ratio**
-![States of matter](https://alembic.orz.how/d/doc-aneyfpn9momb =520x)
+![States of matter](../assets/states_of_matter.svg =520x)
 
 <!-- slide step -->
 ## Physical vs. chemical change; extensive vs. intensive
@@ -85,17 +85,17 @@ graph TD
 
 <!-- slide -->
 ## The SI prefix ladder
-![SI prefix ladder](https://alembic.orz.how/d/doc-6x9l39v3bokz =600x)
+![SI prefix ladder](../assets/si_prefix_ladder.svg =600x)
 
 <!-- slide -->
 ## Mass, volume, density
 $$d=\frac{m}{V} \qquad 1\,\text{mL}=1\,\text{cm}^3 \qquad 1\,\text{L}=1000\,\text{mL}$$
-![Electronic analytical balance](https://alembic.orz.how/d/doc-z65ivxbxspj7 =420x)
+![Electronic analytical balance](../assets/electronic_balance.jpg =420x)
 Reads to 4 decimal places — every displayed digit is significant
 
 <!-- slide -->
 ## The same measurement, made visible
-![Two-pan mechanical balance](https://alembic.orz.how/d/doc-qabypbt8fkl3 =340x)
+![Two-pan mechanical balance](../assets/lab_balance.jpg =340x)
 A mechanical balance **compares** the sample against known masses; an electronic balance does the same comparison internally
 
 <!-- slide step -->
@@ -133,13 +133,13 @@ $$568.762=5.68762\times10^2 \qquad 0.00000772=7.72\times10^{-6}$$
 
 <!-- slide -->
 ## Accuracy vs. precision
-![Four dartboards contrasting accuracy and precision](https://alembic.orz.how/d/doc-0g1u8eqwodlt =700x)
+![Four dartboards contrasting accuracy and precision](../assets/accuracy_vs_precision.svg =700x)
 **Accuracy** = close to the true value · **Precision** = repeated measurements agree with each other
 Precise but inaccurate is the dangerous case — the data looks great and is wrong
 
 <!-- slide -->
 ## Reading an instrument
-![Graduated cylinder meniscus](https://alembic.orz.how/d/doc-xy5g4xpr0l9z =340x)
+![Graduated cylinder meniscus](../assets/graduated_cylinder_meniscus.svg =340x)
 Read at the **bottom** of the meniscus: certain digits + one estimated digit = 21.6 mL
 
 <!-- slide step -->
@@ -158,7 +158,7 @@ Chain multiple factors together when more than one conversion is needed
 
 <!-- slide -->
 ## Watch the units cancel
-![Unit-cancellation diagram](https://alembic.orz.how/d/doc-8pqvnglq0t7p =660x)
+![Unit-cancellation diagram](../assets/dimensional_analysis_cancel.svg =660x)
 If the units don't cancel to what you wanted, the setup is wrong — before any arithmetic
 
 <!-- slide step -->

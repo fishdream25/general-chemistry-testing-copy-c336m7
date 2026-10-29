@@ -61,7 +61,7 @@ Which subshell is filling sorts every element into one of five categories, laid 
 | **Group 2B** | Zn, Cd, Hg | neither: $d$ is full and $s$ is full |
 | **Lanthanides and actinides** | f-block | $f$, incompletely filled |
 
-![Simplified periodic-table-shaped map of element categories](https://alembic.orz.how/d/doc-9h9194t8gzke =680x)
+![Simplified periodic-table-shaped map of element categories](../assets/element_category_map.svg =680x)
 *Figure 8.1 — Element categories map directly onto which subshell type is being filled: $s$/$p$ (representative), $p^6$ (noble gas), $d$ (transition metal), or $f$ (lanthanide/actinide).*
 
 ==**Valence electrons** are the outer-shell electrons involved in bonding== — and for a representative element they are the only ones that matter chemically. Chapter 7 established the reason elements in a group behave alike: they have the same valence configuration. For a representative element, the group number *is* the valence-electron count — Group 6A elements all have six.
@@ -174,7 +174,7 @@ $\ce{Zn^2+}$ has a completely filled $3d$ subshell and no partly filled $d$ at a
 
 $$Z_\text{eff} \approx Z - (\text{number of shielding electrons})$$
 
-![Shielding and effective nuclear charge for lithium, carbon and fluorine](https://alembic.orz.how/d/doc-tbaggbjf41sl =800x)
+![Shielding and effective nuclear charge for lithium, carbon and fluorine](../assets/effective_nuclear_charge.svg =800x)
 *Figure 8.2 — All three atoms have the same two inner electrons doing the shielding, so as protons are added across the period, $Z_\text{eff}$ climbs from about $+1$ to about $+7$. The valence electrons are pulled in harder at every step.*
 
 Figure 8.2 makes the arithmetic visible. **Across a period**, protons are added but the new electrons enter the *same* shell, where they shield each other poorly. $Z_\text{eff}$ therefore rises steadily, and the outer electrons are held more tightly.
@@ -210,7 +210,7 @@ Both are in period 3, so both have their valence electrons in the same shell. On
 
 Figure 8.3 collects all four trends of this chapter and the next section onto one table. The **atomic radius** is half the distance between the nuclei of two adjacent atoms of the element — measured between neighbors in a metal, or between the two bonded atoms of a diatomic molecule like $\ce{I2}$.
 
-![Periodic trends in radius, ionization energy and electron affinity](https://alembic.orz.how/d/doc-nwnr0veh4tir =820x)
+![Periodic trends in radius, ionization energy and electron affinity](../assets/periodic_trend_map.svg =820x)
 *Figure 8.3 — All three trends follow from $Z_\text{eff}$ and distance. Across a period, rising $Z_\text{eff}$ pulls the same shell in tighter: radius falls, and both energies rise. Down a group, the added shell dominates: radius grows, and both energies fall.*
 
 :::: tabs
@@ -254,7 +254,7 @@ $$\ce{N^3-} > \ce{O^2-} > \ce{F-} > \ce{Ne} > \ce{Na+} > \ce{Mg^2+} > \ce{Al^3+}
 :::
 ::::
 
-![Bar chart of radii for the classic 10-electron isoelectronic series](https://alembic.orz.how/d/doc-ktildeh6eyps =560x)
+![Bar chart of radii for the classic 10-electron isoelectronic series](../assets/isoelectronic_radius_series.svg =560x)
 *Figure 8.4 — All seven species have exactly 10 electrons, but radius shrinks steadily as nuclear charge climbs from N (Z=7) to Al (Z=13) — the same 10 electrons are pulled progressively tighter.*
 
 :::: tabs
@@ -294,7 +294,7 @@ The reason is immediate: after the first removal you are pulling an electron awa
 
 But the increases are not smooth. One step is always enormously larger than the rest, as Figure 8.5 shows.
 
-![Successive ionization energies of Na, Mg and Al](https://alembic.orz.how/d/doc-2uuwwp68w09y =820x)
+![Successive ionization energies of Na, Mg and Al](../assets/successive_ionization_energies.svg =820x)
 *Figure 8.5 — The huge jump appears exactly when the valence shell is empty and the next electron must come out of the noble-gas core. Sodium's jump is at $IE_2$, magnesium's at $IE_3$, aluminum's at $IE_4$ — one, two, and three valence electrons respectively.*
 
 ==Counting the small steps before the jump counts the valence electrons, and that count is the group number.== It is a way of reading an element's configuration off nothing but a list of energies.
@@ -320,7 +320,7 @@ The point of the method is that it works without knowing the element at all. The
 
 Figure 8.6 plots the trend across period 2. First ionization energy **increases across a period** (rising $Z_\text{eff}$ holds electrons tighter) and **decreases down a group** (the outer electron is farther out, so easier to remove). It is the mirror image of the atomic-radius trend, and for exactly the same reason.
 
-![Line chart of first ionization energy across Period 2](https://alembic.orz.how/d/doc-idc4jcr1camj =560x)
+![Line chart of first ionization energy across Period 2](../assets/ionization_energy_trend.svg =560x)
 *Figure 8.6 — Ionization energy rises overall across Period 2, but with two characteristic dips: Be→B (removing a higher-energy, less-shielded $2p$ electron is easier than a paired $2s$ electron) and N→O (breaking N's stable half-filled $2p^3$ to pair an electron in O's $2p^4$ costs less energy than expected).*
 
 Both dips come straight from Chapter 7's filling rules, which is why they are worth understanding rather than memorizing:
@@ -418,7 +418,7 @@ Hydrogen belongs to no group comfortably. With one electron it can **lose** it t
 
 Figure 8.7 shows the most spectacular case. ==Every entry in that table is a consequence of §8.3. Group 1A is reactive because its ionization energy is the lowest; the halogens are reactive because their electron affinity is the highest; the noble gases are inert because they are extreme in both directions at once.==
 
-![High-speed photo of sodium metal reacting violently with water](https://alembic.orz.how/d/doc-eolj3y7oazyt =460x)
+![High-speed photo of sodium metal reacting violently with water](../assets/sodium_water.png =460x)
 *Figure 8.7 — Sodium's single, loosely-held valence electron makes it reactive enough to combust on contact with water — a dramatic, visible demonstration of Group 1A's characteristic low ionization energy.*
 
 :::: tabs
@@ -453,7 +453,7 @@ This is why the group rule needs a caveat: valence configuration is the dominant
 
 Oxygen combines with almost everything, and as Figure 8.8 shows, the character of the oxide tracks the metallic character of its partner.
 
-![Acid-base and structural character of the period 3 oxides](https://alembic.orz.how/d/doc-5l585n62mmws =820x)
+![Acid-base and structural character of the period 3 oxides](../assets/oxide_character_period3.svg =820x)
 *Figure 8.8 — Across period 3 the oxides shift from high-melting ionic solids, through silicon dioxide's covalent network, to small discrete molecules with low melting points — and their acid-base character shifts with the structure.*
 
 - **Metal oxides are generally basic.** Metals have low ionization energies, so they hand electrons over readily and form ionic oxides such as $\ce{Na2O}$ and $\ce{MgO}$. These react with acids to give a salt and water. Being ionic, they have high melting and boiling points.

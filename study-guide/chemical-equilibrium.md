@@ -66,7 +66,7 @@ $$k_f[\ce{A}]^a[\ce{B}]^b = k_r[\ce{C}]^c[\ce{D}]^d \quad\Rightarrow\quad K=\fra
 
 Figure 14.1 puts the two extremes side by side. Note what it deliberately does not show: an exact ratio.
 
-![Two schematic pie charts illustrating K much greater than 1 (mostly products) versus K much less than 1 (mostly reactants)](https://alembic.orz.how/d/doc-ejl31nfvl1e5)
+![Two schematic pie charts illustrating K much greater than 1 (mostly products) versus K much less than 1 (mostly reactants)](../assets/k_magnitude_schematic.svg)
 *Figure 14.1 — K's magnitude tells you qualitatively which side is favored at equilibrium — it does not by itself tell you the exact product/reactant ratio, which also depends on the reaction's stoichiometry and the amounts you start with. Self-generated with matplotlib; schematic only.*
 
 :::: tabs
@@ -86,7 +86,7 @@ A reaction $\ce{A <=> B}$ has $k_f = 0.20\ \text{s}^{-1}$ and $k_r = 0.05\ \text
 
 Figure 14.2 is the picture worth carrying for the rest of the chapter — two rates converging, not one rate dying.
 
-![Two-panel figure: concentration of A and B vs. time approaching a plateau, and forward/reverse rate vs. time converging](https://alembic.orz.how/d/doc-zi2wfxj5j3q3)
+![Two-panel figure: concentration of A and B vs. time approaching a plateau, and forward/reverse rate vs. time converging](../assets/approach_to_equilibrium.svg)
 *Figure 14.2 — As A converts to B, the forward rate (proportional to [A]) falls while the reverse rate (proportional to [B]) rises, until they meet — that meeting point is dynamic equilibrium. Concentrations stop changing macroscopically, but both reactions continue at equal, opposite rates. Self-generated with matplotlib using $k_f=0.20\ \text{s}^{-1}$, $k_r=0.05\ \text{s}^{-1}$ (matching the worked example above), so $K=4.0$ and $[\ce{B}]_{eq}/[\ce{A}]_{eq}=4.0$.*
 
 :::: tabs
@@ -314,7 +314,7 @@ $$Q_c=\frac{[\ce{C}]_0^c[\ce{D}]_0^d}{[\ce{A}]_0^a[\ce{B}]_0^b}$$
 | $Q_c = K_c$ | Already at equilibrium |
 | $Q_c < K_c$ | Left to right (forward) — too little product for equilibrium |
 
-![A logarithmic number line with K marked, the region below K shaded and labeled shifts forward, the region above K shaded and labeled shifts reverse, and two example mixtures plotted at their Q values](https://alembic.orz.how/d/doc-xy52k47j4klh)
+![A logarithmic number line with K marked, the region below K shaded and labeled shifts forward, the region above K shaded and labeled shifts reverse, and two example mixtures plotted at their Q values](../assets/q_versus_k.svg)
 *Figure 14.3 — $Q$ and $K$ live on the same axis, and the system always moves so that $Q$ travels toward $K$. The two plotted points are the worked example's mixtures: one at $Q = 0.61$, well below $K = 4.3$, and one at $Q = 195$, far above it. Self-generated with matplotlib from the worked example's own numbers.*
 
 ==You do not have to reason about which direction "makes sense" — the comparison does it for you.== Figure 14.3 shows why the rule is a single sentence rather than a set of cases: $Q$ moves toward $K$, always, so whichever side of $K$ your mixture starts on determines the direction. If $Q$ is too small, the numerator (products) must grow — forward. If $Q$ is too large, the numerator must shrink — reverse.
@@ -457,7 +457,7 @@ $$[\ce{H2}] = 0.065\ \text{M} \qquad [\ce{I2}] = 1.065\ \text{M} \qquad [\ce{HI}
 
 When $K$ is small enough that $x$ turns out to be tiny compared to the initial concentration, you can **approximate** $[\ce{A}]_0-x\approx[\ce{A}]_0$ and avoid the quadratic entirely. ==The approximation is a shortcut with a *measurable* error, not a matter of taste — which is why checking it afterward is part of the method, not an optional flourish.==
 
-![Two panels: how much reactant actually reacts as a function of K, and the error the small-x shortcut incurs as a function of that percentage, with a 5 percent threshold marked](https://alembic.orz.how/d/doc-ox7h81d5fk38)
+![Two panels: how much reactant actually reacts as a function of K, and the error the small-x shortcut incurs as a function of that percentage, with a 5 percent threshold marked](../assets/small_x_validity.svg)
 *Figure 14.4 — Panel (a): for a fixed starting concentration, the fraction of reactant consumed rises steadily with $K$; below about $K = 5\times10^{-3}$ it stays under 5%. Panel (b): the error the shortcut introduces, plotted against that same percentage. At 0.8% reacted the shortcut is off by 0.4%; at 28% reacted it is off by 18%. Self-generated with matplotlib for $\ce{A <=> 2B}$ with $[\ce{A}]_0 = 0.500$ M.*
 
 Figure 14.4 turns the familiar "5% rule" into something you can see the reason for. The threshold is not magic — it is simply where the error the shortcut introduces becomes comparable to the precision of the data you started from.
@@ -574,7 +574,7 @@ Everything in this section can also be derived from §14.3, and it is worth seei
 
 Figure 14.5 separates the two things that happen when you add reactant, which are easy to run together: the instantaneous spike, and the subsequent shift.
 
-![Bar chart showing concentrations of A, B, and C at the initial equilibrium, immediately after adding more A, and at the new equilibrium](https://alembic.orz.how/d/doc-nq07d84cdfz0)
+![Bar chart showing concentrations of A, B, and C at the initial equilibrium, immediately after adding more A, and at the new equilibrium](../assets/le_chatelier_concentration_shift.svg)
 *Figure 14.5 — Adding reactant A causes an immediate spike in [A] (no reaction has happened yet), then the system shifts right, consuming some A and B and producing more C — partially, not completely, offsetting the added A. Self-generated with matplotlib; schematic/illustrative concentrations for $\ce{A + B <=> C}$.*
 
 :::: tabs
@@ -590,7 +590,7 @@ Removing C decreases $[\ce{C}]$ below its equilibrium value, so $Q_c<K_c$ moment
 
 For gas-phase reactions, **decreasing volume (increasing pressure)** shifts equilibrium toward the side with **fewer moles of gas**; increasing volume shifts it toward the side with more.
 
-![Three vessels showing an ammonia equilibrium before compression, immediately after compression at the same molecule count, and at the new equilibrium with fewer total molecules](https://alembic.orz.how/d/doc-mx003iv4ceja)
+![Three vessels showing an ammonia equilibrium before compression, immediately after compression at the same molecule count, and at the new equilibrium with fewer total molecules](../assets/le_chatelier_pressure.svg)
 *Figure 14.6 — Compressing the vessel raises every partial pressure at once, which moves $Q$ away from $K$. The system responds by converting four gas molecules into two, which removes some of the added pressure — 18 molecules become 16. The stress is partially offset, never erased. Self-generated with matplotlib; molecule counts are illustrative.*
 
 Figure 14.6 also shows what the rule does **not** say. The new equilibrium is still at higher pressure than the original — the shift relieves part of the increase, not all of it.
@@ -608,7 +608,7 @@ The reactant side has $1+3=4$ moles of gas; the product side has 2 moles. Compre
 
 Figure 14.7 shows what that argument is worth commercially.
 
-![Industrial ammonia synthesis plant with large reactor and storage structures](https://alembic.orz.how/d/doc-5wl6koa2duwn =800x)
+![Industrial ammonia synthesis plant with large reactor and storage structures](../assets/ammonia_plant.jpg =800x)
 *Figure 14.7 — A modern Haber-Bosch ammonia synthesis facility. Because $\ce{N2 + 3H2 <=> 2NH3}$ has fewer gas moles on the product side, running the process under high pressure is a direct, large-scale industrial application of Le Chatelier's principle. Source: DeltaSquad833, via Wikimedia Commons, CC BY-SA 4.0.*
 
 ### Changing temperature — the one that changes K
@@ -625,7 +625,7 @@ Why $K$ itself changes, when nothing else does: every other stress moves the con
 
 Figure 14.8 lets you see a temperature shift directly, because one of the two species is colored and the other is not.
 
-![Three sealed glass tubes containing NO2/N2O4 gas mixture at different temperatures, showing more brown color at higher temperature](https://alembic.orz.how/d/doc-cevbybxnswy5 =800x)
+![Three sealed glass tubes containing NO2/N2O4 gas mixture at different temperatures, showing more brown color at higher temperature](../assets/no2_n2o4_equilibrium.jpg =800x)
 *Figure 14.8 — Three sealed tubes of the same $\ce{2NO2(g) <=> N2O4(g)}$ mixture, each standing in a water bath at a different temperature, coldest on the left (note the ice) and warmest on the right. The forward, $\ce{N2O4}$-forming direction is exothermic, so heating shifts the equilibrium toward the endothermic reverse direction and produces more $\ce{NO2}$ — which is the colored species. The tint accordingly deepens from left to right, from almost colorless through pale yellow to amber. Source: Gedep, via Wikimedia Commons, CC BY-SA 4.0.*
 
 :::: tabs

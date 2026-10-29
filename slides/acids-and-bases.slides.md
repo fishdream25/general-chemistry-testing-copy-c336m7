@@ -67,7 +67,7 @@ H₂CO₃ ⇌ H₃O⁺ + HCO₃⁻ (K_a1), then HCO₃⁻ ⇌ H₃O⁺ + CO₃²
 
 <!-- slide -->
 ## Acid-base indicators
-![Litmus paper](https://alembic.orz.how/d/doc-oxsm2g9atdlq =560x)
+![Litmus paper](../assets/litmus_paper_test.jpg =560x)
 
 <!-- slide -->
 ## Water's autoionization
@@ -89,7 +89,7 @@ Strong acids: HClO₄, HI, HBr, HCl, H₂SO₄, HNO₃. Everything else common (
 <!-- slide main-side -->
 ## “Strong” is not “concentrated”
 <!-- @main -->
-![Two beakers of equally concentrated acid: the strong acid fully ionized, the weak acid almost entirely intact](https://alembic.orz.how/d/doc-sz0ajp5y50sc =720x)
+![Two beakers of equally concentrated acid: the strong acid fully ionized, the weak acid almost entirely intact](../assets/strong_vs_weak_ionization.svg =720x)
 <!-- @side -->
 **Strong** = how *completely* it ionizes.
 
@@ -100,7 +100,7 @@ They are independent — 0.001 M HCl is a dilute strong acid; 15 M acetic acid i
 <!-- slide main-side -->
 ## Conjugates, and water's limits
 <!-- @main -->
-![A ladder of acids paired with conjugate bases, with H3O+ and OH- marked as water's limits](https://alembic.orz.how/d/doc-nduwm2170vqk =760x)
+![A ladder of acids paired with conjugate bases, with H3O+ and OH- marked as water's limits](../assets/conjugate_strength_ladder.svg =760x)
 <!-- @side -->
 Read a row across: **stronger acid → weaker conjugate base**.
 
@@ -113,7 +113,7 @@ Nothing stronger than H₃O⁺ or OH⁻ survives in water — the **leveling eff
 
 <!-- slide -->
 ## Hydrohalic acids: weaker bond → stronger acid
-![Hydrohalic acids](https://alembic.orz.how/d/doc-yevd1qvyjuxc =620x)
+![Hydrohalic acids](../assets/hydrohalic_acids_grid.svg =620x)
 HF ≪ HCl < HBr < HI
 
 <!-- slide -->
@@ -123,7 +123,7 @@ HF ≪ HCl < HBr < HI
 
 <!-- slide -->
 ## Oxoacid strength vs. oxygen count
-![Oxoacid strength trend](https://alembic.orz.how/d/doc-wbmec2sugalz =540x)
+![Oxoacid strength trend](../assets/oxoacid_strength_trend.svg =540x)
 
 <!-- slide -->
 ## Salt solutions: acidic, basic, or neutral?
@@ -159,7 +159,7 @@ NaBr, NaF, NH₄Cl
 <!-- slide main-side -->
 ## One electron pair, moving
 <!-- @main -->
-![Three Lewis acid-base reactions drawn as an electron pair moving from a lone pair to an empty orbital](https://alembic.orz.how/d/doc-swnkle1zecwv =700x)
+![Three Lewis acid-base reactions drawn as an electron pair moving from a lone pair to an empty orbital](../assets/lewis_acid_base.svg =700x)
 <!-- @side -->
 Find the **lone pair** — that species is the base.
 
@@ -187,7 +187,7 @@ Spotting a Lewis acid: incomplete octet (BF₃, AlCl₃) · metal cation (Al³�
 
 <!-- slide -->
 ## The pH scale
-![pH scale](https://alembic.orz.how/d/doc-vk4oda9lzz0x =820x)
+![pH scale](../assets/ph_scale.svg =820x)
 
 <!-- slide -->
 ## Strong acids/bases: no ICE table needed
@@ -217,7 +217,7 @@ For a base like B(OH)₂, [OH⁻] is DOUBLE the initial concentration.
 
 <!-- slide -->
 ## A natural pH indicator
-![Red cabbage indicator](https://alembic.orz.how/d/doc-k7r6dtfrc1np =620x)
+![Red cabbage indicator](../assets/red_cabbage_indicator.jpg =620x)
 
 <!-- slide step -->
 ## Worked example — salt hydrolysis

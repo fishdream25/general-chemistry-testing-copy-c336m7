@@ -50,7 +50,7 @@ graph TD
 
 A **buffer** contains appreciable amounts of a weak acid (or base) *together with* its conjugate — e.g., $\ce{CH3COOH}$ and $\ce{CH3COONa}$. **Both species are present simultaneously, so the acid component can neutralize added $\ce{OH-}$ while the base component neutralizes added $\ce{H+}$** — this dual capability is exactly why a buffer resists pH change.
 
-![A two-panel figure: the buffer's two reservoirs and the reactions each one runs, and a computed pH curve comparing a buffer with pure water as strong acid is added](https://alembic.orz.how/d/doc-brh8luefbm61)
+![A two-panel figure: the buffer's two reservoirs and the reactions each one runs, and a computed pH curve comparing a buffer with pure water as strong acid is added](../assets/buffer_action.svg)
 *Figure 16.1 — Panel (a): the acid reservoir consumes added $\ce{OH-}$, the base reservoir consumes added $\ce{H+}$, and each reaction converts one reservoir into the other. Panel (b): adding 0.10 mol of HCl to 1.0 L moves the buffer from pH 4.74 to 4.65 — while the same acid takes pure water from 7.00 to 1.00. Self-generated with matplotlib by solving the exact charge-balance equation at every point.*
 
 Two things in Figure 16.1(b) are worth separating, because they are usually run together.
@@ -176,7 +176,7 @@ $$[\ce{OH-}] = \frac{0.05\ \text{mol}}{1.0\ \text{L}} = 0.05\ \text{M} \quad\Rig
 
 ### Reading a titration curve
 
-![Titration curves comparing strong acid/strong base to weak acid/strong base](https://alembic.orz.how/d/doc-yyxmi7lnoc3a)
+![Titration curves comparing strong acid/strong base to weak acid/strong base](../assets/titration_curves.svg)
 *Figure 16.2 — Both curves start at 25.0 mL of 0.1000 M acid titrated with 0.1000 M NaOH. The strong-strong curve is symmetric around pH 7 at equivalence; the weak-strong curve starts higher, has a buffer region (Henderson-Hasselbalch applies) before equivalence, and reaches equivalence above pH 7 because the acetate ion hydrolyzes. Self-generated with matplotlib using real equilibrium chemistry (Ka = 1.8×10⁻⁵).*
 
 ==The equivalence point is where stoichiometrically equivalent amounts have been mixed — it is *not* necessarily pH 7, and it is not the same thing as the endpoint you observe.== Three combinations give three different equivalence pH values:
@@ -304,12 +304,12 @@ No ICE table, no concentrations — the half-equivalence trick converts a pH rea
 
 Figure 16.3 shows what an endpoint actually looks like — the faintest persistent pink, held for thirty seconds.
 
-![A titration flask showing the faint pink phenolphthalein endpoint color](https://alembic.orz.how/d/doc-ntxvr6frarag =500x)
+![A titration flask showing the faint pink phenolphthalein endpoint color](../assets/titration_endpoint.jpg =500x)
 *Figure 16.3 — Phenolphthalein turns from colorless to a persistent faint pink right at its color-change range (pH ≈ 8.3–10.0), which is exactly why it's a good choice for a weak acid/strong base titration whose equivalence point sits above pH 7 (as in the worked example above). Source: Kengksn, via Wikimedia Commons, CC BY-SA 4.0.*
 
 An **indicator's** color-change range is approximately $\ce{p}K_a\pm1$. {{sp[warning] Reminder}} the indicator's color-change range must fall within the titration curve's *steep* portion near the equivalence point — not just anywhere near it.
 
-![Color-change pH ranges for several common acid-base indicators](https://alembic.orz.how/d/doc-sif1hawg8dpf)
+![Color-change pH ranges for several common acid-base indicators](../assets/indicator_ranges.svg)
 *Figure 16.4 — Methyl orange and dinitrophenol change color at low pH (suited to titrations with an acidic equivalence point); phenolphthalein changes at high pH (suited to a basic equivalence point); litmus and bromothymol blue sit closer to neutral. Self-generated with matplotlib; approximate, commonly cited literature ranges.*
 
 :::: tabs
@@ -355,7 +355,7 @@ $$\ce{AgCl(s) <=> Ag+(aq) + Cl-(aq)} \qquad K_{sp}=[\ce{Ag+}][\ce{Cl-}]$$
 
 Figure 16.5 shows the consequence of a very small $K_{sp}$: the precipitate appears essentially the instant the two solutions meet.
 
-![A white precipitate of silver chloride forming in a test tube](https://alembic.orz.how/d/doc-x2ud9tte9cvs =450x)
+![A white precipitate of silver chloride forming in a test tube](../assets/silver_chloride_precipitate.jpg =450x)
 *Figure 16.5 — Silver chloride is one of the least soluble common salts ($K_{sp}=1.6\times10^{-10}$); mixing virtually any solution containing $\ce{Ag+}$ with one containing $\ce{Cl-}$ produces this characteristic white precipitate almost instantly. Source: Luisbrudna, via Wikimedia Commons, CC BY-SA 4.0.*
 
 :::: tabs
@@ -468,7 +468,7 @@ $$Q = (1.0\times10^{-3})(2.0\times10^{-3})^2 = (1.0\times10^{-3})(4.0\times10^{-
 
 The **common ion effect** — solubility decreases when a common ion is already present — is Le Chatelier's principle (Chapter 14) applied to a dissolution equilibrium.
 
-![Molar solubility of silver chloride plotted against the concentration of added chloride, falling by four orders of magnitude](https://alembic.orz.how/d/doc-26tojprxbzfj)
+![Molar solubility of silver chloride plotted against the concentration of added chloride, falling by four orders of magnitude](../assets/common_ion_effect.svg)
 *Figure 16.6 — Adding chloride is adding a product, so $\ce{AgCl(s) <=> Ag+ + Cl-}$ shifts left and less solid dissolves. Silver chloride is 79 times less soluble in 0.001 M $\ce{Cl-}$ than in pure water, and 7,900 times less soluble in 0.10 M. Self-generated with matplotlib by solving $s(s+C) = K_{sp}$ exactly at every point.*
 
 Figure 16.6 makes one point that is easy to state and easy to forget: ==the common ion changes the **solubility**, never $K_{sp}$ itself.== $K_{sp}$ is a constant at a given temperature. What changes is how the fixed product $[\ce{Ag+}][\ce{Cl-}]$ is divided between the two ions — pile in chloride and the silver concentration must fall to compensate.
@@ -542,7 +542,7 @@ $$\ce{Ag+(aq) + 2NH3(aq) <=> Ag(NH3)2+(aq)} \qquad K_f=\frac{[\ce{Ag(NH3)2+}]}{[
 
 Figure 16.7 shows the geometry the two examples above were computing with.
 
-![Schematic diagram of Ag+ combining with two NH3 ligands to form the complex ion Ag(NH3)2+](https://alembic.orz.how/d/doc-f0egzi7b78ea)
+![Schematic diagram of Ag+ combining with two NH3 ligands to form the complex ion Ag(NH3)2+](../assets/complex_ion_formation.svg)
 *Figure 16.7 — A metal cation (Lewis acid) accepts electron pairs from ligands (Lewis bases, here NH₃) to form a complex ion. Self-generated with matplotlib; schematic, not a literal Lewis structure.*
 
 ==Formation constants are enormous — $K_f$ for $\ce{Ag(NH3)2+}$ is $1.7\times10^{7}$== — which means that in the presence of ligand, essentially all the metal exists as the complex and the free ion concentration is vanishingly small. That is the fact both worked examples below turn on.

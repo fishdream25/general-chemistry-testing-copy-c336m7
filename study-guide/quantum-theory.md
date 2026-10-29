@@ -68,7 +68,7 @@ The relationship is a trade: at fixed speed, a longer wavelength means fewer wav
 
 $$c = \lambda\nu$$
 
-![The electromagnetic spectrum ordered by wavelength](https://alembic.orz.how/d/doc-vvfzhowzpt9v =680x)
+![The electromagnetic spectrum ordered by wavelength](../assets/em_spectrum_ladder.svg =680x)
 *Figure 7.1 — From shortest to longest wavelength: gamma rays, X-rays, ultraviolet, visible light (400–700 nm), infrared, microwave, and radio waves. Only visible light has sharp, universally agreed boundaries.*
 
 | Region | Typical wavelength |
@@ -154,7 +154,7 @@ That is below a typical 400 kJ/mol bond energy, which is exactly why visible lig
 
 Shine light on certain metals and electrons are ejected. The observation that broke classical physics is what *does not* happen: below a certain **threshold frequency**, no electrons come off at all, however intense the light. Brighter light of the wrong color achieves nothing. Figure 7.2 shows both the experiment and what a plot of the results looks like.
 
-![The photoelectric effect and the kinetic energy of ejected electrons](https://alembic.orz.how/d/doc-f443k3k8mib9 =820x)
+![The photoelectric effect and the kinetic energy of ejected electrons](../assets/photoelectric_effect.svg =820x)
 *Figure 7.2 — A wave picture predicts that any frequency should work if the light is bright enough, because energy would accumulate. It never does. A particle picture explains it immediately: one photon ejects one electron, and only if that single photon carries enough energy on its own.*
 
 The energy accounting is a single equation:
@@ -209,7 +209,7 @@ $$E_n = -R_H\left(\frac{1}{n^2}\right) \qquad R_H = 2.18\times10^{-18}\ \text{J}
 
 $n=1$ is the **ground state**, the lowest energy available. Higher values of $n$ are **excited states**. The energies are negative because the electron is bound: zero is defined as the electron being infinitely far away and free.
 
-![Hydrogen energy-level diagram showing an emission transition](https://alembic.orz.how/d/doc-e6ulr8tddimn =460x)
+![Hydrogen energy-level diagram showing an emission transition](../assets/bohr_energy_levels.svg =460x)
 *Figure 7.3 — As $n$ increases, energy levels crowd closer together. A transition from a higher to a lower level releases a photon whose energy equals the gap between levels.*
 
 A transition between levels changes the energy by
@@ -220,7 +220,7 @@ A negative $\Delta E$ (when $n_i > n_f$) means the atom lost energy and a photon
 
 Figure 7.4 shows the result in a real lamp.
 
-![A glowing hydrogen gas discharge lamp](https://alembic.orz.how/d/doc-yj63cct1its4 =360x)
+![A glowing hydrogen gas discharge lamp](../assets/hydrogen_lamp.jpg =360x)
 *Figure 7.4 — A real hydrogen discharge lamp: exciting hydrogen gas with an electric current produces the very emission spectrum Bohr's model explains, dominated in the visible range by the characteristic pink-violet Balmer-series glow.*
 
 :::: tabs
@@ -303,7 +303,7 @@ Wrap that standing wave around a circular orbit and a constraint appears, shown 
 
 $$2\pi r = n\lambda$$
 
-![Standing waves on a circular orbit, showing why only whole numbers of wavelengths fit](https://alembic.orz.how/d/doc-mx5cyb8nfkub =800x)
+![Standing waves on a circular orbit, showing why only whole numbers of wavelengths fit](../assets/standing_wave_orbit.svg =800x)
 *Figure 7.5 — Only whole-number wavelength counts survive; anything else fails to close on itself and destroys itself by interference. Bohr had to assume that $n$ was an integer. De Broglie showed it could not be anything else.*
 
 ### Uncertainty, and what replaces the orbit
@@ -314,7 +314,7 @@ The **Heisenberg uncertainty principle** states that the position and the moment
 
 What survives is a probability. The **electron density**, $\psi^2$, gives the probability of finding the electron at each point in space. An **atomic orbital** is that probability distribution for an electron of a given energy — a region where the electron is likely to be, with a characteristic energy and shape. Figure 7.6 sets it beside the orbit it replaces.
 
-![A Bohr orbit contrasted with a quantum-mechanical orbital](https://alembic.orz.how/d/doc-273ylb0na87t =800x)
+![A Bohr orbit contrasted with a quantum-mechanical orbital](../assets/orbit_vs_orbital.svg =800x)
 *Figure 7.6 — This is the correction Chapter 2 promised. An **orbit** is a path: a definite radius, a definite location at each instant. An **orbital** is a probability cloud: no path, no definite location, only a distribution. The dashed boundary is conventional — it encloses the region where the electron is found 90% of the time.*
 
 :::warning
@@ -424,7 +424,7 @@ Check against rule 4: $2n^2 = 2(3)^2 = 18$. ✓
 
 ### Orbital shapes and energies
 
-![Simplified 2D cross-sections of orbital shapes](https://alembic.orz.how/d/doc-07of6mkq89f0 =620x)
+![Simplified 2D cross-sections of orbital shapes](../assets/orbital_shapes.svg =620x)
 *Figure 7.7 — $s$ orbitals are spherical; $p$ orbitals have two lobes; $d$ orbitals typically have four lobes (the $d_{z^2}$ orbital is a notable exception with a different shape).*
 
 Figure 7.7 shows the shapes. All $s$ orbitals are spherical, growing larger as $n$ increases. Each $p$ orbital is two lobes on opposite sides of the nucleus. The $d$ orbitals are more complicated; the $f$ orbitals matter for elements beyond $Z=57$ and are hard to draw at all. General chemistry stops at $l=3$.
@@ -435,7 +435,7 @@ $$1s < 2s = 2p < 3s = 3p = 3d < \dots$$
 
 In any atom with more than one electron, inner electrons **screen** the nucleus unevenly, and the subshells within a shell separate. The result is an order that is not simply 1, 2, 3.
 
-![The diagonal rule for subshell filling order](https://alembic.orz.how/d/doc-8st1481tw079 =800x)
+![The diagonal rule for subshell filling order](../assets/aufbau_diagonal_rule.svg =800x)
 *Figure 7.8 — The diagonal rule reconstructs the filling order from scratch, so it does not have to be memorized: write the subshells in a grid by $n$ and $l$, then read the diagonal arrows. Note where $4s$ falls — before $3d$, not after. That single inversion is why the periodic table has a d-block sitting where it does.*
 
 $$1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < \dots$$
@@ -448,7 +448,7 @@ $$1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < \dots$$
 
 **The Aufbau principle:** build an atom by adding electrons one at a time to the lowest available orbital, following Figure 7.8's order.
 
-![Orbital-box diagrams for hydrogen through neon](https://alembic.orz.how/d/doc-cjnvn0a2nc65 =820x)
+![Orbital-box diagrams for hydrogen through neon](../assets/orbital_filling_h_to_ne.svg =820x)
 *Figure 7.9 — The first ten elements built one electron at a time. Each introduces a rule: helium shows Pauli forcing opposite spins in a shared orbital; lithium shows a full shell pushing the next electron outward; carbon shows Hund's rule keeping the two $2p$ electrons in separate orbitals; oxygen shows pairing beginning only once no empty $2p$ orbital remains.*
 
 Two magnetic terms follow directly from the filling. **Paramagnetic** substances contain unpaired electron spins and are attracted by a magnet; **diamagnetic** substances have no unpaired spins and are weakly repelled. Reading Figure 7.9: helium and beryllium are diamagnetic, while carbon, nitrogen and oxygen are paramagnetic — a magnetic measurement can confirm an electron configuration.

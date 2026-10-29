@@ -45,12 +45,12 @@ graph TD
 
 <!-- slide -->
 ## Lewis dot symbols
-![Dot symbols across period 2](https://alembic.orz.how/d/doc-lbu7fwuv3if6 =800x)
+![Dot symbols across period 2](../assets/lewis_dot_symbols.svg =800x)
 Dots equal the group number, placed singly first — the unpaired ones are what bond
 
 <!-- slide -->
 ## Ionic vs. covalent
-![Ionic vs covalent](https://alembic.orz.how/d/doc-x5he9r8g1sb3 =620x)
+![Ionic vs covalent](../assets/ionic_vs_covalent_bond.svg =620x)
 Ionic: the electron is handed over · Covalent: **2 electrons** shared, one from each atom
 
 <!-- slide -->
@@ -61,11 +61,11 @@ Energy to separate 1 mol solid ionic compound into gaseous ions
 
 <!-- slide -->
 ## Electronegativity trend
-![Electronegativity trend](https://alembic.orz.how/d/doc-cev1ex7bntx1 =560x)
+![Electronegativity trend](../assets/electronegativity_trend.svg =560x)
 
 <!-- slide -->
 ## Bond type is a continuum
-![Bond type vs electronegativity difference](https://alembic.orz.how/d/doc-wd1w8i1igvuv =800x)
+![Bond type vs electronegativity difference](../assets/bond_type_continuum.svg =800x)
 $<0.3$ nonpolar covalent · $0.3$–$2.0$ polar covalent · $\ge 2.0$ ionic — conventions, not physics
 
 <!-- slide step -->
@@ -79,7 +79,7 @@ $<0.3$ nonpolar covalent · $0.3$–$2.0$ polar covalent · $\ge 2.0$ ionic — 
 
 <!-- slide -->
 ## Four steps, worked
-![Lewis structure procedure for CO2](https://alembic.orz.how/d/doc-alvywz37gug7 =840x)
+![Lewis structure procedure for CO2](../assets/lewis_structure_steps.svg =840x)
 Count the electrons before drawing, and count them again at the end
 
 <!-- slide -->
@@ -91,7 +91,7 @@ Count the electrons before drawing, and count them again at the end
 
 <!-- slide -->
 ## Examples and resonance
-![Lewis structures and resonance](https://alembic.orz.how/d/doc-zkkhf1r016g9 =680x)
+![Lewis structures and resonance](../assets/lewis_and_resonance.svg =680x)
 Ozone's formal charges (red) sum to zero — the molecule is neutral
 
 <!-- slide -->
@@ -110,7 +110,7 @@ Resonance structures are a human bookkeeping device — the real molecule has on
 
 <!-- slide -->
 ## Three ways the octet rule fails
-![Incomplete, odd-electron, expanded](https://alembic.orz.how/d/doc-3frvzvng4xbi =840x)
+![Incomplete, odd-electron, expanded](../assets/octet_exceptions.svg =840x)
 Only period 3 and beyond can expand — a second-period atom never exceeds eight
 
 <!-- slide -->
@@ -121,12 +121,12 @@ Only period 3 and beyond can expand — a second-period atom never exceeds eight
 
 <!-- slide -->
 ## Covalent network solids
-![Diamond and graphite](https://alembic.orz.how/d/doc-yblkt9cwhnjl =520x)
+![Diamond and graphite](../assets/diamond_graphite.jpg =520x)
 Same element (carbon), different bonding arrangement → dramatically different properties
 
 <!-- slide -->
 ## Why broken minus formed
-![Bond enthalpy energy cycle](https://alembic.orz.how/d/doc-hrddlgtytk11 =800x)
+![Bond enthalpy energy cycle](../assets/bond_enthalpy_cycle.svg =800x)
 Break everything into atoms, then rebuild — valid because enthalpy is a state function
 
 <!-- slide -->

@@ -47,7 +47,7 @@ graph TD
 <!-- slide -->
 ## Wave properties
 $$u=\lambda\nu \qquad c=\lambda\nu\ (\text{light})$$
-![EM spectrum](https://alembic.orz.how/d/doc-vvfzhowzpt9v =620x)
+![EM spectrum](../assets/em_spectrum_ladder.svg =620x)
 
 <!-- slide step -->
 ## Worked example — frequency and wavelength
@@ -67,7 +67,7 @@ $$E=h\nu=\frac{hc}{\lambda} \qquad h=6.63\times10^{-34}\,\text{J·s}$$
 
 <!-- slide -->
 ## The photoelectric effect: what breaks the wave picture
-![Threshold frequency and the KE plot](https://alembic.orz.how/d/doc-f443k3k8mib9 =820x)
+![Threshold frequency and the KE plot](../assets/photoelectric_effect.svg =820x)
 Brighter light of the wrong frequency ejects **nothing** — one photon, one electron
 
 <!-- slide -->
@@ -81,11 +81,11 @@ $W$ = work function (energy to free the electron); excess becomes kinetic energy
 <!-- slide -->
 ## Bohr's model
 $$E_n=-R_H\left(\frac{1}{n^2}\right) \qquad \Delta E=h\nu=R_H\left(\frac{1}{n_i^2}-\frac{1}{n_f^2}\right)$$
-![Bohr energy levels](https://alembic.orz.how/d/doc-e6ulr8tddimn =440x)
+![Bohr energy levels](../assets/bohr_energy_levels.svg =440x)
 
 <!-- slide -->
 ## A real emission spectrum
-![Hydrogen lamp](https://alembic.orz.how/d/doc-yj63cct1its4 =300x)
+![Hydrogen lamp](../assets/hydrogen_lamp.jpg =300x)
 Exciting hydrogen produces its characteristic line emission spectrum
 
 <!-- slide step -->
@@ -96,7 +96,7 @@ $n_i=5\to n_f=2$
 
 <!-- slide -->
 ## Why the energies are quantized
-![Standing waves on an orbit](https://alembic.orz.how/d/doc-mx5cyb8nfkub =800x)
+![Standing waves on an orbit](../assets/standing_wave_orbit.svg =800x)
 A wave on a closed loop must join up with itself: $2\pi r = n\lambda$, with $n$ a whole number
 
 <!-- slide -->
@@ -120,7 +120,7 @@ Heisenberg uncertainty principle: position and momentum cannot both be known wit
 
 <!-- slide -->
 ## An orbital is not an orbit
-![Bohr orbit vs probability cloud](https://alembic.orz.how/d/doc-273ylb0na87t =800x)
+![Bohr orbit vs probability cloud](../assets/orbit_vs_orbital.svg =800x)
 The correction Chapter 2 promised: no path, no position — only a probability distribution
 
 <!-- slide -->
@@ -132,7 +132,7 @@ The correction Chapter 2 promised: no path, no position — only a probability d
 
 <!-- slide -->
 ## Orbital shapes
-![Orbital shapes](https://alembic.orz.how/d/doc-07of6mkq89f0 =560x)
+![Orbital shapes](../assets/orbital_shapes.svg =560x)
 
 <!-- slide step -->
 ## Worked example — quantum numbers for 3p
@@ -141,12 +141,12 @@ $n=3, l=1, m_l\in\{-1,0,1\}, m_s=\pm\tfrac12$
 
 <!-- slide -->
 ## The diagonal rule
-![Aufbau filling order](https://alembic.orz.how/d/doc-8st1481tw079 =800x)
+![Aufbau filling order](../assets/aufbau_diagonal_rule.svg =800x)
 Read the arrows and the order builds itself — note $4s$ before $3d$
 
 <!-- slide -->
 ## Building the first ten elements
-![Orbital boxes H to Ne](https://alembic.orz.how/d/doc-cjnvn0a2nc65 =820x)
+![Orbital boxes H to Ne](../assets/orbital_filling_h_to_ne.svg =820x)
 Pauli forces opposite spins in a shared box · Hund keeps them apart until it cannot
 
 <!-- slide -->

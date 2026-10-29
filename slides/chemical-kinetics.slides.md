@@ -96,12 +96,12 @@ Only first-order half-life is truly constant.
 
 <!-- slide -->
 ## Watch the half-lives, not the curve shape
-![Concentration versus time for zero-, first- and second-order reactions with successive half-lives marked](https://alembic.orz.how/d/doc-7eqm4ks0c9yy =1000x)
+![Concentration versus time for zero-, first- and second-order reactions with successive half-lives marked](../assets/reaction_order_half_lives.svg =1000x)
 Halving · constant · doubling — that pattern names the order on its own.
 
 <!-- slide -->
 ## Determining order graphically
-![Reaction order linearization](https://alembic.orz.how/d/doc-5v1qj28f7fkk =900x)
+![Reaction order linearization](../assets/reaction_order_linearization.svg =900x)
 
 <!-- slide step -->
 ## Worked example — first-order half-life
@@ -131,7 +131,7 @@ $$k = Ae^{-E_a/RT}$$
 
 <!-- slide -->
 ## Why heat speeds a reaction up
-![Energy distributions at two temperatures against the activation energy, and a productive versus unproductive collision](https://alembic.orz.how/d/doc-exqbr9jgfzzr =1000x)
+![Energy distributions at two temperatures against the activation energy, and a productive versus unproductive collision](../assets/collision_theory.svg =1000x)
 Heating does **not** lower $E_a$ — it moves more collisions past it. Orientation matters too.
 
 <!-- slide 2col -->
@@ -140,7 +140,7 @@ Heating does **not** lower $E_a$ — it moves more collisions past it. Orientati
 $$\ln\frac{k_1}{k_2} = \frac{E_a}{R}\left(\frac{1}{T_2}-\frac{1}{T_1}\right)$$
 - Same strategy as Clausius–Clapeyron (Ch. 11)
 <!-- @right -->
-![Arrhenius plot](https://alembic.orz.how/d/doc-kzxvmdz9qm3y =480x)
+![Arrhenius plot](../assets/arrhenius_plot.svg =480x)
 
 <!-- slide step -->
 ## Worked example — finding Ea
@@ -174,7 +174,7 @@ A reaction can have large $E_a$ and still be strongly exothermic.
 
 <!-- slide -->
 ## Potential-energy profile
-![Potential energy profile](https://alembic.orz.how/d/doc-doa07ogvyzww =620x)
+![Potential energy profile](../assets/potential_energy_profile.svg =620x)
 
 <!-- slide step -->
 ## Worked example — mechanism analysis
@@ -212,12 +212,12 @@ The final rate law may contain only **reactants, products, or catalysts** — sp
 - Speeds up forward AND reverse
 - Not consumed; not in the overall equation
 <!-- @side -->
-![Catalytic converter interior](https://alembic.orz.how/d/doc-9rufwejc26zv =340x)
+![Catalytic converter interior](../assets/catalytic_converter.jpg =340x)
 
 <!-- slide main-side -->
 ## Lower peak, same endpoints
 <!-- @main -->
-![Catalyzed and uncatalyzed potential-energy curves for the same reaction](https://alembic.orz.how/d/doc-lse1x9617tfm =700x)
+![Catalyzed and uncatalyzed potential-energy curves for the same reaction](../assets/catalyzed_vs_uncatalyzed.svg =700x)
 <!-- @side -->
 Forward barrier **90 → 38** kJ/mol.
 
@@ -234,7 +234,7 @@ $\Delta H$ is unchanged, so a catalyst **cannot shift an equilibrium**. It only 
 - **Homogeneous** — same phase
 - **Enzyme** — biological, lock-and-key
 <!-- @right -->
-![Enzyme lock and key](https://alembic.orz.how/d/doc-q8x0kid1vi2e =420x)
+![Enzyme lock and key](../assets/enzyme_lock_and_key.svg =420x)
 
 <!-- slide template=closing -->
 # One thread: rate is governed by the barrier

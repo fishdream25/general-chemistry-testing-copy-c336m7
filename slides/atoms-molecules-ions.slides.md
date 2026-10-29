@@ -59,21 +59,21 @@ graph TD
 | Electron | $9.109\times10^{-28}$ | $-1$ |
 | Proton | $1.673\times10^{-24}$ | $+1$ |
 | Neutron | $1.675\times10^{-24}$ | $0$ |
-![Particle masses](https://alembic.orz.how/d/doc-dyppu36xbnr6 =420x)
+![Particle masses](../assets/subatomic_particle_masses.svg =420x)
 
 <!-- slide -->
 ## A schematic atom
-![Atom structure](https://alembic.orz.how/d/doc-6fy5f5l8wgbv =380x)
+![Atom structure](../assets/atom_structure.svg =380x)
 Nucleus (protons + neutrons) surrounded by electrons — over 99.94% of mass is in the nucleus
 
 <!-- slide -->
 ## Three kinds of radioactive emission
-![Alpha, beta and gamma compared](https://alembic.orz.how/d/doc-e1824q16slq8 =720x)
+![Alpha, beta and gamma compared](../assets/radiation_types.svg =720x)
 $\alpha$ = helium nucleus (+2) · $\beta$ = fast electron (−1) · $\gamma$ = high-energy photon (0)
 
 <!-- slide step -->
 ## Rutherford's gold-foil experiment
-![Thomson prediction vs. Rutherford result](https://alembic.orz.how/d/doc-h1k7wouaepuk =600x)
+![Thomson prediction vs. Rutherford result](../assets/geiger_marsden_expectation_result.svg =600x)
 - **Thomson model predicted:** every particle sails through{{attrs[.fragment]}}
 - **Actually observed:** a few deflected sharply, a rare few bounced back{{attrs[.fragment]}}
 - Only a small, dense, positively charged nucleus explains it{{attrs[.fragment]}}
@@ -85,7 +85,7 @@ $$Z=\text{protons} \qquad A=\text{protons}+\text{neutrons}$$
 
 <!-- slide -->
 ## Reading the notation
-![Isotope notation and the isotopes of carbon](https://alembic.orz.how/d/doc-75ino17y5bdh =700x)
+![Isotope notation and the isotopes of carbon](../assets/isotope_notation.svg =700x)
 Change $Z$ and it is a different element · change only the neutrons and it is the same element, a different isotope
 
 <!-- slide step -->
@@ -96,7 +96,7 @@ Mass number 235, atomic number 92
 
 <!-- slide -->
 ## The periodic table
-![Periodic table with categories and named families](https://alembic.orz.how/d/doc-rgp5d1marjmw =860x)
+![Periodic table with categories and named families](../assets/periodic_table_overview.svg =860x)
 Rows are **periods** · columns are **groups** — and elements in one group behave alike
 
 <!-- slide -->
@@ -119,11 +119,11 @@ Rows are **periods** · columns are **groups** — and elements in one group beh
 ## Cations and anions
 - **Cation** — lost electron(s), net positive: $\ce{Na+}$
 - **Anion** — gained electron(s), net negative: $\ce{Cl-}$
-![Table salt crystals](https://alembic.orz.how/d/doc-0gzt5y71lgay =380x)
+![Table salt crystals](../assets/nacl_salt.jpg =380x)
 
 <!-- slide -->
 ## The group number gives you the charge
-![Ion charges by group](https://alembic.orz.how/d/doc-bpsbb2ulelh6 =800x)
+![Ion charges by group](../assets/ion_charges_by_group.svg =800x)
 Metals on the left lose electrons · nonmetals on the right gain them · transition metals vary, hence Roman numerals
 
 <!-- slide step -->
@@ -140,7 +140,7 @@ Chlorine (Z = 17) gains 1 electron
 
 <!-- slide -->
 ## Building an ionic formula: charges must cancel
-![Charge balance, with and without reduction](https://alembic.orz.how/d/doc-pa7t3yjb1qt2 =800x)
+![Charge balance, with and without reduction](../assets/ionic_formula_charge_balance.svg =800x)
 Cross the charges into subscripts, reduce if they share a factor, then check the sum is zero
 
 <!-- slide step -->
@@ -154,7 +154,7 @@ $\ce{Pb^4+}$ and $\ce{O^2-}$
 
 <!-- slide -->
 ## First decide which system
-![Naming decision tree](https://alembic.orz.how/d/doc-67a925ta4uk4 =840x)
+![Naming decision tree](../assets/naming_decision_tree.svg =840x)
 Classify first, name second — Roman numerals and Greek prefixes are never mixed
 
 <!-- slide -->

@@ -59,7 +59,7 @@ $\ce{^{125}_{53}I}$ captures an electron
 
 <!-- slide -->
 ## The band of stability
-![Band of stability](https://alembic.orz.how/d/doc-vgta6yl9vssk =560x)
+![Band of stability](../assets/band_of_stability.svg =560x)
 
 <!-- slide -->
 ## Nuclear stability patterns
@@ -95,7 +95,7 @@ Atomic mass 55.9349 amu
 <!-- slide main-side -->
 ## Which decay, and why
 <!-- @main -->
-![How each decay mode moves a nuclide on the neutron-proton chart, and which mode a nuclide chooses](https://alembic.orz.how/d/doc-70zujhl4yuic =760x)
+![How each decay mode moves a nuclide on the neutron-proton chart, and which mode a nuclide chooses](../assets/decay_modes_nz.svg =760x)
 <!-- @side -->
 A nucleus decays in whichever way moves it **toward the band**.
 
@@ -112,7 +112,7 @@ Nothing new mathematically — N replaces concentration
 
 <!-- slide -->
 ## Radiocarbon dating
-![Carbon-14 decay](https://alembic.orz.how/d/doc-nf5knn7i8wkv =560x)
+![Carbon-14 decay](../assets/carbon14_decay.svg =560x)
 
 <!-- slide step -->
 ## Worked example — Dead Sea Scrolls
@@ -132,7 +132,7 @@ $$\ce{^235_92U + ^1_0n -> ^90_38Sr + ^143_54Xe + 3\,^1_0n}$$
 <!-- slide main-side -->
 ## Chain reaction, and critical mass
 <!-- @main -->
-![The branching structure of a fission chain reaction, and subcritical versus critical samples](https://alembic.orz.how/d/doc-l0cbioaln44j =760x)
+![The branching structure of a fission chain reaction, and subcritical versus critical samples](../assets/fission_chain_reaction.svg =760x)
 <!-- @side -->
 One neutron in, three out — so fissions go **1, 3, 9, 27**, growing as $3^n$.
 
@@ -142,12 +142,12 @@ Whether that happens depends on **capture versus escape**.
 
 <!-- slide -->
 ## Why both fission AND fusion release energy
-![Binding energy curve](https://alembic.orz.how/d/doc-ql9ytatbl2u5 =620x)
+![Binding energy curve](../assets/binding_energy_curve.svg =620x)
 Both move nuclei TOWARD the Fe-56 peak — from opposite directions
 
 <!-- slide -->
 ## Fission in practice
-![Nuclear power plant](https://alembic.orz.how/d/doc-rgmm9f6zbpgj =520x)
+![Nuclear power plant](../assets/nuclear_power_plant.jpg =520x)
 Atomic bomb: 2 subcritical pieces merge, explosive chain reaction. Reactor: subcritical pieces + control rods, mild controlled fission.
 
 <!-- slide -->
@@ -157,7 +157,7 @@ Requires extremely high temperature to overcome nuclear repulsion
 
 <!-- slide -->
 ## Fusion in the Sun
-![The Sun](https://alembic.orz.how/d/doc-gemw1ifja0w1 =460x)
+![The Sun](../assets/the_sun.jpg =460x)
 H fuses into He at ~15 million K — the Sun's energy source, and the reaction basis of a hydrogen bomb.
 
 <!-- slide template=closing -->

@@ -97,7 +97,7 @@ $$\ce{HCO3-(aq) + H2O(l) <=> H3O+(aq) + CO3^2-(aq)} \qquad K_{a_2}=\frac{[\ce{H3
 
 Figure 15.1 is the crudest version of the measurement this whole chapter refines into a number.
 
-![Two strips of litmus paper showing the color change from blue (basic) to pink/red (acidic)](https://alembic.orz.how/d/doc-oxsm2g9atdlq =700x)
+![Two strips of litmus paper showing the color change from blue (basic) to pink/red (acidic)](../assets/litmus_paper_test.jpg =700x)
 *Figure 15.1 — Litmus paper is a simple acid-base indicator: blue litmus turns red/pink in acid, and red litmus turns blue in base. Source: Chemicalinterest, via Wikimedia Commons, public domain.*
 
 ### Water autoionizes: K_w, pH, and pOH
@@ -152,7 +152,7 @@ The cola is roughly **320 times** more acidic — not twice, as the numbers 2.5 
 
 **Strong** acids and bases are strong electrolytes: they ionize **completely**. **Weak** ones are weak electrolytes: they ionize only **partially**, reaching an equilibrium with most of the acid still intact.
 
-![Two beakers of equally concentrated acid drawn at the particle level: the strong acid fully ionized into H+ and A-, the weak acid almost entirely intact](https://alembic.orz.how/d/doc-sz0ajp5y50sc)
+![Two beakers of equally concentrated acid drawn at the particle level: the strong acid fully ionized into H+ and A-, the weak acid almost entirely intact](../assets/strong_vs_weak_ionization.svg)
 *Figure 15.2 — Both beakers hold 0.10 M acid. The strong acid has no intact molecules left; the weak acid has almost nothing but intact molecules, and its pH is nearly two units higher as a result. Self-generated with matplotlib; pH values computed from $K_a(\ce{CH3COOH}) = 1.8\times10^{-5}$.*
 
 Figure 15.2 exists to kill one specific confusion. ==**Strong** describes how *completely* an acid ionizes; **concentrated** describes how *much* acid is present.== They are independent: 0.001 M HCl is a strong acid at low concentration, and 15 M acetic acid is a weak acid at high concentration. A dilute strong acid can easily have a higher pH than a concentrated weak one.
@@ -173,7 +173,7 @@ Two entries on the weak-acid list are worth pausing on: $\ce{HSO4-}$ is an **ani
 - **A stronger acid has a weaker conjugate base.** If an acid gives up its proton eagerly, the resulting base has little appetite to take it back. $\ce{Cl-}$, the conjugate base of the very strong $\ce{HCl}$, is so weak that a chloride solution is neutral.
 - **$\ce{H3O+}$ is the strongest acid, and $\ce{OH-}$ the strongest base, that can exist in water.** Anything stronger simply reacts with the solvent. This is the **leveling effect**: HCl and HClO₄ have very different intrinsic strengths, but in water both are 100% converted to $\ce{H3O+}$, so both behave identically. Water levels them to its own limit.
 
-![A ladder of acids paired with their conjugate bases, with H3O+ and OH- marked as water's upper and lower limits](https://alembic.orz.how/d/doc-nduwm2170vqk)
+![A ladder of acids paired with their conjugate bases, with H3O+ and OH- marked as water's upper and lower limits](../assets/conjugate_strength_ladder.svg)
 *Figure 15.3 — Reading a row across shows the inverse relationship: strong acids at the top pair with negligible bases, and very weak acids at the bottom pair with appreciable ones. The two highlighted rows are water's own conjugate pair, which bracket everything that can exist in aqueous solution. Self-generated with matplotlib.*
 
 Figure 15.3 also explains a fact you will use constantly in §15.2: **the conjugate base of a *weak* acid is strong enough to matter**, which is why an acetate solution is basic — while the conjugate base of a *strong* acid is not, which is why a chloride solution is not.
@@ -201,7 +201,7 @@ $$\ce{HF} \ll \ce{HCl} < \ce{HBr} < \ce{HI}$$
 
 Figure 15.4 lays the four out in order; what changes down the column is the size of the halogen, and with it the length and strength of the H–X bond.
 
-![Structures of HF, HCl, HBr, and HI](https://alembic.orz.how/d/doc-yevd1qvyjuxc =700x)
+![Structures of HF, HCl, HBr, and HI](../assets/hydrohalic_acids_grid.svg =700x)
 *Figure 15.4 — Bond strength decreases down the halogen group as atomic radius increases, so acid strength increases in the same order. Self-generated with RDKit.*
 
 {{sp[warning] This trend fights your instincts}} Fluorine is the most electronegative halogen, so the H–F bond is the most polar — which would suggest HF should be the strongest acid. It is the **weakest** by a wide margin. Polarity is not what decides here; **bond strength** is. The H–F bond is short and very strong (about 570 kJ/mol versus 300 kJ/mol for H–I), and a proton that cannot be detached is not an acid however polar the bond. Electronegativity wins the oxoacid argument below; bond strength wins this one.
@@ -217,7 +217,7 @@ For **oxoacids**, two separate trends apply — keep them distinct:
 
 Figure 15.5 puts numbers on the second trend. Remember that a *lower* pKa means a *stronger* acid, so the descending bars are ascending strength.
 
-![Bar chart of approximate pKa1 values for HClO, HClO2, HClO3, HClO4, decreasing as oxygen count increases](https://alembic.orz.how/d/doc-wbmec2sugalz)
+![Bar chart of approximate pKa1 values for HClO, HClO2, HClO3, HClO4, decreasing as oxygen count increases](../assets/oxoacid_strength_trend.svg)
 *Figure 15.5 — $\ce{HClO4} > \ce{HClO3} > \ce{HClO2} > \ce{HClO}$: with chlorine as the central atom throughout, each additional oxygen pulls more electron density away from the O–H bond, making the acid stronger (lower pKa). Self-generated with matplotlib; approximate, commonly cited literature pKa1 values.*
 
 :::: tabs
@@ -348,7 +348,7 @@ The two definitions nest rather than compete:
 - **Every Brønsted base is a Lewis base.** To accept a proton you must have a lone pair to attach it with — which is exactly what a Lewis base is. The Brønsted view just names the pair's destination.
 - **Not every Lewis acid is a Brønsted acid.** $\ce{BF3}$ has no proton to donate, so it is not a Brønsted acid at all, yet it accepts an electron pair readily. Brønsted acidity is the special case where the electron-pair acceptor happens to be $\ce{H+}$.
 
-![Three reactions drawn as an electron pair moving from a lone pair on the donor to an empty orbital on the acceptor](https://alembic.orz.how/d/doc-swnkle1zecwv)
+![Three reactions drawn as an electron pair moving from a lone pair on the donor to an empty orbital on the acceptor](../assets/lewis_acid_base.svg)
 *Figure 15.6 — In each row the Lewis base carries a lone pair and the Lewis acid has somewhere to put it. None of the three transfers a proton, which is precisely why the Brønsted definition cannot describe them. Self-generated with matplotlib.*
 
 Figure 15.6 gives the recognition procedure in visual form: **find the lone pair, then find the atom that is short of electrons.** The lone pair identifies the base; whatever it attacks is the acid.
@@ -409,7 +409,7 @@ For each, find the lone pair (that species is the base) and the electron-poor ce
 
 Figure 15.7 is worth looking at before doing any calculation, simply to calibrate what answers are plausible — a pH of 15 or −2 for an ordinary solution should look wrong immediately.
 
-![The pH scale with common household substances marked](https://alembic.orz.how/d/doc-vk4oda9lzz0x =800x)
+![The pH scale with common household substances marked](../assets/ph_scale.svg =800x)
 *Figure 15.7 — pH spans a huge range of [H⁺] values (14 orders of magnitude) compressed into one logarithmic scale. Self-generated with matplotlib; approximate, commonly cited pH values.*
 
 ==Four situations, one method.== Every one of them is a Chapter 14 ICE table; what differs is only which constant you use, and whether the table is needed at all. Before calculating anything, ask which situation you are in:
@@ -600,7 +600,7 @@ This falls straight out of the definitions — multiply the $K_a$ expression for
 
 Figure 15.8 is the same idea as Figure 15.1 but continuous rather than binary.
 
-![Red cabbage extract turns a range of colors from red (acidic) through purple to blue-green (basic), shown across several test tubes](https://alembic.orz.how/d/doc-k7r6dtfrc1np =700x)
+![Red cabbage extract turns a range of colors from red (acidic) through purple to blue-green (basic), shown across several test tubes](../assets/red_cabbage_indicator.jpg =700x)
 *Figure 15.8 — Red cabbage extract (anthocyanin pigments) is a natural pH indicator spanning the same acid-to-base range as the pH scale above — visible, continuous confirmation that pH is a continuum, not just "acidic" vs. "basic." Source: KennyMex, via Wikimedia Commons, CC BY-SA 4.0.*
 
 :::: tabs

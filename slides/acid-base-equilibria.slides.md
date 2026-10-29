@@ -57,7 +57,7 @@ graph TD
 <!-- slide main-side -->
 ## Two reservoirs — and a limit
 <!-- @main -->
-![The buffer's two reservoirs and a computed pH curve showing the buffer holding and then failing](https://alembic.orz.how/d/doc-brh8luefbm61 =740x)
+![The buffer's two reservoirs and a computed pH curve showing the buffer holding and then failing](../assets/buffer_action.svg =740x)
 <!-- @side -->
 The acid reservoir eats added OH⁻; the base reservoir eats added H⁺.
 
@@ -95,7 +95,7 @@ Same buffer. Add 0.10 mol HCl to 1.0 L.
 
 <!-- slide -->
 ## Titration curves: strong vs. weak acid
-![Titration curves](https://alembic.orz.how/d/doc-yyxmi7lnoc3a =680x)
+![Titration curves](../assets/titration_curves.svg =680x)
 
 <!-- slide -->
 ## Equivalence pH is not always 7
@@ -129,11 +129,11 @@ At **half**-equivalence, $[\mathrm{A^-}]=[\mathrm{HA}]$ and $\mathrm{pH}=\mathrm
 
 <!-- slide -->
 ## A titration endpoint
-![Titration endpoint](https://alembic.orz.how/d/doc-ntxvr6frarag =380x)
+![Titration endpoint](../assets/titration_endpoint.jpg =380x)
 
 <!-- slide -->
 ## Choosing an indicator
-![Indicator ranges](https://alembic.orz.how/d/doc-sif1hawg8dpf =680x)
+![Indicator ranges](../assets/indicator_ranges.svg =680x)
 :::warning
 The indicator's color-change range (≈pKa±1) must fall within the curve's STEEP region near equivalence.
 :::
@@ -144,7 +144,7 @@ The indicator's color-change range (≈pKa±1) must fall within the curve's STEE
 <!-- slide -->
 ## Ksp: the same K_c framework, new context
 $$\text{AgCl(s)} \rightleftharpoons \text{Ag}^+\text{(aq)} + \text{Cl}^-\text{(aq)} \qquad K_{sp}=[Ag^+][Cl^-]$$
-![Silver chloride precipitate](https://alembic.orz.how/d/doc-x2ud9tte9cvs =380x)
+![Silver chloride precipitate](../assets/silver_chloride_precipitate.jpg =380x)
 
 <!-- slide step -->
 ## Worked example — solubility → Ksp
@@ -168,7 +168,7 @@ Mix equal volumes of 2.0×10⁻⁴ M AgNO₃ and 2.0×10⁻⁴ M NaCl. K_sp(AgCl
 <!-- slide main-side -->
 ## The common ion effect, quantified
 <!-- @main -->
-![Molar solubility of AgCl falling by four orders of magnitude as chloride is added](https://alembic.orz.how/d/doc-26tojprxbzfj =700x)
+![Molar solubility of AgCl falling by four orders of magnitude as chloride is added](../assets/common_ion_effect.svg =700x)
 <!-- @side -->
 Adding Cl⁻ is adding a **product** — the dissolution shifts left.
 
@@ -189,7 +189,7 @@ Mn(OH)₂, K_sp=2×10⁻¹³. What pH limits [Mn²⁺] to 1.8×10⁻⁶ M?
 
 <!-- slide -->
 ## Complex ions and Kf
-![Complex ion formation](https://alembic.orz.how/d/doc-f0egzi7b78ea =600x)
+![Complex ion formation](../assets/complex_ion_formation.svg =600x)
 Larger K_f → more stable complex
 
 <!-- slide -->

@@ -91,7 +91,7 @@ $$\ce{^{25}_{12}Mg + ^4_2He -> ^1_1H + ^{28}_{13}Al}$$
 
 {{sp[warning] Remember these three}} certain "magic numbers" of protons/neutrons (2, 8, 20, 50, 82, 126) confer extra stability; even-even nuclei (both proton and neutron counts even) are generally more stable than odd-odd; and **every** isotope with $Z>83$ is radioactive.
 
-![The band of stability: neutron number vs. proton number for representative stable nuclides](https://alembic.orz.how/d/doc-vgta6yl9vssk)
+![The band of stability: neutron number vs. proton number for representative stable nuclides](../assets/band_of_stability.svg)
 *Figure 19.1 — Light stable nuclides sit close to N=Z, but the band curves upward as Z increases — heavier stable nuclei need proportionally more neutrons to remain stable, since more protons means more electrostatic repulsion for the strong nuclear force to overcome. Self-generated with matplotlib using real Z/N values.*
 
 :::: tabs
@@ -221,7 +221,7 @@ $$\frac{-148.4}{19} = -7.81\ \text{MeV/nucleon}$$
 
 ### Which mode, and why
 
-![Two panels: how each decay mode moves a nuclide on the neutron-proton chart, and which mode a nuclide chooses based on where it sits relative to the band of stability](https://alembic.orz.how/d/doc-70zujhl4yuic)
+![Two panels: how each decay mode moves a nuclide on the neutron-proton chart, and which mode a nuclide chooses based on where it sits relative to the band of stability](../assets/decay_modes_nz.svg)
 *Figure 19.2 — Panel (a): each mode is a specific move in $(Z, N)$ space. Panel (b): a nuclide's position relative to the band decides which move it makes. Self-generated with matplotlib.*
 
 A nucleus does not choose its decay mode at random. ==It decays in whichever way moves it toward the band of stability — so counting neutrons against protons predicts the mode before you know anything else about the nuclide.==
@@ -283,7 +283,7 @@ $$\ce{^{59}_{27}Co + ^{1}_{0}n -> ^{60}_{28}Ni + ^{0}_{-1}\beta}$$
 
 **Radiocarbon dating** uses $\ce{^14C}$ (half-life 5730 y), continuously formed in the atmosphere and taken up by living things; once an organism dies, its $\ce{^14C}$ only decreases, giving a clock.
 
-![Radiocarbon decay curve with the Dead Sea Scrolls data point marked](https://alembic.orz.how/d/doc-nf5knn7i8wkv)
+![Radiocarbon decay curve with the Dead Sea Scrolls data point marked](../assets/carbon14_decay.svg)
 *Figure 19.3 — The fraction of original $\ce{^14C}$ remaining follows the same first-order exponential decay as any Chapter 13 kinetics problem — just with a very long half-life. Self-generated with matplotlib using the real C-14 half-life and the worked example's data.*
 
 :::: tabs
@@ -391,7 +391,7 @@ $$\ce{^235_92U + ^1_0n -> ^90_38Sr + ^143_54Xe + 3\,^1_0n}$$
 
 One neutron is captured; three are released, each capable of triggering further fission — a **chain reaction**.
 
-![The branching structure of a fission chain reaction, and the difference between a subcritical and a critical sample](https://alembic.orz.how/d/doc-l0cbioaln44j)
+![The branching structure of a fission chain reaction, and the difference between a subcritical and a critical sample](../assets/fission_chain_reaction.svg)
 *Figure 19.4 — Left: with every neutron captured, the number of fissions goes 1, 3, 9, 27 — $3^n$ after $n$ generations. Right: whether that happens at all depends on whether neutrons are captured before they reach the surface and escape. Self-generated with matplotlib.*
 
 ==Whether a chain reaction sustains itself is a question of geometry, not of chemistry: the **critical mass** is simply the size at which capture beats escape.== A neutron born near the center of a large sample has far more nuclei to hit before reaching the surface than one born in a small sample. Below that size (**subcritical**), too many neutrons escape and the chain fizzles out.
@@ -403,7 +403,7 @@ An **atomic bomb** merges two subcritical U-235 pieces past critical mass, causi
 
 Figure 19.5 shows what $k = 1$ looks like from outside.
 
-![Cooling towers of a nuclear power plant, with visible steam](https://alembic.orz.how/d/doc-rgmm9f6zbpgj =700x)
+![Cooling towers of a nuclear power plant, with visible steam](../assets/nuclear_power_plant.jpg =700x)
 *Figure 19.5 — A nuclear reactor uses controlled fission (not an explosive chain reaction) to generate heat, which produces the steam visible rising from these cooling towers. Source: Roberto Uderio (retouched by AlMare), via Wikimedia Commons, CC BY-SA 3.0.*
 
 :::: tabs
@@ -455,7 +455,7 @@ These reactions power the **Sun**; a **hydrogen bomb** uses similar fusion react
 
 Figure 19.6 is the only fusion reactor currently working at scale.
 
-![The Sun, showing its glowing surface and solar prominences](https://alembic.orz.how/d/doc-gemw1ifja0w1 =600x)
+![The Sun, showing its glowing surface and solar prominences](../assets/the_sun.jpg =600x)
 *Figure 19.6 — The Sun's energy comes from hydrogen fusing into helium at its core, at temperatures near 15 million K — far beyond anything achievable industrially without a fission-bomb trigger, which is why controlled fusion power remains an active research challenge. Source: NASA/SDO (AIA), via Wikimedia Commons, public domain.*
 
 :::: tabs
@@ -499,7 +499,7 @@ Fission needs nothing comparable because its trigger is a **neutron**, which car
 
 ### Why both release energy
 
-![Binding energy per nucleon vs. mass number, showing the Fe-56 peak](https://alembic.orz.how/d/doc-ql9ytatbl2u5)
+![Binding energy per nucleon vs. mass number, showing the Fe-56 peak](../assets/binding_energy_curve.svg)
 *Figure 19.7 — Both fission and fusion release energy because they move nuclei toward the Fe-56 peak — the most stable configuration per nucleon. Heavy nuclei (like U-235) climb the curve by splitting apart; light nuclei (like H and He isotopes) climb it by combining. Self-generated with matplotlib; two data points (F-19, Fe-56) match this chapter's own binding-energy worked examples.*
 
 :::: tabs

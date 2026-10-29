@@ -71,7 +71,7 @@ If a sample *is* a pure substance, the second question splits it further:
 - An **element** cannot be broken down into simpler substances by chemical means — it is one kind of atom (gold, copper, oxygen gas).
 - A **compound** is two or more elements chemically combined **in a fixed ratio**. Water is always 2 H : 1 O by atom count — never a variable blend of hydrogen and oxygen. That fixed ratio is exactly what separates a compound from a mixture.
 
-![Decision tree for classifying matter into element, compound, or a homogeneous or heterogeneous mixture](https://alembic.orz.how/d/doc-x3e9ipdeyuax =700x)
+![Decision tree for classifying matter into element, compound, or a homogeneous or heterogeneous mixture](../assets/matter_classification_tree.svg =700x)
 *Figure 1.1 — Every "classify this substance" question is answered by working down this tree. Start at the top, answer the two questions in order, and you land on exactly one of the four categories. The examples under each box are worth memorising as anchors — when a new substance is unfamiliar, ask which of these it most resembles.*
 
 {{sp[warning] Watch out}} The most common beginner error is calling a **homogeneous mixture** a compound, because both look uniform. Uniform appearance is not the test — **fixed ratio** is. Salt water looks as uniform as pure water, but you can dissolve more salt in it; you cannot make water "more oxygen-y." If the proportions can be changed, it is a mixture.
@@ -107,7 +107,7 @@ Matter also comes in three familiar physical forms, shown in Figure 1.2, and the
 
 Independently of that classification, any sample can exist in different **physical states**. The difference between them is how the particles are arranged, not what the particles are.
 
-![Particle arrangement in solids, liquids, and gases](https://alembic.orz.how/d/doc-aneyfpn9momb =650x)
+![Particle arrangement in solids, liquids, and gases](../assets/states_of_matter.svg =650x)
 *Figure 1.2 — The three states of matter, distinguished by how tightly and regularly their particles pack: solids hold a fixed, ordered arrangement; liquids stay close together but slide past one another; gases spread far apart and move independently. Water is the same compound as ice and as steam — only the arrangement changes.*
 
 ### Changes and properties
@@ -187,7 +187,7 @@ Prefixes scale a base unit by a power of ten — and the same prefix works on **
 | nano- | n | $10^{-9}$ | 1 nm $=1\times10^{-9}\,\text{m}$ |
 | pico- | p | $10^{-12}$ | 1 pm $=1\times10^{-12}\,\text{m}$ |
 
-![The SI prefix ladder from pico- to tera-, plotted by power of ten](https://alembic.orz.how/d/doc-6x9l39v3bokz =600x)
+![The SI prefix ladder from pico- to tera-, plotted by power of ten](../assets/si_prefix_ladder.svg =600x)
 *Figure 1.3 — The same prefixes as the table, arranged by size so the spacing is visible. Prefixes above the base (kilo-, mega-, giga-, tera-) make a unit larger; prefixes below it (centi-, milli-, micro-, nano-, pico-) make it smaller. The nanometer and picometer end of this ladder is where atoms live — a typical atom is about 100 pm across.*
 
 :::: tabs
@@ -223,10 +223,10 @@ $$1\,\text{mL} = 1\,\text{cm}^3 = 1\times10^{-6}\,\text{m}^3 \qquad 1\,\text{L} 
 Mass is measured on a balance: Figure 1.4 shows the electronic kind you will actually use, and Figure 1.5 the older mechanical kind that makes the underlying idea visible. **Density** links mass and volume into a single intensive property:
 $$d=\frac{m}{V} \qquad 1\,\text{g/cm}^3 = 1\,\text{g/mL} = 1000\,\text{kg/m}^3$$
 
-![Electronic analytical balance with a draft shield, displaying a mass to four decimal places](https://alembic.orz.how/d/doc-z65ivxbxspj7 =520x)
+![Electronic analytical balance with a draft shield, displaying a mass to four decimal places](../assets/electronic_balance.jpg =520x)
 *Figure 1.4 — The electronic analytical balance you will actually use in lab. Note the display reading 200.0000 g: the balance reports mass to four decimal places, so every one of those digits is significant — this instrument is precise to ±0.0001 g. The glass draft shield keeps air currents from disturbing readings at that precision.*
 
-![Two-pan mechanical analytical balance used to measure mass](https://alembic.orz.how/d/doc-qabypbt8fkl3 =460x)
+![Two-pan mechanical analytical balance used to measure mass](../assets/lab_balance.jpg =460x)
 *Figure 1.5 — The older two-pan mechanical balance makes the underlying idea visible: mass is determined by **comparing** an unknown sample against known reference masses until the beam balances. An electronic balance automates this comparison internally, but measures the same physical quantity.*
 
 Because $d=m/V$ has three quantities, any one can be found from the other two. All three versions come up constantly, so it is worth seeing each solved rather than memorising three separate formulas — rearranging one equation is enough.
@@ -395,7 +395,7 @@ The same measurement, 3.2 cm, limited the answer *both* times — but by a diffe
 
 **Accuracy** is how close a measurement is to the true value; **precision** is how closely repeated measurements agree with *each other*. Figure 1.6 shows why both words are needed: the two qualities are independent, so all four combinations occur.
 
-![Four dartboards contrasting accuracy and precision as independent qualities](https://alembic.orz.how/d/doc-0g1u8eqwodlt =700x)
+![Four dartboards contrasting accuracy and precision as independent qualities](../assets/accuracy_vs_precision.svg =700x)
 *Figure 1.6 — The two ideas are independent, which is why all four combinations exist. The case worth dwelling on is the second: tightly clustered results that are consistently wrong. Precision is easy to see (the readings agree), accuracy is not (nothing in the data itself reveals the offset) — so precise-but-inaccurate results are the most dangerous kind, and only calibration against a known standard exposes them.*
 
 :::: tabs
@@ -419,7 +419,7 @@ The numbers of measured quantities, unlike defined or counted quantities, are ne
 
 As a general rule, a scale like this can be read to one-tenth of its smallest division — so 1-mL divisions support a reading to the nearest 0.1 mL, and the last digit you write is always the estimated one.
 
-![Reading a graduated cylinder at the bottom of the meniscus, with an estimated digit](https://alembic.orz.how/d/doc-xy5g4xpr0l9z =420x)
+![Reading a graduated cylinder at the bottom of the meniscus, with an estimated digit](../assets/graduated_cylinder_meniscus.svg =420x)
 *Figure 1.7 — Liquid in a glass cylinder curves upward at the walls, forming a concave **meniscus**; the volume is always read at the **bottom** of that curve, with your eye level with it. Reading from above or below introduces a parallax error that no amount of care with significant figures can undo.*
 
 > **Where this goes next.** You can now record a measurement honestly. The last tool, in §1.4, is the method for *converting* one into different units without losing that honesty — and it is the single technique you will use most in this course.
@@ -455,7 +455,7 @@ $$\text{given unit}\times\frac{\text{desired unit}}{\text{given unit}}=\text{des
 
 Figure 1.8 shows why the method is self-checking. The procedure is always the same three steps: **(1)** decide which conversion factor(s) you need; **(2)** carry the units through the calculation alongside the numbers; **(3)** check that everything cancels except the unit you wanted. If it does, the setup was right.
 
-![Unit-cancellation diagram for a single-factor dimensional-analysis conversion](https://alembic.orz.how/d/doc-8pqvnglq0t7p =620x)
+![Unit-cancellation diagram for a single-factor dimensional-analysis conversion](../assets/dimensional_analysis_cancel.svg =620x)
 *Figure 1.8 — Why the method is self-checking. Because 1 oz and 28.349 g are the same mass, the factor equals 1 — multiplying by it changes the units without changing the amount. Writing grams on the bottom makes the given grams cancel, leaving ounces. This is the useful part: the units tell you whether the setup is right **before** you do any arithmetic.*
 
 ==This is the single most-reused problem-solving method in the course — it reappears explicitly in mole/mass conversions (Ch. 3), gas-law unit conversions (Ch. 5), and concentration-unit conversions (Ch. 12).== Time spent here is repaid many times over.

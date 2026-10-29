@@ -49,7 +49,7 @@ graph TD
 
 A **redox** reaction always pairs **oxidation** (loss of electrons, oxidation number increases) with **reduction** (gain of electrons, oxidation number decreases) — one cannot happen without the other. The **reducing agent** donates electrons (itself oxidized); the **oxidizing agent** accepts electrons (itself reduced).
 
-![One electron moving from a sodium atom to a fluorine atom, labeled as an oxidation and a reduction happening at once](https://alembic.orz.how/d/doc-syqgvb8t40m3)
+![One electron moving from a sodium atom to a fluorine atom, labeled as an oxidation and a reduction happening at once](../assets/redox_electron_transfer.svg)
 *Figure 18.1 — The electron sodium loses is exactly the electron fluorine gains, so the two half-processes are one event described twice. The box on the right untangles the four terms that students most often swap. Self-generated with matplotlib.*
 
 ==The two "agent" names are the ones that trip people up, and the reason is that **an agent is named for what it does to the other species, not for what happens to it.**== The reducing agent is the species that *gets oxidized*; the oxidizing agent is the one that *gets reduced*. Figure 18.1's table is worth reading twice.
@@ -205,7 +205,7 @@ A **galvanic (voltaic) cell** converts a spontaneous redox reaction's released e
 
 Figure 18.2 is the arrangement §18.1 was building toward: the same electron transfer, but with the two halves separated so the electron must take the long way round.
 
-![Galvanic cell schematic: Zn anode and Cu cathode connected by a wire and salt bridge](https://alembic.orz.how/d/doc-hj5gpzxq4fgn)
+![Galvanic cell schematic: Zn anode and Cu cathode connected by a wire and salt bridge](../assets/galvanic_cell_diagram.svg)
 *Figure 18.2 — Zn is oxidized at the anode (electrons flow out through the wire); Cu²⁺ is reduced at the cathode. The salt bridge maintains electrical neutrality: anions migrate toward the anode's solution, cations toward the cathode's, as the reaction proceeds. Self-generated with matplotlib.*
 
 **Why the salt bridge is not optional.** As zinc dissolves, the anode compartment accumulates positive charge; as copper plates out, the cathode compartment loses it. Within seconds that charge imbalance would halt electron flow entirely. The salt bridge lets inert ions migrate — anions toward the anode, cations toward the cathode — keeping both compartments neutral so the reaction can continue. **Remove the salt bridge and the cell stops, even though nothing has been consumed.**
@@ -280,7 +280,7 @@ $$\ce{Cr(s)|Cr^3+}(0.20\text{ M})||\ce{Ag+}(0.50\text{ M})|\ce{Ag(s)}$$
 
 Figure 18.3 is the table in visual form — and its vertical order is the whole content of this section.
 
-![Standard reduction potentials for several half-reactions, from Li (most negative) to F2 (most positive)](https://alembic.orz.how/d/doc-w2c2xujnrl4q)
+![Standard reduction potentials for several half-reactions, from Li (most negative) to F2 (most positive)](../assets/reduction_potential_series.svg)
 *Figure 18.3 — The half-reaction with the highest E° is the strongest oxidizing agent (easiest to reduce); the half-reaction with the lowest E° corresponds to the strongest reducing agent (its reduced form gives up electrons most readily). Self-generated with matplotlib using real, commonly tabulated standard reduction potentials.*
 
 :::warning
@@ -499,7 +499,7 @@ A **concentration cell** uses the *same* electrode material in both half-cells, 
 
 Figure 18.4 shows what that means as the two concentrations converge.
 
-![E vs. Q for a Zn2+/Zn concentration cell](https://alembic.orz.how/d/doc-jovihaql71z0)
+![E vs. Q for a Zn2+/Zn concentration cell](../assets/nernst_concentration_cell.svg)
 *Figure 18.4 — As the anode/cathode concentration ratio Q approaches 1 (equal concentrations), E approaches zero — there's no driving force left once both half-cells match. Self-generated with matplotlib using the Nernst equation and the worked example's real data point.*
 
 :::: tabs
@@ -561,7 +561,7 @@ $$E = -0.0592\log Q = -0.0592\,(\log[\ce{H+}]_\text{dilute} - \log 1.0) = 0.0592
 
 Figure 18.5 shows the result of a galvanic cell nobody built.
 
-![Rust forming on a metal surface](https://alembic.orz.how/d/doc-2qdcctnvqmz1 =700x)
+![Rust forming on a metal surface](../assets/rust_corrosion.jpg =700x)
 *Figure 18.5 — Rust ($\ce{Fe2O3}\cdot x\ce{H2O}$) is the visible product of iron's spontaneous oxidation, with atmospheric $\ce{O2}$ as the oxidizing agent — a galvanic process happening directly on the metal's surface rather than in a separated cell. Source: Georges Grondin, via Wikimedia Commons, public domain.*
 
 :::: tabs
@@ -591,7 +591,7 @@ $$E^\circ_{cell} = 1.23 - (-0.76) = +1.99\ \text{V}$$
 
 **Electrolysis** uses external electrical energy to drive a **nonspontaneous** redox reaction — the reverse of what a galvanic cell does spontaneously. {{sp[warning] Reminder}} a negative $E^\circ_{cell}$ doesn't mean a reaction "can't happen" — it means external energy input (electrolysis) is required to force it forward. Electrolyzing water yields $\ce{H2}$ and $\ce{O2}$ (the reverse of $\ce{H2}$ combustion); electrolyzing molten $\ce{NaCl}$ yields $\ce{Na}$ metal and $\ce{Cl2}$ gas.
 
-![Side-by-side comparison of a galvanic cell and an electrolytic cell, showing opposite energy conversion and the external power supply](https://alembic.orz.how/d/doc-5y9d0zq84b4v)
+![Side-by-side comparison of a galvanic cell and an electrolytic cell, showing opposite energy conversion and the external power supply](../assets/galvanic_vs_electrolytic.svg)
 *Figure 18.6 — The two cell types run the same kind of chemistry in opposite directions. Oxidation is at the anode and reduction at the cathode in **both** — what differs is whether the cell drives the circuit or the circuit drives the cell. Self-generated with matplotlib.*
 
 ==Figure 18.6 makes the one comparison worth memorizing: a galvanic cell converts chemical energy into electrical, an electrolytic cell does the reverse, and the anode/cathode definitions never change between them.== What does change is the sign of $E^\circ_{cell}$, and therefore whether you need a power supply.
@@ -624,7 +624,7 @@ A **battery** is a galvanic cell (or series of them) engineered as a practical, 
 
 Figure 18.7 shows the packaging; the chemistry inside is §18.2's.
 
-![AA batteries, close-up of the terminal ends](https://alembic.orz.how/d/doc-0s92ua84rcao =700x)
+![AA batteries, close-up of the terminal ends](../assets/batteries.jpg =700x)
 *Figure 18.7 — Common battery types include dry cells, mercury batteries, lead storage batteries, lithium-ion batteries, and fuel cells (which require a continuous reactant supply, unlike a sealed battery). Every one of them is fundamentally a galvanic cell. Source: ajay_suresh, via Wikimedia Commons, CC BY 2.0.*
 
 **Self-check:**

@@ -51,7 +51,7 @@ graph TD
 
 <!-- slide -->
 ## How big is a mole?
-![Three comparisons for Avogadro's number](https://alembic.orz.how/d/doc-edguikk5nnep =760x)
+![Three comparisons for Avogadro's number](../assets/how_big_is_a_mole.svg =760x)
 A counting word, like "dozen" — the mole is the bridge between the particle scale and the lab scale
 
 <!-- slide step -->
@@ -62,11 +62,11 @@ Cu: 69.09% at 62.93 amu, 30.91% at 64.9278 amu
 
 <!-- slide -->
 ## Mole conversions
-![Mole conversion triangle](https://alembic.orz.how/d/doc-7648aabyrdto =520x)
+![Mole conversion triangle](../assets/mole_conversion_triangle.svg =520x)
 
 <!-- slide -->
 ## Percent composition
-![Percent composition of water as a mass bar](https://alembic.orz.how/d/doc-5rz5opwavav8 =760x)
+![Percent composition of water as a mass bar](../assets/percent_composition_water.svg =760x)
 Water is two-thirds hydrogen by **atom count** and only 11% hydrogen by **mass**
 
 <!-- slide -->
@@ -84,7 +84,7 @@ Water is two-thirds hydrogen by **atom count** and only 11% hydrogen by **mass**
 
 <!-- slide -->
 ## Combustion analysis
-![Combustion analysis apparatus](https://alembic.orz.how/d/doc-436nl8s07a4y =620x)
+![Combustion analysis apparatus](../assets/combustion_analysis.svg =620x)
 Each absorber's mass gain gives moles of that element directly
 
 <!-- slide step -->
@@ -101,11 +101,11 @@ Each absorber's mass gain gives moles of that element directly
 ## What coefficients mean
 $$\ce{2Mg + O2 -> 2MgO}$$
 Means **moles** (or particles) — not grams
-![Magnesium burning](https://alembic.orz.how/d/doc-dpmtkfraphts =420x)
+![Magnesium burning](../assets/magnesium_burning.jpg =420x)
 
 <!-- slide -->
 ## Balancing is an atom tally
-![Unbalanced and balanced atom tallies](https://alembic.orz.how/d/doc-9hmsvfotzq7g =760x)
+![Unbalanced and balanced atom tallies](../assets/balancing_atom_tally.svg =760x)
 Adjust coefficients only — changing a subscript changes the substance
 
 <!-- slide step -->
@@ -117,7 +117,7 @@ $\ce{C2H6 + O2 -> CO2 + H2O}$
 
 <!-- slide -->
 ## The stoichiometry road map
-![Mass A to moles A to moles B to mass B](https://alembic.orz.how/d/doc-tmm05q7ypg6q =840x)
+![Mass A to moles A to moles B to mass B](../assets/stoichiometry_road_map.svg =840x)
 You can only cross from one substance to another in **moles**
 
 <!-- slide -->
@@ -129,14 +129,14 @@ You can only cross from one substance to another in **moles**
 
 <!-- slide -->
 ## Limiting reagent: the idea
-![Nuts and bolts analogy](https://alembic.orz.how/d/doc-qt3uhbu4gz13 =800x)
+![Nuts and bolts analogy](../assets/limiting_reagent_concept.svg =800x)
 The limiting reactant is not the one you have least of — it is the one that runs out first
 
 <!-- slide -->
 ## Limiting reagent: two methods
 - Method 1: least product wins — the limiting reagent gave it
 - Method 2 (fewer steps): mol ÷ coefficient — smallest wins
-![Limiting reagent bar chart](https://alembic.orz.how/d/doc-4emep5ukf7cu =480x)
+![Limiting reagent bar chart](../assets/limiting_reagent_bar.svg =480x)
 
 <!-- slide step -->
 ## Worked example — urea synthesis
@@ -147,7 +147,7 @@ $\ce{2NH3 + CO2 -> (NH2)2CO + H2O}$; 637.2 g NH₃, 1142 g CO₂
 
 <!-- slide -->
 ## Theoretical vs. actual yield
-![Yield bars](https://alembic.orz.how/d/doc-ytevbw26rwmt =740x)
+![Yield bars](../assets/theoretical_vs_actual_yield.svg =740x)
 Above 100% is not a triumph — it means the product is wet or impure
 
 <!-- slide -->

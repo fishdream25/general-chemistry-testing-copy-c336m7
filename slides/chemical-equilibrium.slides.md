@@ -57,7 +57,7 @@ graph TD
 
 <!-- slide -->
 ## What K's magnitude means
-![K magnitude schematic](https://alembic.orz.how/d/doc-ejl31nfvl1e5 =620x)
+![K magnitude schematic](../assets/k_magnitude_schematic.svg =620x)
 
 <!-- slide step -->
 ## Worked example — K from rate constants
@@ -67,7 +67,7 @@ A ⇌ B, k_f = 0.20 s⁻¹, k_r = 0.05 s⁻¹
 
 <!-- slide -->
 ## Reaching dynamic equilibrium
-![Approach to equilibrium](https://alembic.orz.how/d/doc-zi2wfxj5j3q3 =520x)
+![Approach to equilibrium](../assets/approach_to_equilibrium.svg =520x)
 
 <!-- slide template=section -->
 # 2. Equilibrium Constants
@@ -118,7 +118,7 @@ K₃ for reaction 3 = reaction 1 + reaction 2
 
 <!-- slide -->
 ## Q and K live on the same axis
-![A number line with K marked and the shift direction shown for Q below and above it](https://alembic.orz.how/d/doc-xy52k47j4klh =1000x)
+![A number line with K marked and the shift direction shown for Q below and above it](../assets/q_versus_k.svg =1000x)
 The system always moves so that $Q$ travels toward $K$. That single sentence replaces memorizing three cases.
 
 <!-- slide step -->
@@ -162,7 +162,7 @@ N₂O₄ ⇌ 2NO₂, K_c=1.20×10⁻⁴, [N₂O₄]₀=0.500 M
 <!-- slide main-side -->
 ## The 5% rule, with the reason attached
 <!-- @main -->
-![How much reactant reacts as a function of K, and the error the shortcut introduces](https://alembic.orz.how/d/doc-ox7h81d5fk38 =740x)
+![How much reactant reacts as a function of K, and the error the shortcut introduces](../assets/small_x_validity.svg =740x)
 <!-- @side -->
 The threshold is not arbitrary — it is where the shortcut's error becomes comparable to your data's precision.
 
@@ -182,12 +182,12 @@ If x turns out to be more than ~5% of [A]₀, the approximation has failed — s
 <!-- slide -->
 ## The principle
 A system at equilibrium shifts to **partially offset** an applied stress.
-![Le Chatelier concentration shift](https://alembic.orz.how/d/doc-nq07d84cdfz0 =560x)
+![Le Chatelier concentration shift](../assets/le_chatelier_concentration_shift.svg =560x)
 
 <!-- slide main-side -->
 ## Compression: count the gas molecules
 <!-- @main -->
-![Three vessels showing an ammonia equilibrium before compression, just after, and at the new equilibrium](https://alembic.orz.how/d/doc-mx003iv4ceja =760x)
+![Three vessels showing an ammonia equilibrium before compression, just after, and at the new equilibrium](../assets/le_chatelier_pressure.svg =760x)
 <!-- @side -->
 4 gas molecules on the left of the equation, 2 on the right.
 
@@ -199,7 +199,7 @@ The stress is **partially** offset, never erased — the new equilibrium is stil
 
 <!-- slide -->
 ## Pressure/volume: shifts toward fewer gas moles
-![Ammonia plant](https://alembic.orz.how/d/doc-5wl6koa2duwn =650x)
+![Ammonia plant](../assets/ammonia_plant.jpg =650x)
 
 <!-- slide step -->
 ## Worked example — the Haber process
@@ -210,7 +210,7 @@ N₂ + 3H₂ ⇌ 2NH₃, run at very high pressure industrially
 <!-- slide main-side -->
 ## Temperature shifts K itself
 <!-- @main -->
-![Three sealed tubes of an NO2/N2O4 mixture in water baths at three different temperatures](https://alembic.orz.how/d/doc-cevbybxnswy5 =620x)
+![Three sealed tubes of an NO2/N2O4 mixture in water baths at three different temperatures](../assets/no2_n2o4_equilibrium.jpg =620x)
 <!-- @side -->
 Three tubes, same mixture, three bath temperatures — coldest on the left (note the ice), warmest on the right.
 

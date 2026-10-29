@@ -62,7 +62,7 @@ Electric current is moving charge. ==A solution can carry current only if it con
 
 An **electrolyte** is a substance whose aqueous solution conducts electricity. A **nonelectrolyte** is one whose solution does not. Figure 4.1 shows the standard test and, beneath it, the reason.
 
-![Strong, weak, and nonelectrolyte solutions compared by bulb brightness and by particle picture](https://alembic.orz.how/d/doc-od59d9n53t0c =820x)
+![Strong, weak, and nonelectrolyte solutions compared by bulb brightness and by particle picture](../assets/electrolyte_conductivity.svg =820x)
 *Figure 4.1 — The conductivity test, and what is happening underneath it. A **strong electrolyte** such as $\ce{NaCl}$ dissociates completely, so every formula unit that dissolves becomes two free ions and the bulb is bright. A **weak electrolyte** such as acetic acid ionizes only partially — most of it stays as intact molecules and only a few ions form, so the bulb glows dimly. A **nonelectrolyte** such as glucose dissolves without producing any ions at all, and the bulb stays dark.*
 
 The three categories are worth memorizing in the form the rest of the course uses them:
@@ -110,7 +110,7 @@ Why does an ionic lattice come apart in water at all? The ions in $\ce{NaCl}$ ar
 
 Water molecules are **polar** — slightly negative at the oxygen end, slightly positive at the hydrogen end (Chapter 10 explains why). A water molecule can therefore turn its negative end toward a cation, or its positive end toward an anion, and be attracted either way. **Hydration** is the process in which an ion becomes surrounded by water molecules arranged in this specific orientation, as in Figure 4.2.
 
-![An ionic lattice dissolving, with oriented water molecules surrounding the freed ions](https://alembic.orz.how/d/doc-s9x9j9qj2f0h =800x)
+![An ionic lattice dissolving, with oriented water molecules surrounding the freed ions](../assets/hydration_of_ions.svg =800x)
 *Figure 4.2 — Dissolution at the particle level. In the dry solid the ions are locked in a lattice and cannot move, which is why solid salt does not conduct. In solution each ion is pulled free and wrapped in a shell of water molecules, all turned the same way: oxygen ends inward toward a cation, hydrogen ends inward toward an anion. Those attractions are what pay for breaking the lattice, and the freed ions are now mobile.*
 
 > **Where this goes next.** If dissolved ionic compounds are really just loose ions, then mixing two solutions is really mixing four kinds of ion. Sometimes two of them find each other and leave the solution as a solid — that is §4.2.
@@ -163,7 +163,7 @@ The same reaction can be written three ways, and each says something different.
 - The **ionic equation** writes every *strong electrolyte* as the separate ions it actually exists as. Solids, weak electrolytes, and nonelectrolytes stay written as whole formulas, because that is how they actually exist.
 - The **net ionic equation** removes the **spectator ions** — the ones that appear unchanged on both sides — leaving only the species that actually changed. Figure 4.3 tracks a single reaction's ions through all three.
 
-![Schematic of a precipitation reaction, with every dissolved ion labeled and a key](https://alembic.orz.how/d/doc-po7khc0bq9sm =620x)
+![Schematic of a precipitation reaction, with every dissolved ion labeled and a key](../assets/precipitation_reaction.svg =620x)
 *Figure 4.3 — Follow the individual ions, not the compounds. Each solution starts with **two** kinds of dissolved ion (see the key): $\ce{AgNO3}$ supplies $\ce{Ag+}$ and $\ce{NO3-}$; $\ce{NaCl}$ supplies $\ce{Na+}$ and $\ce{Cl-}$. On mixing, only $\ce{Ag+}$ and $\ce{Cl-}$ actually combine — they form insoluble $\ce{AgCl}$, which drops out of solution as a solid. The other two ions, $\ce{Na+}$ and $\ce{NO3-}$, drift through the whole process unchanged, which is exactly what makes them **spectator ions** and why they cancel out of the net ionic equation.*
 
 **The four steps:**
@@ -388,7 +388,7 @@ A **redox** reaction — short for reduction–oxidation — is one in which ele
 
 ==The two always happen together, because an electron that leaves one species has to arrive somewhere== — they are not two reactions, but one transfer described from each end.
 
-![Electron-shell diagram of electron transfer from Na to F, before and after](https://alembic.orz.how/d/doc-yizfw6lrpz84 =520x)
+![Electron-shell diagram of electron transfer from Na to F, before and after](../assets/electron_transfer_naf.svg =520x)
 *Figure 4.4 — Why the transfer happens, drawn shell by shell. **Before (top):** sodium has a single, loosely-held valence electron in its third shell (highlighted red), while fluorine is one electron short of a full outer shell. **After (bottom):** that one electron moves from Na to F — and both end up with the same stable neon configuration (2, 8). Sodium is **oxidized** (lost an electron, now $\ce{Na+}$); fluorine is **reduced** (gained one, now $\ce{F-}$). Note there is only ever **one** electron in motion: oxidation and reduction are not two separate events but one transfer, counted from each atom's point of view.*
 
 The agents are named for what they do to the *other* species, which is why they seem backwards at first:
@@ -402,7 +402,7 @@ In Figure 4.4, sodium is the reducing agent (it reduces fluorine) and fluorine i
 
 Electron transfer is obvious when ions form. It is far less obvious in a reaction like $\ce{CH4 + 2O2 -> CO2 + 2H2O}$, where nothing becomes an ion. The **oxidation number** is a bookkeeping device that makes the transfer visible anyway: it is the charge an atom *would* carry if every bond to a different element were fully ionic. Figure 4.5 places it on a scale, so that "oxidized" and "reduced" become directions rather than definitions to memorize.
 
-![Oxidation number shown on a number line, with a worked assignment for sulfur in sulfate](https://alembic.orz.how/d/doc-7au6eddlqcq3 =800x)
+![Oxidation number shown on a number line, with a worked assignment for sulfur in sulfate](../assets/oxidation_number_line.svg =800x)
 *Figure 4.5 — Oxidation numbers laid out on a number line. Moving right — a more positive number — means electrons were lost, which is oxidation. Moving left means electrons were gained, which is reduction. The panel works through one assignment step by step.*
 
 **The rules, in the order you apply them:**
@@ -491,10 +491,10 @@ Whether a displacement reaction actually happens depends on how reactive the met
 | Co, Ni, Sn, Pb | **acids** only |
 | Cu, Ag, Hg, Pt, Au | **nothing** — no $\ce{H2}$ from water or acid |
 
-![Activity series of metals, color-coded by reactivity tier](https://alembic.orz.how/d/doc-paer7277t7vh =360x)
+![Activity series of metals, color-coded by reactivity tier](../assets/activity_series_ladder.svg =360x)
 *Figure 4.6 — The activity series orders metals from most reactive (top) to least reactive (bottom); a metal displaces any less-active metal (lower on this list) from its compound in solution.*
 
-![Iron wire displacing copper from a copper chloride solution](https://alembic.orz.how/d/doc-v5wdgyhqoj08 =420x)
+![Iron wire displacing copper from a copper chloride solution](../assets/displaced_copper.jpg =420x)
 *Figure 4.7 — Iron is more active than copper (higher on the activity series), so it displaces copper metal directly out of copper chloride solution: $\ce{Fe(s) + CuCl2(aq) -> FeCl2(aq) + Cu(s)}$, visible here as reddish copper crystals coating the iron wire.*
 
 
@@ -585,7 +585,7 @@ Since moles $= M \times V$, that conservation is the whole equation, and Figure 
 
 $$M_iV_i = M_fV_f$$
 
-![Dilution shown as the same solute particles spread through a larger volume](https://alembic.orz.how/d/doc-4lx533p53kxn =780x)
+![Dilution shown as the same solute particles spread through a larger volume](../assets/dilution_same_moles.svg =780x)
 *Figure 4.8 — Dilution changes the concentration and the volume but not the amount of solute. Count the particles: twelve before, twelve after. Concentration falls exactly as far as volume rises, so their product holds constant — which is all the dilution equation says.*
 
 :::: tabs
@@ -621,7 +621,7 @@ In a **titration**, a solution of accurately known concentration is added gradua
 
 The **equivalence point** is the point at which exactly enough has been added for complete reaction. An **indicator** is a substance that changes color at or near that point, and the moment you actually observe the change is the **endpoint**. Figure 4.9 shows the apparatus and the distinction.
 
-![Titration apparatus with the indicator stages and the equivalence point defined](https://alembic.orz.how/d/doc-hdq1ic53wa36 =800x)
+![Titration apparatus with the indicator stages and the equivalence point defined](../assets/titration_setup.svg =800x)
 *Figure 4.9 — A titration. Titrant of known concentration is delivered from the burette into the analyte, and an indicator signals when the reaction is complete. The equivalence point is a fact about the chemistry; the endpoint is what the eye sees. A well-chosen indicator makes them coincide closely enough to ignore the difference.*
 
 :::: tabs

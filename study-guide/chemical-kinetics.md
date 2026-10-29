@@ -204,7 +204,7 @@ Each reaction order has its own integrated rate law (concentration as an explici
 
 {{sp[warning] Reminder}} only first-order half-life is a true constant. Zero- and second-order half-lives both change as the reaction proceeds, because they depend explicitly on $[\ce{A}]_0$.
 
-![Three panels of concentration versus time for zero-, first- and second-order reactions from the same starting concentration, with successive half-lives marked and shown to shorten, stay constant, and lengthen respectively](https://alembic.orz.how/d/doc-7eqm4ks0c9yy)
+![Three panels of concentration versus time for zero-, first- and second-order reactions from the same starting concentration, with successive half-lives marked and shown to shorten, stay constant, and lengthen respectively](../assets/reaction_order_half_lives.svg)
 *Figure 13.1 — The same starting concentration decaying under each of the three rate laws. Read the half-life brackets along the bottom: zero order gets faster at halving as it runs down, first order takes exactly as long every time, and second order takes progressively longer. Self-generated with matplotlib.*
 
 Figure 13.1 is the picture to hold onto for the rest of the section. The three curves look superficially similar — all fall, all flatten — and telling them apart by shape alone is unreliable. The half-life brackets are what actually separate them.
@@ -390,7 +390,7 @@ Cross-check against the slope: the $\ln[\ce{A}]$ steps averaged $-0.347$ per 100
 - **Energy.** The colliding pair must carry at least the **activation energy** ($E_a$) between them.
 - **Orientation.** They must also meet the right way round. Two molecules with ample energy simply bounce apart if the reacting ends were not the ends that touched.
 
-![Two panels: energy distributions of colliding pairs at a lower and a higher temperature with the activation energy marked and the reacting fraction shaded, and a productive versus unproductive collision orientation](https://alembic.orz.how/d/doc-exqbr9jgfzzr)
+![Two panels: energy distributions of colliding pairs at a lower and a higher temperature with the activation energy marked and the reacting fraction shaded, and a productive versus unproductive collision orientation](../assets/collision_theory.svg)
 *Figure 13.3 — Panel (a): the shaded tail beyond $E_a$ is the fraction of collisions energetic enough to react. Raising the temperature does not move $E_a$; it redistributes collisions so that far more of them land past it — here from 8.8% to 26.7%, a threefold increase from a modest temperature rise. Panel (b): both collisions carry identical energy, and only one is oriented to react. Self-generated with matplotlib.*
 
 Panel (a) of Figure 13.3 is the whole explanation of why reactions speed up when heated, and it is worth being precise about it. ==Heating does not lower the activation energy — it does not change $E_a$ at all. It increases the fraction of collisions that already have enough energy to clear it.== The barrier stays exactly where it was; more molecules simply arrive able to jump it.
@@ -434,7 +434,7 @@ $$\ln\frac{k_1}{k_2} = \frac{E_a}{R}\left(\frac{1}{T_2}-\frac{1}{T_1}\right)$$
 
 Figure 13.4 shows the linearized form applied to real data. Its usefulness is that a curved relationship between $k$ and $T$ becomes a straight line you can fit a ruler to, and the slope of that line is $-E_a/R$.
 
-![Arrhenius plot of ln k vs 1/T for acetaldehyde decomposition, showing a straight line through two experimental points](https://alembic.orz.how/d/doc-kzxvmdz9qm3y)
+![Arrhenius plot of ln k vs 1/T for acetaldehyde decomposition, showing a straight line through two experimental points](../assets/arrhenius_plot.svg)
 *Figure 13.4 — A straight line on a ln k vs. 1/T plot is the signature of Arrhenius behavior; its slope is $-E_a/R$. The two marked points are real experimental data from the worked example below. Self-generated with matplotlib.*
 
 :::: tabs
@@ -541,7 +541,7 @@ Unlike an overall rate law (always experimental), an **elementary step's** rate 
 
 The **rate-determining step** — the slowest elementary step, equivalently the one with the largest activation energy — controls the observed overall rate law, because the overall reaction can only proceed as fast as its slowest link.
 
-![Potential-energy profile for a two-step mechanism showing reactants, two transition states, an intermediate, and products](https://alembic.orz.how/d/doc-doa07ogvyzww)
+![Potential-energy profile for a two-step mechanism showing reactants, two transition states, an intermediate, and products](../assets/potential_energy_profile.svg)
 *Figure 13.5 — Each peak is a transition state (its height above the previous point is that step's activation energy); each valley between peaks (other than the starting reactants or final products) is an intermediate. The higher peak (TS1) marks the rate-determining step. Self-generated with matplotlib; energies are schematic/illustrative — the relative ordering matches the worked example's conclusion that step 1 is rate-determining.*
 
 :::: tabs
@@ -679,7 +679,7 @@ Putting it together, reading left to right: start at the reactants; climb a **sm
 
 A **catalyst** speeds up a reaction by opening an alternative pathway with a **lower activation energy**, without being consumed and without appearing in the overall balanced equation.
 
-![Two potential-energy curves for the same reaction, uncatalyzed and catalyzed, showing a lower peak for the catalyzed path while reactant and product energies are unchanged](https://alembic.orz.how/d/doc-lse1x9617tfm)
+![Two potential-energy curves for the same reaction, uncatalyzed and catalyzed, showing a lower peak for the catalyzed path while reactant and product energies are unchanged](../assets/catalyzed_vs_uncatalyzed.svg)
 *Figure 13.6 — The catalyst does not push the reactants uphill or pull the products down — both endpoints sit exactly where they were, so $\Delta H$ is unchanged. What moves is the peak between them. Because the peak drops while both endpoints stay put, the barrier falls in the reverse direction too, and by the same amount. Self-generated with matplotlib; energies are illustrative.*
 
 Figure 13.6 makes three separate claims, and each is a common exam question:
@@ -709,7 +709,7 @@ $$= \exp\!\left(\frac{30{,}000\ \text{J/mol}}{(8.314)(298)}\right) = e^{12.11} =
 
 Figure 13.7 shows the commonest heterogeneous catalyst most people own.
 
-![Interior of a catalytic converter, showing its ceramic honeycomb structure coated with catalytic metal](https://alembic.orz.how/d/doc-9rufwejc26zv =700x)
+![Interior of a catalytic converter, showing its ceramic honeycomb structure coated with catalytic metal](../assets/catalytic_converter.jpg =700x)
 *Figure 13.7 — A catalytic converter is heterogeneous catalysis in action: exhaust gases (a different phase from the solid catalyst coating the honeycomb) react on its surface at a far lower activation energy than they would uncatalyzed, converting pollutants like CO and NOₓ into CO₂ and N₂ before they leave the tailpipe. Source: Cyrogigabyte, via Wikimedia Commons, CC0.*
 
 - **Heterogeneous catalysis** — catalyst in a different phase from the reactants (e.g., a solid metal surface catalyzing gas-phase reactants, as in the catalytic converter above).
@@ -718,7 +718,7 @@ Figure 13.7 shows the commonest heterogeneous catalyst most people own.
 
 Figure 13.8 shows why enzymes are so specific: the active site's shape is the selection mechanism.
 
-![A schematic lock-and-key diagram of enzyme catalysis: a substrate binding to an enzyme's active site to form product](https://alembic.orz.how/d/doc-q8x0kid1vi2e =500x)
+![A schematic lock-and-key diagram of enzyme catalysis: a substrate binding to an enzyme's active site to form product](../assets/enzyme_lock_and_key.svg =500x)
 *Figure 13.8 — The lock-and-key model: an enzyme's active site is shaped to bind a specific substrate, positioning it precisely and lowering the activation energy needed to convert it to product. Source: domdomegg, via Wikimedia Commons, CC BY 4.0.*
 
 :::: tabs

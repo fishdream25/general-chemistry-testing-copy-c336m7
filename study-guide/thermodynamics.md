@@ -52,7 +52,7 @@ A **spontaneous** process is one that occurs by itself under the given condition
 
 When both point the same way the answer is settled before any calculation. When they disagree, ==the winner depends on temperature — and that single fact is what the rest of the chapter makes quantitative.==
 
-![Four quadrants of enthalpy and entropy sign combinations, showing which are spontaneous always, never, or only above or below a crossover temperature](https://alembic.orz.how/d/doc-bgemxf8tx2ri)
+![Four quadrants of enthalpy and entropy sign combinations, showing which are spontaneous always, never, or only above or below a crossover temperature](../assets/spontaneity_quadrants.svg)
 *Figure 17.1 — The two diagonal cells need no arithmetic: both tendencies agree. The other two are a contest between $\Delta H$ and $T\Delta S$, and the crossover sits at $T = \Delta H/\Delta S$. Self-generated with matplotlib.*
 
 Figure 17.1 is worth returning to after §17.3, because everything in that section is a way of putting numbers on these four boxes. Notice already that "exothermic" is **not** the same as "spontaneous" — the bottom-left cell is exothermic and still fails above its crossover temperature, and the top-right cell is endothermic and succeeds above its own.
@@ -63,7 +63,7 @@ Figure 17.1 is worth returning to after §17.3, because everything in that secti
 
 $$S=k\ln W \qquad k=1.38\times10^{-23}\ \text{J/K (Boltzmann constant)}$$
 
-![Distributing 4 particles between 2 boxes: 5 distributions with 1, 4, 6, 4, and 1 microstates](https://alembic.orz.how/d/doc-hd18e1u7suc6)
+![Distributing 4 particles between 2 boxes: 5 distributions with 1, 4, 6, 4, and 1 microstates](../assets/microstates_distribution.svg)
 *Figure 17.2 — Four particles distributed between two boxes have $2^4=16$ total microstates, grouped into 5 distributions with 1, 4, 6, 4 and 1 microstates respectively. Self-generated with matplotlib.*
 
 Read Figure 17.2 carefully, because it contains the whole idea in miniature. A **distribution** is what you can actually see — how many particles are in each box, ignoring which particle is which. A **microstate** is a specific labeled arrangement. The even split has **six** microstates while "all four on the left" has only **one**, so the even split is six times more likely to be found. **Systems drift toward high-entropy arrangements for no deeper reason than that there are more ways to be in them.**
@@ -108,7 +108,7 @@ against $S = k\ln 1 = 0$ for the all-on-one-side case. The even split is **3 tim
 
 **General trends:** gas ≫ liquid > solid (more accessible microstates as freedom of motion increases); at the same state, more complex molecules have higher entropy (more ways to distribute energy among more atoms/bonds).
 
-![Bar chart of standard molar entropies for four solids, three liquids and six gases](https://alembic.orz.how/d/doc-dc5cfah2ojuq)
+![Bar chart of standard molar entropies for four solids, three liquids and six gases](../assets/entropy_trends.svg)
 *Figure 17.3 — Both trends in one chart. Phase dominates: even the most complex liquid here sits below the simplest gas. Within a phase, complexity takes over — diamond at 2.4 against butane at 310 J K⁻¹ mol⁻¹, a factor of 130. Self-generated with matplotlib from commonly cited standard thermodynamic data.*
 
 Two details in Figure 17.3 repay a second look. **Diamond has the lowest entropy on the chart** (2.4 J K⁻¹ mol⁻¹) because every carbon is locked rigidly in place — graphite, whose sheets can slide, is already more than twice as high. And **water appears twice**: 69.9 as a liquid and 188.8 as a gas. Same substance, same temperature scale, nearly a threefold jump — the phase change is by far the largest single entropy effect in the chapter.
@@ -233,7 +233,7 @@ $$\Delta S_\text{univ} = \underbrace{\Delta S_\text{organism}}_{<0} + \underbrac
 
 Figure 17.4 shows the substance that sits at the bottom of Figure 17.3's scale, and the third law is what lets its entropy be quoted as an absolute number at all.
 
-![A cut diamond, a highly ordered crystalline solid](https://alembic.orz.how/d/doc-i3hthqpllo2i =450x)
+![A cut diamond, a highly ordered crystalline solid](../assets/diamond.jpg =450x)
 *Figure 17.4 — Diamond's standard entropy is $S^\circ=2.4$ J/K·mol at 25 °C — small because carbon atoms are locked into a highly ordered crystal lattice with few accessible microstates. The third law is what allows this to be reported as an absolute value (entropy relative to a perfect crystal at 0 K, where $S=0$) rather than only as a *change*.*
 
 :::: tabs
@@ -453,7 +453,7 @@ Above 835 °C, $\Delta G^\circ<0$ and the decomposition becomes spontaneous.
 
 Figure 17.5 plots that calculation as a line, which is the picture the next worked example asks you to read.
 
-![Chart of Delta G-standard vs. temperature for CaCO3 decomposition, crossing zero at 1108 K](https://alembic.orz.how/d/doc-2azvmbuqe9ap)
+![Chart of Delta G-standard vs. temperature for CaCO3 decomposition, crossing zero at 1108 K](../assets/gibbs_temperature_crossover.svg)
 *Figure 17.5 — Because $\Delta H^\circ>0$ and $\Delta S^\circ>0$ here, $\Delta G^\circ=\Delta H^\circ-T\Delta S^\circ$ decreases linearly as $T$ increases, crossing zero at exactly the temperature found above. Self-generated with matplotlib using the worked example's own real data.*
 
 The same $\Delta G=0$ logic applies to **phase transitions**: at the melting or boiling point, both phases are in equilibrium, so $\Delta S=\Delta H/T$ exactly.
@@ -485,7 +485,7 @@ $$0 = \Delta H^\circ_\text{vap} - T\Delta S^\circ_\text{vap} \quad\Rightarrow\qu
 
 Figure 17.6 is the most familiar $\Delta G = 0$ in chemistry.
 
-![Ice partially melted, liquid water pooling around it](https://alembic.orz.how/d/doc-nbbrt27n365a =450x)
+![Ice partially melted, liquid water pooling around it](../assets/ice_melting.jpg =450x)
 *Figure 17.6 — At exactly 0 °C and 1 atm, ice and liquid water coexist at equilibrium ($\Delta G=0$): for this transition, $\Delta H=6.01$ kJ/mol and $\Delta S=22.0$ J/K·mol, and indeed $6010/22.0=273$ K = 0 °C. Source: Rebecca Partington, via Wikimedia Commons, CC BY-SA 2.0.*
 
 ### Free energy and the equilibrium constant
@@ -494,7 +494,7 @@ Finally, free energy connects directly back to Chapter 14's equilibrium constant
 
 Figure 17.7 shows why equilibrium is where it is: free energy falls from *either* starting side and bottoms out at one composition.
 
-![Free energy vs. reaction progress, with a minimum at equilibrium](https://alembic.orz.how/d/doc-ja84t0q04heu)
+![Free energy vs. reaction progress, with a minimum at equilibrium](../assets/free_energy_vs_reaction_progress.svg)
 *Figure 17.7 — Free energy decreases as the reaction proceeds toward equilibrium from either direction, reaching a minimum exactly where $Q=K$ and $\Delta G=0$. Self-generated with matplotlib; schematic illustration.*
 
 $$\Delta G=\Delta G^\circ+RT\ln Q \qquad \text{at equilibrium: } \Delta G=0,\ Q=K \Rightarrow \boxed{\Delta G^\circ=-RT\ln K}$$

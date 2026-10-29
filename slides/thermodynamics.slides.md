@@ -46,7 +46,7 @@ graph TD
 <!-- slide main-side -->
 ## Two tendencies, four outcomes
 <!-- @main -->
-![Four quadrants of enthalpy and entropy sign combinations](https://alembic.orz.how/d/doc-bgemxf8tx2ri =700x)
+![Four quadrants of enthalpy and entropy sign combinations](../assets/spontaneity_quadrants.svg =700x)
 <!-- @side -->
 Systems tend toward **lower energy** and toward **more disorder**.
 
@@ -65,7 +65,7 @@ $$S = k \ln W$$
 
 <!-- slide -->
 ## 4 particles, 2 boxes: 16 microstates
-![Microstates](https://alembic.orz.how/d/doc-hd18e1u7suc6 =900x)
+![Microstates](../assets/microstates_distribution.svg =900x)
 Distribution \(c), 2-2 split, has the MOST microstates → highest entropy, most probable
 
 <!-- slide -->
@@ -77,7 +77,7 @@ Distribution \(c), 2-2 split, has the MOST microstates → highest entropy, most
 <!-- slide main-side -->
 ## Both entropy trends, in one chart
 <!-- @main -->
-![Standard molar entropies for four solids, three liquids and six gases](https://alembic.orz.how/d/doc-dc5cfah2ojuq =740x)
+![Standard molar entropies for four solids, three liquids and six gases](../assets/entropy_trends.svg =740x)
 <!-- @side -->
 **Phase dominates.** The most complex liquid here still sits below the simplest gas.
 
@@ -103,7 +103,7 @@ Water appears twice: 69.9 as liquid, 188.8 as gas. The phase change is the large
 
 <!-- slide -->
 ## The third law in action
-![Diamond](https://alembic.orz.how/d/doc-i3hthqpllo2i =420x)
+![Diamond](../assets/diamond.jpg =420x)
 Diamond's S° = 2.4 J/K·mol — small because of its highly ordered lattice; the third law lets us report this as an ABSOLUTE value.
 
 <!-- slide -->
@@ -132,7 +132,7 @@ $$G = H - TS \qquad \Delta G = \Delta H - T\Delta S$$
 
 <!-- slide -->
 ## Temperature can flip the sign of ΔG
-![Gibbs temperature crossover](https://alembic.orz.how/d/doc-2azvmbuqe9ap =620x)
+![Gibbs temperature crossover](../assets/gibbs_temperature_crossover.svg =620x)
 
 <!-- slide step -->
 ## Worked example — transition temperature
@@ -143,12 +143,12 @@ CaCO₃(s) ⇌ CaO(s) + CO₂(g). ΔH°=177.8 kJ/mol, ΔS°=160.5 J/K·mol
 
 <!-- slide -->
 ## Phase transitions: the same ΔG=0 logic
-![Ice melting](https://alembic.orz.how/d/doc-nbbrt27n365a =420x)
+![Ice melting](../assets/ice_melting.jpg =420x)
 At 0°C, 1 atm: ice/water equilibrium. ΔH=6.01 kJ/mol, ΔS=22.0 J/K·mol → ΔH/ΔS = 273 K ✓
 
 <!-- slide -->
 ## Free energy vs. reaction progress
-![Free energy vs reaction progress](https://alembic.orz.how/d/doc-ja84t0q04heu =560x)
+![Free energy vs reaction progress](../assets/free_energy_vs_reaction_progress.svg =560x)
 
 <!-- slide -->
 ## Free energy meets equilibrium

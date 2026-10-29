@@ -57,7 +57,7 @@ graph TD
 <!-- slide 2col -->
 ## Polar vs. nonpolar examples
 <!-- @left -->
-![Polar and nonpolar example molecules](https://alembic.orz.how/d/doc-2o8ng8zkw549 =480x)
+![Polar and nonpolar example molecules](../assets/polar_nonpolar_molecules.svg =480x)
 <!-- @right -->
 - Polar molecules (H₂O, HF, NH₃): permanent dipole
 - Can hydrogen-bond if H is on N, O, or F
@@ -100,7 +100,7 @@ H₂S is bent and twice as heavy — but S is too big to H-bond.
 
 <!-- slide -->
 ## The evidence: hydride boiling points
-![Boiling points of main-group hydrides](https://alembic.orz.how/d/doc-jine6a9ia4ng =620x)
+![Boiling points of main-group hydrides](../assets/hydride_boiling_points.svg =620x)
 NH₃, H₂O, and HF sit far above their own group's trend — hydrogen bonding is the extra lift.
 
 <!-- slide 2col -->
@@ -137,7 +137,7 @@ Compare CH₃OH (methanol) and CH₃SH (methanethiol). Which has hydrogen bondin
 - Surface molecules pulled only inward/sideways → net inward force
 - **Stronger IMF → higher surface tension**
 <!-- @side -->
-![A water strider standing on water](https://alembic.orz.how/d/doc-mkiuxzjtl0pf =360x)
+![A water strider standing on water](../assets/water_strider_surface_tension.jpg =360x)
 *Supported entirely by surface tension*
 
 <!-- slide -->
@@ -175,15 +175,15 @@ Compare CH₃OH (methanol) and CH₃SH (methanethiol). Which has hydrogen bondin
 <!-- slide 2col -->
 ## Ionic vs. covalent-network, in real crystals
 <!-- @left -->
-![NaCl ionic lattice](https://alembic.orz.how/d/doc-suvpcddzo64k =420x)
+![NaCl ionic lattice](../assets/nacl_ionic_lattice.png =420x)
 *NaCl: each ion has 6 neighbors*
 <!-- @right -->
-![Quartz crystal](https://alembic.orz.how/d/doc-lzcxbnp6a0dw =420x)
+![Quartz crystal](../assets/quartz_crystal.jpg =420x)
 *Quartz (SiO₂): one continuous covalent network*
 
 <!-- slide -->
 ## The three cubic unit cells
-![Simple cubic, body-centered cubic, face-centered cubic unit cells](https://alembic.orz.how/d/doc-ulu0bjzdk5pe =900x)
+![Simple cubic, body-centered cubic, face-centered cubic unit cells](../assets/cubic_unit_cells.svg =900x)
 
 <!-- slide -->
 ## Counting atoms and coordination number
@@ -217,7 +217,7 @@ $$\ln\frac{P_1}{P_2} = \frac{\Delta H_\text{vap}}{R}\left(\frac{T_1-T_2}{T_1T_2}
 - Relates vapor pressure at two temperatures
 - Needs $\Delta H_\text{vap}$ for the substance
 <!-- @right -->
-![Vapor pressure of diethyl ether vs temperature](https://alembic.orz.how/d/doc-6aepgfg9oo8p =480x)
+![Vapor pressure of diethyl ether vs temperature](../assets/vapor_pressure_diethyl_ether.svg =480x)
 
 <!-- slide step -->
 ## Worked example — diethyl ether at 77 °C
@@ -229,7 +229,7 @@ $$\ln\frac{P_1}{P_2} = \frac{\Delta H_\text{vap}}{R}\left(\frac{T_1-T_2}{T_1T_2}
 <!-- slide main-side -->
 ## Phase diagram of water
 <!-- @main -->
-![Phase diagram of water](https://alembic.orz.how/d/doc-53upmrznae8i =520x)
+![Phase diagram of water](../assets/water_phase_diagram.svg =520x)
 <!-- @side -->
 - **Triple point**: all 3 phases coexist
 - **Critical point**: liquid/vapor become indistinguishable
