@@ -4,7 +4,7 @@ carrier: slides
 uid: doc-p0shf3h13ks4opnm
 title: Chapter 16: Acid-Base Equilibria and Solubility Equilibria
 ratio: 16:9
-theme: paper
+theme: small-press
 }}
 
 <!-- slide template=title -->
