@@ -9,12 +9,10 @@ uid: doc-7jba1xlaoqm0
 
 ## Source and Scope
 
-Based on my lecture notes; first-year chemistry students; the bicarbonate buffer in blood (newcomer).is for, and what it covers.
-
+Based on my lecture notes; for first-year chemistry students; covers the bicarbonate buffer in blood (newcomer).
 ## Chapter Summary
 
-Students learn what a buffer is, then apply Henderson-Hasselbalch to blood pH (newcomer).order.
-
+Students learn what a buffer is, then apply Henderson-Hasselbalch to blood pH (newcomer).
 ## Prerequisites and Later Payoff
 
 What students need first, and where this chapter is used later.
