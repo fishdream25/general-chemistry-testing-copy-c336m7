@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="302.4pt" viewBox="0 0 432 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -122,7 +120,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- [A] -->
+      
       <g transform="translate(103.58797 253.949561) scale(0.11 -0.11)">
        <defs>
         <path id="DejaVuSans-5b" d="M 550 4863 
@@ -177,7 +175,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- [B] -->
+      
       <g transform="translate(224.242266 253.949561) scale(0.11 -0.11)">
        <defs>
         <path id="DejaVuSans-42" d="M 1259 2228 
@@ -226,7 +224,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- [C] -->
+      
       <g transform="translate(344.840702 253.949561) scale(0.11 -0.11)">
        <defs>
         <path id="DejaVuSans-43" d="M 4122 4306 
@@ -271,7 +269,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_4">
-      <!-- 0.0 -->
+      
       <g transform="translate(24.906875 242.390499) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -316,7 +314,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 0.2 -->
+      
       <g transform="translate(24.906875 205.185303) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -357,7 +355,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 0.4 -->
+      
       <g transform="translate(24.906875 167.980106) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -393,7 +391,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 0.6 -->
+      
       <g transform="translate(24.906875 130.77491) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -440,7 +438,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- 0.8 -->
+      
       <g transform="translate(24.906875 93.569714) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -496,7 +494,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- 1.0 -->
+      
       <g transform="translate(24.906875 56.364518) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -521,7 +519,7 @@ z
      </g>
     </g>
     <g id="text_10">
-     <!-- Concentration (M, schematic) -->
+     
      <g transform="translate(18.827188 214.913578) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-6f" d="M 1959 3097 
@@ -879,7 +877,7 @@ L 416.805 43.264
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_11">
-    <!-- Le Chatelier's principle: adding reactant A -->
+    
     <g transform="translate(116.619297 20.946406) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-4c" d="M 628 4666 
@@ -1049,7 +1047,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="2003.226562"/>
      <use xlink:href="#DejaVuSans-41" x="2035.013672"/>
     </g>
-    <!-- (A + B $\rightleftharpoons$ C) -->
+    
     <g transform="translate(198.2625 33.264) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-2b" d="M 2944 4013 
@@ -1110,7 +1108,7 @@ z
 " style="fill: #8ea9c1"/>
     </g>
     <g id="text_12">
-     <!-- Initial equilibrium -->
+     
      <g transform="translate(88.881953 280.045771) scale(0.085 -0.085)">
       <defs>
        <path id="DejaVuSans-49" d="M 628 4666 
@@ -1225,7 +1223,7 @@ z
 " style="fill: #c0392b"/>
     </g>
     <g id="text_13">
-     <!-- Right after adding A -->
+     
      <g transform="translate(203.918828 280.045771) scale(0.085 -0.085)">
       <defs>
        <path id="DejaVuSans-52" d="M 2841 2188 
@@ -1309,7 +1307,7 @@ z
 " style="fill: #2b6cb0"/>
     </g>
     <g id="text_14">
-     <!-- New equilibrium -->
+     
      <g transform="translate(330.275313 280.045771) scale(0.085 -0.085)">
       <defs>
        <path id="DejaVuSans-4e" d="M 628 4666 

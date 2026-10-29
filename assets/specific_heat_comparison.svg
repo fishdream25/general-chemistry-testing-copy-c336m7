@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="820.8pt" height="403.2pt" viewBox="0 0 820.8 403.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -98,7 +96,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(62.927813 317.570516) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -134,7 +132,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 1 -->
+      
       <g transform="translate(213.240944 317.570516) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -163,7 +161,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 2 -->
+      
       <g transform="translate(363.554075 317.570516) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -202,7 +200,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 3 -->
+      
       <g transform="translate(513.867206 317.570516) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -249,7 +247,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 4 -->
+      
       <g transform="translate(664.180338 317.570516) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -277,7 +275,7 @@ z
      </g>
     </g>
     <g id="text_6">
-     <!-- specific heat,  J g$^{-1}$ °C$^{-1}$ -->
+     
      <g transform="translate(373.8725 332.996219) scale(0.105 -0.105)">
       <defs>
        <path id="DejaVuSans-73" d="M 2834 3397 
@@ -641,7 +639,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <!-- water -->
+      
       <g transform="translate(31.883906 64.155216) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-77" d="M 269 3500 
@@ -693,7 +691,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- ethanol -->
+      
       <g transform="translate(23.065234 107.583233) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -761,7 +759,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- aluminum -->
+      
       <g transform="translate(11.280781 151.011249) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-75" d="M 544 1381 
@@ -835,7 +833,7 @@ z
       </g>
      </g>
      <g id="text_10">
-      <!-- iron -->
+      
       <g transform="translate(40.785703 194.439266) scale(0.095 -0.095)">
        <use xlink:href="#DejaVuSans-69"/>
        <use xlink:href="#DejaVuSans-72" x="27.783203"/>
@@ -851,7 +849,7 @@ z
       </g>
      </g>
      <g id="text_11">
-      <!-- copper -->
+      
       <g transform="translate(26.100781 237.867283) scale(0.095 -0.095)">
        <use xlink:href="#DejaVuSans-63"/>
        <use xlink:href="#DejaVuSans-6f" x="54.980469"/>
@@ -869,7 +867,7 @@ z
       </g>
      </g>
      <g id="text_12">
-      <!-- gold -->
+      
       <g transform="translate(38.435938 281.2953) scale(0.095 -0.095)">
        <defs>
         <path id="DejaVuSans-64" d="M 2906 2969 
@@ -918,7 +916,7 @@ L 810 303.352
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_13">
-    <!-- 4.184 -->
+    
     <g style="fill: #1f6f8b" transform="translate(708.388323 63.415708) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-34" d="M 2356 3675 
@@ -1009,7 +1007,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- 2.44 -->
+    
     <g style="fill: #6b3fa0" transform="translate(446.242222 106.843725) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -1042,7 +1040,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- 0.897 -->
+    
     <g style="fill: #2e7d5b" transform="translate(214.309061 150.271742) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-30" d="M 2944 2338 
@@ -1115,7 +1113,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- 0.449 -->
+    
     <g style="fill: #b8621b" transform="translate(146.968778 193.699758) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-30"/>
      <use xlink:href="#DejaVuSans-Bold-2e" x="69.580078"/>
@@ -1125,7 +1123,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- 0.385 -->
+    
     <g style="fill: #a0522d" transform="translate(137.348737 237.127775) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -1194,7 +1192,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- 0.129 -->
+    
     <g style="fill: #b8860b" transform="translate(98.868576 280.555792) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-30"/>
      <use xlink:href="#DejaVuSans-Bold-2e" x="69.580078"/>
@@ -1204,7 +1202,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- Water resists temperature change far more than anything else in the lab -->
+    
     <g style="fill: #22303a" transform="translate(197.665906 20.88) scale(0.132 -0.132)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -1342,7 +1340,7 @@ z
    </g>
   </g>
   <g id="text_20">
-   <!-- It takes 4.184 J to warm one gram of water by 1 °C but only 0.129 J for gold — about 32 times less. That is why water -->
+   
    <g style="fill: #4a5a63" transform="translate(133.666938 370.958791) scale(0.094 -0.094)">
     <defs>
      <path id="DejaVuSans-49" d="M 628 4666 
@@ -1579,7 +1577,7 @@ z
     <use xlink:href="#DejaVuSans-65" x="5785.445312"/>
     <use xlink:href="#DejaVuSans-72" x="5846.96875"/>
    </g>
-   <!-- is the working fluid in a calorimeter, why coastal climates are mild, and why a metal spoon in hot soup burns your hand first. -->
+   
    <g style="fill: #4a5a63" transform="translate(115.942797 385.056) scale(0.094 -0.094)">
     <use xlink:href="#DejaVuSans-69"/>
     <use xlink:href="#DejaVuSans-73" x="27.783203"/>

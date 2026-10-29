@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="576pt" viewBox="0 0 792 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -81,7 +79,7 @@ z
 " clip-path="url(#pe7cc545070)" style="fill: none; stroke: #333333; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- silver nitrate solution -->
+    
     <g transform="translate(103.81125 96.35107) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-73" d="M 3272 3391 
@@ -335,7 +333,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{AgNO_3\,(aq)}$ -->
+    
     <g transform="translate(138.6125 114.383721) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -630,7 +628,7 @@ z
 " clip-path="url(#pe7cc545070)" style="fill: #7f8c8d; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- + -->
+    
     <g transform="translate(320.247798 192.584951) scale(0.22 -0.22)">
      <defs>
       <path id="DejaVuSans-2b" d="M 2944 4013 
@@ -653,7 +651,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- sodium chloride solution -->
+    
     <g transform="translate(424.490753 96.35107) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-64" d="M 2919 2988 
@@ -785,7 +783,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- $\mathrm{NaCl\,(aq)}$ -->
+    
     <g transform="translate(472.533409 114.383721) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -916,7 +914,7 @@ z
 " style="fill: #333333; stroke: #333333; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_6">
-    <!-- mix -->
+    
     <g transform="translate(345.573818 291.320755) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -984,7 +982,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- after mixing -->
+    
     <g transform="translate(294.927173 322.360298) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-66" d="M 2841 4863 
@@ -1138,7 +1136,7 @@ z
 " clip-path="url(#pe7cc545070)" style="fill: #8e44ad; stroke: #ffffff; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_8">
-    <!-- spectator ions -->
+    
     <g style="fill: #444444" transform="translate(497.552727 382.459887) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -1339,7 +1337,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="594.824219"/>
      <use xlink:href="#DejaVuSans-73" x="658.203125"/>
     </g>
-    <!-- stay dissolved -->
+    
     <g style="fill: #444444" transform="translate(497.552727 391.978027) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-79" d="M 2059 -325 
@@ -1760,7 +1758,7 @@ L 468.252395 486.110657
 " style="fill: none; stroke: #333333; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_9">
-    <!-- solid $\mathrm{AgCl}$ precipitate -->
+    
     <g style="fill: #333333" transform="translate(497.552727 457.587965) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-73" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(52.099609 0.015625)"/>
@@ -1785,7 +1783,7 @@ L 468.252395 486.110657
      <use xlink:href="#DejaVuSans-74" transform="translate(966.015625 0.015625)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(1005.224609 0.015625)"/>
     </g>
-    <!-- (falls out of solution) -->
+    
     <g style="fill: #333333" transform="translate(497.552727 467.123371) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -1858,7 +1856,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- Precipitation: only $\mathrm{Ag^+}$ and $\mathrm{Cl^-}$ actually react -->
+    
     <g transform="translate(251.3125 27.189) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-50" d="M 1259 4147 
@@ -1950,7 +1948,7 @@ z
      <use xlink:href="#DejaVuSans-63" transform="translate(2220.595703 0.826562)"/>
      <use xlink:href="#DejaVuSans-74" transform="translate(2275.576172 0.826562)"/>
     </g>
-    <!-- net ionic equation:  $\mathrm{Ag^+(aq) + Cl^-(aq) \rightarrow AgCl(s)}$ -->
+    
     <g transform="translate(244.6875 42.264) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-2192" d="M 5050 2147 
@@ -2014,7 +2012,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- $\mathrm{Ag^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(79.515 152.774023) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-41" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.826562)"/>
@@ -2022,7 +2020,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- $\mathrm{NO_3^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(204.755455 152.174023) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -2031,7 +2029,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- $\mathrm{NO_3^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(113.708182 212.28286) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -2040,7 +2038,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- $\mathrm{Ag^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(233.595 212.88286) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-41" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.826562)"/>
@@ -2048,7 +2046,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $\mathrm{NO_3^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(68.184545 245.342721) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -2057,7 +2055,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- $\mathrm{Ag^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(177.565909 245.942721) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-41" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.826562)"/>
@@ -2065,7 +2063,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(408.535909 152.518555) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2073,7 +2071,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- $\mathrm{Cl^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(536.026364 152.518555) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(69.824219 0.015625)"/>
@@ -2081,7 +2079,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- $\mathrm{Cl^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(444.979091 212.627392) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(69.824219 0.015625)"/>
@@ -2089,7 +2087,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(562.615909 212.627392) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2097,7 +2095,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- $\mathrm{Cl^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(399.455455 245.687252) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(69.824219 0.015625)"/>
@@ -2105,7 +2103,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(506.586818 245.687252) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2113,7 +2111,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(219.437727 365.904927) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2121,7 +2119,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- $\mathrm{NO_3^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(316.813636 359.549512) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -2130,7 +2128,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(415.539545 365.904927) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2138,7 +2136,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- $\mathrm{NO_3^-}$ -->
+    
     <g style="fill: #ffffff" transform="translate(246.777273 413.647465) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -2147,7 +2145,7 @@ z
     </g>
    </g>
    <g id="text_27">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #ffffff" transform="translate(380.521364 413.991996) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2169,7 +2167,7 @@ z
 " style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
     </g>
     <g id="text_28">
-     <!-- Key -->
+     
      <g transform="translate(82.765398 485.078992) scale(0.095 -0.095)">
       <defs>
        <path id="DejaVuSans-4b" d="M 628 4666 
@@ -2211,7 +2209,7 @@ z
      </g>
     </g>
     <g id="text_29">
-     <!-- $\mathrm{Ag^+}$  silver ion -->
+     
      <g transform="translate(47.952 499.024695) scale(0.09 -0.09)">
       <use xlink:href="#DejaVuSans-41" transform="translate(0 0.826562)"/>
       <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.826562)"/>
@@ -2249,7 +2247,7 @@ z
      </g>
     </g>
     <g id="text_30">
-     <!-- $\mathrm{NO_3^-}$  nitrate ion -->
+     
      <g transform="translate(47.952 512.254695) scale(0.09 -0.09)">
       <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.015625)"/>
       <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.015625)"/>
@@ -2289,7 +2287,7 @@ z
      </g>
     </g>
     <g id="text_31">
-     <!-- $\mathrm{Na^+}$  sodium ion -->
+     
      <g transform="translate(47.952 526.203289) scale(0.09 -0.09)">
       <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
       <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2327,7 +2325,7 @@ z
      </g>
     </g>
     <g id="text_32">
-     <!-- $\mathrm{Cl^-}$  chloride ion -->
+     
      <g transform="translate(47.952 539.413601) scale(0.09 -0.09)">
       <defs>
        <path id="DejaVuSans-68" d="M 3513 2113 
@@ -2388,7 +2386,7 @@ z
      </g>
     </g>
     <g id="text_33">
-     <!-- $\mathrm{AgCl\,(s)}$  solid precipitate -->
+     
      <g transform="translate(47.952 552.62532) scale(0.09 -0.09)">
       <use xlink:href="#DejaVuSans-41" transform="translate(0 0.015625)"/>
       <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.015625)"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="604.8pt" viewBox="0 0 907.2 604.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -82,7 +80,7 @@ z
 " clip-path="url(#p8fac26c059)" style="fill: #f8eae8; stroke: #c0392b; stroke-width: 2.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Two tendencies, four combinations — and temperature decides the two that argue -->
+    
     <g style="fill: #22303a" transform="translate(136.712562 30.1104) scale(0.136 -0.136)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -625,7 +623,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\Delta G = \Delta H - T\Delta S$   —   spontaneous whenever $\Delta G &lt; 0$ -->
+    
     <g style="fill: #4a5a63" transform="translate(308.193 58.6224) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-394" d="M 2188 4044 
@@ -1090,7 +1088,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- SPONTANEOUS at every $T$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(244.554 150.5736) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -1280,7 +1278,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- both terms favor it — $\Delta G$ is negative -->
+    
     <g style="fill: #22303a" transform="translate(248.196 200.4856) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -1445,7 +1443,7 @@ z
      <use xlink:href="#DejaVuSans-76" transform="translate(1708.496094 0.015625)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(1767.675781 0.015625)"/>
     </g>
-    <!-- no matter how large or small $T$ is -->
+    
     <g style="fill: #22303a" transform="translate(256.28 211.0324) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -1492,7 +1490,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- $\mathrm{2H_2O_2(l) \rightarrow 2H_2O(l) + O_2(g)}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(272.824 272.4624) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1635,7 +1633,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- spontaneous at HIGH $T$ -->
+    
     <g style="fill: #1f6f8b" transform="translate(599.748 150.5736) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -1710,7 +1708,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- the two terms fight; $-T\Delta S$ wins -->
+    
     <g style="fill: #22303a" transform="translate(606.5 200.4856) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-3b" d="M 750 3309 
@@ -1760,7 +1758,7 @@ z
      <use xlink:href="#DejaVuSans-6e" transform="translate(1445.654297 0.015625)"/>
      <use xlink:href="#DejaVuSans-73" transform="translate(1509.033203 0.015625)"/>
     </g>
-    <!-- once $T &gt; \Delta H/\Delta S$ -->
+    
     <g style="fill: #22303a" transform="translate(643.912 211.030638) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -1817,7 +1815,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- $\mathrm{CaCO_3(s) \rightarrow CaO(s) + CO_2(g)}$   above 835 °C -->
+    
     <g style="fill: #1f6f8b" transform="translate(578.488 272.4624) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -2001,7 +1999,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- spontaneous at LOW $T$ -->
+    
     <g style="fill: #b8621b" transform="translate(255.776 346.5936) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -2053,7 +2051,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- the two terms fight; $\Delta H$ wins -->
+    
     <g style="fill: #22303a" transform="translate(267.09 396.5056) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-74" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-68" transform="translate(39.208984 0.015625)"/>
@@ -2084,7 +2082,7 @@ z
      <use xlink:href="#DejaVuSans-6e" transform="translate(1312.5 0.015625)"/>
      <use xlink:href="#DejaVuSans-73" transform="translate(1375.878906 0.015625)"/>
     </g>
-    <!-- only while $T &lt; \Delta H/\Delta S$ -->
+    
     <g style="fill: #22303a" transform="translate(285.749 407.0524) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-79" d="M 2059 -325 
@@ -2126,7 +2124,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- $\mathrm{H_2O(l) \rightarrow H_2O(s)}$   below 0 °C -->
+    
     <g style="fill: #b8621b" transform="translate(268.312 468.4824) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(76.152344 -16.390625) scale(0.7)"/>
@@ -2157,7 +2155,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- NEVER spontaneous -->
+    
     <g style="fill: #c0392b" transform="translate(609.593406 346.5936) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-56" d="M 31 4666 
@@ -2219,7 +2217,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- both terms oppose it — $\Delta G$ is positive -->
+    
     <g style="fill: #22303a" transform="translate(591.084 396.5056) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-62" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(63.476562 0.015625)"/>
@@ -2259,7 +2257,7 @@ z
      <use xlink:href="#DejaVuSans-76" transform="translate(1768.359375 0.015625)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(1827.539062 0.015625)"/>
     </g>
-    <!-- at every temperature -->
+    
     <g style="fill: #22303a" transform="translate(629.383859 407.050638) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-74" x="61.279297"/>
@@ -2284,7 +2282,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- $\mathrm{3O_2(g) \rightarrow 2O_3(g)}$ -->
+    
     <g style="fill: #c0392b" transform="translate(642.925 468.4824) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-33" transform="translate(0 0.125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(63.623047 0.125)"/>
@@ -2302,7 +2300,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $\Delta H &lt; 0$   exothermic -->
+    
     <g style="fill: #22303a" transform="translate(272.146 100.6776) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-78" d="M 1422 1791 
@@ -2341,7 +2339,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- $\Delta H &gt; 0$   endothermic -->
+    
     <g style="fill: #22303a" transform="translate(613.33 100.6776) scale(0.116 -0.116)">
      <use xlink:href="#DejaVuSans-394" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-Oblique-48" transform="translate(68.408203 0.015625)"/>
@@ -2364,14 +2362,14 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- $\Delta S &gt; 0$ -->
+    
     <g style="fill: #22303a" transform="translate(114.932 204.773725) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-394" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Oblique-53" transform="translate(68.408203 0.78125)"/>
      <use xlink:href="#DejaVuSans-3e" transform="translate(151.367188 0.78125)"/>
      <use xlink:href="#DejaVuSans-30" transform="translate(254.638672 0.78125)"/>
     </g>
-    <!-- more disorder -->
+    
     <g style="fill: #22303a" transform="translate(61.3995 217.315275) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-Bold-6d"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="104.199219"/>
@@ -2389,14 +2387,14 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- $\Delta S &lt; 0$ -->
+    
     <g style="fill: #22303a" transform="translate(114.932 400.793725) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-394" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Oblique-53" transform="translate(68.408203 0.78125)"/>
      <use xlink:href="#DejaVuSans-3c" transform="translate(151.367188 0.78125)"/>
      <use xlink:href="#DejaVuSans-30" transform="translate(254.638672 0.78125)"/>
     </g>
-    <!-- less disorder -->
+    
     <g style="fill: #22303a" transform="translate(69.117 413.335275) scale(0.112 -0.112)">
      <defs>
       <path id="DejaVuSans-Bold-6c" d="M 538 4863 
@@ -2423,7 +2421,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- The two diagonal cells are decided before you calculate anything. The other two are a contest, and the crossover sits at $T = \Delta H/\Delta S$ — -->
+    
     <g style="fill: #4a5a63" transform="translate(126.329 547.6516) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-68" d="M 3566 2113 
@@ -3024,7 +3022,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-20" transform="translate(6547.021484 0.015625)"/>
      <use xlink:href="#DejaVuSansDisplay-2014" transform="translate(6578.808594 0.015625)"/>
     </g>
-    <!-- the temperature where $\Delta G$ passes through zero. -->
+    
     <g style="fill: #4a5a63" transform="translate(334.677 558.6472) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-6d" d="M 5747 2113 

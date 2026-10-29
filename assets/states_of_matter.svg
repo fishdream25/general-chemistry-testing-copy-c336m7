@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="244.8pt" viewBox="0 0 648 244.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -153,7 +151,7 @@ L 202.752 51.696
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- Solid -->
+    
     <g transform="translate(93.344141 45.696) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -388,7 +386,7 @@ L 415.152 51.696
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_2">
-    <!-- Liquid -->
+    
     <g transform="translate(301.469375 45.696) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -534,7 +532,7 @@ L 627.552 51.696
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_3">
-    <!-- Gas -->
+    
     <g transform="translate(522.809922 45.696) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-47" d="M 4781 347 
@@ -634,7 +632,7 @@ z
    </g>
   </g>
   <g id="text_4">
-   <!-- The three states of matter: particle arrangement -->
+   
    <g transform="translate(165.092266 14.773969) scale(0.13 -0.13)">
     <defs>
      <path id="DejaVuSans-54" d="M -19 4666 

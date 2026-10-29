@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="691.2pt" height="316.8pt" viewBox="0 0 691.2 316.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -66,7 +64,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- 1 e$^-$ handed over -->
+    
     <g style="fill: #c0392b" transform="translate(134.55 103.150969) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -279,7 +277,7 @@ z
      <use xlink:href="#DejaVuSans-65" transform="translate(807.001953 0.015625)"/>
      <use xlink:href="#DejaVuSans-72" transform="translate(868.525391 0.015625)"/>
     </g>
-    <!-- completely -->
+    
     <g style="fill: #c0392b" transform="translate(150.566484 113.229) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -418,7 +416,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g transform="translate(80.72 235.107) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -456,7 +454,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- $\mathrm{Cl^-}$ -->
+    
     <g transform="translate(247.51 235.107) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -500,7 +498,7 @@ L 225.913399 255.773
 " style="fill: none; stroke-dasharray: 1.1,1.815; stroke-dashoffset: 0; stroke: #333333; stroke-width: 1.1; stroke-linecap: round"/>
    </g>
    <g id="text_4">
-    <!-- opposite charges attract -->
+    
     <g transform="translate(123.399648 266.214859) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -607,7 +605,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="1131.697266"/>
      <use xlink:href="#DejaVuSans-74" x="1186.677734"/>
     </g>
-    <!-- (the ionic bond) -->
+    
     <g transform="translate(141.825391 275.733) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -682,7 +680,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Ionic bond: one atom takes the electron -->
+    
     <g transform="translate(65.562734 58.917) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -762,14 +760,14 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Na -->
+    
     <g style="fill: #ffffff" transform="translate(84.984375 186.26325) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-4e"/>
      <use xlink:href="#DejaVuSans-61" x="74.804688"/>
     </g>
    </g>
    <g id="text_7">
-    <!-- Cl -->
+    
     <g style="fill: #ffffff" transform="translate(251.993437 186.26325) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-43"/>
      <use xlink:href="#DejaVuSans-6c" x="69.824219"/>
@@ -813,7 +811,7 @@ L 517.46 204.523657
 " style="fill: none; stroke: #333333; stroke-width: 1.1; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <!-- one electron from each H -->
+    
     <g style="fill: #333333" transform="translate(459.789062 251.604925) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -878,7 +876,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="1163.712891"/>
      <use xlink:href="#DejaVuSans-48" x="1195.5"/>
     </g>
-    <!-- = 2 shared electrons = 1 bond -->
+    
     <g style="fill: #333333" transform="translate(448.017687 261.459) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-3d" d="M 678 2906 
@@ -951,7 +949,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- the pair is shared, -->
+    
     <g style="fill: #2980b9" transform="translate(474.957422 103.150969) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -984,7 +982,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="810.152344"/>
      <use xlink:href="#DejaVuSans-2c" x="873.628906"/>
     </g>
-    <!-- not transferred -->
+    
     <g style="fill: #2980b9" transform="translate(481.833984 113.229) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-6f" x="63.378906"/>
@@ -1004,7 +1002,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- Covalent bond: the atoms share a pair ($\mathrm{H_2}$) -->
+    
     <g transform="translate(396.735 58.917) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(69.824219 0.015625)"/>
@@ -1051,13 +1049,13 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- H -->
+    
     <g transform="translate(453.166797 186.539187) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- H -->
+    
     <g transform="translate(568.456797 186.539187) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
@@ -1100,7 +1098,7 @@ z
    </g>
   </g>
   <g id="text_13">
-   <!-- Two ways to reach a stable electron configuration -->
+   
    <g transform="translate(184.190781 16.213969) scale(0.13 -0.13)">
     <defs>
      <path id="DejaVuSans-54" d="M -19 4666 

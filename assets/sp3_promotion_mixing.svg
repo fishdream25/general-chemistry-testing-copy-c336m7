@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="460.8pt" viewBox="0 0 892.8 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -69,7 +67,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #f7fafb; stroke: #6b3fa0; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Why carbon forms four bonds, not two -->
+    
     <g style="fill: #22303a" transform="translate(307.267219 78.665875) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-57" d="M 191 4666 
@@ -487,7 +485,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- promote one electron, then mix — the cost is repaid many times over by two extra bonds -->
+    
     <g style="fill: #4a5a63" transform="translate(232.698281 99.594809) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -1055,7 +1053,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- $2s$ -->
+    
     <g style="fill: #4a5a63" transform="translate(185.932 218.443746) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1112,7 +1110,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
-    <!-- $2p$ -->
+    
     <g style="fill: #4a5a63" transform="translate(155.716 259.962867) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-32" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Oblique-70" transform="translate(63.623047 0.78125)"/>
@@ -1127,7 +1125,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_5">
-    <!-- $2s$ -->
+    
     <g style="fill: #4a5a63" transform="translate(420.292 218.443746) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-32" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.78125)"/>
@@ -1158,7 +1156,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_6">
-    <!-- $2p$ -->
+    
     <g style="fill: #4a5a63" transform="translate(390.076 259.962867) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-32" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Oblique-70" transform="translate(63.623047 0.78125)"/>
@@ -1197,7 +1195,7 @@ z
 " clip-path="url(#pdef938d8a1)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
-    <!-- $sp^3$ -->
+    
     <g style="fill: #4a5a63" transform="translate(605.928 219.184371) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -1259,7 +1257,7 @@ z
 " style="fill: #4a5a63; stroke: #4a5a63; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <!-- promote -->
+    
     <g style="fill: #4a5a63" transform="translate(320.505609 218.278183) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -1413,7 +1411,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- mix -->
+    
     <g style="fill: #4a5a63" transform="translate(566.074375 218.278183) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-69" d="M 603 3500 
@@ -1464,7 +1462,7 @@ Q 171.858016 388.678888 176.182016 388.678888
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- In its ground state carbon has only two unpaired electrons and should form only two bonds. Promoting one $2s$ electron -->
+    
     <g style="fill: #22303a" transform="translate(177.393 354.164878) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -1913,7 +1911,7 @@ z
      <use xlink:href="#DejaVuSans-6f" transform="translate(5835.742188 0.015625)"/>
      <use xlink:href="#DejaVuSans-6e" transform="translate(5896.923828 0.015625)"/>
     </g>
-    <!-- into the empty $2p$ costs energy but produces four unpaired electrons; mixing the four orbitals then makes them -->
+    
     <g style="fill: #22303a" transform="translate(193.373 368.283678) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-3b" d="M 750 3309 
@@ -2056,7 +2054,7 @@ z
      <use xlink:href="#DejaVuSans-65" transform="translate(5462.011719 0.015625)"/>
      <use xlink:href="#DejaVuSans-6d" transform="translate(5523.535156 0.015625)"/>
     </g>
-    <!-- identical and points them at the corners of a tetrahedron. Four bonds release far more energy than the promotion cost. -->
+    
     <g style="fill: #22303a" transform="translate(176.182016 382.399981) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -2194,7 +2192,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- ground state -->
+    
     <g style="fill: #2e7d5b" transform="translate(183.845813 150.543791) scale(0.108 -0.108)">
      <defs>
       <path id="DejaVuSans-Bold-67" d="M 2919 594 
@@ -2272,7 +2270,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- $2s^2 2p^2$ -->
+    
     <g style="fill: #22303a" transform="translate(204.115 173.379444) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-32" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -2283,7 +2281,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- only 2 unpaired -->
+    
     <g style="fill: #22303a" transform="translate(188.796813 297.569204) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-6e" x="61.181641"/>
@@ -2301,7 +2299,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="656.880859"/>
      <use xlink:href="#DejaVuSans-64" x="718.404297"/>
     </g>
-    <!-- → only 2 bonds -->
+    
     <g style="fill: #22303a" transform="translate(189.851438 309.429267) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-2192" d="M 5050 2147 
@@ -2335,7 +2333,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- promoted -->
+    
     <g style="fill: #b8621b" transform="translate(427.876031 150.585979) scale(0.108 -0.108)">
      <defs>
       <path id="DejaVuSans-Bold-70" d="M 1656 506 
@@ -2376,7 +2374,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $2s^1 2p^3$ -->
+    
     <g style="fill: #22303a" transform="translate(438.475 173.379444) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -2403,7 +2401,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- 4 unpaired -->
+    
     <g style="fill: #22303a" transform="translate(433.862563 297.569204) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -2437,7 +2435,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="413.570312"/>
      <use xlink:href="#DejaVuSans-64" x="475.09375"/>
     </g>
-    <!-- → 4 bonds possible -->
+    
     <g style="fill: #22303a" transform="translate(415.503563 309.429267) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-2192"/>
      <use xlink:href="#DejaVuSans-20" x="83.789062"/>
@@ -2460,7 +2458,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- hybridized -->
+    
     <g style="fill: #6b3fa0" transform="translate(659.789156 150.543791) scale(0.108 -0.108)">
      <defs>
       <path id="DejaVuSans-Bold-69" d="M 538 3500 
@@ -2503,7 +2501,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- four $sp^3$ -->
+    
     <g style="fill: #22303a" transform="translate(669.865 173.379444) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-66" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(35.205078 0.765625)"/>
@@ -2516,7 +2514,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- 4 identical orbitals, -->
+    
     <g style="fill: #22303a" transform="translate(649.675875 297.569204) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -2551,7 +2549,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="876.220703"/>
      <use xlink:href="#DejaVuSans-2c" x="928.320312"/>
     </g>
-    <!-- 109.5° apart -->
+    
     <g style="fill: #22303a" transform="translate(664.005438 309.429267) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-30" d="M 2034 4250 

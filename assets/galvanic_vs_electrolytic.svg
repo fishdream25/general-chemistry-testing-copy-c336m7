@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="561.6pt" viewBox="0 0 979.2 561.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -56,7 +54,7 @@ z
 " clip-path="url(#p15a2357d98)" style="fill: #f4f7f9; stroke: #c0392b; stroke-width: 2.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Same chemistry, opposite direction — and only one of them needs a battery -->
+    
     <g style="fill: #22303a" transform="translate(201.815109 29.8944) scale(0.134 -0.134)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -565,7 +563,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- In both, oxidation is at the anode and reduction is at the cathode — that never changes. -->
+    
     <g style="fill: #4a5a63" transform="translate(272.255906 58.4064) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-49" d="M 1081 4666 
@@ -1094,7 +1092,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- GALVANIC (voltaic) cell -->
+    
     <g style="fill: #2e7d5b" transform="translate(166.263469 95.472) scale(0.126 -0.126)">
      <defs>
       <path id="DejaVuSans-Bold-47" d="M 4781 347 
@@ -1268,7 +1266,7 @@ L 361.296 227.34
 " clip-path="url(#p15a2357d98)" style="fill: none; stroke: #22303a; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="text_4">
-    <!-- e$^-$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(168.068 141.0912) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-2212" d="M 678 2272 
@@ -1284,7 +1282,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- spontaneous:  $E^\circ_{cell} &gt; 0$,  $\Delta G^\circ &lt; 0$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(157.392 443.9904) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-75" d="M 500 1363 
@@ -1484,7 +1482,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- chemical energy  $\rightarrow$  electrical energy -->
+    
     <g style="fill: #22303a" transform="translate(155.04 480.552) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -1798,7 +1796,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- a battery IS one of these -->
+    
     <g style="fill: #4a5a63" transform="translate(191.520422 515.734594) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-79" d="M 1588 -325 
@@ -1899,7 +1897,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- ELECTROLYTIC cell -->
+    
     <g style="fill: #c0392b" transform="translate(666.824766 95.472) scale(0.126 -0.126)">
      <defs>
       <path id="DejaVuSans-Bold-45" d="M 588 4666 
@@ -2017,7 +2015,7 @@ L 846 227.34
 " clip-path="url(#p15a2357d98)" style="fill: none; stroke: #22303a; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="text_9">
-    <!-- power supply -->
+    
     <g style="fill: #c0392b" transform="translate(698.602062 128.2608) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Bold-77" d="M 225 3500 
@@ -2052,14 +2050,14 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- e$^-$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(652.772 141.0912) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-65" transform="translate(0 0.86875)"/>
      <use xlink:href="#DejaVuSans-2212" transform="translate(82.416992 39.15) scale(0.7)"/>
     </g>
    </g>
    <g id="text_11">
-    <!-- nonspontaneous:  $E^\circ_{cell} &lt; 0$,  $\Delta G^\circ &gt; 0$ -->
+    
     <g style="fill: #c0392b" transform="translate(631.072 443.9904) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-6e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Bold-6f" transform="translate(71.191406 0.78125)"/>
@@ -2097,7 +2095,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- electrical energy  $\rightarrow$  chemical energy -->
+    
     <g style="fill: #22303a" transform="translate(639.744 480.552) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-65" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(61.523438 0.015625)"/>
@@ -2139,7 +2137,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- molten NaCl: Cl$^-$ oxidized, Na$^+$ reduced -->
+    
     <g style="fill: #4a5a63" transform="translate(639.792 515.734594) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-6d" d="M 5747 2113 
@@ -2307,7 +2305,7 @@ z
 " clip-path="url(#p15a2357d98)" style="fill: #cfd8dd; stroke: #22303a; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_14">
-    <!-- ANODE  ·  oxidation -->
+    
     <g style="fill: #b8621b" transform="translate(85.763609 381.424256) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-Bold-44" d="M 1791 3756 
@@ -2386,7 +2384,7 @@ z
 " clip-path="url(#p15a2357d98)" style="fill: #cfd8dd; stroke: #22303a; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_15">
-    <!-- CATHODE  ·  reduction -->
+    
     <g style="fill: #2e7d5b" transform="translate(307.560109 381.424256) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -2437,7 +2435,7 @@ z
 " clip-path="url(#p15a2357d98)" style="fill: #cfd8dd; stroke: #22303a; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_16">
-    <!-- ANODE  ·  oxidation -->
+    
     <g style="fill: #b8621b" transform="translate(570.467609 381.424256) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Bold-41"/>
      <use xlink:href="#DejaVuSans-Bold-4e" x="77.392578"/>
@@ -2469,7 +2467,7 @@ z
 " clip-path="url(#p15a2357d98)" style="fill: #cfd8dd; stroke: #22303a; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_17">
-    <!-- CATHODE  ·  reduction -->
+    
     <g style="fill: #2e7d5b" transform="translate(792.264109 381.424256) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Bold-43"/>
      <use xlink:href="#DejaVuSans-Bold-41" x="73.388672"/>
@@ -2495,7 +2493,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- Zn(s) -->
+    
     <g style="fill: #22303a" transform="translate(135.959375 308.36165) rotate(-90) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-5a" d="M 359 4666 
@@ -2520,7 +2518,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- Cu(s) -->
+    
     <g style="fill: #22303a" transform="translate(364.055375 308.4054) rotate(-90) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-43"/>
      <use xlink:href="#DejaVuSans-Bold-75" x="73.388672"/>
@@ -2543,7 +2541,7 @@ Q 191.413359 264.977128 194.881359 264.977128
 z
 " style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 1.4; stroke-linejoin: miter"/>
     </g>
-    <!-- the cell -->
+    
     <g style="fill: #22303a" transform="translate(225.965859 247.966078) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-74"/>
      <use xlink:href="#DejaVuSans-Bold-68" x="47.802734"/>
@@ -2554,7 +2552,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-6c" x="348.730469"/>
      <use xlink:href="#DejaVuSans-Bold-6c" x="383.007812"/>
     </g>
-    <!-- DRIVES the circuit -->
+    
     <g style="fill: #22303a" transform="translate(194.881359 259.387847) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-44"/>
      <use xlink:href="#DejaVuSans-Bold-52" x="83.007812"/>
@@ -2577,7 +2575,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- inert -->
+    
     <g style="fill: #22303a" transform="translate(620.663375 307.150712) rotate(-90) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-69"/>
      <use xlink:href="#DejaVuSans-Bold-6e" x="34.277344"/>
@@ -2587,7 +2585,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- inert -->
+    
     <g style="fill: #22303a" transform="translate(848.759375 307.150712) rotate(-90) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-69"/>
      <use xlink:href="#DejaVuSans-Bold-6e" x="34.277344"/>
@@ -2610,7 +2608,7 @@ Q 674.712469 264.977128 678.180469 264.977128
 z
 " style="fill: #ffffff; stroke: #c0392b; stroke-width: 1.4; stroke-linejoin: miter"/>
     </g>
-    <!-- an external source -->
+    
     <g style="fill: #22303a" transform="translate(678.180469 247.966078) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-6e" x="67.480469"/>
@@ -2631,7 +2629,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-63" x="927.246094"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="986.523438"/>
     </g>
-    <!-- DRIVES the cell -->
+    
     <g style="fill: #22303a" transform="translate(687.732609 259.387847) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-44"/>
      <use xlink:href="#DejaVuSans-Bold-52" x="83.007812"/>

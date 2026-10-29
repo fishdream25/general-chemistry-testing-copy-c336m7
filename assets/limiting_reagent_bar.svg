@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="468pt" height="302.4pt" viewBox="0 0 468 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -66,7 +64,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- NH$_3$ available -->
+      
       <g transform="translate(92.017879 275.006438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-4e" d="M 628 4666 
@@ -259,7 +257,7 @@ z
        <use xlink:href="#DejaVuSans-6c" transform="translate(588.450195 0.015625)"/>
        <use xlink:href="#DejaVuSans-65" transform="translate(616.233398 0.015625)"/>
       </g>
-      <!-- (÷ coeff. 2) -->
+      
       <g transform="translate(97.835066 286.20425) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-28" d="M 1984 4856 
@@ -424,7 +422,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- CO$_2$ available -->
+      
       <g transform="translate(341.942121 275.006438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-43" d="M 4122 4306 
@@ -484,7 +482,7 @@ z
        <use xlink:href="#DejaVuSans-6c" transform="translate(590.610352 0.015625)"/>
        <use xlink:href="#DejaVuSans-65" transform="translate(618.393555 0.015625)"/>
       </g>
-      <!-- (÷ coeff. 1) -->
+      
       <g transform="translate(347.859309 286.20425) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -531,7 +529,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_3">
-      <!-- 0 -->
+      
       <g transform="translate(31.2975 264.207219) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -567,7 +565,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 5 -->
+      
       <g transform="translate(31.2975 227.661366) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -607,7 +605,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 10 -->
+      
       <g transform="translate(24.935 191.115513) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -621,7 +619,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 15 -->
+      
       <g transform="translate(24.935 154.56966) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -635,7 +633,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 20 -->
+      
       <g transform="translate(24.935 118.023807) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -649,7 +647,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- 25 -->
+      
       <g transform="translate(24.935 81.477954) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -663,7 +661,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- 30 -->
+      
       <g transform="translate(24.935 44.932101) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-33"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -671,7 +669,7 @@ z
      </g>
     </g>
     <g id="text_10">
-     <!-- moles ÷ stoichiometric coefficient -->
+     
      <g transform="translate(18.855313 229.219781) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -865,7 +863,7 @@ L 457.2 260.408
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_11">
-    <!-- 18.71 mol -->
+    
     <g transform="translate(100.696004 117.653418) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-38" d="M 2034 2216 
@@ -930,7 +928,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- 25.95 mol -->
+    
     <g transform="translate(350.720246 64.735023) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -976,7 +974,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- smaller value = limiting reagent -->
+    
     <g style="fill: #c0392b" transform="translate(163.421515 101.725907) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-75" d="M 544 1381 
@@ -1084,7 +1082,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- Identifying the limiting reagent (NH$_3$ + CO$_2$ → urea) -->
+    
     <g transform="translate(108.865 20.88) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 

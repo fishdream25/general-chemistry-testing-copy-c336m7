@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="993.6pt" height="556.416pt" viewBox="0 0 993.6 556.416" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -186,7 +184,7 @@ z
 " clip-path="url(#pc13eae8bcd)" style="fill: #efe7f5; stroke: #6b3fa0; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- The stronger the acid, the weaker its conjugate base -->
+    
     <g style="fill: #22303a" transform="translate(290.40375 25.73424) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -650,7 +648,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- and water sets hard limits at both ends — nothing stronger than H$_3$O$^+$ or OH$^-$ survives in it -->
+    
     <g style="fill: #4a5a63" transform="translate(251.251 49.997952) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
@@ -1275,7 +1273,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- ACID -->
+    
     <g style="fill: #22303a" transform="translate(180.79348 88.03296) scale(0.118 -0.118)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -1353,7 +1351,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- its CONJUGATE BASE -->
+    
     <g style="fill: #22303a" transform="translate(436.916731 88.03296) scale(0.118 -0.118)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -1545,7 +1543,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- HClO$_4$, HI, HBr, HCl, HNO$_3$ -->
+    
     <g style="fill: #22303a" transform="translate(128.20048 127.025577) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -1739,7 +1737,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- ClO$_4^-$, I$^-$, Br$^-$, Cl$^-$, NO$_3^-$ -->
+    
     <g style="fill: #22303a" transform="translate(437.6872 126.59164) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(69.824219 0.015625)"/>
@@ -1769,7 +1767,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- strong acids -->
+    
     <g style="fill: #c0392b" transform="translate(709.9272 126.694452) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -2007,7 +2005,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- H$_3$O$^+$ -->
+    
     <g style="fill: #22303a" transform="translate(181.30648 189.547891) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-33" transform="translate(76.152344 -15.579688) scale(0.7)"/>
@@ -2016,7 +2014,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- H$_2$O -->
+    
     <g style="fill: #22303a" transform="translate(494.2382 189.324297) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -2050,7 +2048,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- the strongest acid water allows -->
+    
     <g style="fill: #6b3fa0" transform="translate(709.9272 188.956454) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-6c" d="M 538 4863 
@@ -2095,7 +2093,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- HSO$_4^-$, HF, HNO$_2$ -->
+    
     <g style="fill: #22303a" transform="translate(152.05048 251.18908) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -2161,7 +2159,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- SO$_4^{2-}$, F$^-$, NO$_2^-$ -->
+    
     <g style="fill: #22303a" transform="translate(462.9152 252.03708) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-53" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(63.476562 0.765625)"/>
@@ -2181,7 +2179,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- weak acids -->
+    
     <g style="fill: #b8621b" transform="translate(709.9272 251.291892) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -2253,7 +2251,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- CH$_3$COOH, H$_2$CO$_3$ -->
+    
     <g style="fill: #22303a" transform="translate(150.14248 313.921737) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(69.824219 0.78125)"/>
@@ -2272,7 +2270,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- CH$_3$COO$^-$, HCO$_3^-$ -->
+    
     <g style="fill: #22303a" transform="translate(457.9332 313.4348) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(69.824219 0.78125)"/>
@@ -2291,7 +2289,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- weak acids -->
+    
     <g style="fill: #b8621b" transform="translate(709.9272 313.590613) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-77"/>
      <use xlink:href="#DejaVuSans-65" x="81.787109"/>
@@ -2306,7 +2304,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- NH$_4^+$, HCN -->
+    
     <g style="fill: #22303a" transform="translate(169.22248 376.21052) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(71.179688 0.826562)"/>
@@ -2320,7 +2318,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- NH$_3$, CN$^-$ -->
+    
     <g style="fill: #22303a" transform="translate(478.8682 376.220458) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(71.179688 0.78125)"/>
@@ -2333,7 +2331,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- very weak acids -->
+    
     <g style="fill: #2e7d5b" transform="translate(709.9272 375.889333) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -2382,7 +2380,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- H$_2$O -->
+    
     <g style="fill: #22303a" transform="translate(186.02348 438.519178) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(76.152344 -15.625) scale(0.7)"/>
@@ -2390,7 +2388,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- OH$^-$ -->
+    
     <g style="fill: #22303a" transform="translate(492.0652 438.519178) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-4f" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(78.710938 0.78125)"/>
@@ -2398,7 +2396,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- the strongest base water allows -->
+    
     <g style="fill: #6b3fa0" transform="translate(709.9272 438.151334) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-74"/>
      <use xlink:href="#DejaVuSans-Bold-68" x="47.802734"/>
@@ -2444,7 +2442,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 2.6; stroke-linecap: round"/>
    </g>
    <g id="text_23">
-    <!-- acid strength decreases -->
+    
     <g style="fill: #c0392b" transform="translate(18.235135 349.137315) rotate(-90) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>
@@ -2482,7 +2480,7 @@ z
 " style="fill: #1f6f8b; stroke: #1f6f8b; stroke-width: 2.6; stroke-linecap: round"/>
    </g>
    <g id="text_24">
-    <!-- base strength increases downward -->
+    
     <g style="fill: #1f6f8b" transform="translate(692.155238 372.809034) rotate(-90) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-62"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="71.582031"/>
@@ -2519,7 +2517,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- Read a row across: a strong acid on the left always pairs with a negligible base on the right. The two purple rows are water's own pair — -->
+    
     <g style="fill: #4a5a63" transform="translate(160.894281 522.886116) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-52" d="M 1613 4147 
@@ -2829,7 +2827,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-20" x="6723.583984"/>
      <use xlink:href="#DejaVuSans-Oblique-2014" x="6755.371094"/>
     </g>
-    <!-- any acid stronger than H$_3$O$^+$ is leveled to H$_3$O$^+$, and any base stronger than OH$^-$ is leveled to OH$^-$. -->
+    
     <g style="fill: #4a5a63" transform="translate(247.145 534.685009) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-2c" d="M 575 794 

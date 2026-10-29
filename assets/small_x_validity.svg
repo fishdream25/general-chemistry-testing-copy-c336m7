@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="388.8pt" viewBox="0 0 979.2 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -55,7 +53,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- $\mathdefault{10^{-6}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(49.6654 342.678531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -150,7 +148,7 @@ L 122.452677 60.264
       </g>
      </g>
      <g id="text_2">
-      <!-- $\mathdefault{10^{-5}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(111.407677 342.678531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -198,7 +196,7 @@ L 184.194953 60.264
       </g>
      </g>
      <g id="text_3">
-      <!-- $\mathdefault{10^{-4}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(173.149953 342.678531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -240,7 +238,7 @@ L 245.93723 60.264
       </g>
      </g>
      <g id="text_4">
-      <!-- $\mathdefault{10^{-3}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(234.89223 342.678531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -295,7 +293,7 @@ L 307.679507 60.264
       </g>
      </g>
      <g id="text_5">
-      <!-- $\mathdefault{10^{-2}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(296.634507 342.678531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -342,7 +340,7 @@ L 369.421783 60.264
       </g>
      </g>
      <g id="text_6">
-      <!-- $\mathdefault{10^{-1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(358.376783 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -363,7 +361,7 @@ L 431.16406 60.264
       </g>
      </g>
      <g id="text_7">
-      <!-- $\mathdefault{10^{0}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(422.89206 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -977,7 +975,7 @@ L 460.622612 60.264
      </g>
     </g>
     <g id="text_8">
-     <!-- equilibrium constant $K$ -->
+     
      <g style="fill: #22303a" transform="translate(200.829506 356.689437) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-65" d="M 3597 1894 
@@ -1351,7 +1349,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <!-- $\mathdefault{10^{-1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(31.6204 308.215883) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -1372,7 +1370,7 @@ L 460.622612 225.279164
       </g>
      </g>
      <g id="text_10">
-      <!-- $\mathdefault{10^{0}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(37.1664 228.850429) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -1392,7 +1390,7 @@ L 460.622612 145.91371
       </g>
      </g>
      <g id="text_11">
-      <!-- $\mathdefault{10^{1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(37.1664 149.484975) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -1412,7 +1410,7 @@ L 460.622612 66.548256
       </g>
      </g>
      <g id="text_12">
-      <!-- $\mathdefault{10^{2}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(37.1664 70.119521) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -1774,7 +1772,7 @@ L 460.622612 70.17982
      </g>
     </g>
     <g id="text_13">
-     <!-- $x$ as a % of $[\mathrm{A}]_0$ -->
+     
      <g style="fill: #22303a" transform="translate(25.415931 235.687) rotate(-90) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-Oblique-78" d="M 3841 3500 
@@ -1956,7 +1954,7 @@ L 460.622612 328.536
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_14">
-    <!-- 5% threshold -->
+    
     <g style="fill: #c0392b" transform="translate(67.745522 162.390637) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-35" d="M 678 4666 
@@ -2218,7 +2216,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- (a) how much actually reacts -->
+    
     <g style="fill: #22303a" transform="translate(177.745756 52.264) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -2353,7 +2351,7 @@ L 600.214595 60.264
       </g>
      </g>
      <g id="text_16">
-      <!-- $\mathdefault{10^{-1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(589.169595 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -2374,7 +2372,7 @@ L 718.524423 60.264
       </g>
      </g>
      <g id="text_17">
-      <!-- $\mathdefault{10^{0}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(710.252423 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -2394,7 +2392,7 @@ L 836.834252 60.264
       </g>
      </g>
      <g id="text_18">
-      <!-- $\mathdefault{10^{1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(828.562252 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -2414,7 +2412,7 @@ L 955.14408 60.264
       </g>
      </g>
      <g id="text_19">
-      <!-- $\mathdefault{10^{2}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(946.87208 342.678531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -2771,7 +2769,7 @@ L 949.730519 60.264
      </g>
     </g>
     <g id="text_20">
-     <!-- $x$ as a % of $[\mathrm{A}]_0$ -->
+     
      <g style="fill: #22303a" transform="translate(723.268894 356.687781) scale(0.106 -0.106)">
       <use xlink:href="#DejaVuSans-Oblique-78" transform="translate(0 0.015625)"/>
       <use xlink:href="#DejaVuSans-20" transform="translate(59.179688 0.015625)"/>
@@ -2805,7 +2803,7 @@ L 964.512 283.634184
       </g>
      </g>
      <g id="text_21">
-      <!-- $\mathdefault{10^{-1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(535.509788 287.20545) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -2826,7 +2824,7 @@ L 964.512 219.394209
       </g>
      </g>
      <g id="text_22">
-      <!-- $\mathdefault{10^{0}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(541.055788 222.965474) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -2846,7 +2844,7 @@ L 964.512 155.154233
       </g>
      </g>
      <g id="text_23">
-      <!-- $\mathdefault{10^{1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(541.055788 158.725499) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -2866,7 +2864,7 @@ L 964.512 90.914258
       </g>
      </g>
      <g id="text_24">
-      <!-- $\mathdefault{10^{2}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(541.055788 94.485523) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -3283,7 +3281,7 @@ L 964.512 60.264
      </g>
     </g>
     <g id="text_25">
-     <!-- error in $x$ from using the shortcut (%) -->
+     
      <g style="fill: #22303a" transform="translate(529.283788 293.828) rotate(-90) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-67" d="M 2906 1791 
@@ -3402,7 +3400,7 @@ L 964.512 328.536
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_26">
-    <!-- 5% threshold -->
+    
     <g style="fill: #c0392b" transform="translate(799.859377 317.223902) rotate(-90) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-35"/>
      <use xlink:href="#DejaVuSans-Bold-25" x="69.580078"/>
@@ -3419,7 +3417,7 @@ L 964.512 328.536
     </g>
    </g>
    <g id="text_27">
-    <!-- (b) what that costs you -->
+    
     <g style="fill: #22303a" transform="translate(698.398488 52.264) scale(0.114 -0.114)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-62" x="39.013672"/>
@@ -3509,7 +3507,7 @@ Q 576.431698 185.289608 579.131698 185.289608
 z
 " style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 1.1; stroke-linejoin: miter"/>
     </g>
-    <!-- $K = 1.2\times10^{-4}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(582.240213 170.639858) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-3d" d="M 678 2906 
@@ -3559,7 +3557,7 @@ z
      <use xlink:href="#DejaVuSans-2212" transform="translate(592.820312 38.965625) scale(0.7)"/>
      <use xlink:href="#DejaVuSans-34" transform="translate(651.472656 38.965625) scale(0.7)"/>
     </g>
-    <!-- shortcut is safe -->
+    
     <g style="fill: #2e7d5b" transform="translate(579.131698 180.71789) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-68" x="52.099609"/>
@@ -3602,7 +3600,7 @@ Q 896.926802 221.306862 899.626802 221.306862
 z
 " style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.1; stroke-linejoin: miter"/>
     </g>
-    <!-- $K = 0.211$ -->
+    
     <g style="fill: #b8621b" transform="translate(907.747193 206.657112) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Oblique-4b" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-3d" transform="translate(85.058594 0.78125)"/>
@@ -3612,7 +3610,7 @@ z
      <use xlink:href="#DejaVuSans-31" transform="translate(341.863281 0.78125)"/>
      <use xlink:href="#DejaVuSans-31" transform="translate(405.486328 0.78125)"/>
     </g>
-    <!-- shortcut fails -->
+    
     <g style="fill: #b8621b" transform="translate(899.626802 216.735144) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-68" x="52.099609"/>
@@ -3632,7 +3630,7 @@ z
    </g>
   </g>
   <g id="text_30">
-   <!-- The small-$x$ shortcut is not a rule of thumb — it has a measurable error you can predict -->
+   
    <g style="fill: #22303a" transform="translate(159.826 19.904) scale(0.134 -0.134)">
     <defs>
      <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -3985,7 +3983,7 @@ z
    </g>
   </g>
   <g id="text_31">
-   <!-- Read (a) to decide whether to try the shortcut, then check the answer against the 5% line — the check is not optional, it is the method. -->
+   
    <g style="fill: #4a5a63" transform="translate(156.370141 375.192) scale(0.098 -0.098)">
     <defs>
      <path id="DejaVuSans-Oblique-52" d="M 1613 4147 

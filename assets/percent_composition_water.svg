@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="468pt" viewBox="0 0 864 468" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -46,7 +44,7 @@ z
 " clip-path="url(#pf5999de5e2)" style="fill: #b8621b"/>
    </g>
    <g id="text_1">
-    <!-- hydrogen -->
+    
     <g style="fill: #1f6f8b" transform="translate(171.538031 161.584995) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-68" d="M 4056 2131 
@@ -245,7 +243,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- 2.016 g -->
+    
     <g style="fill: #1f6f8b" transform="translate(180.8985 260.486595) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -390,7 +388,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- oxygen -->
+    
     <g style="fill: #b8621b" transform="translate(451.719672 161.543588) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-78" d="M 1422 1791 
@@ -418,7 +416,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- 16.00 g -->
+    
     <g style="fill: #b8621b" transform="translate(454.3185 260.486595) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-31"/>
      <use xlink:href="#DejaVuSans-36" x="63.623047"/>
@@ -445,7 +443,7 @@ z
 " style="fill: #4a5a63; stroke: #4a5a63; stroke-width: 1.2; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <!-- one mole of $\mathrm{H_2O}$  =  18.02 g -->
+    
     <g style="fill: #22303a" transform="translate(364.645 310.558073) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-6f" d="M 1959 3097 
@@ -690,7 +688,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Percent composition: which element carries the mass -->
+    
     <g style="fill: #22303a" transform="translate(230.878281 87.562832) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-Bold-50" d="M 588 4666 
@@ -983,7 +981,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- $\%\ \mathrm{element} = \dfrac{\mathrm{mass\ of\ that\ element\ in\ one\ mole}}{\mathrm{molar\ mass\ of\ the\ compound}} \times 100\%$ -->
+    
     <g style="fill: #4a5a63" transform="translate(269.1125 118.825476) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-25" d="M 4653 2053 
@@ -1363,7 +1361,7 @@ Q 161.051812 383.497632 166.771812 383.497632
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Water is two-thirds hydrogen by ATOM COUNT but only 11% hydrogen by MASS, because an oxygen atom -->
+    
     <g style="fill: #22303a" transform="translate(166.771812 343.630694) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -1695,7 +1693,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="5149.615234"/>
      <use xlink:href="#DejaVuSans-6d" x="5210.796875"/>
     </g>
-    <!-- is sixteen times heavier than a hydrogen atom. Percent composition always asks about mass, never -->
+    
     <g style="fill: #22303a" transform="translate(181.774625 359.622726) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1841,7 +1839,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="4917.167969"/>
      <use xlink:href="#DejaVuSans-72" x="4978.691406"/>
     </g>
-    <!-- about how many atoms there are — and the two answers rarely look alike. -->
+    
     <g style="fill: #22303a" transform="translate(248.49875 375.614757) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -1926,7 +1924,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- 11.19% -->
+    
     <g style="fill: #ffffff" transform="translate(177.068344 210.077752) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -2037,7 +2035,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- 88.81% -->
+    
     <g style="fill: #ffffff" transform="translate(442.158344 211.181502) scale(0.15 -0.15)">
      <defs>
       <path id="DejaVuSans-Bold-38" d="M 2228 2088 

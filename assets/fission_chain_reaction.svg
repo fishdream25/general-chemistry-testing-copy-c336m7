@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="496.8pt" viewBox="0 0 979.2 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -56,7 +54,7 @@ z
 " clip-path="url(#pfe9e2e6a4e)" style="fill: #e8eef2; stroke: #2e7d5b; stroke-width: 2.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Each fission releases three neutrons — whether that matters depends on the size of the sample -->
+    
     <g style="fill: #22303a" transform="translate(131.816062 27.432) scale(0.132 -0.132)">
      <defs>
       <path id="DejaVuSans-Bold-45" d="M 588 4666 
@@ -569,7 +567,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- the chain, if every neutron is captured -->
+    
     <g style="fill: #22303a" transform="translate(109.678391 70.2) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-2c" d="M 653 1209 
@@ -651,7 +649,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- 1 -->
+    
     <g style="fill: #6b3fa0" transform="translate(436.14 126.695312) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -703,7 +701,7 @@ z
 " style="fill: #b8621b; stroke: #b8621b; stroke-width: 1.3; stroke-linecap: round"/>
    </g>
    <g id="text_4">
-    <!-- 3 -->
+    
     <g style="fill: #6b3fa0" transform="translate(436.14 215.795312) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -873,7 +871,7 @@ z
 " style="fill: #b8621b; stroke: #b8621b; stroke-width: 1.3; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <!-- 9 -->
+    
     <g style="fill: #6b3fa0" transform="translate(436.14 304.895312) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-39" d="M 641 103 
@@ -911,7 +909,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- 27 … -->
+    
     <g style="fill: #6b3fa0" transform="translate(436.14 354.791313) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -1063,7 +1061,7 @@ z
 " style="fill: #b8621b; stroke: #b8621b; stroke-width: 1.1; stroke-linecap: round"/>
    </g>
    <g id="text_7">
-    <!-- $3^n$ fissions after $n$ generations — exponential, and fast -->
+    
     <g style="fill: #4a5a63" transform="translate(98.244 398.088) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -1524,7 +1522,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- fissions per -->
+    
     <g style="fill: #4a5a63" transform="translate(471.78 210.204422) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -1715,7 +1713,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="466.894531"/>
      <use xlink:href="#DejaVuSans-72" x="528.417969"/>
     </g>
-    <!-- generation -->
+    
     <g style="fill: #4a5a63" transform="translate(471.78 220.282453) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -1820,7 +1818,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- SUBCRITICAL -->
+    
     <g style="fill: #c0392b" transform="translate(625.793672 66.636) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -2010,7 +2008,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- most neutrons ESCAPE -->
+    
     <g style="fill: #c0392b" transform="translate(615.137188 312.552) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -2193,7 +2191,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- chain dies out -->
+    
     <g style="fill: #22303a" transform="translate(629.691 346.0536) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-63"/>
      <use xlink:href="#DejaVuSans-Bold-68" x="59.277344"/>
@@ -2212,7 +2210,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- CRITICAL -->
+    
     <g style="fill: #2e7d5b" transform="translate(845.583609 66.636) scale(0.114 -0.114)">
      <use xlink:href="#DejaVuSans-Bold-43"/>
      <use xlink:href="#DejaVuSans-Bold-52" x="73.388672"/>
@@ -2225,7 +2223,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- most neutrons are CAPTURED -->
+    
     <g style="fill: #2e7d5b" transform="translate(805.86275 312.552) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -2333,7 +2331,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- chain sustains -->
+    
     <g style="fill: #22303a" transform="translate(835.6935 346.0536) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-63"/>
      <use xlink:href="#DejaVuSans-Bold-68" x="59.277344"/>
@@ -2352,7 +2350,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- Critical mass is the size at which capture beats escape. -->
+    
     <g style="fill: #4a5a63" transform="translate(647.738562 387.562056) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-43" d="M 4447 4306 
@@ -2613,7 +2611,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-65" x="2684.326172"/>
      <use xlink:href="#DejaVuSans-Oblique-2e" x="2745.849609"/>
     </g>
-    <!-- It is a condition, not a constant — geometry and purity change it. -->
+    
     <g style="fill: #4a5a63" transform="translate(624.178344 398.088) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-49" d="M 1081 4666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="396pt" height="432pt" viewBox="0 0 396 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -76,7 +74,7 @@ z
 " clip-path="url(#p94f8db60b0)" style="fill: #c0392b; stroke: #333333; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- insulated outer container -->
+    
     <g transform="translate(137.718984 89.1904) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-69" d="M 603 3500 
@@ -365,7 +363,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- water (measures $q_{water}$) -->
+    
     <g transform="translate(57.009953 157.294933) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -624,7 +622,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- steel bomb -->
+    
     <g transform="translate(170.807539 215.879732) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -665,7 +663,7 @@ z
      <use xlink:href="#DejaVuSans-6d" x="398.583984"/>
      <use xlink:href="#DejaVuSans-62" x="495.996094"/>
     </g>
-    <!-- (sample + O$_2$) -->
+    
     <g transform="translate(164.155625 225.399467) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -771,7 +769,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- thermometer -->
+    
     <g transform="translate(318.640922 127.4992) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -808,7 +806,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Bomb calorimeter (constant volume) -->
+    
     <g transform="translate(102.378594 20.912312) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -889,7 +887,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1743.603516"/>
      <use xlink:href="#DejaVuSans-29" x="1805.126953"/>
     </g>
-    <!-- $q_{rxn}=-(q_{water}+q_{bomb})=\Delta U_{rxn}$ -->
+    
     <g transform="translate(117.535625 32.112) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-78" d="M 3841 3500 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="259.2pt" viewBox="0 0 648 259.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -99,7 +97,7 @@ z
     </g>
    </g>
    <g id="text_1">
-    <!-- Bent (AB$_2$E) -->
+    
     <g transform="translate(82.05 54.879129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -294,7 +292,7 @@ z
      <use xlink:href="#DejaVuSans-45" transform="translate(488.754883 0.125)"/>
      <use xlink:href="#DejaVuSans-29" transform="translate(551.938477 0.125)"/>
     </g>
-    <!-- e.g. H$_2$O -->
+    
     <g transform="translate(90.45 66.076941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-2e" d="M 684 794 
@@ -386,13 +384,13 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(60.103034 197.710582) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_3">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(157.080716 197.710582) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
@@ -440,7 +438,7 @@ L 324 221.951541
     </g>
    </g>
    <g id="text_4">
-    <!-- Trigonal pyramidal (AB$_3$E) -->
+    
     <g transform="translate(259 54.858816) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -703,7 +701,7 @@ z
      <use xlink:href="#DejaVuSans-45" transform="translate(1197.69043 0.015625)"/>
      <use xlink:href="#DejaVuSans-29" transform="translate(1260.874023 0.015625)"/>
     </g>
-    <!-- e.g. NH$_3$ -->
+    
     <g transform="translate(303.25 66.076941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -731,19 +729,19 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(268.094957 193.302506) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_6">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(373.888793 193.302506) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_7">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(320.991875 224.159041) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
@@ -786,7 +784,7 @@ L 584.888841 195.503082
     </g>
    </g>
    <g id="text_8">
-    <!-- Bent (AB$_2$E$_2$) -->
+    
     <g transform="translate(504.4 54.879129) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-42" transform="translate(0 0.125)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(68.603516 0.125)"/>
@@ -801,7 +799,7 @@ L 584.888841 195.503082
      <use xlink:href="#DejaVuSans-32" transform="translate(552.895508 -16.28125) scale(0.7)"/>
      <use xlink:href="#DejaVuSans-29" transform="translate(600.166016 0.125)"/>
     </g>
-    <!-- e.g. H$_2$S -->
+    
     <g transform="translate(516 66.076941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -847,20 +845,20 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(484.903034 197.710582) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_10">
-    <!-- H -->
+    
     <g style="fill: #ffffff" transform="translate(581.880716 197.710582) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
   </g>
   <g id="text_11">
-   <!-- VSEPR shapes: central atom has lone pairs (open circles) -->
+   
    <g transform="translate(152.58 14.302125) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-56" d="M 1831 0 

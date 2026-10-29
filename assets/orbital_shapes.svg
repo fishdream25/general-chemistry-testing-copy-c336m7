@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="230.4pt" viewBox="0 0 648 230.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -43,7 +41,7 @@ z
 " clip-path="url(#p5dc6e83d14)" style="fill: #2980b9; opacity: 0.5; stroke: #2980b9; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- $s$ orbital -->
+    
     <g transform="translate(91.3 51.855129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-73" d="M 3200 3397 
@@ -227,7 +225,7 @@ z
      <use xlink:href="#DejaVuSans-61" transform="translate(316.650391 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(377.929688 0.015625)"/>
     </g>
-    <!-- (spherical) -->
+    
     <g transform="translate(85.027344 63.052941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -599,7 +597,7 @@ z
 " clip-path="url(#p8fcaf4f616)" style="fill: #c0392b; opacity: 0.6; stroke: #c0392b; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
-    <!-- $p$ orbital -->
+    
     <g transform="translate(303.1 51.834816) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -645,7 +643,7 @@ z
      <use xlink:href="#DejaVuSans-61" transform="translate(328.027344 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(389.306641 0.015625)"/>
     </g>
-    <!-- (two lobes) -->
+    
     <g transform="translate(296.096875 63.052941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -885,7 +883,7 @@ z
 " clip-path="url(#pb39ca44994)" style="fill: #27ae60; opacity: 0.6; stroke: #27ae60; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- $d$ orbital -->
+    
     <g transform="translate(515.5 51.853254) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-64" d="M 2675 525 
@@ -931,7 +929,7 @@ z
      <use xlink:href="#DejaVuSans-61" transform="translate(328.027344 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(389.306641 0.015625)"/>
     </g>
-    <!-- (four lobes, e.g. $d_{xy}$) -->
+    
     <g transform="translate(485.9 63.052941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -1086,7 +1084,7 @@ z
    </g>
   </g>
   <g id="text_4">
-   <!-- Simplified 2D cross-sections of orbital shapes -->
+   
    <g transform="translate(187.5075 13.726125) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-53" d="M 3425 4513 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="396pt" height="396pt" viewBox="0 0 396 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -189,7 +187,7 @@ z
 " clip-path="url(#pd023d580a7)" style="fill: #7f8c8d; stroke: #7f8c8d; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- nucleus: protons (red) + neutrons (gray) -->
+    
     <g transform="translate(106.636641 362.797935) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -611,7 +609,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- Schematic atom: nucleus and electron shells -->
+    
     <g transform="translate(74.609219 19.650406) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -752,7 +750,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="2163.619141"/>
      <use xlink:href="#DejaVuSans-73" x="2191.402344"/>
     </g>
-    <!-- (not to scale — the nucleus is far smaller in reality) -->
+    
     <g transform="translate(57.115781 31.968) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 

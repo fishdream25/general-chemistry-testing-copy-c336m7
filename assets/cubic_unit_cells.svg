@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="635.611059pt" height="253.296pt" viewBox="0 0 635.611059 253.296" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -137,7 +135,7 @@ z
     </g>
    </g>
    <g id="text_1">
-    <!-- Simple cubic (SCC) -->
+    
     <g transform="translate(57.864904 32.487129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -409,7 +407,7 @@ z
      <use xlink:href="#DejaVuSans-43" x="841.943359"/>
      <use xlink:href="#DejaVuSans-29" x="911.767578"/>
     </g>
-    <!-- 1 atom/cell, coordination 6 -->
+    
     <g transform="translate(38.235217 43.684941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -728,7 +726,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- Body-centered cubic (BCC) -->
+    
     <g transform="translate(250.604748 32.487129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -814,7 +812,7 @@ z
      <use xlink:href="#DejaVuSans-43" x="1235.119141"/>
      <use xlink:href="#DejaVuSans-29" x="1304.943359"/>
     </g>
-    <!-- 2 atoms/cell, coordination 8 -->
+    
     <g transform="translate(248.030529 43.684941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1085,7 +1083,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Face-centered cubic (FCC) -->
+    
     <g transform="translate(464.698498 32.487129) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -1128,7 +1126,7 @@ z
      <use xlink:href="#DejaVuSans-43" x="1201.271484"/>
      <use xlink:href="#DejaVuSans-29" x="1271.095703"/>
     </g>
-    <!-- 4 atoms/cell, coordination 12 -->
+    
     <g transform="translate(457.249279 43.684941) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1223,7 +1221,7 @@ z
    </g>
   </g>
   <g id="text_4">
-   <!-- The three cubic unit cells -->
+   
    <g transform="translate(242.198029 16.318125) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-54" d="M -19 4666 

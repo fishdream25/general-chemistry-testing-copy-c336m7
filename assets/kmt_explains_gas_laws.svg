@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="921.6pt" height="475.2pt" viewBox="0 0 921.6 475.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -75,7 +73,7 @@ z
 " clip-path="url(#p74f5b1e2ee)" style="fill: #f7fafb; stroke: #8b9aa3; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- The same molecular picture explains every gas law -->
+    
     <g style="fill: #22303a" transform="translate(270.263906 82.729055) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -549,7 +547,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- pressure is just molecules hitting the walls — so anything that changes the rate or force of those hits changes the pressure -->
+    
     <g style="fill: #4a5a63" transform="translate(168.978609 104.673876) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -1152,7 +1150,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- BOYLE'S LAW   —   squeeze the box, raise the pressure -->
+    
     <g style="fill: #1f6f8b" transform="translate(121.928062 138.315778) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -1452,7 +1450,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- large $V$, few hits per second -->
+    
     <g style="fill: #4a5a63" transform="translate(141.525 271.247915) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -1855,7 +1853,7 @@ z
      <use xlink:href="#DejaVuSans-6e" transform="translate(1271.191406 0.015625)"/>
      <use xlink:href="#DejaVuSans-64" transform="translate(1334.570312 0.015625)"/>
     </g>
-    <!-- low $P$ -->
+    
     <g style="fill: #4a5a63" transform="translate(192.645 283.395806) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-50" d="M 1081 4666 
@@ -1898,7 +1896,7 @@ z
 " style="fill: #4a5a63; stroke: #4a5a63; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <!-- small $V$, many hits -->
+    
     <g style="fill: #4a5a63" transform="translate(319.05 271.23772) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1968,7 +1966,7 @@ z
      <use xlink:href="#DejaVuSans-74" transform="translate(834.326172 0.015625)"/>
      <use xlink:href="#DejaVuSans-73" transform="translate(873.535156 0.015625)"/>
     </g>
-    <!-- high $P$ -->
+    
     <g style="fill: #4a5a63" transform="translate(346.725 283.38772) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-68" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-69" transform="translate(63.378906 0.015625)"/>
@@ -1979,7 +1977,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- CHARLES'S LAW   —   heat it, and it expands -->
+    
     <g style="fill: #b8621b" transform="translate(516.207781 138.315778) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -2119,7 +2117,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- cold: slow molecules -->
+    
     <g style="fill: #4a5a63" transform="translate(497.159859 271.256352) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-3a" d="M 750 794 
@@ -2179,7 +2177,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="921.582031"/>
      <use xlink:href="#DejaVuSans-73" x="983.105469"/>
     </g>
-    <!-- small $V$ at fixed $P$ -->
+    
     <g style="fill: #4a5a63" transform="translate(504.594 283.385962) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -2229,7 +2227,7 @@ z
 " style="fill: #4a5a63; stroke: #4a5a63; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <!-- hot: fast molecules push out -->
+    
     <g style="fill: #4a5a63" transform="translate(654.780375 271.246157) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-68"/>
      <use xlink:href="#DejaVuSans-6f" x="63.378906"/>
@@ -2260,7 +2258,7 @@ z
      <use xlink:href="#DejaVuSans-75" x="1323.583984"/>
      <use xlink:href="#DejaVuSans-74" x="1386.962891"/>
     </g>
-    <!-- until $P$ matches again -->
+    
     <g style="fill: #4a5a63" transform="translate(670.131 283.377876) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-75" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6e" transform="translate(63.378906 0.015625)"/>
@@ -2646,7 +2644,7 @@ z
 " style="fill: #b8621b; opacity: 0.75; stroke: #b8621b; stroke-linecap: round"/>
    </g>
    <g id="text_9">
-    <!-- AVOGADRO'S LAW -->
+    
     <g style="fill: #2e7d5b" transform="translate(173.79 340.98204) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-56" d="M 31 4666 
@@ -2725,7 +2723,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- More molecules at the same $T$ means more hits per second. To hold $P$ fixed, the volume must grow. -->
+    
     <g style="fill: #22303a" transform="translate(302.13 340.862665) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
@@ -2882,7 +2880,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- DALTON'S LAW -->
+    
     <g style="fill: #6b3fa0" transform="translate(173.79 379.013006) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -2914,7 +2912,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- Molecules ignore one another, so each gas hits the walls as if alone — the pressures simply add. -->
+    
     <g style="fill: #22303a" transform="translate(302.13 378.902631) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 

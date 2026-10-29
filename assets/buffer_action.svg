@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="979.2pt" height="432pt" viewBox="0 0 979.2 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -43,7 +41,7 @@ z
 " clip-path="url(#pcbb650cf59)" style="fill: #eef4f7; stroke: #22303a; stroke-width: 2.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- one buffer solution, two reservoirs -->
+    
     <g style="fill: #22303a" transform="translate(145.687258 103.32) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-6f" d="M 2203 2784 
@@ -374,7 +372,7 @@ z
 " clip-path="url(#pcbb650cf59)" style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{CH_3COOH + OH^- \rightarrow CH_3COO^- + H_2O}$ -->
+    
     <g style="fill: #b8621b" transform="translate(155.309023 283.32) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -552,7 +550,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- $\mathrm{CH_3COO^- + H^+ \rightarrow CH_3COOH}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(176.265023 308.52) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(69.824219 0.826562)"/>
@@ -575,7 +573,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Each reaction converts one reservoir into the other, -->
+    
     <g style="fill: #4a5a63" transform="translate(128.412898 340.770841) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-45" d="M 1081 4666 
@@ -920,7 +918,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-72" x="2522.119141"/>
      <use xlink:href="#DejaVuSans-Oblique-2c" x="2554.107422"/>
     </g>
-    <!-- so the ratio shifts a little and the pH barely moves. -->
+    
     <g style="fill: #4a5a63" transform="translate(130.165851 351.296784) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-66" d="M 3059 4863 
@@ -1179,7 +1177,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- (a) why it works -->
+    
     <g style="fill: #22303a" transform="translate(203.545398 52.64) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -1431,7 +1429,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- CH$_3$COOH -->
+    
     <g style="fill: #b8621b" transform="translate(132.944953 141.84) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -1502,7 +1500,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- the ACID reservoir -->
+    
     <g style="fill: #b8621b" transform="translate(127.327891 161.64) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -1604,7 +1602,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- CH$_3$COO$^-$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(297.273093 141.84) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-Bold-43" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-Bold-48" transform="translate(73.388672 0.78125)"/>
@@ -1616,7 +1614,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- the BASE reservoir -->
+    
     <g style="fill: #2e7d5b" transform="translate(291.135093 161.64) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -1719,7 +1717,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- mops up added -->
+    
     <g style="fill: #b8621b" transform="translate(130.252703 211.11405) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1841,7 +1839,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="652.832031"/>
      <use xlink:href="#DejaVuSans-64" x="714.355469"/>
     </g>
-    <!-- $\mathbf{OH^-}$ -->
+    
     <g style="fill: #b8621b" transform="translate(155.157953 221.86395) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-2212" d="M 678 2375 
@@ -1858,7 +1856,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- mops up added -->
+    
     <g style="fill: #2e7d5b" transform="translate(294.970843 211.11405) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-6f" x="97.412109"/>
@@ -1874,7 +1872,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="652.832031"/>
      <use xlink:href="#DejaVuSans-64" x="714.355469"/>
     </g>
-    <!-- $\mathbf{H^+}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(323.956093 221.86395) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -1940,7 +1938,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_12">
-      <!-- 0.0 -->
+      
       <g style="fill: #4a5a63" transform="translate(506.023578 379.182531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -1990,7 +1988,7 @@ L 573.63324 62.64
       </g>
      </g>
      <g id="text_13">
-      <!-- 0.2 -->
+      
       <g style="fill: #4a5a63" transform="translate(566.158772 379.182531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -2010,7 +2008,7 @@ L 633.768434 62.64
       </g>
      </g>
      <g id="text_14">
-      <!-- 0.4 -->
+      
       <g style="fill: #4a5a63" transform="translate(626.293965 379.182531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -2051,7 +2049,7 @@ L 693.903628 62.64
       </g>
      </g>
      <g id="text_15">
-      <!-- 0.6 -->
+      
       <g style="fill: #4a5a63" transform="translate(686.429159 379.182531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -2103,7 +2101,7 @@ L 754.038822 62.64
       </g>
      </g>
      <g id="text_16">
-      <!-- 0.8 -->
+      
       <g style="fill: #4a5a63" transform="translate(746.564353 379.182531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -2164,7 +2162,7 @@ L 814.174016 62.64
       </g>
      </g>
      <g id="text_17">
-      <!-- 1.0 -->
+      
       <g style="fill: #4a5a63" transform="translate(806.699547 379.182531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -2200,7 +2198,7 @@ L 874.309209 62.64
       </g>
      </g>
      <g id="text_18">
-      <!-- 1.2 -->
+      
       <g style="fill: #4a5a63" transform="translate(866.834741 379.182531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -2220,7 +2218,7 @@ L 934.444403 62.64
       </g>
      </g>
      <g id="text_19">
-      <!-- 1.4 -->
+      
       <g style="fill: #4a5a63" transform="translate(926.969934 379.182531) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -2229,7 +2227,7 @@ L 934.444403 62.64
      </g>
     </g>
     <g id="text_20">
-     <!-- mol of HCl added to 1.0 L -->
+     
      <g style="fill: #22303a" transform="translate(671.447414 393.191781) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-6c" d="M 603 4863 
@@ -2316,7 +2314,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_21">
-      <!-- 0 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 368.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -2334,7 +2332,7 @@ L 964.512 329.04
       </g>
      </g>
      <g id="text_22">
-      <!-- 1 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 332.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-31"/>
       </g>
@@ -2352,7 +2350,7 @@ L 964.512 293.04
       </g>
      </g>
      <g id="text_23">
-      <!-- 2 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 296.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-32"/>
       </g>
@@ -2370,7 +2368,7 @@ L 964.512 257.04
       </g>
      </g>
      <g id="text_24">
-      <!-- 3 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 260.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-33"/>
       </g>
@@ -2388,7 +2386,7 @@ L 964.512 221.04
       </g>
      </g>
      <g id="text_25">
-      <!-- 4 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 224.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-34"/>
       </g>
@@ -2406,7 +2404,7 @@ L 964.512 185.04
       </g>
      </g>
      <g id="text_26">
-      <!-- 5 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 188.611266) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -2451,7 +2449,7 @@ L 964.512 149.04
       </g>
      </g>
      <g id="text_27">
-      <!-- 6 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 152.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-36"/>
       </g>
@@ -2469,7 +2467,7 @@ L 964.512 113.04
       </g>
      </g>
      <g id="text_28">
-      <!-- 7 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 116.611266) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-37" d="M 525 4666 
@@ -2499,14 +2497,14 @@ L 964.512 77.04
       </g>
      </g>
      <g id="text_29">
-      <!-- 8 -->
+      
       <g style="fill: #4a5a63" transform="translate(500.517297 80.611266) scale(0.094 -0.094)">
        <use xlink:href="#DejaVuSans-38"/>
       </g>
      </g>
     </g>
     <g id="text_30">
-     <!-- pH -->
+     
      <g style="fill: #22303a" transform="translate(494.312828 221.190438) rotate(-90) scale(0.106 -0.106)">
       <use xlink:href="#DejaVuSans-70"/>
       <use xlink:href="#DejaVuSans-48" x="63.476562"/>
@@ -2661,7 +2659,7 @@ Q 600.640837 112.571719 603.700837 112.571719
 z
 " style="fill: #ffffff; stroke: #4a5a63; stroke-linejoin: miter"/>
     </g>
-    <!-- 0.10 mol acid: -->
+    
     <g style="fill: #22303a" transform="translate(603.700837 87.483937) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -2714,7 +2712,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="616.650391"/>
      <use xlink:href="#DejaVuSans-3a" x="680.126953"/>
     </g>
-    <!-- buffer 4.74 $\rightarrow$ 4.66 -->
+    
     <g style="fill: #22303a" transform="translate(603.700837 97.561969) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -2763,7 +2761,7 @@ z
      <use xlink:href="#DejaVuSans-36" transform="translate(828.333984 0.015625)"/>
      <use xlink:href="#DejaVuSans-36" transform="translate(891.957031 0.015625)"/>
     </g>
-    <!-- water 7.00 $\rightarrow$ 1.00 -->
+    
     <g style="fill: #22303a" transform="translate(603.700837 107.64) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-77" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(81.787109 0.78125)"/>
@@ -2807,7 +2805,7 @@ Q 829.154574 168.371719 832.214574 168.371719
 z
 " style="fill: #ffffff; stroke: #c0392b; stroke-linejoin: miter"/>
     </g>
-    <!-- all the CH$_3$COO$^-$ is gone — -->
+    
     <g style="fill: #c0392b" transform="translate(832.214574 153.343688) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -2897,7 +2895,7 @@ z
      <use xlink:href="#DejaVuSans-20" transform="translate(1247.661133 0.015625)"/>
      <use xlink:href="#DejaVuSansDisplay-2014" transform="translate(1279.448242 0.015625)"/>
     </g>
-    <!-- the buffer is spent -->
+    
     <g style="fill: #c0392b" transform="translate(832.214574 163.44) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -2921,7 +2919,7 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- (b) and where it stops working -->
+    
     <g style="fill: #22303a" transform="translate(650.420898 52.64) scale(0.116 -0.116)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-62" x="39.013672"/>
@@ -2963,7 +2961,7 @@ L 542.433116 335.098812
 " style="fill: none; stroke: #1f6f8b; stroke-width: 2.8; stroke-linecap: square"/>
     </g>
     <g id="text_34">
-     <!-- 1.0 M CH$_3$COOH / 1.0 M CH$_3$COO$^-$ buffer -->
+     
      <g transform="translate(549.793116 338.318812) scale(0.092 -0.092)">
       <defs>
        <path id="DejaVuSans-4d" d="M 628 4666 
@@ -3035,7 +3033,7 @@ L 542.433116 348.602687
 " style="fill: none; stroke-dasharray: 8.88,3.84; stroke-dashoffset: 0; stroke: #c0392b; stroke-width: 2.4"/>
     </g>
     <g id="text_35">
-     <!-- pure water (no buffer) -->
+     
      <g transform="translate(549.793116 351.822687) scale(0.092 -0.092)">
       <use xlink:href="#DejaVuSans-70"/>
       <use xlink:href="#DejaVuSans-75" x="63.476562"/>
@@ -3064,7 +3062,7 @@ L 542.433116 348.602687
    </g>
   </g>
   <g id="text_36">
-   <!-- A buffer holds a reservoir of both partners — until one of them runs out -->
+   
    <g style="fill: #22303a" transform="translate(213.537 21.133875) scale(0.136 -0.136)">
     <defs>
      <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -3305,7 +3303,7 @@ z
    </g>
   </g>
   <g id="text_37">
-   <!-- The buffer resists while both partners are present. Past 1.0 mol every acetate ion has been consumed, and the solution behaves like plain strong acid. -->
+   
    <g style="fill: #4a5a63" transform="translate(126.5985 416.88) scale(0.096 -0.096)">
     <defs>
      <path id="DejaVuSans-Oblique-54" d="M 378 4666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="244.8pt" viewBox="0 0 792 244.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -50,7 +48,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 2 -->
+      
       <g transform="translate(81.085099 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -89,7 +87,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 4 -->
+      
       <g transform="translate(122.555925 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -123,7 +121,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 6 -->
+      
       <g transform="translate(164.026751 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -168,7 +166,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 8 -->
+      
       <g transform="translate(205.497577 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -222,7 +220,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 10 -->
+      
       <g transform="translate(243.787152 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -267,7 +265,7 @@ z
      </g>
     </g>
     <g id="text_6">
-     <!-- Volume (L) -->
+     
      <g transform="translate(129.966857 231.116562) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-56" d="M 1831 0 
@@ -448,7 +446,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <!-- 5 -->
+      
       <g transform="translate(40.8375 182.872067) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -488,7 +486,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- 10 -->
+      
       <g transform="translate(34.475 152.40136) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -502,7 +500,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- 15 -->
+      
       <g transform="translate(34.475 121.930653) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -516,7 +514,7 @@ z
       </g>
      </g>
      <g id="text_10">
-      <!-- 20 -->
+      
       <g transform="translate(34.475 91.459946) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -524,7 +522,7 @@ z
      </g>
     </g>
     <g id="text_11">
-     <!-- Pressure (atm) -->
+     
      <g transform="translate(28.395313 179.237688) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-50" d="M 1259 4147 
@@ -719,7 +717,7 @@ L 259.480588 202.84
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_12">
-    <!-- Boyle's Law -->
+    
     <g transform="translate(127.418419 64.978188) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -807,7 +805,7 @@ z
      <use xlink:href="#DejaVuSans-61" x="445.361328"/>
      <use xlink:href="#DejaVuSans-77" x="506.640625"/>
     </g>
-    <!-- $P \propto 1/V$ (const. $n,T$) -->
+    
     <g transform="translate(108.990294 76.176) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-50" d="M 1081 4666 
@@ -1010,7 +1008,7 @@ z
       </g>
      </g>
      <g id="text_13">
-      <!-- 200 -->
+      
       <g transform="translate(314.846892 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1025,7 +1023,7 @@ z
       </g>
      </g>
      <g id="text_14">
-      <!-- 300 -->
+      
       <g transform="translate(377.053131 217.438437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -1074,7 +1072,7 @@ z
       </g>
      </g>
      <g id="text_15">
-      <!-- 400 -->
+      
       <g transform="translate(439.259369 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-34"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1089,7 +1087,7 @@ z
       </g>
      </g>
      <g id="text_16">
-      <!-- 500 -->
+      
       <g transform="translate(501.465608 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-35"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1098,7 +1096,7 @@ z
      </g>
     </g>
     <g id="text_17">
-     <!-- Temperature (K) -->
+     
      <g transform="translate(377.260937 231.116562) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-54" d="M -19 4666 
@@ -1179,7 +1177,7 @@ z
       </g>
      </g>
      <g id="text_18">
-      <!-- 4 -->
+      
       <g transform="translate(301.697206 201.154491) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-34"/>
       </g>
@@ -1192,7 +1190,7 @@ z
       </g>
      </g>
      <g id="text_19">
-      <!-- 6 -->
+      
       <g transform="translate(301.697206 164.589643) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-36"/>
       </g>
@@ -1205,7 +1203,7 @@ z
       </g>
      </g>
      <g id="text_20">
-      <!-- 8 -->
+      
       <g transform="translate(301.697206 128.024795) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-38"/>
       </g>
@@ -1218,7 +1216,7 @@ z
       </g>
      </g>
      <g id="text_21">
-      <!-- 10 -->
+      
       <g transform="translate(295.334706 91.459946) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1226,7 +1224,7 @@ z
      </g>
     </g>
     <g id="text_22">
-     <!-- Volume (L) -->
+     
      <g transform="translate(289.255018 169.381438) rotate(-90) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-56"/>
       <use xlink:href="#DejaVuSans-6f" x="60.658203"/>
@@ -1258,7 +1256,7 @@ L 520.340294 202.84
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_23">
-    <!-- Charles's Law -->
+    
     <g transform="translate(383.342969 64.978188) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -1316,7 +1314,7 @@ z
      <use xlink:href="#DejaVuSans-61" x="544.091797"/>
      <use xlink:href="#DejaVuSans-77" x="605.371094"/>
     </g>
-    <!-- $V \propto T$ (const. $n,P$) -->
+    
     <g transform="translate(374.7 76.176) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Oblique-56" transform="translate(0 0.125)"/>
      <use xlink:href="#DejaVuSans-221d" transform="translate(87.890625 0.125)"/>
@@ -1354,7 +1352,7 @@ z
       </g>
      </g>
      <g id="text_24">
-      <!-- 1 -->
+      
       <g transform="translate(602.804511 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
       </g>
@@ -1367,7 +1365,7 @@ z
       </g>
      </g>
      <g id="text_25">
-      <!-- 2 -->
+      
       <g transform="translate(644.275336 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
       </g>
@@ -1380,7 +1378,7 @@ z
       </g>
      </g>
      <g id="text_26">
-      <!-- 3 -->
+      
       <g transform="translate(685.746162 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-33"/>
       </g>
@@ -1393,7 +1391,7 @@ z
       </g>
      </g>
      <g id="text_27">
-      <!-- 4 -->
+      
       <g transform="translate(727.216988 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-34"/>
       </g>
@@ -1406,14 +1404,14 @@ z
       </g>
      </g>
      <g id="text_28">
-      <!-- 5 -->
+      
       <g transform="translate(768.687814 217.438437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-35"/>
       </g>
      </g>
     </g>
     <g id="text_29">
-     <!-- Moles (n) -->
+     
      <g transform="translate(655.456581 231.116562) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-4d" d="M 628 4666 
@@ -1453,7 +1451,7 @@ z
       </g>
      </g>
      <g id="text_30">
-      <!-- 5 -->
+      
       <g transform="translate(562.556912 182.872067) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-35"/>
       </g>
@@ -1466,7 +1464,7 @@ z
       </g>
      </g>
      <g id="text_31">
-      <!-- 10 -->
+      
       <g transform="translate(556.194412 152.40136) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1480,7 +1478,7 @@ z
       </g>
      </g>
      <g id="text_32">
-      <!-- 15 -->
+      
       <g transform="translate(556.194412 121.930653) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -1494,7 +1492,7 @@ z
       </g>
      </g>
      <g id="text_33">
-      <!-- 20 -->
+      
       <g transform="translate(556.194412 91.459946) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1502,7 +1500,7 @@ z
      </g>
     </g>
     <g id="text_34">
-     <!-- Volume (L) -->
+     
      <g transform="translate(550.114724 169.381438) rotate(-90) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-56"/>
       <use xlink:href="#DejaVuSans-6f" x="60.658203"/>
@@ -1534,7 +1532,7 @@ L 781.2 202.84
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_35">
-    <!-- Avogadro's Law -->
+    
     <g transform="translate(639.492518 64.978188) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1639,7 +1637,7 @@ z
      <use xlink:href="#DejaVuSans-61" x="638.261719"/>
      <use xlink:href="#DejaVuSans-77" x="699.541016"/>
     </g>
-    <!-- $V \propto n$ (const. $P,T$) -->
+    
     <g transform="translate(635.559706 76.176) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Oblique-56" transform="translate(0 0.125)"/>
      <use xlink:href="#DejaVuSans-221d" transform="translate(87.890625 0.125)"/>
@@ -1661,7 +1659,7 @@ z
    </g>
   </g>
   <g id="text_36">
-   <!-- The three gas laws combine into $PV = nRT$ -->
+   
    <g transform="translate(269.4 14.016) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-62" d="M 3116 1747 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="878.4pt" height="468pt" viewBox="0 0 878.4 468" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -56,7 +54,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #f7fafb; stroke: #b8621b; stroke-width: 1.3; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- calcium chloride, from  Ca²⁺  and  Cl⁻ -->
+    
     <g style="fill: #4a5a63" transform="translate(131.032125 149.874474) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -448,14 +446,14 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- Ca -->
+    
     <g style="fill: #22303a" transform="translate(143.324451 196.04483) scale(0.23 -0.23)">
      <use xlink:href="#DejaVuSans-43"/>
      <use xlink:href="#DejaVuSans-61" x="69.824219"/>
     </g>
    </g>
    <g id="text_3">
-    <!-- 2+ -->
+    
     <g style="fill: #c0392b" transform="translate(185.851619 177.275376) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -503,14 +501,14 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Cl -->
+    
     <g style="fill: #22303a" transform="translate(272.946049 196.04483) scale(0.23 -0.23)">
      <use xlink:href="#DejaVuSans-43"/>
      <use xlink:href="#DejaVuSans-6c" x="69.824219"/>
     </g>
    </g>
    <g id="text_5">
-    <!-- 1− -->
+    
     <g style="fill: #2e7d5b" transform="translate(306.03098 177.275376) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -558,19 +556,19 @@ L 167.911197 212.59592
 " style="fill: none; stroke: #2e7d5b; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_6">
-    <!-- 1 -->
+    
     <g style="fill: #2e7d5b" transform="translate(154.266404 237.313172) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-31"/>
     </g>
    </g>
    <g id="text_7">
-    <!-- 2 -->
+    
     <g style="fill: #c0392b" transform="translate(280.035502 237.313172) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-32"/>
     </g>
    </g>
    <g id="text_8">
-    <!-- CaCl₂ -->
+    
     <g style="fill: #1f6f8b" transform="translate(191.730781 283.317965) scale(0.25 -0.25)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -678,7 +676,7 @@ Q 146.553547 415.90191 150.157547 415.90191
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- check:  1(+2) + 2(−1) = 0  ✓ -->
+    
     <g style="fill: #22303a" transform="translate(150.157547 410.093441) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -818,7 +816,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- lead(IV) oxide, from  Pb⁴⁺  and  O²⁻ -->
+    
     <g style="fill: #4a5a63" transform="translate(563.223938 149.874474) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -980,14 +978,14 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- Pb -->
+    
     <g style="fill: #22303a" transform="translate(570.384685 196.04483) scale(0.23 -0.23)">
      <use xlink:href="#DejaVuSans-50"/>
      <use xlink:href="#DejaVuSans-62" x="60.302734"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- 4+ -->
+    
     <g style="fill: #c0392b" transform="translate(613.466554 177.275376) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1015,13 +1013,13 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- O -->
+    
     <g style="fill: #22303a" transform="translate(701.335971 196.04483) scale(0.23 -0.23)">
      <use xlink:href="#DejaVuSans-4f"/>
     </g>
    </g>
    <g id="text_14">
-    <!-- 2− -->
+    
     <g style="fill: #2e7d5b" transform="translate(728.056176 177.275376) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-32"/>
      <use xlink:href="#DejaVuSans-2212" x="63.623047"/>
@@ -1046,19 +1044,19 @@ L 594.0869 212.562048
 " style="fill: none; stroke: #2e7d5b; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_15">
-    <!-- 2 -->
+    
     <g style="fill: #2e7d5b" transform="translate(580.483904 237.313172) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-32"/>
     </g>
    </g>
    <g id="text_16">
-    <!-- 4 -->
+    
     <g style="fill: #c0392b" transform="translate(706.253002 237.313172) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-34"/>
     </g>
    </g>
    <g id="text_17">
-    <!-- Pb₂O₄ -->
+    
     <g style="fill: #4a5a63" transform="translate(572.389268 282.490153) scale(0.22 -0.22)">
      <defs>
       <path id="DejaVuSans-2082" d="M 838 356 
@@ -1118,7 +1116,7 @@ L 674.654167 278.419528
 " style="fill: none; stroke: #b8621b; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
    <g id="text_18">
-    <!-- ÷2 -->
+    
     <g style="fill: #b8621b" transform="translate(656.498324 259.055929) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-f7" d="M 2297 3547 
@@ -1146,7 +1144,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- PbO₂ -->
+    
     <g style="fill: #b8621b" transform="translate(693.64562 283.317965) scale(0.25 -0.25)">
      <defs>
       <path id="DejaVuSans-Bold-50" d="M 588 4666 
@@ -1238,7 +1236,7 @@ Q 572.771047 415.90191 576.375047 415.90191
 z
 " style="fill: #fdf3e7; stroke: #e0c9a6; stroke-linejoin: miter"/>
     </g>
-    <!-- check:  1(+4) + 2(−2) = 0  ✓ -->
+    
     <g style="fill: #22303a" transform="translate(576.375047 410.093441) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-63"/>
      <use xlink:href="#DejaVuSans-68" x="54.980469"/>
@@ -1271,7 +1269,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- Building an ionic formula: the charges must cancel to zero -->
+    
     <g style="fill: #22303a" transform="translate(229.578281 21.6) scale(0.145 -0.145)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -1467,7 +1465,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- Case 1 — the crossed numbers are already lowest terms -->
+    
     <g style="fill: #1f6f8b" transform="translate(53.625547 102.633919) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-73" d="M 3272 3391 
@@ -1856,7 +1854,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_23">
-    <!-- write each ion with its charge -->
+    
     <g style="fill: #22303a" transform="translate(87.83159 320.538273) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1922,7 +1920,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_24">
-    <!-- swap the charge numbers into subscripts -->
+    
     <g style="fill: #22303a" transform="translate(87.83159 348.55591) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -2007,7 +2005,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_25">
-    <!-- drop any subscript of 1 -->
+    
     <g style="fill: #22303a" transform="translate(87.83159 376.573548) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-79" d="M 2059 -325 
@@ -2054,7 +2052,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- Case 2 — the crossed numbers must be reduced -->
+    
     <g style="fill: #b8621b" transform="translate(505.201484 102.676887) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -2140,7 +2138,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #b8621b"/>
    </g>
    <g id="text_27">
-    <!-- write each ion with its charge -->
+    
     <g style="fill: #22303a" transform="translate(514.04909 320.538273) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-77"/>
      <use xlink:href="#DejaVuSans-72" x="81.787109"/>
@@ -2188,7 +2186,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #b8621b"/>
    </g>
    <g id="text_28">
-    <!-- swap the charge numbers into subscripts -->
+    
     <g style="fill: #22303a" transform="translate(514.04909 348.55591) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-77" x="52.099609"/>
@@ -2245,7 +2243,7 @@ z
 " clip-path="url(#p2e695df7e0)" style="fill: #b8621b"/>
    </g>
    <g id="text_29">
-    <!-- divide through by the common factor -->
+    
     <g style="fill: #22303a" transform="translate(514.04909 376.573548) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -2297,19 +2295,19 @@ z
     </g>
    </g>
    <g id="text_30">
-    <!-- 1 -->
+    
     <g style="fill: #ffffff" transform="translate(62.272046 320.317523) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-31"/>
     </g>
    </g>
    <g id="text_31">
-    <!-- 2 -->
+    
     <g style="fill: #ffffff" transform="translate(62.272046 348.33516) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-32"/>
     </g>
    </g>
    <g id="text_32">
-    <!-- 3 -->
+    
     <g style="fill: #ffffff" transform="translate(62.272046 376.352798) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -2349,19 +2347,19 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- 1 -->
+    
     <g style="fill: #ffffff" transform="translate(488.489546 320.317523) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-31"/>
     </g>
    </g>
    <g id="text_34">
-    <!-- 2 -->
+    
     <g style="fill: #ffffff" transform="translate(488.489546 348.33516) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-32"/>
     </g>
    </g>
    <g id="text_35">
-    <!-- 3 -->
+    
     <g style="fill: #ffffff" transform="translate(488.489546 376.352798) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-33"/>
     </g>

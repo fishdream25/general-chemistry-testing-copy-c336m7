@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="446.4pt" height="302.4pt" viewBox="0 0 446.4 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -55,7 +53,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- Period 2 -->
+      
       <g transform="translate(55.946654 277.454438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-50" d="M 1259 4147 
@@ -216,7 +214,7 @@ z
        <use xlink:href="#DejaVuSans-20" x="311.755859"/>
        <use xlink:href="#DejaVuSans-32" x="343.542969"/>
       </g>
-      <!-- (1st row) -->
+      
       <g transform="translate(53.977123 288.65225) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-28" d="M 1984 4856 
@@ -352,7 +350,7 @@ L 188.873567 37.968
       </g>
      </g>
      <g id="text_2">
-      <!-- Period 3 -->
+      
       <g transform="translate(168.514974 277.454438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -411,7 +409,7 @@ L 301.441887 37.968
       </g>
      </g>
      <g id="text_3">
-      <!-- Period 4 -->
+      
       <g transform="translate(281.083293 277.454438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -457,7 +455,7 @@ L 414.010207 37.968
       </g>
      </g>
      <g id="text_4">
-      <!-- Period 5 -->
+      
       <g transform="translate(393.651613 277.454438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -516,7 +514,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_5">
-      <!-- −150 -->
+      
       <g transform="translate(24.952813 247.442208) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-2212" d="M 678 2272 
@@ -567,7 +565,7 @@ L 430.895455 204.552428
       </g>
      </g>
      <g id="text_6">
-      <!-- −100 -->
+      
       <g transform="translate(24.952813 208.351646) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-2212"/>
        <use xlink:href="#DejaVuSans-31" x="83.789062"/>
@@ -588,7 +586,7 @@ L 430.895455 165.461866
       </g>
      </g>
      <g id="text_7">
-      <!-- −50 -->
+      
       <g transform="translate(31.315313 169.261085) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-2212"/>
        <use xlink:href="#DejaVuSans-35" x="83.789062"/>
@@ -608,7 +606,7 @@ L 430.895455 126.371305
       </g>
      </g>
      <g id="text_8">
-      <!-- 0 -->
+      
       <g transform="translate(46.0575 130.170523) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -626,7 +624,7 @@ L 430.895455 87.280743
       </g>
      </g>
      <g id="text_9">
-      <!-- 50 -->
+      
       <g transform="translate(39.695 91.079962) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-35"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -645,7 +643,7 @@ L 430.895455 48.190182
       </g>
      </g>
      <g id="text_10">
-      <!-- 100 -->
+      
       <g transform="translate(33.3325 51.989401) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -654,7 +652,7 @@ L 430.895455 48.190182
      </g>
     </g>
     <g id="text_11">
-     <!-- Normal boiling point (°C) -->
+     
      <g transform="translate(18.873125 212.658875) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1041,7 +1039,7 @@ L 82.589817 47.787277
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_12">
-    <!-- H2O, NH3, and HF are -->
+    
     <g transform="translate(155.103072 65.455187) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -1124,7 +1122,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="1004.003906"/>
      <use xlink:href="#DejaVuSans-65" x="1042.867188"/>
     </g>
-    <!-- anomalously high — -->
+    
     <g transform="translate(155.103072 74.413437) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-75" d="M 544 1381 
@@ -1212,7 +1210,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="885.742188"/>
      <use xlink:href="#DejaVuSans-2014" x="917.529297"/>
     </g>
-    <!-- hydrogen bonding -->
+    
     <g transform="translate(155.103072 83.371687) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-68"/>
      <use xlink:href="#DejaVuSans-79" x="63.378906"/>
@@ -1233,7 +1231,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- Boiling points of main-group hydrides: -->
+    
     <g transform="translate(130.396477 18.530625) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -1349,7 +1347,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="1826.900391"/>
      <use xlink:href="#DejaVuSans-3a" x="1879"/>
     </g>
-    <!-- the hydrogen-bonding anomaly -->
+    
     <g transform="translate(150.603352 31.968) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -1405,7 +1403,7 @@ L 82.62 48.44675
      </g>
     </g>
     <g id="text_14">
-     <!-- Group 14 (CH4, SiH4, GeH4, SnH4) -->
+     
      <g transform="translate(89.02 51.24675) scale(0.08 -0.08)">
       <defs>
        <path id="DejaVuSans-47" d="M 3809 666 
@@ -1509,7 +1507,7 @@ L 82.62 60.18925
      </g>
     </g>
     <g id="text_15">
-     <!-- Group 15 (NH3, PH3, AsH3, SbH3) -->
+     
      <g transform="translate(89.02 62.98925) scale(0.08 -0.08)">
       <defs>
        <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1572,7 +1570,7 @@ L 82.62 71.93175
      </g>
     </g>
     <g id="text_16">
-     <!-- Group 16 (H2O, H2S, H2Se, H2Te) -->
+     
      <g transform="translate(89.02 74.73175) scale(0.08 -0.08)">
       <defs>
        <path id="DejaVuSans-36" d="M 2113 2584 
@@ -1660,7 +1658,7 @@ L 82.62 83.67425
      </g>
     </g>
     <g id="text_17">
-     <!-- Group 17 (HF, HCl, HBr, HI) -->
+     
      <g transform="translate(89.02 86.47425) scale(0.08 -0.08)">
       <defs>
        <path id="DejaVuSans-37" d="M 525 4666 

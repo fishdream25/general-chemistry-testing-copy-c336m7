@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="921.6pt" height="504pt" viewBox="0 0 921.6 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -82,7 +80,7 @@ z
 " clip-path="url(#pb29c991291)" style="fill: #f7fafb; stroke: #c0392b; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Polar bonds are necessary but not sufficient -->
+    
     <g style="fill: #22303a" transform="translate(299.344547 83.781765) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-50" d="M 588 4666 
@@ -479,7 +477,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- the geometry decides whether the bond dipoles cancel -->
+    
     <g style="fill: #4a5a63" transform="translate(331.308188 104.689763) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Oblique-74" d="M 2706 3500 
@@ -1012,7 +1010,7 @@ L 263.07 254.807467
 " clip-path="url(#pb29c991291)" style="fill: none; stroke: #22303a; stroke-width: 1.4; stroke-linecap: square"/>
    </g>
    <g id="text_3">
-    <!-- net $\mu = 0$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(207.736 300.036815) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -1183,7 +1181,7 @@ L 620.755858 278.379733
 " clip-path="url(#pb29c991291)" style="fill: none; stroke: #22303a; stroke-width: 1.4; stroke-linecap: square"/>
    </g>
    <g id="text_4">
-    <!-- net $\mu = 0$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(559.276 331.083215) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-6e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(63.378906 0.78125)"/>
@@ -1223,7 +1221,7 @@ Q 137.9675 437.639743 142.3375 437.639743
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Each red arrow is one bond dipole, with its HEAD on the more electronegative atom. Add them as vectors: if they sum -->
+    
     <g style="fill: #22303a" transform="translate(191.226875 417.02504) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-45" d="M 628 4666 
@@ -1827,7 +1825,7 @@ z
      <use xlink:href="#DejaVuSans-75" x="5757.03125"/>
      <use xlink:href="#DejaVuSans-6d" x="5820.410156"/>
     </g>
-    <!-- to zero the molecule is nonpolar however polar its individual bonds are. $\mathrm{CO_2}$ and $\mathrm{H_2O}$ have comparably polar bonds and opposite verdicts. -->
+    
     <g style="fill: #22303a" transform="translate(142.3375 431.274743) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-7a" d="M 353 3500 
@@ -2320,43 +2318,43 @@ z
 " clip-path="url(#pb29c991291)" style="fill: #ffffff; stroke: #22303a; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_6">
-    <!-- O -->
+    
     <g style="fill: #22303a" transform="translate(180.620469 257.842779) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-4f"/>
     </g>
    </g>
    <g id="text_7">
-    <!-- C -->
+    
     <g style="fill: #22303a" transform="translate(225.749453 257.842779) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-43"/>
     </g>
    </g>
    <g id="text_8">
-    <!-- O -->
+    
     <g style="fill: #22303a" transform="translate(269.900469 257.842779) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-4f"/>
     </g>
    </g>
    <g id="text_9">
-    <!-- O -->
+    
     <g style="fill: #22303a" transform="translate(401.030469 233.695579) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-4f"/>
     </g>
    </g>
    <g id="text_10">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(366.57345 261.626411) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_11">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(436.92705 261.626411) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- F -->
+    
     <g style="fill: #22303a" transform="translate(578.36925 210.311933) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -2377,19 +2375,19 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- F -->
+    
     <g style="fill: #22303a" transform="translate(538.743392 281.028733) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-46"/>
     </g>
    </g>
    <g id="text_14">
-    <!-- F -->
+    
     <g style="fill: #22303a" transform="translate(617.995108 281.028733) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-46"/>
     </g>
    </g>
    <g id="text_15">
-    <!-- B -->
+    
     <g style="fill: #22303a" transform="translate(577.356484 257.842779) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -2429,25 +2427,25 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(700.28025 293.102333) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_17">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(789.56025 293.102333) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_18">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(744.92025 280.4538) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48"/>
     </g>
    </g>
    <g id="text_19">
-    <!-- N -->
+    
     <g style="fill: #22303a" transform="translate(744.415313 247.493979) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -2468,7 +2466,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- $\mathrm{CO_2}$ -->
+    
     <g style="fill: #22303a" transform="translate(215.8 156.332458) scale(0.14 -0.14)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(69.824219 0.78125)"/>
@@ -2476,7 +2474,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- linear -->
+    
     <g style="fill: #4a5a63" transform="translate(217.144187 176.74505) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-6c"/>
      <use xlink:href="#DejaVuSans-69" x="27.783203"/>
@@ -2487,7 +2485,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- NONPOLAR -->
+    
     <g style="fill: #2e7d5b" transform="translate(195.005312 347.532379) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -2589,7 +2587,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- the two bond dipoles -->
+    
     <g style="fill: #22303a" transform="translate(184.4185 366.371938) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -2612,7 +2610,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="936.865234"/>
      <use xlink:href="#DejaVuSans-73" x="998.388672"/>
     </g>
-    <!-- point exactly opposite -->
+    
     <g style="fill: #22303a" transform="translate(181.862016 377.962454) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -2656,7 +2654,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- $\mathrm{H_2O}$ -->
+    
     <g style="fill: #22303a" transform="translate(391.15 156.332458) scale(0.14 -0.14)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(76.152344 -15.625) scale(0.7)"/>
@@ -2664,7 +2662,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- bent -->
+    
     <g style="fill: #4a5a63" transform="translate(395.345875 176.74505) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-62"/>
      <use xlink:href="#DejaVuSans-65" x="63.476562"/>
@@ -2673,7 +2671,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- POLAR -->
+    
     <g style="fill: #c0392b" transform="translate(384.656797 347.532379) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-50"/>
      <use xlink:href="#DejaVuSans-Bold-4f" x="73.291016"/>
@@ -2683,7 +2681,7 @@ z
     </g>
    </g>
    <g id="text_27">
-    <!-- bent, so the two dipoles -->
+    
     <g style="fill: #22303a" transform="translate(353.613531 366.371938) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-62"/>
      <use xlink:href="#DejaVuSans-65" x="63.476562"/>
@@ -2710,7 +2708,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1089.794922"/>
      <use xlink:href="#DejaVuSans-73" x="1151.318359"/>
     </g>
-    <!-- add instead of cancelling -->
+    
     <g style="fill: #22303a" transform="translate(351.390969 377.962454) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-64" x="61.279297"/>
@@ -2740,7 +2738,7 @@ z
     </g>
    </g>
    <g id="text_28">
-    <!-- $\mathrm{BF_3}$ -->
+    
     <g style="fill: #22303a" transform="translate(568.88 156.332458) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -2782,7 +2780,7 @@ z
     </g>
    </g>
    <g id="text_29">
-    <!-- trigonal planar -->
+    
     <g style="fill: #4a5a63" transform="translate(548.776938 176.74505) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-72" x="39.208984"/>
@@ -2802,7 +2800,7 @@ z
     </g>
    </g>
    <g id="text_30">
-    <!-- NONPOLAR -->
+    
     <g style="fill: #2e7d5b" transform="translate(546.545313 347.532379) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-4e"/>
      <use xlink:href="#DejaVuSans-Bold-4f" x="83.691406"/>
@@ -2815,7 +2813,7 @@ z
     </g>
    </g>
    <g id="text_31">
-    <!-- three dipoles at 120° -->
+    
     <g style="fill: #22303a" transform="translate(535.612484 366.371938) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -2878,7 +2876,7 @@ z
      <use xlink:href="#DejaVuSans-30" x="944.917969"/>
      <use xlink:href="#DejaVuSans-b0" x="1008.541016"/>
     </g>
-    <!-- sum to zero -->
+    
     <g style="fill: #22303a" transform="translate(555.721703 377.962454) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-75" x="52.099609"/>
@@ -2894,7 +2892,7 @@ z
     </g>
    </g>
    <g id="text_32">
-    <!-- $\mathrm{NH_3}$ -->
+    
     <g style="fill: #22303a" transform="translate(734.6 156.332458) scale(0.14 -0.14)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(74.804688 0.09375)"/>
@@ -2902,7 +2900,7 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- trigonal pyramidal -->
+    
     <g style="fill: #4a5a63" transform="translate(708.059625 176.74505) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-72" x="39.208984"/>
@@ -2925,7 +2923,7 @@ z
     </g>
    </g>
    <g id="text_34">
-    <!-- POLAR -->
+    
     <g style="fill: #c0392b" transform="translate(727.826797 347.532379) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-50"/>
      <use xlink:href="#DejaVuSans-Bold-4f" x="73.291016"/>
@@ -2935,7 +2933,7 @@ z
     </g>
    </g>
    <g id="text_35">
-    <!-- the lone pair breaks -->
+    
     <g style="fill: #22303a" transform="translate(705.437953 366.371938) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -2974,7 +2972,7 @@ z
      <use xlink:href="#DejaVuSans-6b" x="892.134766"/>
      <use xlink:href="#DejaVuSans-73" x="950.044922"/>
     </g>
-    <!-- the symmetry -->
+    
     <g style="fill: #22303a" transform="translate(718.300328 377.962454) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -3001,7 +2999,7 @@ z
 " style="fill: #6b3fa0; stroke: #6b3fa0; stroke-width: 2.4; stroke-linecap: round"/>
    </g>
    <g id="text_36">
-    <!-- net $\mu$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(417.636 190.7447) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(63.378906 0.78125)"/>
@@ -3021,7 +3019,7 @@ z
 " style="fill: #6b3fa0; stroke: #6b3fa0; stroke-width: 2.4; stroke-linecap: round"/>
    </g>
    <g id="text_37">
-    <!-- net $\mu$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(761.922 201.0935) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-65" transform="translate(63.378906 0.78125)"/>

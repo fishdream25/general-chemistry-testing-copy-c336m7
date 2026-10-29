@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="878.4pt" height="424.8pt" viewBox="0 0 878.4 424.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -40,7 +38,7 @@ z
 " style="fill: #dbe4e8; stroke: #dbe4e8; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- Why the nucleus grips harder across a period -->
+    
     <g style="fill: #22303a" transform="translate(272.906062 74.413684) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-57" d="M 191 4666 
@@ -467,7 +465,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- inner electrons cancel part of the nuclear charge; the rest is what an outer electron feels -->
+    
     <g style="fill: #4a5a63" transform="translate(227.051875 95.418405) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-69" d="M 1172 4863 
@@ -999,7 +997,7 @@ z
 " clip-path="url(#p0d5a6fea96)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #c8d4d9; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- Li   (Z = 3) -->
+    
     <g style="fill: #22303a" transform="translate(206.903953 295.894084) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -1111,7 +1109,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- $Z_\mathrm{eff} \approx +1$ -->
+    
     <g style="fill: #c0392b" transform="translate(213.544 318.996136) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Oblique-5a" d="M 838 4666 
@@ -1282,7 +1280,7 @@ z
 " clip-path="url(#p0d5a6fea96)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #c8d4d9; stroke-linejoin: miter"/>
    </g>
    <g id="text_5">
-    <!-- C   (Z = 6) -->
+    
     <g style="fill: #22303a" transform="translate(420.24825 295.894084) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -1351,7 +1349,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- $Z_\mathrm{eff} \approx +4$ -->
+    
     <g style="fill: #c0392b" transform="translate(425.584 318.996136) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1412,7 +1410,7 @@ z
 " clip-path="url(#p0d5a6fea96)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #c8d4d9; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
-    <!-- F   (Z = 9) -->
+    
     <g style="fill: #22303a" transform="translate(632.557391 295.894084) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -1473,7 +1471,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- $Z_\mathrm{eff} \approx +7$ -->
+    
     <g style="fill: #c0392b" transform="translate(637.624 318.996136) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -1510,7 +1508,7 @@ Q 158.115117 374.086924 162.485117 374.086924
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- All three have the same two inner (blue) electrons doing the shielding, so subtracting them from Z gives a rough $Z_\mathrm{eff}$ -->
+    
     <g style="fill: #22303a" transform="translate(171.83 339.227565) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -2063,7 +2061,7 @@ z
      <use xlink:href="#DejaVuSans-66" transform="translate(5807.519531 -16.390625) scale(0.7)"/>
      <use xlink:href="#DejaVuSans-66" transform="translate(5832.163086 -16.390625) scale(0.7)"/>
     </g>
-    <!-- that climbs from +1 to +7 across the period. The valence (green) electrons are pulled in progressively harder — which is -->
+    
     <g style="fill: #22303a" transform="translate(162.485117 353.494041) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -2256,7 +2254,7 @@ z
      <use xlink:href="#DejaVuSans-69" x="5976.884766"/>
      <use xlink:href="#DejaVuSans-73" x="6004.667969"/>
     </g>
-    <!-- why the atom shrinks, the ionization energy rises, and the electron affinity rises, all at once. -->
+    
     <g style="fill: #22303a" transform="translate(230.517734 367.741221) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -2659,7 +2657,7 @@ z
 " clip-path="url(#p0d5a6fea96)" style="fill: #c0392b"/>
    </g>
    <g id="text_10">
-    <!-- +3 -->
+    
     <g style="fill: #ffffff" transform="translate(231.08475 206.931333) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -2683,14 +2681,14 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- +6 -->
+    
     <g style="fill: #ffffff" transform="translate(443.12475 206.931333) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-36" x="83.789062"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- +9 -->
+    
     <g style="fill: #ffffff" transform="translate(655.16475 206.931333) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-39" x="83.789062"/>

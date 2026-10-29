@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="496.8pt" viewBox="0 0 892.8 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -51,7 +49,7 @@ L 231.57 309.271074
 " clip-path="url(#p182d00560e)" style="fill: none; stroke: #8b9aa3; stroke-width: 1.6; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- burette -->
+    
     <g style="fill: #22303a" transform="translate(257.238 147.676769) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -177,7 +175,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- titrant — accurately -->
+    
     <g style="fill: #4a5a63" transform="translate(257.238 162.950078) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-74" d="M 1172 4494 
@@ -405,7 +403,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="912.5"/>
      <use xlink:href="#DejaVuSans-79" x="940.283203"/>
     </g>
-    <!-- known concentration -->
+    
     <g style="fill: #4a5a63" transform="translate(257.238 175.349235) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -492,7 +490,7 @@ z
 " clip-path="url(#p182d00560e)" style="fill: #fdfefe; stroke: #8b9aa3; stroke-width: 1.7; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- flask -->
+    
     <g style="fill: #22303a" transform="translate(291.834 376.623127) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-66" d="M 2841 4863 
@@ -610,7 +608,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- analyte of unknown concentration, -->
+    
     <g style="fill: #4a5a63" transform="translate(291.834 391.896436) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -678,7 +676,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="1648.974609"/>
      <use xlink:href="#DejaVuSans-2c" x="1712.353516"/>
     </g>
-    <!-- plus a few drops of indicator -->
+    
     <g style="fill: #4a5a63" transform="translate(291.834 404.295593) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -797,7 +795,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- The indicator marks the moment the reaction is complete -->
+    
     <g style="fill: #22303a" transform="translate(388.252875 130.750631) scale(0.118 -0.118)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -1064,7 +1062,7 @@ z
 " style="fill: #dbe4e8; stroke: #dbe4e8; stroke-width: 1.4; stroke-linecap: round"/>
    </g>
    <g id="text_6">
-    <!-- Titration: measuring an unknown concentration against a known one -->
+    
     <g style="fill: #22303a" transform="translate(188.206641 85.229231) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-3a" d="M 716 3500 
@@ -1199,7 +1197,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- The delivered volume and the titrant's concentration give its moles; the balanced equation converts those into moles of analyte. -->
+    
     <g style="fill: #4a5a63" transform="translate(141.022297 429.324651) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1624,7 +1622,7 @@ Q 357.195 326.018818 361.803 326.018818
 z
 " style="fill: #f7fafb; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- The EQUIVALENCE POINT is a fact about the chemistry: the moles of titrant added exactly -->
+    
     <g style="fill: #22303a" transform="translate(364.752 290.620018) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-45" d="M 628 4666 
@@ -1920,7 +1918,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="4404.058594"/>
      <use xlink:href="#DejaVuSans-79" x="4431.841797"/>
     </g>
-    <!-- match what the analyte requires. The ENDPOINT is what you actually see — the indicator's -->
+    
     <g style="fill: #22303a" transform="translate(361.803 305.017168) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-44" d="M 1259 4147 
@@ -2032,7 +2030,7 @@ z
      <use xlink:href="#DejaVuSans-27" x="4472.941406"/>
      <use xlink:href="#DejaVuSans-73" x="4500.431641"/>
     </g>
-    <!-- color change. A well-chosen indicator makes the two coincide. -->
+    
     <g style="fill: #22303a" transform="translate(430.55175 319.414318) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-2d" d="M 313 2009 
@@ -2120,7 +2118,7 @@ z
 " clip-path="url(#p182d00560e)" style="fill: #ffffff; stroke: #c8d4d9; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_9">
-    <!-- before -->
+    
     <g style="fill: #4a5a63" transform="translate(451.02 242.891021) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-62"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="71.582031"/>
@@ -2144,7 +2142,7 @@ z
 " clip-path="url(#p182d00560e)" style="fill: #fbe4ea; stroke: #d76e8f; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
-    <!-- equivalence point -->
+    
     <g style="fill: #c0392b" transform="translate(532.017 242.891021) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-71" d="M 2181 2772 
@@ -2217,7 +2215,7 @@ z
 " clip-path="url(#p182d00560e)" style="fill: #f2c4d5; stroke: #c25980; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_11">
-    <!-- past it -->
+    
     <g style="fill: #6b3fa0" transform="translate(674.48325 242.891021) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-70"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="71.582031"/>

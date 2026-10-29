@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="828pt" height="518.4pt" viewBox="0 0 828 518.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -38,7 +36,7 @@ z
 " clip-path="url(#pfad02d0657)" style="fill: #22303a"/>
    </g>
    <g id="text_1">
-    <!-- anything with mass that takes up space -->
+    
     <g style="fill: #4a5a63" transform="translate(327.910641 116.4354) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
@@ -547,7 +545,7 @@ z
 " clip-path="url(#pfad02d0657)" style="fill: #d1832f"/>
    </g>
    <g id="text_2">
-    <!-- one kind of atom -->
+    
     <g style="fill: #4a5a63" transform="translate(71.713516 374.373617) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-6f" d="M 1959 3097 
@@ -792,9 +790,9 @@ z
      <use xlink:href="#DejaVuSans-6f" x="690.869141"/>
      <use xlink:href="#DejaVuSans-6d" x="752.050781"/>
     </g>
-    <!--  -->
+    
     <g style="fill: #4a5a63" transform="translate(108.24 385.964133) scale(0.086 -0.086)"/>
-    <!-- gold, copper, -->
+    
     <g style="fill: #4a5a63" transform="translate(79.986312 397.554649) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -926,7 +924,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="584.130859"/>
      <use xlink:href="#DejaVuSans-2c" x="625.244141"/>
     </g>
-    <!-- oxygen gas $\mathrm{O_2}$ -->
+    
     <g style="fill: #4a5a63" transform="translate(76.592 409.145164) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -1054,7 +1052,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- two+ elements in a -->
+    
     <g style="fill: #4a5a63" transform="translate(274.497266 374.373617) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1108,7 +1106,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="885.15625"/>
      <use xlink:href="#DejaVuSans-61" x="916.943359"/>
     </g>
-    <!-- fixed ratio -->
+    
     <g style="fill: #4a5a63" transform="translate(294.784531 385.964133) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-66"/>
      <use xlink:href="#DejaVuSans-69" x="35.205078"/>
@@ -1122,9 +1120,9 @@ z
      <use xlink:href="#DejaVuSans-69" x="417.431641"/>
      <use xlink:href="#DejaVuSans-6f" x="445.214844"/>
     </g>
-    <!--  -->
+    
     <g style="fill: #4a5a63" transform="translate(316.56 397.554649) scale(0.086 -0.086)"/>
-    <!-- water $\mathrm{H_2O}$, -->
+    
     <g style="fill: #4a5a63" transform="translate(292.867 409.145164) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -1154,7 +1152,7 @@ z
      <use xlink:href="#DejaVuSans-4f" transform="translate(440.12207 0.78125)"/>
      <use xlink:href="#DejaVuSans-2c" transform="translate(518.833008 0.78125)"/>
     </g>
-    <!-- table salt $\mathrm{NaCl}$ -->
+    
     <g style="fill: #4a5a63" transform="translate(285.127 420.73568) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -1236,7 +1234,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- looks the same -->
+    
     <g style="fill: #4a5a63" transform="translate(478.753953 374.373617) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -1274,7 +1272,7 @@ z
      <use xlink:href="#DejaVuSans-6d" x="601.220703"/>
      <use xlink:href="#DejaVuSans-65" x="698.632812"/>
     </g>
-    <!-- everywhere -->
+    
     <g style="fill: #4a5a63" transform="translate(486.086125 385.964133) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1299,9 +1297,9 @@ z
      <use xlink:href="#DejaVuSans-72" x="489.208984"/>
      <use xlink:href="#DejaVuSans-65" x="528.072266"/>
     </g>
-    <!--  -->
+    
     <g style="fill: #4a5a63" transform="translate(511.44 397.554649) scale(0.086 -0.086)"/>
-    <!-- air, salt water, -->
+    
     <g style="fill: #4a5a63" transform="translate(480.369812 409.145164) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-69" x="61.279297"/>
@@ -1320,7 +1318,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="649.707031"/>
      <use xlink:href="#DejaVuSans-2c" x="690.820312"/>
     </g>
-    <!-- brass -->
+    
     <g style="fill: #4a5a63" transform="translate(499.827312 420.73568) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-62"/>
      <use xlink:href="#DejaVuSans-72" x="63.476562"/>
@@ -1330,7 +1328,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- you can see the -->
+    
     <g style="fill: #4a5a63" transform="translate(685.446 374.373617) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-75" d="M 544 1381 
@@ -1372,7 +1370,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="673.095703"/>
      <use xlink:href="#DejaVuSans-65" x="736.474609"/>
     </g>
-    <!-- parts -->
+    
     <g style="fill: #4a5a63" transform="translate(708.701609 385.964133) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-70"/>
      <use xlink:href="#DejaVuSans-61" x="63.476562"/>
@@ -1380,9 +1378,9 @@ z
      <use xlink:href="#DejaVuSans-74" x="165.869141"/>
      <use xlink:href="#DejaVuSans-73" x="205.078125"/>
     </g>
-    <!--  -->
+    
     <g style="fill: #4a5a63" transform="translate(719.76 397.554649) scale(0.086 -0.086)"/>
-    <!-- sand in water, -->
+    
     <g style="fill: #4a5a63" transform="translate(689.159453 409.145164) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-61" x="52.099609"/>
@@ -1399,7 +1397,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="638.769531"/>
      <use xlink:href="#DejaVuSans-2c" x="679.882812"/>
     </g>
-    <!-- trail mix -->
+    
     <g style="fill: #4a5a63" transform="translate(701.987562 420.73568) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-72" x="39.208984"/>
@@ -1426,7 +1424,7 @@ Q 161.657656 498.262327 166.257656 498.262327
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Work top-down and answer each question in turn — that is all "classify this substance" ever asks you to do. -->
+    
     <g style="fill: #22303a" transform="translate(166.257656 491.749015) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -1616,7 +1614,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Classifying matter: two questions get you to any answer -->
+    
     <g transform="translate(223.39793 21.6) scale(0.135 -0.135)">
      <defs>
       <path id="DejaVuSans-3a" d="M 750 794 
@@ -1691,7 +1689,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- MATTER -->
+    
     <g style="fill: #ffffff" transform="translate(386.810625 81.820341) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-Bold-4d" d="M 588 4666 
@@ -1790,7 +1788,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- PURE SUBSTANCE -->
+    
     <g style="fill: #ffffff" transform="translate(159.935273 198.740811) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-50" d="M 588 4666 
@@ -1945,7 +1943,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-43" x="857.630859"/>
      <use xlink:href="#DejaVuSans-Bold-45" x="931.019531"/>
     </g>
-    <!-- $\it{fixed\ composition}$ -->
+    
     <g style="fill: #ffffff" transform="translate(165.675 211.697483) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Oblique-66" d="M 3059 4863 
@@ -2063,7 +2061,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- MIXTURE -->
+    
     <g style="fill: #ffffff" transform="translate(588.901289 198.740811) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-49" d="M 588 4666 
@@ -2097,7 +2095,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-52" x="363.232422"/>
      <use xlink:href="#DejaVuSans-Bold-45" x="440.234375"/>
     </g>
-    <!-- $\it{composition\ can\ vary}$ -->
+    
     <g style="fill: #ffffff" transform="translate(559.1625 211.697483) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Oblique-76" d="M 459 3500 
@@ -2149,7 +2147,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- ELEMENT -->
+    
     <g style="fill: #ffffff" transform="translate(80.935898 338.86098) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -2172,7 +2170,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- COMPOUND -->
+    
     <g style="fill: #ffffff" transform="translate(281.692617 338.86098) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -2231,7 +2229,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- HOMOGENEOUS -->
+    
     <g style="fill: #ffffff" transform="translate(467.640891 338.667824) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -2289,7 +2287,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- HETEROGENEOUS -->
+    
     <g style="fill: #ffffff" transform="translate(674.166094 338.502261) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Bold-48"/>
      <use xlink:href="#DejaVuSans-Bold-45" x="83.691406"/>
@@ -2320,7 +2318,7 @@ Q 130.223812 301.253594 132.115812 301.253594
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no -->
+    
     <g style="fill: #c0392b" transform="translate(132.115812 297.573063) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Oblique-6e"/>
      <use xlink:href="#DejaVuSans-Oblique-6f" x="63.378906"/>
@@ -2340,7 +2338,7 @@ Q 279.349062 301.253594 281.241062 301.253594
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(281.241062 297.573063) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Oblique-79"/>
      <use xlink:href="#DejaVuSans-Oblique-65" x="59.179688"/>
@@ -2361,7 +2359,7 @@ Q 533.423812 301.253594 535.315812 301.253594
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no -->
+    
     <g style="fill: #c0392b" transform="translate(535.315812 297.573063) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Oblique-6e"/>
      <use xlink:href="#DejaVuSans-Oblique-6f" x="63.378906"/>
@@ -2381,7 +2379,7 @@ Q 682.549062 301.253594 684.441062 301.253594
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(684.441062 297.573063) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-Oblique-79"/>
      <use xlink:href="#DejaVuSans-Oblique-65" x="59.179688"/>
@@ -2402,7 +2400,7 @@ Q 289.342266 153.352819 292.402266 153.352819
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- QUESTION 1   can it be separated by physical means? -->
+    
     <g style="fill: #c0392b" transform="translate(292.402266 148.4211) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-51" d="M 2522 4238 
@@ -2627,7 +2625,7 @@ Q 205.33525 179.97744 206.91925 179.97744
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no -->
+    
     <g style="fill: #c0392b" transform="translate(206.91925 176.563315) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-6e"/>
      <use xlink:href="#DejaVuSans-Oblique-6f" x="63.378906"/>
@@ -2647,7 +2645,7 @@ Q 606.41225 179.97744 607.99625 179.97744
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(607.99625 176.563315) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-79"/>
      <use xlink:href="#DejaVuSans-Oblique-65" x="59.179688"/>
@@ -2668,7 +2666,7 @@ Q 124.907094 262.844918 127.315094 262.844918
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- QUESTION 2   broken down chemically? -->
+    
     <g style="fill: #c0392b" transform="translate(127.315094 258.648387) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-51"/>
      <use xlink:href="#DejaVuSans-55" x="78.710938"/>
@@ -2722,7 +2720,7 @@ Q 538.259797 262.844918 540.667797 262.844918
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- QUESTION 2   uniform throughout? -->
+    
     <g style="fill: #c0392b" transform="translate(540.667797 258.648387) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-51"/>
      <use xlink:href="#DejaVuSans-55" x="78.710938"/>

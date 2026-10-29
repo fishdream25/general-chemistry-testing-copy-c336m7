@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="496.8pt" viewBox="0 0 907.2 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -43,7 +41,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #f7fafb; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Building the first ten elements, one electron at a time -->
+    
     <g style="fill: #22303a" transform="translate(254.130984 82.928263) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -516,7 +514,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- H -->
+    
     <g style="fill: #22303a" transform="translate(175.757187 136.282302) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -539,7 +537,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Z=1 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 135.620052) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-5a" d="M 359 4666 
@@ -629,7 +627,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
-    <!-- $1s^1$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 135.951177) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-73" d="M 3200 3397 
@@ -670,14 +668,14 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- He -->
+    
     <g style="fill: #22303a" transform="translate(172.026641 162.743439) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-48"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="83.691406"/>
     </g>
    </g>
    <g id="text_6">
-    <!-- Z=2 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 162.081189) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -751,7 +749,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
-    <!-- $1s^2$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 162.412314) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -759,7 +757,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- Li -->
+    
     <g style="fill: #22303a" transform="translate(174.97 189.204576) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -777,7 +775,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Z=3 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 188.542326) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -859,7 +857,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
-    <!-- $1s^22s^1$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 188.873451) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -870,14 +868,14 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- Be -->
+    
     <g style="fill: #22303a" transform="translate(172.437422 215.665712) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-42"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="76.220703"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- Z=4 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 215.003462) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -946,7 +944,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_13">
-    <!-- $1s^22s^2$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 215.334587) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -957,13 +955,13 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- B -->
+    
     <g style="fill: #22303a" transform="translate(176.167969 242.126849) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-42"/>
     </g>
    </g>
    <g id="text_15">
-    <!-- Z=5 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 241.464599) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-35" d="M 691 4666 
@@ -1038,7 +1036,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_16">
-    <!-- $1s^22s^22p^1$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 242.521537) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -1086,7 +1084,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- C -->
+    
     <g style="fill: #22303a" transform="translate(176.323516 268.587986) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -1115,7 +1113,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- Z=6 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 267.925736) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -1195,7 +1193,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_19">
-    <!-- $1s^22s^22p^2$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 268.982674) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -1209,7 +1207,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- N -->
+    
     <g style="fill: #22303a" transform="translate(175.757187 295.049123) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -1230,7 +1228,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- Z=7 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 294.386873) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -1290,7 +1288,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_22">
-    <!-- $1s^22s^22p^3$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 295.443811) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -1304,7 +1302,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- O -->
+    
     <g style="fill: #22303a" transform="translate(175.684141 321.51026) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -1333,7 +1331,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- Z=8 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 320.84801) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-38" d="M 2034 2216 
@@ -1422,7 +1420,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_25">
-    <!-- $1s^22s^22p^4$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 321.904947) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -1436,7 +1434,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- F -->
+    
     <g style="fill: #22303a" transform="translate(176.602812 347.971397) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -1457,7 +1455,7 @@ z
     </g>
    </g>
    <g id="text_27">
-    <!-- Z=9 -->
+    
     <g style="fill: #4a5a63" transform="translate(200.091359 347.309147) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -1537,7 +1535,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_28">
-    <!-- $1s^22s^22p^5$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 348.366084) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -1551,14 +1549,14 @@ z
     </g>
    </g>
    <g id="text_29">
-    <!-- Ne -->
+    
     <g style="fill: #22303a" transform="translate(172.026641 374.432534) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-4e"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="83.691406"/>
     </g>
    </g>
    <g id="text_30">
-    <!-- Z=10 -->
+    
     <g style="fill: #4a5a63" transform="translate(197.355484 373.770284) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-30" d="M 2034 4250 
@@ -1630,7 +1628,7 @@ z
 " clip-path="url(#pd92e5aa5b7)" style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_31">
-    <!-- $1s^22s^22p^6$ -->
+    
     <g style="fill: #22303a" transform="translate(467.73 374.827221) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-Oblique-73" transform="translate(63.623047 0.765625)"/>
@@ -1644,7 +1642,7 @@ z
     </g>
    </g>
    <g id="text_32">
-    <!-- 1s -->
+    
     <g style="fill: #1f6f8b" transform="translate(249.235312 112.99668) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -1667,7 +1665,7 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- 2s -->
+    
     <g style="fill: #2e7d5b" transform="translate(293.875313 112.99668) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -1698,7 +1696,7 @@ z
     </g>
    </g>
    <g id="text_34">
-    <!-- 2p -->
+    
     <g style="fill: #b8621b" transform="translate(388.132187 112.99668) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-70" d="M 1656 506 
@@ -1746,7 +1744,7 @@ Q 197.705 433.021711 202.075 433.021711
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- An up arrow is $m_s=+\frac{1}{2}$ and a down arrow $m_s=-\frac{1}{2}$. Every box holds at most two arrows, and they must point -->
+    
     <g style="fill: #22303a" transform="translate(202.075 410.604531) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -2367,7 +2365,7 @@ L 2538.081055 18.965625
 z
 "/>
     </g>
-    <!-- opposite ways — that is the Pauli exclusion principle drawn rather than stated. -->
+    
     <g style="fill: #22303a" transform="translate(277.680898 426.676008) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -2502,7 +2500,7 @@ z
     </g>
    </g>
    <g id="text_36">
-    <!-- each element introduces one rule -->
+    
     <g style="fill: #22303a" transform="translate(598.089797 154.469299) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-65"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="67.822266"/>
@@ -2539,14 +2537,14 @@ z
     </g>
    </g>
    <g id="text_37">
-    <!-- He -->
+    
     <g style="fill: #c0392b" transform="translate(607.23 193.64095) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-48"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="83.691406"/>
     </g>
    </g>
    <g id="text_38">
-    <!-- both electrons share the $1s$ orbital, so -->
+    
     <g style="fill: #22303a" transform="translate(635.13 187.428591) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-62" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(63.476562 0.015625)"/>
@@ -2588,7 +2586,7 @@ z
      <use xlink:href="#DejaVuSans-73" transform="translate(1793.603516 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(1845.703125 0.015625)"/>
     </g>
-    <!-- Pauli forces opposite spins -->
+    
     <g style="fill: #22303a" transform="translate(635.13 198.749559) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -2643,14 +2641,14 @@ z
     </g>
    </g>
    <g id="text_39">
-    <!-- Li -->
+    
     <g style="fill: #1f6f8b" transform="translate(607.23 250.014676) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-4c"/>
      <use xlink:href="#DejaVuSans-Bold-69" x="63.720703"/>
     </g>
    </g>
    <g id="text_40">
-    <!-- the $1s$ orbital is full, so the third -->
+    
     <g style="fill: #22303a" transform="translate(635.13 243.802317) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-74" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-68" transform="translate(39.208984 0.015625)"/>
@@ -2689,7 +2687,7 @@ z
      <use xlink:href="#DejaVuSans-72" transform="translate(1497.753906 0.015625)"/>
      <use xlink:href="#DejaVuSans-64" transform="translate(1538.867188 0.015625)"/>
     </g>
-    <!-- electron must start a new shell -->
+    
     <g style="fill: #22303a" transform="translate(635.13 255.123286) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-65"/>
      <use xlink:href="#DejaVuSans-6c" x="61.523438"/>
@@ -2725,13 +2723,13 @@ z
     </g>
    </g>
    <g id="text_41">
-    <!-- C -->
+    
     <g style="fill: #2e7d5b" transform="translate(607.23 306.388403) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-43"/>
     </g>
    </g>
    <g id="text_42">
-    <!-- Hund's rule: the two $2p$ electrons go -->
+    
     <g style="fill: #22303a" transform="translate(635.13 300.168168) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -2841,7 +2839,7 @@ z
      <use xlink:href="#DejaVuSans-67" transform="translate(1699.414062 0.015625)"/>
      <use xlink:href="#DejaVuSans-6f" transform="translate(1762.890625 0.015625)"/>
     </g>
-    <!-- into SEPARATE orbitals, spins parallel -->
+    
     <g style="fill: #22303a" transform="translate(635.13 311.5062) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -2956,13 +2954,13 @@ z
     </g>
    </g>
    <g id="text_43">
-    <!-- O -->
+    
     <g style="fill: #b8621b" transform="translate(607.23 362.762129) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-4f"/>
     </g>
    </g>
    <g id="text_44">
-    <!-- only now, with no empty $2p$ left, -->
+    
     <g style="fill: #22303a" transform="translate(635.13 356.541895) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-6f" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6e" transform="translate(61.181641 0.015625)"/>
@@ -2997,7 +2995,7 @@ z
      <use xlink:href="#DejaVuSans-74" transform="translate(1549.511719 0.015625)"/>
      <use xlink:href="#DejaVuSans-2c" transform="translate(1588.720703 0.015625)"/>
     </g>
-    <!-- does pairing begin -->
+    
     <g style="fill: #22303a" transform="translate(635.13 367.879926) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-64"/>
      <use xlink:href="#DejaVuSans-6f" x="63.476562"/>

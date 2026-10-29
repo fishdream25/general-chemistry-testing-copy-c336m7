@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="532.8pt" height="360pt" viewBox="0 0 532.8 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -55,7 +53,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(41.47875 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -96,7 +94,7 @@ L 138.85 29.44
       </g>
      </g>
      <g id="text_2">
-      <!-- 10 -->
+      
       <g transform="translate(132.4875 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -131,7 +129,7 @@ L 233.04 29.44
       </g>
      </g>
      <g id="text_3">
-      <!-- 20 -->
+      
       <g transform="translate(226.6775 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -176,7 +174,7 @@ L 327.23 29.44
       </g>
      </g>
      <g id="text_4">
-      <!-- 30 -->
+      
       <g transform="translate(320.8675 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -229,7 +227,7 @@ L 421.42 29.44
       </g>
      </g>
      <g id="text_5">
-      <!-- 40 -->
+      
       <g transform="translate(415.0575 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -269,7 +267,7 @@ L 515.61 29.44
       </g>
      </g>
      <g id="text_6">
-      <!-- 50 -->
+      
       <g transform="translate(509.2475 332.638438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -304,7 +302,7 @@ z
      </g>
     </g>
     <g id="text_7">
-     <!-- Volume of 0.1000 M NaOH added (mL) -->
+     
      <g transform="translate(183.652969 346.316563) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-56" d="M 1831 0 
@@ -666,7 +664,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <!-- 0 -->
+      
       <g transform="translate(31.2975 321.839219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -684,7 +682,7 @@ L 515.61 276.811429
       </g>
      </g>
      <g id="text_9">
-      <!-- 2 -->
+      
       <g transform="translate(31.2975 280.610647) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
       </g>
@@ -702,7 +700,7 @@ L 515.61 235.582857
       </g>
      </g>
      <g id="text_10">
-      <!-- 4 -->
+      
       <g transform="translate(31.2975 239.382076) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-34"/>
       </g>
@@ -720,7 +718,7 @@ L 515.61 194.354286
       </g>
      </g>
      <g id="text_11">
-      <!-- 6 -->
+      
       <g transform="translate(31.2975 198.153504) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -770,7 +768,7 @@ L 515.61 153.125714
       </g>
      </g>
      <g id="text_12">
-      <!-- 8 -->
+      
       <g transform="translate(31.2975 156.924933) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -829,7 +827,7 @@ L 515.61 111.897143
       </g>
      </g>
      <g id="text_13">
-      <!-- 10 -->
+      
       <g transform="translate(24.935 115.696362) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -848,7 +846,7 @@ L 515.61 70.668571
       </g>
      </g>
      <g id="text_14">
-      <!-- 12 -->
+      
       <g transform="translate(24.935 74.46779) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-32" x="63.623047"/>
@@ -867,7 +865,7 @@ L 515.61 29.44
       </g>
      </g>
      <g id="text_15">
-      <!-- 14 -->
+      
       <g transform="translate(24.935 33.239219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-34" x="63.623047"/>
@@ -875,7 +873,7 @@ L 515.61 29.44
      </g>
     </g>
     <g id="text_16">
-     <!-- pH -->
+     
      <g transform="translate(18.855313 180.674375) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-70" d="M 1159 525 
@@ -1083,7 +1081,7 @@ L 285.932222 129.760827
 " style="fill: none; stroke: #888888; stroke-width: 0.7; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <!-- equivalence -->
+    
     <g style="fill: #555555" transform="translate(322.5205 116.809002) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-71" d="M 947 1747 
@@ -1188,7 +1186,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="489.306641"/>
      <use xlink:href="#DejaVuSans-65" x="544.287109"/>
     </g>
-    <!-- point (25.0 mL) -->
+    
     <g style="fill: #555555" transform="translate(322.5205 126.327143) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-74" d="M 1172 4494 
@@ -1240,7 +1238,7 @@ L 157.535478 215.990452
 " style="fill: none; stroke: #c0392b; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_18">
-    <!-- buffer region -->
+    
     <g style="fill: #c0392b" transform="translate(63.498 137.423288) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -1335,7 +1333,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="523.335938"/>
      <use xlink:href="#DejaVuSans-6e" x="584.517578"/>
     </g>
-    <!-- (HH equation applies) -->
+    
     <g style="fill: #c0392b" transform="translate(63.498 146.941429) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -1394,7 +1392,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- Titration curves: strong vs. weak acid with strong base -->
+    
     <g transform="translate(129.483125 19.44) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1536,7 +1534,7 @@ L 332.64 291.688281
 " style="fill: none; stroke: #2b6cb0; stroke-width: 2.2; stroke-linecap: square"/>
     </g>
     <g id="text_20">
-     <!-- Strong acid (HCl) + strong base -->
+     
      <g transform="translate(339.84 294.838281) scale(0.09 -0.09)">
       <defs>
        <path id="DejaVuSans-53" d="M 3425 4513 
@@ -1647,7 +1645,7 @@ L 332.64 304.9
 " style="fill: none; stroke: #c0392b; stroke-width: 2.2; stroke-linecap: square"/>
     </g>
     <g id="text_21">
-     <!-- Weak acid (CH$_3$COOH) + strong base -->
+     
      <g transform="translate(339.84 308.05) scale(0.09 -0.09)">
       <defs>
        <path id="DejaVuSans-57" d="M 213 4666 

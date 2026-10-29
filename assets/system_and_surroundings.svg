@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="460.8pt" viewBox="0 0 907.2 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -114,7 +112,7 @@ L 629.55 241.646517
 " clip-path="url(#p83ff38a7f3)" style="fill: none; stroke: #1f6f8b; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- The system is whatever you choose to study; everything else is the surroundings -->
+    
     <g style="fill: #22303a" transform="translate(157.150375 80.864809) scale(0.134 -0.134)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -618,7 +616,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- the three kinds differ only in what is allowed to cross the boundary -->
+    
     <g style="fill: #4a5a63" transform="translate(293.749734 103.111616) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Oblique-74" d="M 2706 3500 
@@ -1117,7 +1115,7 @@ z
 " clip-path="url(#p83ff38a7f3)" style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 2.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- OPEN -->
+    
     <g style="fill: #2e7d5b" transform="translate(220.951875 123.113773) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -1208,7 +1206,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_4">
-    <!-- energy -->
+    
     <g style="fill: #c0392b" transform="translate(288.693844 194.97997) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -1343,7 +1341,7 @@ z
 " style="fill: #1f6f8b; stroke: #1f6f8b; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <!-- mass -->
+    
     <g style="fill: #1f6f8b" transform="translate(162.918375 252.673628) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1448,7 +1446,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- a beaker of reacting -->
+    
     <g style="fill: #22303a" transform="translate(192.640219 327.410735) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-20" transform="scale(0.015625)"/>
@@ -1611,7 +1609,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="879.867188"/>
      <use xlink:href="#DejaVuSans-67" x="943.246094"/>
     </g>
-    <!-- solution, open to the air -->
+    
     <g style="fill: #22303a" transform="translate(183.789531 339.809891) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -1734,7 +1732,7 @@ z
 " clip-path="url(#p83ff38a7f3)" style="fill: #ffffff; stroke: #1f6f8b; stroke-width: 2.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
-    <!-- CLOSED -->
+    
     <g style="fill: #1f6f8b" transform="translate(439.313062 123.113773) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -1841,7 +1839,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_8">
-    <!-- energy -->
+    
     <g style="fill: #c0392b" transform="translate(514.683844 194.97997) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-65"/>
      <use xlink:href="#DejaVuSans-6e" x="61.523438"/>
@@ -1852,7 +1850,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- a sealed flask — -->
+    
     <g style="fill: #22303a" transform="translate(427.284687 327.410735) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-64" d="M 2906 2969 
@@ -1906,7 +1904,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="686.816406"/>
      <use xlink:href="#DejaVuSans-2014" x="718.603516"/>
     </g>
-    <!-- heat still gets through -->
+    
     <g style="fill: #22303a" transform="translate(414.130844 339.809891) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-68"/>
      <use xlink:href="#DejaVuSans-65" x="63.378906"/>
@@ -1942,7 +1940,7 @@ z
 " clip-path="url(#p83ff38a7f3)" style="fill: #ffffff; stroke: #6b3fa0; stroke-width: 2.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_10">
-    <!-- ISOLATED -->
+    
     <g style="fill: #6b3fa0" transform="translate(659.195844 123.113773) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-49" d="M 588 4666 
@@ -1980,7 +1978,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- a perfect thermos -->
+    
     <g style="fill: #22303a" transform="translate(649.711844 327.410735) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-20" x="61.279297"/>
@@ -2000,7 +1998,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="782.771484"/>
      <use xlink:href="#DejaVuSans-73" x="843.953125"/>
     </g>
-    <!-- (an idealization) -->
+    
     <g style="fill: #22303a" transform="translate(653.696594 339.809891) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -2076,7 +2074,7 @@ Q 179.10375 399.256055 183.51975 399.256055
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Which one you have is a choice about where you draw the boundary, not a property of the chemistry. Draw it around -->
+    
     <g style="fill: #22303a" transform="translate(183.51975 378.446405) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -2262,7 +2260,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="5736.128906"/>
      <use xlink:href="#DejaVuSans-64" x="5799.507812"/>
     </g>
-    <!-- the reacting solution and you have one system; draw it around the whole calorimeter and you have another. -->
+    
     <g style="fill: #22303a" transform="translate(203.75775 392.843555) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-3b" d="M 750 3309 
@@ -2389,7 +2387,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- surroundings -->
+    
     <g style="fill: #4a5a63" transform="translate(210.092875 151.187977) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-67" d="M 3816 3500 
@@ -2446,7 +2444,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- mass and energy both cross -->
+    
     <g style="fill: #2e7d5b" transform="translate(167.456953 286.211169) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -2505,7 +2503,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- surroundings -->
+    
     <g style="fill: #4a5a63" transform="translate(436.082875 151.187977) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-73"/>
      <use xlink:href="#DejaVuSans-Oblique-75" x="52.099609"/>
@@ -2522,7 +2520,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- energy crosses, mass cannot -->
+    
     <g style="fill: #1f6f8b" transform="translate(391.348125 286.176013) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-2c" d="M 653 1209 
@@ -2565,7 +2563,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- surroundings -->
+    
     <g style="fill: #4a5a63" transform="translate(662.072875 151.187977) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-73"/>
      <use xlink:href="#DejaVuSans-Oblique-75" x="52.099609"/>
@@ -2582,7 +2580,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- nothing crosses at all -->
+    
     <g style="fill: #6b3fa0" transform="translate(636.238828 286.211169) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-6e"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="71.191406"/>
@@ -2609,7 +2607,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- SYSTEM -->
+    
     <g style="fill: #2e7d5b" transform="translate(216.325781 224.790048) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-59" d="M -63 4666 
@@ -2650,7 +2648,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- SYSTEM -->
+    
     <g style="fill: #1f6f8b" transform="translate(442.315781 224.790048) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-53"/>
      <use xlink:href="#DejaVuSans-Bold-59" x="72.021484"/>
@@ -2661,7 +2659,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- SYSTEM -->
+    
     <g style="fill: #6b3fa0" transform="translate(668.305781 224.790048) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-53"/>
      <use xlink:href="#DejaVuSans-Bold-59" x="72.021484"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="388.8pt" viewBox="0 0 907.2 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -121,7 +119,7 @@ z
 " clip-path="url(#p2613f23ea6)" style="fill: #f7fafb; stroke: #b8621b; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Oxide character tracks metallic character across a period -->
+    
     <g style="fill: #22303a" transform="translate(244.706062 70.173379) scale(0.136 -0.136)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -541,7 +539,7 @@ z
 " style="fill: #9fb0b8; stroke: #9fb0b8; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_2">
-    <!-- metals -->
+    
     <g style="fill: #1f6f8b" transform="translate(228.264531 100.570886) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-6d"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="104.199219"/>
@@ -552,7 +550,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- metalloids -->
+    
     <g style="fill: #6b3fa0" transform="translate(371.272344 100.570886) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-6d"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="104.199219"/>
@@ -567,7 +565,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- nonmetals -->
+    
     <g style="fill: #b8621b" transform="translate(608.310625 100.570886) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-6e" d="M 4056 2131 
@@ -605,7 +603,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- high-melting ionic solids -->
+    
     <g style="fill: #4a5a63" transform="translate(192.52125 235.159476) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -912,7 +910,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- covalent network -->
+    
     <g style="fill: #4a5a63" transform="translate(403.631719 235.159476) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1025,7 +1023,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- small molecules, low melting points -->
+    
     <g style="fill: #4a5a63" transform="translate(585.208828 235.159476) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-75" d="M 544 1381 
@@ -1137,7 +1135,7 @@ Q 178.216641 309.392909 182.586641 309.392909
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- A metal oxide reacts with acid to give a salt and water, so it is basic. A nonmetal oxide reacts with base, so it is acidic. -->
+    
     <g style="fill: #22303a" transform="translate(182.586641 274.509206) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1330,7 +1328,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="5857.658203"/>
      <use xlink:href="#DejaVuSans-2e" x="5912.638672"/>
     </g>
-    <!-- $\mathrm{Al_2O_3}$ sits on the boundary and does both — it is AMPHOTERIC, and it is the example worth memorizing. -->
+    
     <g style="fill: #22303a" transform="translate(217.085 288.758909) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1683,7 +1681,7 @@ z
      <use xlink:href="#DejaVuSans-67" transform="translate(5122.1875 0.015625)"/>
      <use xlink:href="#DejaVuSans-2e" transform="translate(5185.664062 0.015625)"/>
     </g>
-    <!-- $\mathrm{CO}$ and $\mathrm{NO}$ are the neutral exceptions: nonmetal oxides that react with neither. -->
+    
     <g style="fill: #22303a" transform="translate(274.9875 303.027909) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1794,7 +1792,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- $\mathrm{Na_2O}$ -->
+    
     <g style="fill: #22303a" transform="translate(180.702 163.904524) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.78125)"/>
@@ -1803,7 +1801,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- basic -->
+    
     <g style="fill: #1f6f8b" transform="translate(182.811391 189.927467) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -1841,7 +1839,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- $\mathrm{MgO}$ -->
+    
     <g style="fill: #22303a" transform="translate(275.988 163.880149) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-4d" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-67" transform="translate(86.279297 0.78125)"/>
@@ -1849,7 +1847,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- basic -->
+    
     <g style="fill: #1f6f8b" transform="translate(275.997391 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-62"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="71.582031"/>
@@ -1859,7 +1857,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- $\mathrm{Al_2O_3}$ -->
+    
     <g style="fill: #22303a" transform="translate(366.594 163.904524) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-41" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(68.408203 0.015625)"/>
@@ -1869,7 +1867,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- amphoteric -->
+    
     <g style="fill: #6b3fa0" transform="translate(352.756156 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-6d" x="67.480469"/>
@@ -1884,7 +1882,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $\mathrm{SiO_2}$ -->
+    
     <g style="fill: #22303a" transform="translate(462.96 163.904524) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -1926,7 +1924,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- acidic -->
+    
     <g style="fill: #b8621b" transform="translate(460.769187 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>
@@ -1937,7 +1935,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- $\mathrm{P_4O_{10}}$ -->
+    
     <g style="fill: #22303a" transform="translate(552.426 163.904524) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -2003,7 +2001,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- acidic -->
+    
     <g style="fill: #b8621b" transform="translate(553.955187 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>
@@ -2014,7 +2012,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- $\mathrm{SO_3}$ -->
+    
     <g style="fill: #22303a" transform="translate(651.012 163.904524) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-53" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(63.476562 0.78125)"/>
@@ -2022,7 +2020,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- acidic -->
+    
     <g style="fill: #b8621b" transform="translate(647.141187 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>
@@ -2033,7 +2031,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- $\mathrm{Cl_2O_7}$ -->
+    
     <g style="fill: #22303a" transform="translate(739.278 163.904524) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -2055,7 +2053,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- acidic -->
+    
     <g style="fill: #b8621b" transform="translate(740.327187 189.927467) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>

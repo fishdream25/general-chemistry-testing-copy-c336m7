@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="576pt" viewBox="0 0 936 576" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -107,7 +105,7 @@ z
 " clip-path="url(#p1dd7723b11)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_1">
-    <!-- HCl(aq) -->
+    
     <g style="fill: #4a5a63" transform="translate(63.580489 342.341202) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -247,7 +245,7 @@ z
      <use xlink:href="#DejaVuSans-71" x="273.095703"/>
      <use xlink:href="#DejaVuSans-29" x="336.572266"/>
     </g>
-    <!-- hydrochloric acid -->
+    
     <g style="fill: #4a5a63" transform="translate(42.897489 353.931717) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -406,7 +404,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- HNO₃  nitric acid -->
+    
     <g style="fill: #4a5a63" transform="translate(210.918534 342.341202) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -534,7 +532,7 @@ z
      <use xlink:href="#DejaVuSans-69" x="734.667969"/>
      <use xlink:href="#DejaVuSans-64" x="762.451172"/>
     </g>
-    <!-- HNO₂  nitrous acid -->
+    
     <g style="fill: #4a5a63" transform="translate(206.977987 353.931717) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-2082" d="M 838 356 
@@ -714,7 +712,7 @@ z
 " clip-path="url(#p1dd7723b11)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_3">
-    <!-- Groups 1A, 2A, Al, Zn, Ag -->
+    
     <g style="fill: #4a5a63" transform="translate(410.022233 413.221202) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-47" d="M 3809 666 
@@ -905,7 +903,7 @@ z
      <use xlink:href="#DejaVuSans-41" x="1134.712891"/>
      <use xlink:href="#DejaVuSans-67" x="1203.121094"/>
     </g>
-    <!-- NaCl  sodium chloride -->
+    
     <g style="fill: #4a5a63" transform="translate(417.371874 424.811717) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -988,7 +986,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- most transition metals -->
+    
     <g style="fill: #4a5a63" transform="translate(588.259261 413.221202) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-6f" x="97.412109"/>
@@ -1013,7 +1011,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="1049.316406"/>
      <use xlink:href="#DejaVuSans-73" x="1077.099609"/>
     </g>
-    <!-- FeCl₃  iron(III) chloride -->
+    
     <g style="fill: #4a5a63" transform="translate(589.27312 424.811717) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -1083,7 +1081,7 @@ z
 " clip-path="url(#p1dd7723b11)" style="fill: #b8621b"/>
    </g>
    <g id="text_5">
-    <!-- CO  carbon monoxide -->
+    
     <g style="fill: #4a5a63" transform="translate(776.712121 413.221202) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -1148,7 +1146,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="956.298828"/>
      <use xlink:href="#DejaVuSans-65" x="1019.775391"/>
     </g>
-    <!-- N₂O₄  dinitrogen tetroxide -->
+    
     <g style="fill: #4a5a63" transform="translate(767.826575 424.811717) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-2084" d="M 1491 2231 
@@ -1200,7 +1198,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Two add-ons that ride on top of whichever branch you landed in: -->
+    
     <g style="fill: #22303a" transform="translate(285.339063 482.864312) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -1713,7 +1711,7 @@ Q 148.358892 537.642514 152.222892 537.642514
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- BASE — a metal hydroxide. -->
+    
     <g style="fill: #22303a" transform="translate(180.079486 505.668776) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -1835,7 +1833,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1272.701172"/>
      <use xlink:href="#DejaVuSans-2e" x="1334.224609"/>
     </g>
-    <!-- Name it like any other ionic compound: -->
+    
     <g style="fill: #22303a" transform="translate(152.222892 518.766989) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -1905,7 +1903,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="1874.451172"/>
      <use xlink:href="#DejaVuSans-3a" x="1937.927734"/>
     </g>
-    <!-- NaOH is sodium hydroxide. -->
+    
     <g style="fill: #22303a" transform="translate(180.481267 531.865201) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-4e"/>
      <use xlink:href="#DejaVuSans-61" x="74.804688"/>
@@ -1948,7 +1946,7 @@ Q 545.819668 537.642514 549.683668 537.642514
 z
 " style="fill: #fdf3e7; stroke: #e0c9a6; stroke-linejoin: miter"/>
     </g>
-    <!-- HYDRATE — a dot, then water molecules. -->
+    
     <g style="fill: #22303a" transform="translate(591.144043 505.668776) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-59" d="M -13 4666 
@@ -2077,7 +2075,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="1979.314453"/>
      <use xlink:href="#DejaVuSans-2e" x="2031.414062"/>
     </g>
-    <!-- Name the compound, then add a Greek prefix + "hydrate": -->
+    
     <g style="fill: #22303a" transform="translate(549.683668 518.766989) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -2186,7 +2184,7 @@ z
      <use xlink:href="#DejaVuSans-22" x="2884.757812"/>
      <use xlink:href="#DejaVuSans-3a" x="2930.753906"/>
     </g>
-    <!-- CuSO₄·5H₂O is copper(II) sulfate pentahydrate. -->
+    
     <g style="fill: #22303a" transform="translate(578.177793 531.865201) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-b7" d="M 684 2619 
@@ -2271,7 +2269,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Which naming system? Answer the questions in order -->
+    
     <g style="fill: #22303a" transform="translate(272.502617 21.6) scale(0.145 -0.145)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -2377,7 +2375,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- A CHEMICAL FORMULA -->
+    
     <g style="fill: #ffffff" transform="translate(394.642578 68.991463) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -2580,7 +2578,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- ACID -->
+    
     <g style="fill: #ffffff" transform="translate(139.411346 188.198736) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-44" d="M 1791 3756 
@@ -2614,7 +2612,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- hydro-(stem)-ic -->
+    
     <g style="fill: #ffffff" transform="translate(38.687474 297.590778) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-28" d="M 2413 -844 
@@ -2692,7 +2690,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-69" x="779.736328"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="814.013672"/>
     </g>
-    <!-- acid -->
+    
     <g style="fill: #ffffff" transform="translate(68.798317 309.618665) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-61"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="67.480469"/>
@@ -2701,7 +2699,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- oxoacid: -->
+    
     <g style="fill: #ffffff" transform="translate(225.080643 297.736315) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-78" d="M 1422 1791 
@@ -2729,7 +2727,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-64" x="362.939453"/>
      <use xlink:href="#DejaVuSans-Bold-3a" x="434.521484"/>
     </g>
-    <!-- -ic / -ous / per- / hypo- -->
+    
     <g style="fill: #ffffff" transform="translate(190.507284 309.182065) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-2f" d="M 1644 4666 
@@ -2768,7 +2766,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- IONIC COMPOUND -->
+    
     <g style="fill: #ffffff" transform="translate(489.051822 258.775205) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -2823,7 +2821,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- MOLECULAR COMPOUND -->
+    
     <g style="fill: #ffffff" transform="translate(756.574731 258.554455) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-4d"/>
      <use xlink:href="#DejaVuSans-Bold-4f" x="99.511719"/>
@@ -2846,7 +2844,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- metal name -->
+    
     <g style="fill: #ffffff" transform="translate(433.128936 368.507497) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-6d"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="104.199219"/>
@@ -2859,7 +2857,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-6d" x="495.068359"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="599.267578"/>
     </g>
-    <!-- + anion -->
+    
     <g style="fill: #ffffff" transform="translate(444.20478 380.461947) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -2888,7 +2886,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- metal(ROMAN) -->
+    
     <g style="fill: #ffffff" transform="translate(597.538667 368.507497) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-6d"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="104.199219"/>
@@ -2903,7 +2901,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-4e" x="706.201172"/>
      <use xlink:href="#DejaVuSans-Bold-29" x="789.892578"/>
     </g>
-    <!-- + anion -->
+    
     <g style="fill: #ffffff" transform="translate(616.534011 380.461947) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-20" x="83.789062"/>
@@ -2915,7 +2913,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- Greek prefixes -->
+    
     <g style="fill: #ffffff" transform="translate(786.834293 368.723459) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Bold-47" d="M 4781 347 
@@ -2973,7 +2971,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-65" x="699.365234"/>
      <use xlink:href="#DejaVuSans-Bold-73" x="767.1875"/>
     </g>
-    <!-- + second element -ide -->
+    
     <g style="fill: #ffffff" transform="translate(767.660606 379.914859) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-20" x="83.789062"/>
@@ -3012,7 +3010,7 @@ Q 352.053938 121.514173 354.873938 121.514173
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- Does it start with H and act as an acid in water? -->
+    
     <g style="fill: #c0392b" transform="translate(354.873938 116.739267) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-44"/>
      <use xlink:href="#DejaVuSans-6f" x="77.001953"/>
@@ -3079,7 +3077,7 @@ Q 281.207635 152.850375 282.791635 152.850375
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(282.791635 149.43625) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-79" d="M 1588 -325 
@@ -3182,7 +3180,7 @@ Q 111.642956 237.499628 114.462956 237.499628
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- Any oxygen in it? -->
+    
     <g style="fill: #c0392b" transform="translate(114.462956 232.724722) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-41"/>
      <use xlink:href="#DejaVuSans-6e" x="68.408203"/>
@@ -3217,7 +3215,7 @@ Q 93.416788 268.83583 95.000788 268.83583
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no -->
+    
     <g style="fill: #c0392b" transform="translate(95.000788 265.421705) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-6e" d="M 3566 2113 
@@ -3289,7 +3287,7 @@ Q 211.220865 268.83583 212.804865 268.83583
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(212.804865 265.421705) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-79"/>
      <use xlink:href="#DejaVuSans-Oblique-65" x="59.179688"/>
@@ -3310,7 +3308,7 @@ Q 579.455558 152.850375 581.039558 152.850375
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no -->
+    
     <g style="fill: #c0392b" transform="translate(581.039558 149.43625) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-6e"/>
      <use xlink:href="#DejaVuSans-Oblique-6f" x="63.378906"/>
@@ -3330,7 +3328,7 @@ Q 580.523944 192.394173 583.343944 192.394173
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- Does it start with a metal (or NH₄⁺)? -->
+    
     <g style="fill: #c0392b" transform="translate(583.343944 187.619267) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-207a" d="M 1853 4334 
@@ -3402,7 +3400,7 @@ Q 577.68425 223.730375 579.26825 223.730375
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- yes -->
+    
     <g style="fill: #c0392b" transform="translate(579.26825 220.31625) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-Oblique-79"/>
      <use xlink:href="#DejaVuSans-Oblique-65" x="59.179688"/>
@@ -3423,7 +3421,7 @@ Q 705.354534 213.420557 706.938534 213.420557
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- no — all nonmetals -->
+    
     <g style="fill: #c0392b" transform="translate(706.938534 210.006432) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-20" transform="scale(0.015625)"/>
@@ -3574,7 +3572,7 @@ Q 478.448713 308.379628 481.268713 308.379628
 z
 " style="fill: #ffffff; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- Fixed charge, or variable? -->
+    
     <g style="fill: #c0392b" transform="translate(481.268713 303.604722) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -3630,7 +3628,7 @@ Q 469.607442 339.71583 471.191442 339.71583
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- fixed -->
+    
     <g style="fill: #c0392b" transform="translate(471.191442 336.301705) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-66" d="M 3059 4863 
@@ -3736,7 +3734,7 @@ Q 593.913673 339.71583 595.497673 339.71583
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- variable -->
+    
     <g style="fill: #c0392b" transform="translate(595.497673 336.301705) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-Oblique-76" d="M 459 3500 

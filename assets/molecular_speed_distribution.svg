@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="360pt" viewBox="0 0 907.2 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -50,7 +48,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(22.016875 310.998594) scale(0.09 -0.09)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -86,7 +84,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 500 -->
+      
       <g transform="translate(84.923958 310.998594) scale(0.09 -0.09)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -128,7 +126,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 1000 -->
+      
       <g transform="translate(150.694167 310.998594) scale(0.09 -0.09)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -160,7 +158,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 1500 -->
+      
       <g transform="translate(219.3275 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -176,7 +174,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 2000 -->
+      
       <g transform="translate(287.960833 310.998594) scale(0.09 -0.09)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -218,7 +216,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 2500 -->
+      
       <g transform="translate(356.594167 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -234,7 +232,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 3000 -->
+      
       <g transform="translate(425.2275 310.998594) scale(0.09 -0.09)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -278,7 +276,7 @@ z
      </g>
     </g>
     <g id="text_8">
-     <!-- molecular speed (m/s) -->
+     
      <g transform="translate(174.612812 324.46875) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -601,7 +599,7 @@ z
    </g>
    <g id="matplotlib.axis_2">
     <g id="text_9">
-     <!-- fraction of molecules -->
+     
      <g transform="translate(18.800312 241.4475) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-66" d="M 2375 4863 
@@ -940,7 +938,7 @@ L 436.68 297.16
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_10">
-    <!-- Same temperature (25 °C), different masses -->
+    
     <g style="fill: #22303a" transform="translate(103.630812 70.56) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -1074,7 +1072,7 @@ z
    </g>
    <g id="legend_1">
     <g id="text_11">
-     <!-- $u_{rms}$ -->
+     
      <g transform="translate(371.704 96.190562) scale(0.092 -0.092)">
       <defs>
        <path id="DejaVuSans-Oblique-75" d="M 428 1388 
@@ -1198,7 +1196,7 @@ L 352.968 106.838375
 " style="fill: none; stroke: #6b3fa0; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_12">
-     <!-- $\mathrm{He}$   1363 m/s -->
+     
      <g transform="translate(360.648 110.198375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-48" d="M 628 4666 
@@ -1269,7 +1267,7 @@ L 352.968 120.929375
 " style="fill: none; stroke: #1f6f8b; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_13">
-     <!-- $\mathrm{N_2}$   515 m/s -->
+     
      <g transform="translate(360.648 124.289375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1307,7 +1305,7 @@ L 352.968 135.020375
 " style="fill: none; stroke: #b8621b; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_14">
-     <!-- $\mathrm{CO_2}$   411 m/s -->
+     
      <g transform="translate(360.648 138.380375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-4f" d="M 2522 4238 
@@ -1385,7 +1383,7 @@ z
       </g>
      </g>
      <g id="text_15">
-      <!-- 0 -->
+      
       <g transform="translate(470.216875 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -1398,7 +1396,7 @@ z
       </g>
      </g>
      <g id="text_16">
-      <!-- 500 -->
+      
       <g transform="translate(533.123958 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-35"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1413,7 +1411,7 @@ z
       </g>
      </g>
      <g id="text_17">
-      <!-- 1000 -->
+      
       <g transform="translate(598.894167 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1429,7 +1427,7 @@ z
       </g>
      </g>
      <g id="text_18">
-      <!-- 1500 -->
+      
       <g transform="translate(667.5275 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -1445,7 +1443,7 @@ z
       </g>
      </g>
      <g id="text_19">
-      <!-- 2000 -->
+      
       <g transform="translate(736.160833 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1461,7 +1459,7 @@ z
       </g>
      </g>
      <g id="text_20">
-      <!-- 2500 -->
+      
       <g transform="translate(804.794167 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -1477,7 +1475,7 @@ z
       </g>
      </g>
      <g id="text_21">
-      <!-- 3000 -->
+      
       <g transform="translate(873.4275 310.998594) scale(0.09 -0.09)">
        <use xlink:href="#DejaVuSans-33"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -1487,7 +1485,7 @@ z
      </g>
     </g>
     <g id="text_22">
-     <!-- molecular speed (m/s) -->
+     
      <g transform="translate(622.812812 324.46875) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-6d"/>
       <use xlink:href="#DejaVuSans-6f" x="97.412109"/>
@@ -1515,7 +1513,7 @@ z
    </g>
    <g id="matplotlib.axis_4">
     <g id="text_23">
-     <!-- fraction of molecules -->
+     
      <g transform="translate(467.000312 241.4475) rotate(-90) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-66"/>
       <use xlink:href="#DejaVuSans-72" x="35.205078"/>
@@ -1796,7 +1794,7 @@ L 884.88 297.16
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_24">
-    <!-- Same gas ($\mathrm{N_2}$), different temperatures -->
+    
     <g style="fill: #22303a" transform="translate(568.856 70.56) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -1875,7 +1873,7 @@ z
    </g>
    <g id="legend_2">
     <g id="text_25">
-     <!-- $u_{rms}$ -->
+     
      <g transform="translate(812.65375 96.190562) scale(0.092 -0.092)">
       <use xlink:href="#DejaVuSans-Oblique-75" transform="translate(0 0.3125)"/>
       <use xlink:href="#DejaVuSans-Oblique-72" transform="translate(63.378906 -16.09375) scale(0.7)"/>
@@ -1890,7 +1888,7 @@ L 786.6675 106.838375
 " style="fill: none; stroke: #1f6f8b; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_26">
-     <!-- 200 K   422 m/s -->
+     
      <g transform="translate(794.3475 110.198375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-4b" d="M 628 4666 
@@ -1932,7 +1930,7 @@ L 786.6675 120.929375
 " style="fill: none; stroke: #2e7d5b; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_27">
-     <!-- 500 K   667 m/s -->
+     
      <g transform="translate(794.3475 124.289375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-37" d="M 525 4666 
@@ -1970,7 +1968,7 @@ L 786.6675 135.020375
 " style="fill: none; stroke: #c0392b; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_28">
-     <!-- 1000 K   944 m/s -->
+     
      <g transform="translate(794.3475 138.380375) scale(0.096 -0.096)">
       <defs>
        <path id="DejaVuSans-39" d="M 703 97 
@@ -2025,7 +2023,7 @@ z
    </g>
   </g>
   <g id="text_29">
-   <!-- Not all molecules move at the same speed — there is always a spread -->
+   
    <g transform="translate(214.170937 13.933875) scale(0.136 -0.136)">
     <defs>
      <path id="DejaVuSans-76" d="M 191 3500 
@@ -2168,7 +2166,7 @@ z
    </g>
   </g>
   <g id="text_30">
-   <!-- Dashed lines mark $u_{rms}=\sqrt{3RT/\mathcal{M}}$.  Heavier molecules are slower at the same temperature (left); heating any gas shifts the whole distribution to higher speeds and flattens it (right). -->
+   
    <g style="fill: #4a5a63" transform="translate(24.208 354.6) scale(0.094 -0.094)">
     <defs>
      <path id="DejaVuSans-44" d="M 1259 4147 

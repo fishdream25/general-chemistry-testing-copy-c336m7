@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="424.8pt" viewBox="0 0 892.8 424.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -345,7 +343,7 @@ L 734.886 211.918811
 " clip-path="url(#pc2c932798e)" style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #c8d4d9"/>
    </g>
    <g id="text_1">
-    <!-- Only a whole number of wavelengths fits around an orbit -->
+    
     <g style="fill: #22303a" transform="translate(234.723422 74.413684) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -846,7 +844,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- which is where the integer $n$ comes from — it was never an assumption -->
+    
     <g style="fill: #4a5a63" transform="translate(274.113 95.46403) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Oblique-77" d="M 544 3500 
@@ -1358,7 +1356,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- 3 wavelengths — fits -->
+    
     <g style="fill: #2e7d5b" transform="translate(178.38125 305.160855) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -1422,7 +1420,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-74" x="1068.066406"/>
      <use xlink:href="#DejaVuSans-Bold-73" x="1115.869141"/>
     </g>
-    <!-- ALLOWED -->
+    
     <g style="fill: #2e7d5b" transform="translate(209.757813 318.716324) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -1515,7 +1513,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- 5 wavelengths — fits -->
+    
     <g style="fill: #2e7d5b" transform="translate(398.79125 305.160855) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-35" d="M 678 4666 
@@ -1565,7 +1563,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-74" x="1068.066406"/>
      <use xlink:href="#DejaVuSans-Bold-73" x="1115.869141"/>
     </g>
-    <!-- ALLOWED -->
+    
     <g style="fill: #2e7d5b" transform="translate(430.167813 318.716324) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-41"/>
      <use xlink:href="#DejaVuSans-Bold-4c" x="77.392578"/>
@@ -1577,7 +1575,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- ends do not -->
+    
     <g style="fill: #c0392b" transform="translate(764.46 191.383431) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -1737,7 +1735,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="492.089844"/>
      <use xlink:href="#DejaVuSans-74" x="553.271484"/>
     </g>
-    <!-- meet -->
+    
     <g style="fill: #c0392b" transform="translate(764.46 202.574831) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1778,7 +1776,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- 3.6 wavelengths — does not close -->
+    
     <g style="fill: #c0392b" transform="translate(582.350469 305.160855) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-2e" d="M 653 1209 
@@ -1873,7 +1871,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-73" x="1785.058594"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="1844.580078"/>
     </g>
-    <!-- FORBIDDEN -->
+    
     <g style="fill: #c0392b" transform="translate(644.880938 318.716324) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -1995,7 +1993,7 @@ Q 168.855 374.097834 173.225 374.097834
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- De Broglie's $\lambda = h/mu$ makes the electron a wave, and a wave wrapped onto a closed loop must join up with itself. -->
+    
     <g style="fill: #22303a" transform="translate(185.67 339.216654) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-44" d="M 1259 4147 
@@ -2491,7 +2489,7 @@ z
      <use xlink:href="#DejaVuSans-66" transform="translate(5656.835938 0.015625)"/>
      <use xlink:href="#DejaVuSans-2e" transform="translate(5692.041016 0.015625)"/>
     </g>
-    <!-- That requires $2\pi r = n\lambda$ with $n$ a whole number — so only certain radii, and therefore only certain energies, are possible. -->
+    
     <g style="fill: #22303a" transform="translate(173.225 353.485654) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -2741,7 +2739,7 @@ z
      <use xlink:href="#DejaVuSans-65" transform="translate(5891.943359 0.015625)"/>
      <use xlink:href="#DejaVuSans-2e" transform="translate(5953.466797 0.015625)"/>
     </g>
-    <!-- Bohr had to postulate the quantization; de Broglie explained it. -->
+    
     <g style="fill: #22303a" transform="translate(307.445898 367.752131) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-7a" d="M 353 3500 

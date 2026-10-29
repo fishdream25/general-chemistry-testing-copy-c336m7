@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="849.6pt" height="381.6pt" viewBox="0 0 849.6 381.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -78,7 +76,7 @@ L 156.751468 114.566775
 " style="fill: none; stroke: #c0392b; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- mass number $A$ -->
+    
     <g style="fill: #c0392b" transform="translate(30.823724 65.249502) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-6d" d="M 3781 2919 
@@ -324,7 +322,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- protons + neutrons -->
+    
     <g style="fill: #4a5a63" transform="translate(35.263224 84.871621) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -556,7 +554,7 @@ L 158.174407 202.1408
 " style="fill: none; stroke: #1f6f8b; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_3">
-    <!-- atomic number $Z$ -->
+    
     <g style="fill: #1f6f8b" transform="translate(51.194213 258.788489) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-74" d="M 1759 4494 
@@ -667,7 +665,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- protons only — this is what makes -->
+    
     <g style="fill: #4a5a63" transform="translate(51.194213 276.765326) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -861,7 +859,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1602.621094"/>
      <use xlink:href="#DejaVuSans-73" x="1664.144531"/>
     </g>
-    <!-- it that element, and it never changes -->
+    
     <g style="fill: #4a5a63" transform="translate(51.194213 289.973123) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -1014,7 +1012,7 @@ L 242.532116 156.845714
 " style="fill: none; stroke: #4a5a63; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_5">
-    <!-- element symbol -->
+    
     <g style="fill: #22303a" transform="translate(307.767976 162.018996) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -1074,7 +1072,7 @@ Q 104.628909 346.582781 110.088909 346.582781
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- $A - Z\ =\ $ number of neutrons -->
+    
     <g style="fill: #22303a" transform="translate(110.088909 338.419187) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-2212" d="M 678 2272 
@@ -1145,7 +1143,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Same $Z$, different $A$ — these are ISOTOPES -->
+    
     <g style="fill: #22303a" transform="translate(479.872638 75.925116) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -1383,7 +1381,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- All three are carbon because all three have 6 protons. -->
+    
     <g style="fill: #4a5a63" transform="translate(483.563497 330.932289) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1495,7 +1493,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="2617.513672"/>
      <use xlink:href="#DejaVuSans-2e" x="2669.613281"/>
     </g>
-    <!-- Only the neutron count differs. -->
+    
     <g style="fill: #4a5a63" transform="translate(540.397372 344.140086) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-4f" d="M 2522 4238 
@@ -1554,7 +1552,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Isotope notation: what each number means -->
+    
     <g style="fill: #22303a" transform="translate(274.173135 21.6) scale(0.145 -0.145)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -1621,7 +1619,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- X -->
+    
     <g style="fill: #22303a" transform="translate(185.32795 172.642589) scale(0.5 -0.5)">
      <defs>
       <path id="DejaVuSans-58" d="M 403 4666 
@@ -1644,13 +1642,13 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- A -->
+    
     <g style="fill: #c0392b" transform="translate(161.347734 132.024152) scale(0.25 -0.25)">
      <use xlink:href="#DejaVuSans-41"/>
     </g>
    </g>
    <g id="text_12">
-    <!-- Z -->
+    
     <g style="fill: #1f6f8b" transform="translate(161.324297 199.464152) scale(0.25 -0.25)">
      <defs>
       <path id="DejaVuSans-5a" d="M 359 4666 
@@ -1671,7 +1669,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- C -->
+    
     <g style="fill: #22303a" transform="translate(500.370264 135.095259) scale(0.21 -0.21)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -1700,7 +1698,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- 12 -->
+    
     <g style="fill: #c0392b" transform="translate(478.857861 118.311453) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -1747,13 +1745,13 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- 6 -->
+    
     <g style="fill: #1f6f8b" transform="translate(486.174736 146.636253) scale(0.115 -0.115)">
      <use xlink:href="#DejaVuSans-36"/>
     </g>
    </g>
    <g id="text_16">
-    <!-- carbon-12 -->
+    
     <g style="fill: #22303a" transform="translate(474.472245 169.202143) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-2d" d="M 347 2297 
@@ -1812,7 +1810,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- 6 protons -->
+    
     <g style="fill: #1f6f8b" transform="translate(479.430542 193.553812) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-36"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -1826,7 +1824,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- 6 neutrons -->
+    
     <g style="fill: #c0392b" transform="translate(476.440901 214.749241) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-36"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -1841,7 +1839,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- 98.9% of all carbon -->
+    
     <g style="fill: #4a5a63" transform="translate(463.364956 238.742192) scale(0.079 -0.079)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -1983,13 +1981,13 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- C -->
+    
     <g style="fill: #22303a" transform="translate(614.555907 135.095259) scale(0.21 -0.21)">
      <use xlink:href="#DejaVuSans-43"/>
     </g>
    </g>
    <g id="text_21">
-    <!-- 13 -->
+    
     <g style="fill: #c0392b" transform="translate(593.043504 118.311453) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -2030,13 +2028,13 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- 6 -->
+    
     <g style="fill: #1f6f8b" transform="translate(600.360379 146.636253) scale(0.115 -0.115)">
      <use xlink:href="#DejaVuSans-36"/>
     </g>
    </g>
    <g id="text_23">
-    <!-- carbon-13 -->
+    
     <g style="fill: #22303a" transform="translate(588.657888 169.202143) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -2084,7 +2082,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- 6 protons -->
+    
     <g style="fill: #1f6f8b" transform="translate(593.616184 193.553812) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-36"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -2098,7 +2096,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- 7 neutrons -->
+    
     <g style="fill: #c0392b" transform="translate(590.626544 214.749241) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -2125,7 +2123,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- 1.1% — also stable -->
+    
     <g style="fill: #4a5a63" transform="translate(578.125817 238.742192) scale(0.079 -0.079)">
      <use xlink:href="#DejaVuSans-31"/>
      <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -2148,13 +2146,13 @@ z
     </g>
    </g>
    <g id="text_27">
-    <!-- C -->
+    
     <g style="fill: #22303a" transform="translate(728.741549 135.095259) scale(0.21 -0.21)">
      <use xlink:href="#DejaVuSans-43"/>
     </g>
    </g>
    <g id="text_28">
-    <!-- 14 -->
+    
     <g style="fill: #c0392b" transform="translate(707.229146 118.311453) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -2182,13 +2180,13 @@ z
     </g>
    </g>
    <g id="text_29">
-    <!-- 6 -->
+    
     <g style="fill: #1f6f8b" transform="translate(714.546021 146.636253) scale(0.115 -0.115)">
      <use xlink:href="#DejaVuSans-36"/>
     </g>
    </g>
    <g id="text_30">
-    <!-- carbon-14 -->
+    
     <g style="fill: #22303a" transform="translate(702.84353 169.202143) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-34" d="M 2356 3675 
@@ -2223,7 +2221,7 @@ z
     </g>
    </g>
    <g id="text_31">
-    <!-- 6 protons -->
+    
     <g style="fill: #1f6f8b" transform="translate(707.801827 193.553812) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-36"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -2237,7 +2235,7 @@ z
     </g>
    </g>
    <g id="text_32">
-    <!-- 8 neutrons -->
+    
     <g style="fill: #c0392b" transform="translate(704.812186 214.749241) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-38"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -2252,7 +2250,7 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- trace — radioactive -->
+    
     <g style="fill: #4a5a63" transform="translate(691.388147 238.742192) scale(0.079 -0.079)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-72" x="39.208984"/>

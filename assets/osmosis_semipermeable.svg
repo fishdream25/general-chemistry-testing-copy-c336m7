@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="993.6pt" height="460.8pt" viewBox="0 0 993.6 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -46,7 +44,7 @@ z
 " clip-path="url(#pad0ec6ab05)" style="fill: #e8d9f4"/>
    </g>
    <g id="text_1">
-    <!-- start — levels equal, solute only on the right -->
+    
     <g style="fill: #22303a" transform="translate(102.46754 78.944228) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-73" d="M 3272 3391 
@@ -438,7 +436,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- semipermeable membrane -->
+    
     <g style="fill: #c0392b" transform="translate(111.774958 414.416194) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-6d" d="M 3781 2919 
@@ -551,7 +549,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- pure solvent -->
+    
     <g style="fill: #1f6f8b" transform="translate(76.874517 117.847999) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-70"/>
      <use xlink:href="#DejaVuSans-Bold-75" x="71.582031"/>
@@ -568,7 +566,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- solution -->
+    
     <g style="fill: #6b3fa0" transform="translate(222.823649 117.847999) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-73"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="59.521484"/>
@@ -581,7 +579,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Solvent molecules pass both ways, but more move right than left, -->
+    
     <g style="fill: #4a5a63" transform="translate(19.078274 427.816303) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Oblique-53" d="M 3859 4513 
@@ -1176,7 +1174,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-74" x="3236.914062"/>
      <use xlink:href="#DejaVuSans-Oblique-2c" x="3276.123047"/>
     </g>
-    <!-- because the right side has proportionally less solvent. -->
+    
     <g style="fill: #4a5a63" transform="translate(46.569024 438.118291) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Oblique-64" d="M 2675 525 
@@ -1792,7 +1790,7 @@ Q 120.413458 373.848339 123.353458 373.848339
 z
 " style="fill: #ffffff; opacity: 0.92"/>
     </g>
-    <!-- net flow of SOLVENT -->
+    
     <g style="fill: #1f6f8b" transform="translate(123.353458 357.896389) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Bold-66" d="M 2841 4863 
@@ -1963,7 +1961,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-4e" x="995.039062"/>
      <use xlink:href="#DejaVuSans-Bold-54" x="1078.730469"/>
     </g>
-    <!-- toward the solution -->
+    
     <g style="fill: #1f6f8b" transform="translate(125.194786 368.870245) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Bold-64" d="M 2919 2988 
@@ -2033,7 +2031,7 @@ z
 " clip-path="url(#p68c7620cbb)" style="fill: #e8d9f4"/>
    </g>
    <g id="text_7">
-    <!-- at equilibrium — the height difference IS the osmotic pressure -->
+    
     <g style="fill: #22303a" transform="translate(546.100773 78.944228) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-63" d="M 3366 3391 
@@ -2130,7 +2128,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- semipermeable membrane -->
+    
     <g style="fill: #c0392b" transform="translate(613.250723 414.416194) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-73"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="59.521484"/>
@@ -2157,7 +2155,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- pure solvent -->
+    
     <g style="fill: #1f6f8b" transform="translate(578.350282 117.847999) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-70"/>
      <use xlink:href="#DejaVuSans-Bold-75" x="71.582031"/>
@@ -2174,7 +2172,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- solution -->
+    
     <g style="fill: #6b3fa0" transform="translate(724.299414 117.847999) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-73"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="59.521484"/>
@@ -2187,7 +2185,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- The extra column of solution pushes back. When its weight exactly -->
+    
     <g style="fill: #4a5a63" transform="translate(518.223132 427.816303) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Oblique-54" d="M 378 4666 
@@ -2313,7 +2311,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-6c" x="3271.630859"/>
      <use xlink:href="#DejaVuSans-Oblique-79" x="3299.414062"/>
     </g>
-    <!-- cancels the net inflow, the levels stop changing. -->
+    
     <g style="fill: #4a5a63" transform="translate(561.757101 438.118291) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-Oblique-63"/>
      <use xlink:href="#DejaVuSans-Oblique-61" x="54.980469"/>
@@ -2884,7 +2882,7 @@ z
 " style="fill: #b8621b; stroke: #b8621b; stroke-width: 2.4; stroke-linecap: round"/>
    </g>
    <g id="text_12">
-    <!-- $\pi = MRT$ -->
+    
     <g style="fill: #b8621b" transform="translate(863.096787 250.557059) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Oblique-3c0" d="M 584 3500 
@@ -2976,7 +2974,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- the pressure that -->
+    
     <g style="fill: #4a5a63" transform="translate(863.096787 275.097826) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-74" d="M 1172 4494 
@@ -3193,7 +3191,7 @@ z
      <use xlink:href="#DejaVuSans-61" x="762.101562"/>
      <use xlink:href="#DejaVuSans-74" x="823.380859"/>
     </g>
-    <!-- would stop -->
+    
     <g style="fill: #4a5a63" transform="translate(863.096787 285.399814) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -3278,7 +3276,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="420.703125"/>
      <use xlink:href="#DejaVuSans-70" x="481.884766"/>
     </g>
-    <!-- the flow -->
+    
     <g style="fill: #4a5a63" transform="translate(863.096787 295.701801) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -3315,7 +3313,7 @@ z
    </g>
   </g>
   <g id="text_14">
-   <!-- Osmosis: solvent crosses, solute cannot — and osmotic pressure is what stops it -->
+   
    <g style="fill: #22303a" transform="translate(182.83275 22.005844) scale(0.138 -0.138)">
     <defs>
      <path id="DejaVuSans-Bold-3a" d="M 716 3500 

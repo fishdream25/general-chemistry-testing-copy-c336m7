@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="302.4pt" viewBox="0 0 432 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -166,7 +164,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0.800 -->
+      
       <g transform="translate(302.586516 272.590438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -257,7 +255,7 @@ L 284.833843 44.736
       </g>
      </g>
      <g id="text_2">
-      <!-- 0.825 -->
+      
       <g transform="translate(270.51978 272.590438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -330,7 +328,7 @@ L 252.767107 44.736
       </g>
      </g>
      <g id="text_3">
-      <!-- 0.850 -->
+      
       <g transform="translate(238.453045 272.590438) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -352,7 +350,7 @@ L 220.700372 44.736
       </g>
      </g>
      <g id="text_4">
-      <!-- 0.875 -->
+      
       <g transform="translate(206.386309 272.590438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-37" d="M 525 4666 
@@ -386,7 +384,7 @@ L 188.633636 44.736
       </g>
      </g>
      <g id="text_5">
-      <!-- 0.900 -->
+      
       <g transform="translate(174.319574 272.590438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-39" d="M 703 97 
@@ -440,7 +438,7 @@ L 156.566901 44.736
       </g>
      </g>
      <g id="text_6">
-      <!-- 0.925 -->
+      
       <g transform="translate(142.252838 272.590438) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -462,7 +460,7 @@ L 124.500165 44.736
       </g>
      </g>
      <g id="text_7">
-      <!-- 0.950 -->
+      
       <g transform="translate(110.186103 272.590438) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -484,7 +482,7 @@ L 92.43343 44.736
       </g>
      </g>
      <g id="text_8">
-      <!-- 0.975 -->
+      
       <g transform="translate(78.119367 272.590438) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -506,7 +504,7 @@ L 60.366694 44.736
       </g>
      </g>
      <g id="text_9">
-      <!-- 1.000 -->
+      
       <g transform="translate(46.052632 272.590438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -533,7 +531,7 @@ z
      </g>
     </g>
     <g id="text_10">
-     <!-- Mole fraction of solvent, $X_1$ -->
+     
      <g transform="translate(120.783636 286.268563) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-4d" d="M 628 4666 
@@ -866,7 +864,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_11">
-      <!-- 19 -->
+      
       <g transform="translate(27.815 250.461738) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-39" x="63.623047"/>
@@ -885,7 +883,7 @@ L 329.727273 205.761867
       </g>
      </g>
      <g id="text_12">
-      <!-- 20 -->
+      
       <g transform="translate(27.815 209.561086) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -904,7 +902,7 @@ L 329.727273 164.861215
       </g>
      </g>
      <g id="text_13">
-      <!-- 21 -->
+      
       <g transform="translate(27.815 168.660434) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-31" x="63.623047"/>
@@ -923,7 +921,7 @@ L 329.727273 123.960563
       </g>
      </g>
      <g id="text_14">
-      <!-- 22 -->
+      
       <g transform="translate(27.815 127.759782) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-32" x="63.623047"/>
@@ -942,7 +940,7 @@ L 329.727273 83.059911
       </g>
      </g>
      <g id="text_15">
-      <!-- 23 -->
+      
       <g transform="translate(27.815 86.85913) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -984,7 +982,7 @@ z
      </g>
     </g>
     <g id="text_16">
-     <!-- Vapor pressure of solvent, $P_1$ (torr) -->
+     
      <g transform="translate(21.715 238.964) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-56" d="M 1831 0 
@@ -1220,7 +1218,7 @@ L 233.631035 117.24642
 " style="fill: none; stroke: #c0392b; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <!-- Vapor-pressure -->
+    
     <g style="fill: #c0392b" transform="translate(278.420496 134.892749) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-2d" d="M 313 2009 
@@ -1246,7 +1244,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="648.859375"/>
      <use xlink:href="#DejaVuSans-65" x="687.722656"/>
     </g>
-    <!-- lowering -->
+    
     <g style="fill: #c0392b" transform="translate(278.420496 144.410889) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1311,7 +1309,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- P° (pure solvent) = 23.7 torr -->
+    
     <g style="fill: #808080" transform="translate(310.487231 48.294357) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-50" d="M 1259 4147 
@@ -1404,7 +1402,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- Raoult's law: $P_1 = X_1 P_1^0$ -->
+    
     <g transform="translate(120.773636 24.43425) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
@@ -1479,7 +1477,7 @@ z
      <use xlink:href="#DejaVuSans-30" transform="translate(1083.442552 39.046875) scale(0.7)"/>
      <use xlink:href="#DejaVuSans-31" transform="translate(1076.425781 -26.578125) scale(0.7)"/>
     </g>
-    <!-- (water at 25 °C, ideal solution) -->
+    
     <g transform="translate(96.291761 38.736) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 

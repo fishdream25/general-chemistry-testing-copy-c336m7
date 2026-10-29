@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="784.8pt" height="227.751354pt" viewBox="0 0 784.8 227.751354" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -100,7 +98,7 @@ z
 " clip-path="url(#p9a33cade1c)" style="fill: #2b6cb0; stroke: #2b6cb0; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- (a) -->
+    
     <g transform="translate(71.181016 63.725059) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-28" d="M 2413 -844 
@@ -169,7 +167,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- 1 microstate -->
+    
     <g style="fill: #555555" transform="translate(50.045469 218.575651) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -487,7 +485,7 @@ z
 " clip-path="url(#p5bd1a2d759)" style="fill: #2b6cb0; stroke: #2b6cb0; stroke-linejoin: miter"/>
    </g>
    <g id="text_3">
-    <!-- (b) -->
+    
     <g transform="translate(227.195859 63.725059) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -523,7 +521,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- 4 microstates -->
+    
     <g style="fill: #555555" transform="translate(203.811016 218.575651) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -634,7 +632,7 @@ z
 " clip-path="url(#p520363dd5b)" style="fill: #2b6cb0; stroke: #2b6cb0; stroke-linejoin: miter"/>
    </g>
    <g id="text_5">
-    <!-- (c) -->
+    
     <g transform="translate(384.112187 63.725059) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-63" d="M 3366 3391 
@@ -665,7 +663,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- 6 microstates -->
+    
     <g style="fill: #555555" transform="translate(360.051016 218.575651) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -787,7 +785,7 @@ z
 " clip-path="url(#pd55d534ea0)" style="fill: #2b6cb0; stroke: #2b6cb0; stroke-linejoin: miter"/>
    </g>
    <g id="text_7">
-    <!-- (d) -->
+    
     <g transform="translate(539.675859 63.725059) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-64" d="M 2919 2988 
@@ -823,7 +821,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- 4 microstates -->
+    
     <g style="fill: #555555" transform="translate(516.291016 218.575651) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-34"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -913,7 +911,7 @@ z
 " clip-path="url(#pe023cda3e2)" style="fill: #2b6cb0; stroke: #2b6cb0; stroke-linejoin: miter"/>
    </g>
    <g id="text_9">
-    <!-- (e) -->
+    
     <g transform="translate(696.122109 63.725059) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-65" d="M 4031 1759 
@@ -948,7 +946,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- 1 microstate -->
+    
     <g style="fill: #555555" transform="translate(675.005469 218.575651) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-31"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -966,7 +964,7 @@ z
    </g>
   </g>
   <g id="text_11">
-   <!-- Distributing 4 particles between 2 boxes: 5 distributions, 16 total microstates -->
+   
    <g transform="translate(169.516523 15.938203) scale(0.115 -0.115)">
     <defs>
      <path id="DejaVuSans-44" d="M 1259 4147 

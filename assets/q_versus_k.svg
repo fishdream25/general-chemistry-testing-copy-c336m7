@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="950.4pt" height="388.8pt" viewBox="0 0 950.4 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -66,7 +64,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- $\mathdefault{10^{-1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(31.018 310.086437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -126,7 +124,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- $\mathdefault{10^{0}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(254.936 310.086437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.765625)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.765625)"/>
@@ -141,7 +139,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- $\mathdefault{10^{1}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(475.904 310.086437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31" transform="translate(0 0.684375)"/>
        <use xlink:href="#DejaVuSans-30" transform="translate(63.623047 0.684375)"/>
@@ -156,7 +154,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- $\mathdefault{10^{2}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(696.872 310.086437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -197,7 +195,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- $\mathdefault{10^{3}}$ -->
+      
       <g style="fill: #4a5a63" transform="translate(917.84 310.086437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -469,7 +467,7 @@ L 0 2
      </g>
     </g>
     <g id="text_6">
-     <!-- value of $Q_c$ (log scale) -->
+     
      <g style="fill: #22303a" transform="translate(421.719 324.830125) scale(0.114 -0.114)">
       <defs>
        <path id="DejaVuSans-76" d="M 191 3500 
@@ -815,7 +813,7 @@ L 926.64 186.2595
 " clip-path="url(#p9e882b0432)" style="fill: none; stroke: #22303a; stroke-width: 2.6; stroke-linecap: square"/>
    </g>
    <g id="text_7">
-    <!-- $K_c$ = 4.3 -->
+    
     <g style="fill: #6b3fa0" transform="translate(374.525428 83.488506) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Oblique-4b" d="M 1081 4666 
@@ -916,7 +914,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- at equilibrium -->
+    
     <g style="fill: #6b3fa0" transform="translate(369.531928 99.699) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-74" d="M 1172 4494 
@@ -1070,7 +1068,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- $Q &lt; K$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(200.441207 117.1989) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-3c" d="M 4684 3150 
@@ -1090,7 +1088,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- too little product -->
+    
     <g style="fill: #2e7d5b" transform="translate(177.044207 139.7493) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -1167,7 +1165,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- shifts FORWARD -->
+    
     <g style="fill: #2e7d5b" transform="translate(194.266676 157.318025) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-73" d="M 3272 3391 
@@ -1413,7 +1411,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- $Q &gt; K$ -->
+    
     <g style="fill: #b8621b" transform="translate(666.837988 117.1989) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-3e" d="M 678 3150 
@@ -1433,7 +1431,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- too much product -->
+    
     <g style="fill: #b8621b" transform="translate(640.703879 139.7493) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -1475,7 +1473,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- shifts REVERSE -->
+    
     <g style="fill: #b8621b" transform="translate(626.778061 157.318025) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-45" d="M 588 4666 
@@ -1570,7 +1568,7 @@ Q 174.356733 241.4553 177.620733 241.4553
 z
 " style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 1.2; stroke-linejoin: miter"/>
     </g>
-    <!-- mixture (b) -->
+    
     <g style="fill: #2e7d5b" transform="translate(188.821983 214.695) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -1601,7 +1599,7 @@ z
      <use xlink:href="#DejaVuSans-62" x="458.150391"/>
      <use xlink:href="#DejaVuSans-29" x="521.626953"/>
     </g>
-    <!-- $Q$ = 0.61 -->
+    
     <g style="fill: #2e7d5b" transform="translate(194.180733 225.4449) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-3d" d="M 678 2906 
@@ -1664,7 +1662,7 @@ z
      <use xlink:href="#DejaVuSans-36" transform="translate(321.484375 0.78125)"/>
      <use xlink:href="#DejaVuSans-31" transform="translate(385.107422 0.78125)"/>
     </g>
-    <!-- make more $\mathrm{SO_3}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(177.620733 236.1948) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -1768,7 +1766,7 @@ Q 734.152807 241.4553 737.416807 241.4553
 z
 " style="fill: #ffffff; stroke: #b8621b; stroke-width: 1.2; stroke-linejoin: miter"/>
     </g>
-    <!-- mixture (c) -->
+    
     <g style="fill: #b8621b" transform="translate(743.410057 214.695) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-69" x="97.412109"/>
@@ -1782,7 +1780,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="458.150391"/>
      <use xlink:href="#DejaVuSans-29" x="513.130859"/>
     </g>
-    <!-- $Q$ = 195 -->
+    
     <g style="fill: #b8621b" transform="translate(749.896807 225.4449) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -1849,7 +1847,7 @@ z
      <use xlink:href="#DejaVuSans-39" transform="translate(289.697266 0.78125)"/>
      <use xlink:href="#DejaVuSans-35" transform="translate(353.320312 0.78125)"/>
     </g>
-    <!-- consume $\mathrm{SO_3}$ -->
+    
     <g style="fill: #b8621b" transform="translate(737.416807 236.1948) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -1886,7 +1884,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- Compare $Q$ with $K$ — the side $Q$ falls on tells you which way the reaction runs -->
+    
     <g style="fill: #22303a" transform="translate(185.658 53.984) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -2349,7 +2347,7 @@ z
    </g>
   </g>
   <g id="text_18">
-   <!-- $Q$ and $K$ are computed from the identical expression — only the concentrations you substitute differ. The system always moves so that $Q$ travels toward $K$. -->
+   
    <g style="fill: #4a5a63" transform="translate(86.6 371.304) scale(0.1 -0.1)">
     <defs>
      <path id="DejaVuSans-Oblique-20" transform="scale(0.015625)"/>

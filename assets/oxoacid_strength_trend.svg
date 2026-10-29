@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="446.4pt" height="288pt" viewBox="0 0 446.4 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -82,7 +80,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- HClO -->
+      
       <g transform="translate(87.330806 272.270438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-48" d="M 628 4666 
@@ -164,7 +162,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- HClO$_2$ -->
+      
       <g transform="translate(182.139123 272.270438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -207,7 +205,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- HClO$_3$ -->
+      
       <g transform="translate(279.370877 272.270438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -258,7 +256,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- HClO$_4$ -->
+      
       <g transform="translate(376.602631 272.270438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -303,7 +301,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_5">
-      <!-- −10 -->
+      
       <g transform="translate(27.805313 233.335914) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-2212" d="M 678 2272 
@@ -362,7 +360,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- −5 -->
+      
       <g transform="translate(34.167813 186.44374) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -403,7 +401,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 0 -->
+      
       <g transform="translate(42.5475 139.551567) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -416,7 +414,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- 5 -->
+      
       <g transform="translate(42.5475 92.659393) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-35"/>
       </g>
@@ -429,7 +427,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- 10 -->
+      
       <g transform="translate(36.185 45.767219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -437,7 +435,7 @@ z
      </g>
     </g>
     <g id="text_10">
-     <!-- Approximate p$K_{a1}$ -->
+     
      <g transform="translate(21.705313 194.62) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-41" d="M 2188 4044 
@@ -755,13 +753,13 @@ L 435.6 41.968
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_11">
-    <!-- 1 O -->
+    
     <g transform="translate(92.507056 85.872759) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-31"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
      <use xlink:href="#DejaVuSans-4f" x="95.410156"/>
     </g>
-    <!-- (hypochlorous) -->
+    
     <g transform="translate(68.11272 95.390899) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -918,13 +916,13 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- 2 O -->
+    
     <g transform="translate(189.73881 138.391994) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-32"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
      <use xlink:href="#DejaVuSans-4f" x="95.410156"/>
     </g>
-    <!-- (chlorous) -->
+    
     <g transform="translate(175.851935 147.910134) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-63" x="39.013672"/>
@@ -939,13 +937,13 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- 3 O -->
+    
     <g transform="translate(286.970565 125.844908) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-33"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
      <use xlink:href="#DejaVuSans-4f" x="95.410156"/>
     </g>
-    <!-- (chloric) -->
+    
     <g transform="translate(276.978416 135.363048) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-63" x="39.013672"/>
@@ -959,13 +957,13 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- 4 O -->
+    
     <g transform="translate(384.202319 210.250821) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-34"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
      <use xlink:href="#DejaVuSans-4f" x="95.410156"/>
     </g>
-    <!-- (perchloric) -->
+    
     <g transform="translate(367.245483 219.768961) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-70" x="39.013672"/>
@@ -982,7 +980,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- weaker acid -->
+    
     <g style="fill: #555555" transform="translate(65.876255 56.035652) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1056,7 +1054,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- stronger acid -->
+    
     <g style="fill: #555555" transform="translate(65.876255 248.293565) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -1129,7 +1127,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- Oxoacid strength increases with oxygen count -->
+    
     <g transform="translate(118.366406 19.650406) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-4f"/>
      <use xlink:href="#DejaVuSans-78" x="78.710938"/>
@@ -1176,7 +1174,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="2213.566406"/>
      <use xlink:href="#DejaVuSans-74" x="2276.945312"/>
     </g>
-    <!-- (same central atom, Cl) -->
+    
     <g transform="translate(180.666797 31.968) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 

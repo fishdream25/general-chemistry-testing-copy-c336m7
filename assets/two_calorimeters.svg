@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="496.8pt" viewBox="0 0 892.8 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -63,7 +61,7 @@ L 342.054 212.0508
 " clip-path="url(#p39dfd5b8a6)" style="fill: none; stroke: #b9c6cd; stroke-width: 1.6; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- Two calorimeters, two different quantities -->
+    
     <g style="fill: #22303a" transform="translate(293.062922 82.550737) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -488,7 +486,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- what is held constant decides whether you measure $\Delta U$ or $\Delta H$ -->
+    
     <g style="fill: #4a5a63" transform="translate(296.308 103.6276) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Oblique-77" d="M 544 3500 
@@ -1001,7 +999,7 @@ z
 " clip-path="url(#p39dfd5b8a6)" style="fill: #dceaf1"/>
    </g>
    <g id="text_3">
-    <!-- open to the air, -->
+    
     <g style="fill: #4a5a63" transform="translate(349.866 255.93325) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-6f" d="M 1959 3097 
@@ -1226,7 +1224,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="698.486328"/>
      <use xlink:href="#DejaVuSans-2c" x="739.599609"/>
     </g>
-    <!-- so $P$ stays -->
+    
     <g style="fill: #4a5a63" transform="translate(349.866 267.793312) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -1310,7 +1308,7 @@ z
      <use xlink:href="#DejaVuSans-79" transform="translate(389.746094 0.09375)"/>
      <use xlink:href="#DejaVuSans-73" transform="translate(448.925781 0.09375)"/>
     </g>
-    <!-- at 1 atm -->
+    
     <g style="fill: #4a5a63" transform="translate(349.866 279.67125) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -1377,7 +1375,7 @@ z
 " clip-path="url(#p39dfd5b8a6)" style="fill: #dceaf1; stroke: #8b9aa3; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="text_4">
-    <!-- rigid and -->
+    
     <g style="fill: #4a5a63" transform="translate(705.87 255.942187) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -1451,7 +1449,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="316.699219"/>
      <use xlink:href="#DejaVuSans-64" x="380.078125"/>
     </g>
-    <!-- sealed, so $V$ -->
+    
     <g style="fill: #4a5a63" transform="translate(705.87 267.80225) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -1485,7 +1483,7 @@ z
      <use xlink:href="#DejaVuSans-20" transform="translate(504.541016 0.015625)"/>
      <use xlink:href="#DejaVuSans-Oblique-56" transform="translate(536.328125 0.015625)"/>
     </g>
-    <!-- cannot change -->
+    
     <g style="fill: #4a5a63" transform="translate(705.87 279.662312) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -1539,7 +1537,7 @@ Q 153.96 431.3748 158.376 431.3748
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- At constant volume the gas can do no expansion work ($w = -P\Delta V = 0$), so all the energy shows up as heat and $q$ equals $\Delta U$. -->
+    
     <g style="fill: #22303a" transform="translate(158.376 410.1588) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1882,7 +1880,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-55" transform="translate(6127.978516 0.015625)"/>
      <use xlink:href="#DejaVuSans-2e" transform="translate(6201.171875 0.015625)"/>
     </g>
-    <!-- At constant pressure the system may expand and push the atmosphere back, and the heat measured is $\Delta H$ instead. -->
+    
     <g style="fill: #22303a" transform="translate(177.384 424.9428) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -2024,7 +2022,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- CONSTANT PRESSURE -->
+    
     <g style="fill: #2e7d5b" transform="translate(214.506094 155.966912) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -2231,7 +2229,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- the coffee-cup calorimeter -->
+    
     <g style="fill: #4a5a63" transform="translate(219.273391 174.072612) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -2292,7 +2290,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- $q_{\mathrm{rxn}} = \Delta H_{\mathrm{rxn}}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(245.065 363.989181) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-Oblique-71" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-72" transform="translate(63.476562 -16.3125) scale(0.7)"/>
@@ -2307,7 +2305,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- CONSTANT VOLUME -->
+    
     <g style="fill: #b8621b" transform="translate(572.364219 155.966912) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-56" d="M 31 4666 
@@ -2364,7 +2362,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- the bomb calorimeter -->
+    
     <g style="fill: #4a5a63" transform="translate(582.187391 174.072612) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -2389,7 +2387,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- $q_{\mathrm{rxn}} = \Delta U_{\mathrm{rxn}}$ -->
+    
     <g style="fill: #b8621b" transform="translate(596.735 363.989181) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-Oblique-71" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-72" transform="translate(63.476562 -16.3125) scale(0.7)"/>
@@ -2404,7 +2402,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- reaction -->
+    
     <g style="fill: #1f6f8b" transform="translate(263.420859 287.874633) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-72"/>
      <use xlink:href="#DejaVuSans-65" x="38.863281"/>
@@ -2415,7 +2413,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="283.638672"/>
      <use xlink:href="#DejaVuSans-6e" x="344.820312"/>
     </g>
-    <!-- mixture -->
+    
     <g style="fill: #1f6f8b" transform="translate(264.359531 300.004242) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-69" x="97.412109"/>
@@ -2469,7 +2467,7 @@ z
 " clip-path="url(#p39dfd5b8a6)" style="fill: #c0392b"/>
    </g>
    <g id="text_13">
-    <!-- sealed -->
+    
     <g style="fill: #22303a" transform="translate(618.911063 274.95775) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-65" x="52.099609"/>
@@ -2478,7 +2476,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="202.685547"/>
      <use xlink:href="#DejaVuSans-64" x="264.208984"/>
     </g>
-    <!-- steel bomb -->
+    
     <g style="fill: #22303a" transform="translate(608.712688 286.14915) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-74" x="52.099609"/>
@@ -2493,7 +2491,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- water -->
+    
     <g style="fill: #1f6f8b" transform="translate(576.414 231.922237) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-77"/>
      <use xlink:href="#DejaVuSans-61" x="81.787109"/>

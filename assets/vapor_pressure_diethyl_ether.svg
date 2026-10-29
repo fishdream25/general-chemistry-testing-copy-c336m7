@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="302.4pt" viewBox="0 0 432 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -55,7 +53,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(98.320692 275.038438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -96,7 +94,7 @@ L 160.251198 40.4736
       </g>
      </g>
      <g id="text_2">
-      <!-- 20 -->
+      
       <g transform="translate(153.888698 275.038438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -141,7 +139,7 @@ L 219.000455 40.4736
       </g>
      </g>
      <g id="text_3">
-      <!-- 40 -->
+      
       <g transform="translate(212.637955 275.038438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -181,7 +179,7 @@ L 277.749711 40.4736
       </g>
      </g>
      <g id="text_4">
-      <!-- 60 -->
+      
       <g transform="translate(271.387211 275.038438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -232,7 +230,7 @@ L 336.498967 40.4736
       </g>
      </g>
      <g id="text_5">
-      <!-- 80 -->
+      
       <g transform="translate(330.136467 275.038438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -281,7 +279,7 @@ z
      </g>
     </g>
     <g id="text_6">
-     <!-- Temperature (°C) -->
+     
      <g transform="translate(175.848892 288.716563) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-54" d="M -19 4666 
@@ -578,7 +576,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <!-- 0 -->
+      
       <g transform="translate(44.0775 262.120987) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -596,7 +594,7 @@ L 380.560909 215.696218
       </g>
      </g>
      <g id="text_8">
-      <!-- 500 -->
+      
       <g transform="translate(31.3525 219.495436) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -643,7 +641,7 @@ L 380.560909 173.070667
       </g>
      </g>
      <g id="text_9">
-      <!-- 1000 -->
+      
       <g transform="translate(24.99 176.869885) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -680,7 +678,7 @@ L 380.560909 130.445115
       </g>
      </g>
      <g id="text_10">
-      <!-- 1500 -->
+      
       <g transform="translate(24.99 134.244334) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -701,7 +699,7 @@ L 380.560909 87.819564
       </g>
      </g>
      <g id="text_11">
-      <!-- 2000 -->
+      
       <g transform="translate(24.99 91.618783) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -722,7 +720,7 @@ L 380.560909 45.194013
       </g>
      </g>
      <g id="text_12">
-      <!-- 2500 -->
+      
       <g transform="translate(24.99 48.993232) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -732,7 +730,7 @@ L 380.560909 45.194013
      </g>
     </g>
     <g id="text_13">
-     <!-- Vapor pressure (mmHg) -->
+     
      <g transform="translate(18.910312 210.188831) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-56" d="M 1831 0 
@@ -965,7 +963,7 @@ L 380.560909 40.4736
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_14">
-    <!-- 1 atm (760 mmHg) — normal boiling point -->
+    
     <g style="fill: #808080" transform="translate(78.00224 190.973398) scale(0.075 -0.075)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -1093,7 +1091,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- Given: 400 mmHg at 27 °C -->
+    
     <g transform="translate(192.563289 229.336394) scale(0.075 -0.075)">
      <defs>
       <path id="DejaVuSans-47" d="M 3809 666 
@@ -1172,7 +1170,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- Calculated at 77 °C -->
+    
     <g transform="translate(339.43643 93.835853) scale(0.075 -0.075)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -1243,7 +1241,7 @@ z
      <use xlink:href="#DejaVuSans-b0" x="853.613281"/>
      <use xlink:href="#DejaVuSans-43" x="903.613281"/>
     </g>
-    <!-- (see worked example) -->
+    
     <g transform="translate(339.43643 102.234213) scale(0.075 -0.075)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1315,7 +1313,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- Vapor pressure of diethyl ether vs. temperature -->
+    
     <g transform="translate(75.762642 21.033975) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -1431,7 +1429,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="2286.919922"/>
      <use xlink:href="#DejaVuSans-65" x="2325.783203"/>
     </g>
-    <!-- (Clausius–Clapeyron equation, $\Delta H_{vap}$ = 26.0 kJ/mol) -->
+    
     <g transform="translate(64.440455 34.4736) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSansDisplay-2013" d="M 313 1978 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="259.2pt" viewBox="0 0 576 259.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -54,7 +52,7 @@ z
 " clip-path="url(#p3f502d9c6f)" style="fill: #c9e8b0; stroke: #333333; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- sample -->
+    
     <g transform="translate(60.02793 129.747328) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -217,7 +215,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="274.267578"/>
      <use xlink:href="#DejaVuSans-65" x="302.050781"/>
     </g>
-    <!-- + O$_2$ -->
+    
     <g transform="translate(65.1525 139.265469) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-2b" d="M 2944 4013 
@@ -287,7 +285,7 @@ z
      <use xlink:href="#DejaVuSans-4f" transform="translate(115.576172 0.78125)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(195.244141 -15.625) scale(0.7)"/>
     </g>
-    <!-- (combusted) -->
+    
     <g transform="translate(48.501797 148.783609) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -477,7 +475,7 @@ L 215.64281 138.92
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_2">
-    <!-- H$_2$O -->
+    
     <g transform="translate(270.1325 129.747328) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -500,7 +498,7 @@ z
      <use xlink:href="#DejaVuSans-32" transform="translate(76.152344 -15.625) scale(0.7)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(123.422852 0.78125)"/>
     </g>
-    <!-- absorber -->
+    
     <g transform="translate(259.835547 139.265469) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-72" d="M 2631 2963 
@@ -530,7 +528,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="342.626953"/>
      <use xlink:href="#DejaVuSans-72" x="404.150391"/>
     </g>
-    <!-- (mass gain) -->
+    
     <g transform="translate(253.744102 148.783609) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-67" d="M 2906 1791 
@@ -623,7 +621,7 @@ L 418.92281 138.92
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_3">
-    <!-- CO$_2$ -->
+    
     <g transform="translate(473.6675 129.747328) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -652,7 +650,7 @@ z
      <use xlink:href="#DejaVuSans-4f" transform="translate(69.824219 0.78125)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(149.492188 -15.625) scale(0.7)"/>
     </g>
-    <!-- absorber -->
+    
     <g transform="translate(463.115547 139.265469) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-62" x="61.279297"/>
@@ -663,7 +661,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="342.626953"/>
      <use xlink:href="#DejaVuSans-72" x="404.150391"/>
     </g>
-    <!-- (mass gain) -->
+    
     <g transform="translate(457.024102 148.783609) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-6d" x="39.013672"/>
@@ -679,7 +677,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Combustion analysis: each absorber's mass gain gives moles of H and C -->
+    
     <g transform="translate(88.594922 19.44) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-79" d="M 2059 -325 

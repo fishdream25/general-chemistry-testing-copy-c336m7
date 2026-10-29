@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="396pt" viewBox="0 0 432 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -67,7 +65,7 @@ L 214 290.34448
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- ÷ molar mass -->
+    
     <g transform="translate(226.26 162.084422) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-f7" d="M 2297 3547 
@@ -243,7 +241,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="594.824219"/>
      <use xlink:href="#DejaVuSans-73" x="646.923828"/>
     </g>
-    <!-- (g/mol) -->
+    
     <g transform="translate(226.26 172.162453) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -324,7 +322,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- × molar mass -->
+    
     <g style="fill: #555555" transform="translate(226.26 230.484422) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-d7" d="M 4488 3438 
@@ -356,7 +354,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="594.824219"/>
      <use xlink:href="#DejaVuSans-73" x="646.923828"/>
     </g>
-    <!-- (g/mol) -->
+    
     <g style="fill: #555555" transform="translate(226.26 240.562453) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-67" x="39.013672"/>
@@ -381,7 +379,7 @@ L 290.400074 77.72
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_3">
-    <!-- × $N_A$ -->
+    
     <g transform="translate(273.51 58.62) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-4e" d="M 1081 4666 
@@ -421,7 +419,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- ÷ $N_A$ -->
+    
     <g style="fill: #555555" transform="translate(273.51 91.11) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-f7" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-20" transform="translate(83.789062 0.09375)"/>
@@ -430,7 +428,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Mole conversions: mass, moles, and particle count -->
+    
     <g transform="translate(64.024687 21.84) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
@@ -707,7 +705,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Mass (g) -->
+    
     <g transform="translate(194.747656 78.479375) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-4d"/>
      <use xlink:href="#DejaVuSans-61" x="86.279297"/>
@@ -720,7 +718,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Moles (mol) -->
+    
     <g transform="translate(186.746875 324.719375) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-4d"/>
      <use xlink:href="#DejaVuSans-6f" x="86.279297"/>
@@ -736,7 +734,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- Particles -->
+    
     <g transform="translate(331.721875 72.880469) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-50" d="M 1259 4147 
@@ -771,7 +769,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="307.951172"/>
      <use xlink:href="#DejaVuSans-73" x="369.474609"/>
     </g>
-    <!-- (atoms/molecules) -->
+    
     <g transform="translate(306.271875 84.078281) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-61" x="39.013672"/>

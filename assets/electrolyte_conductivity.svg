@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="921.6pt" height="504pt" viewBox="0 0 921.6 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -182,7 +180,7 @@ L 706.68 210.004941
 " clip-path="url(#p091414e732)" style="fill: none; stroke: #7a8890; stroke-width: 1.3; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- A solution conducts electricity only if it contains free ions -->
+    
     <g style="fill: #22303a" transform="translate(240.656984 86.029667) scale(0.142 -0.142)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -565,7 +563,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- the bulb reports how many charge carriers are present, not how much solute was added -->
+    
     <g style="fill: #4a5a63" transform="translate(245.771625 106.66821) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Oblique-74" d="M 2706 3500 
@@ -1165,7 +1163,7 @@ Q 256.8675 438.782912 260.7075 438.782912
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Key:   blue and purple discs are free ions   ·   grey discs are intact, uncharged molecules -->
+    
     <g style="fill: #4a5a63" transform="translate(260.7075 432.946412) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4b" d="M 628 4666 
@@ -1927,7 +1925,7 @@ z
 " clip-path="url(#p091414e732)" style="fill: #9fb0b8"/>
    </g>
    <g id="text_4">
-    <!-- STRONG electrolyte -->
+    
     <g style="fill: #2e7d5b" transform="translate(174.521672 136.631509) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -2081,7 +2079,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- $\mathrm{NaCl}$ -->
+    
     <g style="fill: #22303a" transform="translate(223.335 159.807807) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -2308,7 +2306,7 @@ z
 " clip-path="url(#p091414e732)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_6">
-    <!-- dissociates COMPLETELY -->
+    
     <g style="fill: #2e7d5b" transform="translate(165.9465 360.116809) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -2431,7 +2429,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- every formula unit becomes -->
+    
     <g style="fill: #22303a" transform="translate(173.125875 381.946636) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -2472,7 +2470,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1295.808594"/>
      <use xlink:href="#DejaVuSans-73" x="1357.332031"/>
     </g>
-    <!-- free ions — many charge carriers -->
+    
     <g style="fill: #22303a" transform="translate(161.370719 394.69532) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -2518,7 +2516,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- WEAK electrolyte -->
+    
     <g style="fill: #b8621b" transform="translate(416.549953 136.631509) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-57" d="M 191 4666 
@@ -2571,7 +2569,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- $\mathrm{CH_3COOH}$ -->
+    
     <g style="fill: #22303a" transform="translate(441.32 159.807807) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -2809,7 +2807,7 @@ z
 " clip-path="url(#p091414e732)" style="fill: #c3ced4"/>
    </g>
    <g id="text_10">
-    <!-- dissociates PARTIALLY -->
+    
     <g style="fill: #b8621b" transform="translate(407.54425 360.116809) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-49" d="M 588 4666 
@@ -2844,7 +2842,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- most stays as whole molecules; -->
+    
     <g style="fill: #22303a" transform="translate(399.121781 381.946636) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -2910,7 +2908,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="1505.517578"/>
      <use xlink:href="#DejaVuSans-3b" x="1557.617188"/>
     </g>
-    <!-- only a few ions form -->
+    
     <g style="fill: #22303a" transform="translate(425.581844 394.69532) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-6e" x="61.181641"/>
@@ -2935,7 +2933,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- NONelectrolyte -->
+    
     <g style="fill: #c0392b" transform="translate(657.516609 136.631509) scale(0.114 -0.114)">
      <use xlink:href="#DejaVuSans-Bold-4e"/>
      <use xlink:href="#DejaVuSans-Bold-4f" x="83.691406"/>
@@ -2954,7 +2952,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- $\mathrm{C_6H_{12}O_6}$ -->
+    
     <g style="fill: #22303a" transform="translate(680.8675 159.807807) scale(0.125 -0.125)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -3205,7 +3203,7 @@ z
 " clip-path="url(#p091414e732)" style="fill: #c3ced4"/>
    </g>
    <g id="text_14">
-    <!-- does NOT dissociate -->
+    
     <g style="fill: #c0392b" transform="translate(647.16925 360.116809) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-64"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="71.582031"/>
@@ -3229,7 +3227,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- dissolves as neutral molecules — -->
+    
     <g style="fill: #22303a" transform="translate(630.179125 381.946636) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-64"/>
      <use xlink:href="#DejaVuSans-69" x="63.476562"/>
@@ -3264,7 +3262,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="1531.298828"/>
      <use xlink:href="#DejaVuSans-2014" x="1563.085938"/>
     </g>
-    <!-- no charge carriers at all -->
+    
     <g style="fill: #22303a" transform="translate(651.835063 394.69532) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-6f" x="63.378906"/>
@@ -3294,7 +3292,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(249.406418 271.170058) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -3317,7 +3315,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(176.082989 275.940242) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-Bold-2212" d="M 678 2375 
@@ -3332,91 +3330,91 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(211.307649 310.016125) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_19">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(235.146166 292.747768) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_20">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(293.223827 277.733579) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_21">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(247.92111 324.736454) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_22">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(179.680959 295.171521) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_23">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(230.610433 269.917395) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_24">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(249.895074 295.219933) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_25">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(234.238265 311.956625) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_26">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(176.855311 315.416476) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_27">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(257.324757 314.901411) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_28">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(219.174792 327.260602) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_29">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(218.196218 289.942441) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_30">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(416.829357 303.160417) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_31">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(448.034033 318.065844) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_32">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(525.602085 290.456739) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>

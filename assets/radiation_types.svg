@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="496.8pt" viewBox="0 0 892.8 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -93,7 +91,7 @@ z
 " clip-path="url(#p7e98245c19)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_1">
-    <!-- Rutherford's alpha particles came from a radioactive source — this is what they were -->
+    
     <g style="fill: #4a5a63" transform="translate(211.717578 80.199757) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
@@ -603,7 +601,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- penetrating power -->
+    
     <g style="fill: #4a5a63" transform="translate(527.196774 98.414104) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -901,7 +899,7 @@ Q 167.33925 463.579186 171.94725 463.579186
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- X-rays are the same kind of thing as gamma rays — high-energy electromagnetic radiation — but they come from -->
+    
     <g style="fill: #22303a" transform="translate(171.94725 442.577536) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-58" d="M 403 4666 
@@ -1129,7 +1127,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="5559.253906"/>
      <use xlink:href="#DejaVuSans-6d" x="5620.435547"/>
     </g>
-    <!-- the electrons outside the nucleus rather than from the nucleus itself, and they usually carry less energy. -->
+    
     <g style="fill: #22303a" transform="translate(195.47175 456.974686) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -1258,7 +1256,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Three kinds of radioactive emission -->
+    
     <g style="fill: #22303a" transform="translate(317.596953 21.6) scale(0.145 -0.145)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1311,7 +1309,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- α  alpha -->
+    
     <g style="fill: #c0392b" transform="translate(63.493548 144.974618) scale(0.15 -0.15)">
      <defs>
       <path id="DejaVuSans-Bold-3b1" d="M 3006 3163 
@@ -1445,7 +1443,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- a helium-4 nucleus: -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 136.935845) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1501,7 +1499,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="900.244141"/>
      <use xlink:href="#DejaVuSans-3a" x="952.34375"/>
     </g>
-    <!-- 2 protons + 2 neutrons -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 150.143641) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1569,7 +1567,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- charge  +2 -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 130.080111) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-63"/>
      <use xlink:href="#DejaVuSans-68" x="54.980469"/>
@@ -1584,7 +1582,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- mass  heavy -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 156.889) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-61" x="97.412109"/>
@@ -1624,7 +1622,7 @@ z
 " clip-path="url(#p7e98245c19)" style="fill: #e6ecef"/>
    </g>
    <g id="text_9">
-    <!-- stopped by a sheet of paper -->
+    
     <g style="fill: #4a5a63" transform="translate(632.583871 143.374181) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-74" x="52.099609"/>
@@ -1656,7 +1654,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- β  beta -->
+    
     <g style="fill: #2e7d5b" transform="translate(63.493548 240.248127) scale(0.15 -0.15)">
      <defs>
       <path id="DejaVuSans-Bold-3b2" d="M 2575 3038 
@@ -1777,7 +1775,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- a fast electron -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 232.1074) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-20" x="61.279297"/>
@@ -1795,7 +1793,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="596.529297"/>
      <use xlink:href="#DejaVuSans-6e" x="657.710938"/>
     </g>
-    <!-- (or a positron) -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 245.315197) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -1843,7 +1841,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- charge  −1 -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 225.251667) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-2212" d="M 678 2272 
@@ -1881,7 +1879,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- mass  very light -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 252.060556) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-61" x="97.412109"/>
@@ -1926,7 +1924,7 @@ z
 " clip-path="url(#p7e98245c19)" style="fill: #e6ecef"/>
    </g>
    <g id="text_14">
-    <!-- stopped by a few mm of aluminum -->
+    
     <g style="fill: #4a5a63" transform="translate(632.583871 238.545736) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-74" x="52.099609"/>
@@ -1962,7 +1960,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- γ  gamma -->
+    
     <g style="fill: #6b3fa0" transform="translate(63.493548 335.200542) scale(0.15 -0.15)">
      <defs>
       <path id="DejaVuSans-Bold-3b3" d="M 1769 2450 
@@ -2061,7 +2059,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- a high-energy photon — -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 327.278956) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-20" x="61.279297"/>
@@ -2086,7 +2084,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="1079.207031"/>
      <use xlink:href="#DejaVuSans-2014" x="1110.994141"/>
     </g>
-    <!-- no mass, no charge -->
+    
     <g style="fill: #22303a" transform="translate(189.958065 340.486753) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-6f" x="63.378906"/>
@@ -2109,7 +2107,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- charge  0 -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 320.423222) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-30" d="M 2034 4250 
@@ -2146,7 +2144,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- mass  none -->
+    
     <g style="fill: #4a5a63" transform="translate(400.732258 347.232111) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-61" x="97.412109"/>
@@ -2185,7 +2183,7 @@ z
 " clip-path="url(#p7e98245c19)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_19">
-    <!-- needs thick lead or concrete -->
+    
     <g style="fill: #4a5a63" transform="translate(632.583871 333.717292) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-65" x="63.378906"/>

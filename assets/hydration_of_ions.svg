@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="460.8pt" viewBox="0 0 892.8 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -171,7 +169,7 @@ z
 " clip-path="url(#pfba02d2910)" style="fill: #f2f6f8; stroke: #dbe4e8; stroke-width: 0.7; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- the solid -->
+    
     <g style="fill: #22303a" transform="translate(203.640891 114.981473) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-74" d="M 1759 4494 
@@ -354,7 +352,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{NaCl}$ lattice — ions locked in place -->
+    
     <g style="fill: #4a5a63" transform="translate(148.626 137.553249) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -695,7 +693,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- no free ions → the dry solid does not conduct -->
+    
     <g style="fill: #4a5a63" transform="translate(125.405078 316.357403) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -866,7 +864,7 @@ z
 " style="fill: #4a5a63; stroke: #4a5a63; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="text_4">
-    <!-- add water -->
+    
     <g style="fill: #4a5a63" transform="translate(373.723125 196.520155) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
@@ -1042,7 +1040,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- the solution -->
+    
     <g style="fill: #22303a" transform="translate(580.774969 114.981473) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-75" d="M 500 1363 
@@ -1106,7 +1104,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- each ion pulled free and wrapped in oriented water -->
+    
     <g style="fill: #4a5a63" transform="translate(495.92925 137.562249) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1179,7 +1177,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- free, mobile ions → the solution conducts -->
+    
     <g style="fill: #2e7d5b" transform="translate(510.119687 324.434515) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-66" d="M 2841 4863 
@@ -1366,7 +1364,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- Hydration: what "dissolving" actually means for an ionic compound -->
+    
     <g style="fill: #22303a" transform="translate(195.193969 80.973621) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -1628,7 +1626,7 @@ Q 179.311219 388.920929 184.261219 388.920929
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- Water molecules are polar — slightly negative at the red oxygen end, slightly positive at the white hydrogens. -->
+    
     <g style="fill: #22303a" transform="translate(184.261219 351.465671) scale(0.099 -0.099)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -1871,7 +1869,7 @@ z
      <use xlink:href="#DejaVuSans-73" x="5437.314453"/>
      <use xlink:href="#DejaVuSans-2e" x="5489.414062"/>
     </g>
-    <!-- They turn their negative end toward a cation and their positive end toward an anion, and that attraction -->
+    
     <g style="fill: #22303a" transform="translate(198.860625 366.688854) scale(0.099 -0.099)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1991,7 +1989,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="5101.78125"/>
      <use xlink:href="#DejaVuSans-6e" x="5162.962891"/>
     </g>
-    <!-- is what pries the lattice apart. The ions do not disappear; they are surrounded, and free to move. -->
+    
     <g style="fill: #22303a" transform="translate(216.122977 381.912038) scale(0.099 -0.099)">
      <defs>
       <path id="DejaVuSans-3b" d="M 750 3309 
@@ -2319,7 +2317,7 @@ z
 " clip-path="url(#pfba02d2910)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_10">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(169.209141 279.900023) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -2342,7 +2340,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(208.269141 279.900023) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-2212" d="M 678 2375 
@@ -2357,85 +2355,85 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(247.329141 279.900023) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_13">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(286.389141 279.900023) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_14">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(169.209141 239.514462) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_15">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(208.269141 239.514462) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_16">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(247.329141 239.514462) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_17">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(286.389141 239.514462) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_18">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(169.209141 199.128901) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_19">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(208.269141 199.128901) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_20">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(247.329141 199.128901) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_21">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(286.389141 199.128901) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_22">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(169.209141 158.74334) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_23">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(208.269141 158.74334) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_24">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(247.329141 158.74334) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_25">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(286.389141 158.74334) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
@@ -3481,31 +3479,31 @@ z
 " clip-path="url(#pfba02d2910)" style="fill: #ffffff; stroke: #b9c6cd; stroke-width: 0.7; stroke-linejoin: miter"/>
    </g>
    <g id="text_26">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(528.909648 193.497504) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_27">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(699.099648 193.497504) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_28">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(614.283648 256.960528) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>
    </g>
    <g id="text_29">
-    <!-- − -->
+    
     <g style="fill: #ffffff" transform="translate(528.909648 256.960528) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
     </g>
    </g>
    <g id="text_30">
-    <!-- + -->
+    
     <g style="fill: #ffffff" transform="translate(699.099648 256.960528) scale(0.095 -0.095)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
     </g>

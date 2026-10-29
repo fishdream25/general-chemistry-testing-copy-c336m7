@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="388.8pt" viewBox="0 0 907.2 388.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -198,7 +196,7 @@ L 876.177638 194.4
 " clip-path="url(#p03676446b8)" style="fill: none; stroke: #dbe4e8; stroke-linecap: square"/>
    </g>
    <g id="text_1">
-    <!-- For the main-group elements, the group number tells you the ion charge -->
+    
     <g style="fill: #22303a" transform="translate(178.065641 36.130258) scale(0.134 -0.134)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -696,7 +694,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- metals on the left LOSE electrons and turn positive        ·        nonmetals on the right GAIN electrons and turn negative -->
+    
     <g style="fill: #4a5a63" transform="translate(156.855469 62.712131) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1380,7 +1378,7 @@ Q 188.507703 351.740947 193.407703 351.740947
 z
 " style="fill: #fdf3e7; stroke: #e0c9a6; stroke-linejoin: miter"/>
     </g>
-    <!-- Transition metals (Groups 3–12) are the exception — many form more than one charge, which is exactly -->
+    
     <g style="fill: #22303a" transform="translate(197.999156 315.408672) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1663,7 +1661,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="5129.466797"/>
      <use xlink:href="#DejaVuSans-79" x="5157.25"/>
     </g>
-    <!-- why their names carry a Roman numeral: iron(II) vs. iron(III). Noble gases form no ions at all: they already -->
+    
     <g style="fill: #22303a" transform="translate(193.407703 330.105762) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
@@ -1850,7 +1848,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="5187.447266"/>
      <use xlink:href="#DejaVuSans-79" x="5250.923828"/>
     </g>
-    <!-- have the full outer shell every other atom is trying to reach by gaining or losing electrons. -->
+    
     <g style="fill: #22303a" transform="translate(232.260875 344.802853) scale(0.098 -0.098)">
      <use xlink:href="#DejaVuSans-68"/>
      <use xlink:href="#DejaVuSans-61" x="63.378906"/>
@@ -1948,7 +1946,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Group 1A -->
+    
     <g style="fill: #ffffff" transform="translate(58.829554 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-47" d="M 4781 347 
@@ -2018,7 +2016,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- +1 -->
+    
     <g style="fill: #c0392b" transform="translate(73.073991 168.731882) scale(0.17 -0.17)">
      <defs>
       <path id="DejaVuSans-Bold-2b" d="M 3053 4013 
@@ -2042,7 +2040,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Li⁺ -->
+    
     <g style="fill: #22303a" transform="translate(77.933991 219.396289) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-207a" d="M 1853 4334 
@@ -2067,7 +2065,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Na⁺ -->
+    
     <g style="fill: #22303a" transform="translate(74.778366 243.972667) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-4e"/>
      <use xlink:href="#DejaVuSans-61" x="74.804688"/>
@@ -2075,7 +2073,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- K⁺ -->
+    
     <g style="fill: #22303a" transform="translate(79.009304 268.549045) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-4b" d="M 628 4666 
@@ -2098,7 +2096,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Group 2A -->
+    
     <g style="fill: #ffffff" transform="translate(166.914593 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -2135,14 +2133,14 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- +2 -->
+    
     <g style="fill: #b8621b" transform="translate(181.159031 168.731882) scale(0.17 -0.17)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-32" x="83.789062"/>
     </g>
    </g>
    <g id="text_11">
-    <!-- Mg²⁺ -->
+    
     <g style="fill: #22303a" transform="translate(179.637468 219.396289) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
@@ -2189,7 +2187,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- Ca²⁺ -->
+    
     <g style="fill: #22303a" transform="translate(180.756843 243.972667) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -2221,7 +2219,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- Ba²⁺ -->
+    
     <g style="fill: #22303a" transform="translate(180.829968 268.549045) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-42" d="M 1259 2228 
@@ -2264,7 +2262,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- Group 3A -->
+    
     <g style="fill: #ffffff" transform="translate(274.999632 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -2311,14 +2309,14 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- +3 -->
+    
     <g style="fill: #8a6d3b" transform="translate(289.24407 168.731882) scale(0.17 -0.17)">
      <use xlink:href="#DejaVuSans-Bold-2b"/>
      <use xlink:href="#DejaVuSans-Bold-33" x="83.789062"/>
     </g>
    </g>
    <g id="text_16">
-    <!-- Al³⁺ -->
+    
     <g style="fill: #22303a" transform="translate(290.937195 219.396289) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-b3" d="M 1638 3500 
@@ -2361,7 +2359,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- Group 4A -->
+    
     <g style="fill: #ffffff" transform="translate(383.084672 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-34" d="M 2356 3675 
@@ -2395,7 +2393,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- none -->
+    
     <g style="fill: #7a8890" transform="translate(393.631609 167.352195) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-Bold-6e"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="71.191406"/>
@@ -2404,7 +2402,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- rarely forms -->
+    
     <g style="fill: #4a5a63" transform="translate(383.667609 218.513289) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-72"/>
      <use xlink:href="#DejaVuSans-61" x="41.113281"/>
@@ -2421,7 +2419,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- simple ions -->
+    
     <g style="fill: #4a5a63" transform="translate(385.448922 243.089667) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-69" x="52.099609"/>
@@ -2437,7 +2435,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- Group 5A -->
+    
     <g style="fill: #ffffff" transform="translate(491.169711 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-35" d="M 678 4666 
@@ -2477,7 +2475,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- −3 -->
+    
     <g style="fill: #2e7d5b" transform="translate(505.414149 168.731882) scale(0.17 -0.17)">
      <defs>
       <path id="DejaVuSans-Bold-2212" d="M 678 2375 
@@ -2493,7 +2491,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- N³⁻ -->
+    
     <g style="fill: #22303a" transform="translate(508.389774 219.396289) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-207b" d="M 428 3359 
@@ -2510,7 +2508,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- P³⁻ -->
+    
     <g style="fill: #22303a" transform="translate(509.260711 243.972667) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-50" d="M 1259 4147 
@@ -2541,7 +2539,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- Group 6A -->
+    
     <g style="fill: #ffffff" transform="translate(599.25475 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-36" d="M 2316 2303 
@@ -2586,14 +2584,14 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- −2 -->
+    
     <g style="fill: #2f8f6a" transform="translate(613.499188 168.731882) scale(0.17 -0.17)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
      <use xlink:href="#DejaVuSans-Bold-32" x="83.789062"/>
     </g>
    </g>
    <g id="text_27">
-    <!-- O²⁻ -->
+    
     <g style="fill: #22303a" transform="translate(616.240438 219.396289) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-4f"/>
      <use xlink:href="#DejaVuSans-b2" x="78.710938"/>
@@ -2601,7 +2599,7 @@ z
     </g>
    </g>
    <g id="text_28">
-    <!-- S²⁻ -->
+    
     <g style="fill: #22303a" transform="translate(617.1545 243.972667) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-53"/>
      <use xlink:href="#DejaVuSans-b2" x="63.476562"/>
@@ -2609,7 +2607,7 @@ z
     </g>
    </g>
    <g id="text_29">
-    <!-- Group 7A -->
+    
     <g style="fill: #ffffff" transform="translate(707.33979 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-37" d="M 428 4666 
@@ -2634,14 +2632,14 @@ z
     </g>
    </g>
    <g id="text_30">
-    <!-- −1 -->
+    
     <g style="fill: #1f6f8b" transform="translate(721.584227 168.731882) scale(0.17 -0.17)">
      <use xlink:href="#DejaVuSans-Bold-2212"/>
      <use xlink:href="#DejaVuSans-Bold-31" x="83.789062"/>
     </g>
    </g>
    <g id="text_31">
-    <!-- F⁻ -->
+    
     <g style="fill: #22303a" transform="translate(728.00329 219.396289) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -2663,7 +2661,7 @@ z
     </g>
    </g>
    <g id="text_32">
-    <!-- Cl⁻ -->
+    
     <g style="fill: #22303a" transform="translate(725.597665 243.972667) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-43"/>
      <use xlink:href="#DejaVuSans-6c" x="69.824219"/>
@@ -2671,7 +2669,7 @@ z
     </g>
    </g>
    <g id="text_33">
-    <!-- Br⁻ -->
+    
     <g style="fill: #22303a" transform="translate(724.871102 268.549045) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-42"/>
      <use xlink:href="#DejaVuSans-72" x="68.603516"/>
@@ -2679,7 +2677,7 @@ z
     </g>
    </g>
    <g id="text_34">
-    <!-- Group 8A -->
+    
     <g style="fill: #ffffff" transform="translate(815.424829 112.698096) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-38" d="M 2228 2088 
@@ -2733,7 +2731,7 @@ z
     </g>
    </g>
    <g id="text_35">
-    <!-- 0 -->
+    
     <g style="fill: #6b3fa0" transform="translate(836.792001 168.731882) scale(0.17 -0.17)">
      <defs>
       <path id="DejaVuSans-Bold-30" d="M 2944 2338 
@@ -2762,7 +2760,7 @@ z
     </g>
    </g>
    <g id="text_36">
-    <!-- He  Ne -->
+    
     <g style="fill: #4a5a63" transform="translate(827.893954 218.513289) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -2790,7 +2788,7 @@ z
     </g>
    </g>
    <g id="text_37">
-    <!-- Ar  Kr -->
+    
     <g style="fill: #4a5a63" transform="translate(830.396454 243.089667) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-41"/>
      <use xlink:href="#DejaVuSans-72" x="68.408203"/>
@@ -2801,7 +2799,7 @@ z
     </g>
    </g>
    <g id="text_38">
-    <!-- (no ions) -->
+    
     <g style="fill: #4a5a63" transform="translate(823.398392 267.666045) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-28"/>
      <use xlink:href="#DejaVuSans-6e" x="39.013672"/>

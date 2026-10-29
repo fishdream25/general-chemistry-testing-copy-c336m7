@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="540pt" height="322.441pt" viewBox="0 0 540 322.441" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -83,7 +81,7 @@ z
 " clip-path="url(#pc77e6c5256)" style="fill: #7f8c8d; stroke: #7f8c8d; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Zn -->
+    
     <g transform="translate(130.696328 142.732267) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-5a" d="M 359 4666 
@@ -135,7 +133,7 @@ z
 " clip-path="url(#pc77e6c5256)" style="fill: #b5651d; stroke: #b5651d; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
-    <!-- Cu -->
+    
     <g transform="translate(393.448203 142.732267) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -188,7 +186,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Anode (oxidation) -->
+    
     <g style="fill: #333333" transform="translate(98.588672 298.073569) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -426,7 +424,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="786.71875"/>
      <use xlink:href="#DejaVuSans-29" x="850.097656"/>
     </g>
-    <!-- Zn → Zn$^{2+}$ + 2e$^-$ -->
+    
     <g style="fill: #333333" transform="translate(97.74 308.1516) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-5a" d="M 359 4666 
@@ -520,7 +518,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Cathode (reduction) -->
+    
     <g style="fill: #333333" transform="translate(356.243203 298.073569) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -644,7 +642,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="901.070312"/>
      <use xlink:href="#DejaVuSans-29" x="964.449219"/>
     </g>
-    <!-- Cu$^{2+}$ + 2e$^-$ → Cu -->
+    
     <g style="fill: #333333" transform="translate(360.405 308.1516) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-75" transform="translate(69.824219 0.765625)"/>
@@ -664,7 +662,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Zn$^{2+}$ (aq) -->
+    
     <g style="fill: #555555" transform="translate(117.3075 284.520267) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-71" d="M 947 1747 
@@ -706,7 +704,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Cu$^{2+}$ (aq) -->
+    
     <g style="fill: #555555" transform="translate(380.065 284.520267) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.765625)"/>
      <use xlink:href="#DejaVuSans-75" transform="translate(69.824219 0.765625)"/>
@@ -729,7 +727,7 @@ L 293.521783 99.832733
 " style="fill: none; stroke: #c0392b; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_7">
-    <!-- e$^-$ flow -->
+    
     <g style="fill: #c0392b" transform="translate(252.495 86.017067) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -787,7 +785,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- salt bridge (KCl) -->
+    
     <g transform="translate(237.979375 225.2863) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-73" d="M 2834 3397 
@@ -929,7 +927,7 @@ L 227.324 241.790874
 " style="fill: none; stroke: #555555; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_9">
-    <!-- anions -->
+    
     <g style="fill: #555555" transform="translate(212.982984 271.759347) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-6e" x="61.279297"/>
@@ -953,7 +951,7 @@ L 316.676 241.790874
 " style="fill: none; stroke: #555555; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_10">
-    <!-- cations -->
+    
     <g style="fill: #555555" transform="translate(301.179516 271.759347) scale(0.075 -0.075)">
      <use xlink:href="#DejaVuSans-63"/>
      <use xlink:href="#DejaVuSans-61" x="54.980469"/>
@@ -965,7 +963,7 @@ L 316.676 241.790874
     </g>
    </g>
    <g id="text_11">
-    <!-- Galvanic cell: Zn(s) + Cu$^{2+}$(aq) → Zn$^{2+}$(aq) + Cu(s) -->
+    
     <g transform="translate(119.9825 17.665) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-47" d="M 3809 666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="489.6pt" viewBox="0 0 907.2 489.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -763,7 +761,7 @@ z
 " clip-path="url(#p2249371b2f)" style="fill: #eef3f5; stroke: #d5dee2; stroke-width: 0.5; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Three trends, one cause -->
+    
     <g style="fill: #22303a" transform="translate(367.880781 82.239363) scale(0.142 -0.142)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -1076,7 +1074,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- every arrow below follows from how tightly the nucleus holds the outermost electron -->
+    
     <g style="fill: #4a5a63" transform="translate(247.471219 103.006904) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Oblique-65" d="M 3078 2063 
@@ -1652,7 +1650,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- the periodic table, schematically -->
+    
     <g style="fill: #4a5a63" transform="translate(313.824094 146.418363) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-70" d="M 3175 2156 
@@ -1743,7 +1741,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 2.4; stroke-linecap: round"/>
    </g>
    <g id="text_4">
-    <!-- ACROSS a period  →  radius DOWN,  IE UP,  EA UP -->
+    
     <g style="fill: #c0392b" transform="translate(241.488047 357.514934) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -2078,7 +2076,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- protons are added but the electrons go into the SAME shell, so shielding barely changes -->
+    
     <g style="fill: #4a5a63" transform="translate(184.328969 371.463993) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -2636,7 +2634,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="4300.492188"/>
      <use xlink:href="#DejaVuSans-73" x="4362.015625"/>
     </g>
-    <!-- and $Z_\mathrm{eff}$ climbs steadily — the nucleus grips harder -->
+    
     <g style="fill: #4a5a63" transform="translate(269.94 384.214905) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-Oblique-5a" d="M 838 4666 
@@ -2775,7 +2773,7 @@ z
 " style="fill: #1f6f8b; stroke: #1f6f8b; stroke-width: 2.4; stroke-linecap: round"/>
    </g>
    <g id="text_6">
-    <!-- DOWN a group -->
+    
     <g style="fill: #1f6f8b" transform="translate(50.897562 208.141078) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-67" d="M 2919 594 
@@ -2826,7 +2824,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-75" x="688.720703"/>
      <use xlink:href="#DejaVuSans-Bold-70" x="759.912109"/>
     </g>
-    <!-- radius UP -->
+    
     <g style="fill: #1f6f8b" transform="translate(79.778812 222.45639) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-72"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="49.316406"/>
@@ -2838,7 +2836,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-55" x="388.183594"/>
      <use xlink:href="#DejaVuSans-Bold-50" x="469.384766"/>
     </g>
-    <!-- IE DOWN -->
+    
     <g style="fill: #1f6f8b" transform="translate(83.811625 236.693578) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-49"/>
      <use xlink:href="#DejaVuSans-Bold-45" x="37.207031"/>
@@ -2848,7 +2846,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-57" x="308.349609"/>
      <use xlink:href="#DejaVuSans-Bold-4e" x="418.652344"/>
     </g>
-    <!-- EA DOWN -->
+    
     <g style="fill: #1f6f8b" transform="translate(79.792875 250.930765) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-45"/>
      <use xlink:href="#DejaVuSans-Bold-41" x="68.310547"/>
@@ -2860,7 +2858,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- the one exception worth -->
+    
     <g style="fill: #22303a" transform="translate(648.354156 166.472707) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Bold-78" d="M 1422 1791 
@@ -2919,7 +2917,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-74" x="1262.353516"/>
      <use xlink:href="#DejaVuSans-Bold-68" x="1310.15625"/>
     </g>
-    <!-- remembering -->
+    
     <g style="fill: #22303a" transform="translate(678.842109 179.680504) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Bold-6d" d="M 3781 2919 
@@ -2995,7 +2993,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- $Z_\mathrm{eff}$ rises going DOWN -->
+    
     <g style="fill: #22303a" transform="translate(666.405 197.030224) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-44" d="M 1259 4147 
@@ -3090,7 +3088,7 @@ z
      <use xlink:href="#DejaVuSans-57" transform="translate(928.583984 0.015625)"/>
      <use xlink:href="#DejaVuSans-4e" transform="translate(1027.460938 0.015625)"/>
     </g>
-    <!-- a group as well — but each -->
+    
     <g style="fill: #22303a" transform="translate(654.757031 209.861974) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -3144,7 +3142,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="1243.501953"/>
      <use xlink:href="#DejaVuSans-68" x="1298.482422"/>
     </g>
-    <!-- new shell puts the outer -->
+    
     <g style="fill: #22303a" transform="translate(661.362891 222.675443) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-65" x="63.378906"/>
@@ -3171,7 +3169,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1112.451172"/>
      <use xlink:href="#DejaVuSans-72" x="1173.974609"/>
     </g>
-    <!-- electrons so much farther -->
+    
     <g style="fill: #22303a" transform="translate(657.939375 235.488912) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-65"/>
      <use xlink:href="#DejaVuSans-6c" x="61.523438"/>
@@ -3199,7 +3197,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1188.521484"/>
      <use xlink:href="#DejaVuSans-72" x="1250.044922"/>
     </g>
-    <!-- out that the atom still -->
+    
     <g style="fill: #22303a" transform="translate(666.909844 248.30238) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-75" x="61.181641"/>
@@ -3225,7 +3223,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="1036.279297"/>
      <use xlink:href="#DejaVuSans-6c" x="1064.0625"/>
     </g>
-    <!-- grows. -->
+    
     <g style="fill: #22303a" transform="translate(701.226562 261.115849) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-2e" d="M 684 794 
@@ -3243,9 +3241,9 @@ z
      <use xlink:href="#DejaVuSans-73" x="245.308594"/>
      <use xlink:href="#DejaVuSans-2e" x="297.408203"/>
     </g>
-    <!--  -->
+    
     <g style="fill: #22303a" transform="translate(716.04 273.929318) scale(0.09 -0.09)"/>
-    <!-- Two effects compete; -->
+    
     <g style="fill: #22303a" transform="translate(668.165625 286.742787) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -3296,7 +3294,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="968.65625"/>
      <use xlink:href="#DejaVuSans-3b" x="1030.179688"/>
     </g>
-    <!-- distance wins. -->
+    
     <g style="fill: #22303a" transform="translate(683.985234 299.556255) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-64"/>
      <use xlink:href="#DejaVuSans-69" x="63.476562"/>
@@ -3315,7 +3313,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Noble gases have near-zero -->
+    
     <g style="fill: #c0392b" transform="translate(656.224312 330.447631) scale(0.086 -0.086)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -3376,7 +3374,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="1290.988281"/>
      <use xlink:href="#DejaVuSans-6f" x="1329.851562"/>
     </g>
-    <!-- or negative electron affinity. -->
+    
     <g style="fill: #c0392b" transform="translate(655.409328 342.038146) scale(0.086 -0.086)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-72" x="61.181641"/>

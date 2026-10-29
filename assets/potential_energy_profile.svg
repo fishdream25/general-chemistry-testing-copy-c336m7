@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="331.2pt" viewBox="0 0 460.8 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -39,7 +37,7 @@ z
    </g>
    <g id="matplotlib.axis_1">
     <g id="text_1">
-     <!-- Reaction coordinate -->
+     
      <g transform="translate(201.540781 317.918437) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-52" d="M 2841 2188 
@@ -303,7 +301,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_2">
-      <!-- −20 -->
+      
       <g transform="translate(24.925313 310.119219) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-2212" d="M 678 2272 
@@ -372,7 +370,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- −10 -->
+      
       <g transform="translate(24.925313 270.805279) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -403,7 +401,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 0 -->
+      
       <g transform="translate(39.6675 231.49134) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -416,7 +414,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 10 -->
+      
       <g transform="translate(33.305 192.177401) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -430,7 +428,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 20 -->
+      
       <g transform="translate(33.305 152.863461) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -444,7 +442,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 30 -->
+      
       <g transform="translate(33.305 113.549522) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -492,7 +490,7 @@ z
       </g>
      </g>
      <g id="text_8">
-      <!-- 40 -->
+      
       <g transform="translate(33.305 74.235582) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -521,7 +519,7 @@ z
      </g>
     </g>
     <g id="text_9">
-     <!-- Potential energy (kJ/mol, illustrative) -->
+     
      <g transform="translate(18.845625 267.944938) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-50" d="M 1259 4147 
@@ -923,7 +921,7 @@ L 450 46.848
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_10">
-    <!-- Reactants -->
+    
     <g transform="translate(73.462279 262.050473) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-52"/>
      <use xlink:href="#DejaVuSans-65" x="64.982422"/>
@@ -935,7 +933,7 @@ L 450 46.848
      <use xlink:href="#DejaVuSans-74" x="406.632812"/>
      <use xlink:href="#DejaVuSans-73" x="445.841797"/>
     </g>
-    <!-- (2NO$_2$ + CO) -->
+    
     <g transform="translate(73.462279 272.128504) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1023,7 +1021,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- Products -->
+    
     <g transform="translate(390.711627 297.433018) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-50"/>
      <use xlink:href="#DejaVuSans-72" x="58.552734"/>
@@ -1034,7 +1032,7 @@ z
      <use xlink:href="#DejaVuSans-74" x="340.433594"/>
      <use xlink:href="#DejaVuSans-73" x="379.642578"/>
     </g>
-    <!-- (NO + CO$_2$) -->
+    
     <g transform="translate(377.727721 307.511049) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-28" transform="translate(0 0.125)"/>
      <use xlink:href="#DejaVuSans-4e" transform="translate(39.013672 0.125)"/>
@@ -1049,7 +1047,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- TS1 -->
+    
     <g style="fill: #c0392b" transform="translate(154.506526 74.102221) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -1113,7 +1111,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-53" x="68.212891"/>
      <use xlink:href="#DejaVuSans-Bold-31" x="140.234375"/>
     </g>
-    <!-- (rate-determining — larger $E_a$) -->
+    
     <g style="fill: #c0392b" transform="translate(86.998088 84.181939) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-28" d="M 2413 -844 
@@ -1473,7 +1471,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- TS2 -->
+    
     <g style="fill: #c0392b" transform="translate(329.640349 115.741372) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -1505,7 +1503,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- Intermediate -->
+    
     <g transform="translate(289.460662 130.783089) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -1529,7 +1527,7 @@ z
      <use xlink:href="#DejaVuSans-74" x="544.441406"/>
      <use xlink:href="#DejaVuSans-65" x="583.650391"/>
     </g>
-    <!-- NO$_3$ -->
+    
     <g transform="translate(289.460662 140.86112) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-4f" transform="translate(74.804688 0.78125)"/>
@@ -1550,7 +1548,7 @@ L 81.300074 112.8243
 " style="fill: none; stroke: #808080; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_15">
-    <!-- $E_{a1}$ -->
+    
     <g style="fill: #808080" transform="translate(83.386529 167.273256) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Oblique-45" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-Oblique-61" transform="translate(63.183594 -16.3125) scale(0.7)"/>
@@ -1571,7 +1569,7 @@ L 326.487426 144.276784
 " style="fill: none; stroke: #808080; stroke-width: 0.9; stroke-linecap: round"/>
    </g>
    <g id="text_16">
-    <!-- $E_{a2}$ -->
+    
     <g style="fill: #808080" transform="translate(328.573882 147.616286) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Oblique-45" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-Oblique-61" transform="translate(63.183594 -16.3125) scale(0.7)"/>
@@ -1579,7 +1577,7 @@ L 326.487426 144.276784
     </g>
    </g>
    <g id="text_17">
-    <!-- Potential-energy profile: NO$_2$ + CO $\rightarrow$ NO + CO$_2$ -->
+    
     <g transform="translate(118.14 22.508063) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-2d" d="M 313 2009 
@@ -1709,7 +1707,7 @@ z
      <use xlink:href="#DejaVuSans-4f" transform="translate(2297.93457 0.015625)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(2377.602539 -16.390625) scale(0.7)"/>
     </g>
-    <!-- (two-step mechanism) -->
+    
     <g transform="translate(189.613359 34.848) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 

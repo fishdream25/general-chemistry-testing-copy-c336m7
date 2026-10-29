@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="396pt" viewBox="0 0 432 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -60,7 +58,7 @@ L 284.4 62.915
 " clip-path="url(#pba5a02a989)" style="fill: none; stroke: #333333; stroke-width: 1.5"/>
    </g>
    <g id="text_1">
-    <!-- n=1 -->
+    
     <g transform="translate(298.08 350.484375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-6e" d="M 3513 2113 
@@ -116,7 +114,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- n=2 -->
+    
     <g transform="translate(298.08 238.059375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -150,7 +148,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- n=3 -->
+    
     <g transform="translate(298.08 163.109375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -192,7 +190,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- n=4 -->
+    
     <g transform="translate(298.08 118.139375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -221,7 +219,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- n=5 -->
+    
     <g transform="translate(298.08 88.159375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-35" d="M 691 4666 
@@ -256,7 +254,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- n=6 -->
+    
     <g transform="translate(298.08 65.674375) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -305,7 +303,7 @@ L 145.6 227.064417
 " style="fill: none; stroke: #c0392b; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_7">
-    <!-- emission: -->
+    
     <g style="fill: #c0392b" transform="translate(168.12 125.203937) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -452,7 +450,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="379.882812"/>
      <use xlink:href="#DejaVuSans-3a" x="443.261719"/>
     </g>
-    <!-- $n_i=5 \to n_f=2$ -->
+    
     <g style="fill: #c0392b" transform="translate(168.12 135.281969) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-6e" d="M 3566 2113 
@@ -536,7 +534,7 @@ z
      <use xlink:href="#DejaVuSans-3d" transform="translate(504.931641 0.78125)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(608.203125 0.78125)"/>
     </g>
-    <!-- $\lambda=434$ nm -->
+    
     <g style="fill: #c0392b" transform="translate(168.12 145.36) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-3bb" d="M 2350 4316 
@@ -567,7 +565,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- Hydrogen energy levels and an emission transition -->
+    
     <g transform="translate(75.870313 19.44) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="331.2pt" viewBox="0 0 518.4 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -50,7 +48,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(58.207524 303.838437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -86,7 +84,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 50 -->
+      
       <g transform="translate(140.377164 303.838437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -127,7 +125,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 100 -->
+      
       <g transform="translate(222.546803 303.838437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -158,7 +156,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 150 -->
+      
       <g transform="translate(307.897693 303.838437) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-35" x="63.623047"/>
@@ -173,7 +171,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 200 -->
+      
       <g transform="translate(393.248582 303.838437) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -208,7 +206,7 @@ z
      </g>
     </g>
     <g id="text_6">
-     <!-- Mass number, A -->
+     
      <g transform="translate(225.941847 317.516562) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-4d" d="M 628 4666 
@@ -487,7 +485,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_7">
-      <!-- 0 -->
+      
       <g transform="translate(31.2975 293.039219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -500,7 +498,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <!-- 2 -->
+      
       <g transform="translate(31.2975 241.079219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-32"/>
       </g>
@@ -513,7 +511,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_9">
-      <!-- 4 -->
+      
       <g transform="translate(31.2975 189.119219) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -547,7 +545,7 @@ z
       </g>
      </g>
      <g id="text_10">
-      <!-- 6 -->
+      
       <g transform="translate(31.2975 137.159219) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -592,7 +590,7 @@ z
       </g>
      </g>
      <g id="text_11">
-      <!-- 8 -->
+      
       <g transform="translate(31.2975 85.199219) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-38" d="M 2034 2216 
@@ -646,7 +644,7 @@ z
       </g>
      </g>
      <g id="text_12">
-      <!-- 10 -->
+      
       <g transform="translate(24.935 33.239219) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -654,7 +652,7 @@ z
      </g>
     </g>
     <g id="text_13">
-     <!-- Binding energy per nucleon (MeV) -->
+     
      <g transform="translate(18.855313 244.813438) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-42" d="M 1259 2228 
@@ -983,7 +981,7 @@ L 487.801818 29.44
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_14">
-    <!-- H-2 -->
+    
     <g transform="translate(57.80656 248.4022) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -1015,7 +1013,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- He-4 -->
+    
     <g transform="translate(40.759345 95.5614) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-48"/>
      <use xlink:href="#DejaVuSans-65" x="75.195312"/>
@@ -1024,7 +1022,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- C-12 -->
+    
     <g transform="translate(58.546738 73.7136) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -1056,7 +1054,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- F-19 -->
+    
     <g transform="translate(102.988362 70.3362) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-46" d="M 628 4666 
@@ -1110,7 +1108,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- Fe-56 -->
+    
     <g transform="translate(145.906771 76.0964) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-46"/>
      <use xlink:href="#DejaVuSans-65" x="52.019531"/>
@@ -1120,7 +1118,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- Kr-84 -->
+    
     <g transform="translate(194.232644 78.6944) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-4b" d="M 628 4666 
@@ -1146,7 +1144,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- Sn-120 -->
+    
     <g transform="translate(252.078409 56.41) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -1190,7 +1188,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- U-235 -->
+    
     <g transform="translate(446.53233 76.0518) scale(0.08 -0.08)">
      <defs>
       <path id="DejaVuSans-55" d="M 556 4666 
@@ -1251,7 +1249,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- U-238 -->
+    
     <g transform="translate(481.653383 96.5714) scale(0.08 -0.08)">
      <use xlink:href="#DejaVuSans-55"/>
      <use xlink:href="#DejaVuSans-2d" x="73.193359"/>
@@ -1270,7 +1268,7 @@ L 97.28913 165.976002
 " style="fill: none; stroke: #2b6cb0; stroke-linecap: round"/>
    </g>
    <g id="text_23">
-    <!-- FUSION -->
+    
     <g style="fill: #2b6cb0" transform="translate(78.931505 191.59185) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-49" d="M 628 4666 
@@ -1322,7 +1320,7 @@ z
      <use xlink:href="#DejaVuSans-4f" x="223.681641"/>
      <use xlink:href="#DejaVuSans-4e" x="302.392578"/>
     </g>
-    <!-- (light nuclei combine, -->
+    
     <g style="fill: #2b6cb0" transform="translate(47.80838 201.445925) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -1389,7 +1387,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="991.259766"/>
      <use xlink:href="#DejaVuSans-2c" x="1052.783203"/>
     </g>
-    <!-- climb toward the peak) -->
+    
     <g style="fill: #2b6cb0" transform="translate(44.471255 211.3) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-77" d="M 269 3500 
@@ -1457,7 +1455,7 @@ L 404.552332 132.202002
 " style="fill: none; stroke: #c0392b; stroke-linecap: round"/>
    </g>
    <g id="text_24">
-    <!-- FISSION -->
+    
     <g style="fill: #c0392b" transform="translate(385.323645 157.81785) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-46"/>
      <use xlink:href="#DejaVuSans-49" x="57.519531"/>
@@ -1467,7 +1465,7 @@ L 404.552332 132.202002
      <use xlink:href="#DejaVuSans-4f" x="243.457031"/>
      <use xlink:href="#DejaVuSans-4e" x="322.167969"/>
     </g>
-    <!-- (heavy nuclei split, -->
+    
     <g style="fill: #c0392b" transform="translate(361.076207 167.671925) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1502,7 +1500,7 @@ z
      <use xlink:href="#DejaVuSans-74" x="877.099609"/>
      <use xlink:href="#DejaVuSans-2c" x="916.308594"/>
     </g>
-    <!-- climb toward the peak) -->
+    
     <g style="fill: #c0392b" transform="translate(351.734457 177.526) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-63"/>
      <use xlink:href="#DejaVuSans-6c" x="54.980469"/>
@@ -1529,7 +1527,7 @@ z
     </g>
    </g>
    <g id="text_25">
-    <!-- Binding energy per nucleon vs. mass number -->
+    
     <g transform="translate(141.105909 19.44) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-2e" d="M 684 794 

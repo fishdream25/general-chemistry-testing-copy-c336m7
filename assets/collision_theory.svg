@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1022.4pt" height="417.6pt" viewBox="0 0 1022.4 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -2112,7 +2110,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g style="fill: #4a5a63" transform="translate(53.241625 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -2148,7 +2146,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 10 -->
+      
       <g style="fill: #4a5a63" transform="translate(133.012256 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -2178,7 +2176,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 20 -->
+      
       <g style="fill: #4a5a63" transform="translate(215.773262 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -2218,7 +2216,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 30 -->
+      
       <g style="fill: #4a5a63" transform="translate(298.534267 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -2266,7 +2264,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 40 -->
+      
       <g style="fill: #4a5a63" transform="translate(381.295273 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -2301,7 +2299,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 50 -->
+      
       <g style="fill: #4a5a63" transform="translate(464.056279 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -2342,7 +2340,7 @@ z
       </g>
      </g>
      <g id="text_7">
-      <!-- 60 -->
+      
       <g style="fill: #4a5a63" transform="translate(546.817285 383.718531) scale(0.094 -0.094)">
        <defs>
         <path id="DejaVuSans-36" d="M 2113 2584 
@@ -2382,7 +2380,7 @@ z
      </g>
     </g>
     <g id="text_8">
-     <!-- kinetic energy of a colliding pair -->
+     
      <g style="fill: #22303a" transform="translate(219.242986 397.727781) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-6b" d="M 581 4863 
@@ -2741,7 +2739,7 @@ z
    </g>
    <g id="matplotlib.axis_2">
     <g id="text_9">
-     <!-- fraction of collisions -->
+     
      <g style="fill: #22303a" transform="translate(50.027531 268.070625) rotate(-90) scale(0.106 -0.106)">
       <defs>
        <path id="DejaVuSans-73" d="M 2834 3397 
@@ -2977,7 +2975,7 @@ L 552.798035 369.576
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_10">
-    <!-- $E_a$ -->
+    
     <g style="fill: #c0392b" transform="translate(278.859106 108.310255) scale(0.132 -0.132)">
      <defs>
       <path id="DejaVuSans-Oblique-45" d="M 1081 4666 
@@ -3051,7 +3049,7 @@ Q 313.089168 228.92445 316.929168 228.92445
 z
 " style="fill: #ffffff; stroke: #4a5a63; stroke-linejoin: miter"/>
     </g>
-    <!-- shaded area = collisions with enough energy -->
+    
     <g style="fill: #22303a" transform="translate(316.929168 212.33805) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -3169,7 +3167,7 @@ z
      <use xlink:href="#DejaVuSans-67" x="2133.011719"/>
      <use xlink:href="#DejaVuSans-79" x="2196.488281"/>
     </g>
-    <!-- 8.8%  $\rightarrow$  26.7%  (a 3.0$\times$ increase) -->
+    
     <g style="fill: #22303a" transform="translate(316.929168 223.08795) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-38" d="M 2034 2216 
@@ -3366,7 +3364,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- (a) raising T shifts the tail past $E_a$ -->
+    
     <g style="fill: #22303a" transform="translate(207.365017 51.552) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -3428,7 +3426,7 @@ L 437.702722 73.650438
 " style="fill: none; stroke: #1f6f8b; stroke-width: 2.8; stroke-linecap: square"/>
     </g>
     <g id="text_13">
-     <!-- lower temperature -->
+     
      <g transform="translate(445.702722 77.150438) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -3488,7 +3486,7 @@ L 437.702722 88.328563
 " style="fill: none; stroke: #b8621b; stroke-width: 2.8; stroke-linecap: square"/>
     </g>
     <g id="text_14">
-     <!-- higher temperature -->
+     
      <g transform="translate(445.702722 91.828563) scale(0.1 -0.1)">
       <use xlink:href="#DejaVuSans-68"/>
       <use xlink:href="#DejaVuSans-69" x="63.378906"/>
@@ -3519,7 +3517,7 @@ L 1003.385733 188.79696
 " clip-path="url(#p9df0cb1e29)" style="fill: none; stroke-dasharray: 0.9,1.485; stroke-dashoffset: 0; stroke: #4a5a63; stroke-opacity: 0.7; stroke-width: 0.9"/>
    </g>
    <g id="text_15">
-    <!-- (b) same energy, different orientation -->
+    
     <g style="fill: #22303a" transform="translate(713.275998 74.45808) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -3599,7 +3597,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- productive -->
+    
     <g style="fill: #2e7d5b" transform="translate(652.111242 125.44704) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-70" d="M 1656 506 
@@ -3834,7 +3832,7 @@ z
 " style="fill: #2e7d5b; stroke: #2e7d5b; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <!-- A meets B -->
+    
     <g style="fill: #2e7d5b" transform="translate(948.211729 153.737071) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -3896,7 +3894,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="411.962891"/>
      <use xlink:href="#DejaVuSans-42" x="443.75"/>
     </g>
-    <!-- $\rightarrow$ A–B forms -->
+    
     <g style="fill: #2e7d5b" transform="translate(948.211729 164.039059) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSansDisplay-2013" d="M 313 1978 
@@ -3921,7 +3919,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- unproductive -->
+    
     <g style="fill: #c0392b" transform="translate(652.111242 218.15424) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-6e" d="M 4056 2131 
@@ -3977,7 +3975,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 2.2; stroke-linecap: round"/>
    </g>
    <g id="text_19">
-    <!-- A meets C -->
+    
     <g style="fill: #c0392b" transform="translate(948.211729 246.444271) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -4012,7 +4010,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="411.962891"/>
      <use xlink:href="#DejaVuSans-43" x="443.75"/>
     </g>
-    <!-- $\rightarrow$ bounces off -->
+    
     <g style="fill: #c0392b" transform="translate(948.211729 256.746259) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-2192" transform="translate(19.482422 0.015625)"/>
      <use xlink:href="#DejaVuSans-20" transform="translate(122.753906 0.015625)"/>
@@ -4043,7 +4041,7 @@ Q 711.174154 338.30244 715.494154 338.30244
 z
 " style="fill: #f6f1e8; stroke: #4a5a63; stroke-linejoin: miter"/>
     </g>
-    <!-- Both collisions carry identical energy. -->
+    
     <g style="fill: #22303a" transform="translate(733.646404 310.48614) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-42"/>
      <use xlink:href="#DejaVuSans-6f" x="68.603516"/>
@@ -4085,7 +4083,7 @@ z
      <use xlink:href="#DejaVuSans-79" x="1787.955078"/>
      <use xlink:href="#DejaVuSans-2e" x="1832.884766"/>
     </g>
-    <!-- Only the top one has A arriving at the B end, -->
+    
     <g style="fill: #22303a" transform="translate(715.494154 321.23604) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4f" d="M 2522 4238 
@@ -4166,7 +4164,7 @@ z
      <use xlink:href="#DejaVuSans-64" x="2147.615234"/>
      <use xlink:href="#DejaVuSans-2c" x="2211.091797"/>
     </g>
-    <!-- so only the top one reacts. -->
+    
     <g style="fill: #22303a" transform="translate(758.949154 331.98594) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-6f" x="52.099609"/>
@@ -4276,7 +4274,7 @@ z
 " clip-path="url(#p9df0cb1e29)" style="fill: #b8621b; stroke: #22303a; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_21">
-    <!-- C -->
+    
     <g style="fill: #ffffff" transform="translate(738.19055 158.832877) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -4305,7 +4303,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- B -->
+    
     <g style="fill: #ffffff" transform="translate(783.673794 158.832877) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -4345,7 +4343,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- A -->
+    
     <g style="fill: #ffffff" transform="translate(889.400366 158.943253) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -4369,26 +4367,26 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- B -->
+    
     <g style="fill: #ffffff" transform="translate(738.063284 251.540077) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-42"/>
     </g>
    </g>
    <g id="text_25">
-    <!-- C -->
+    
     <g style="fill: #ffffff" transform="translate(783.80106 251.540077) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-43"/>
     </g>
    </g>
    <g id="text_26">
-    <!-- A -->
+    
     <g style="fill: #ffffff" transform="translate(889.400366 251.650453) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-Bold-41"/>
     </g>
    </g>
   </g>
   <g id="text_27">
-   <!-- A collision reacts only if it clears the energy barrier AND arrives correctly oriented -->
+   
    <g style="fill: #22303a" transform="translate(193.778125 22.026675) scale(0.136 -0.136)">
     <defs>
      <path id="DejaVuSans-Bold-20" transform="scale(0.015625)"/>

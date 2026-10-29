@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="547.2pt" viewBox="0 0 936 547.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -108,7 +106,7 @@ z
 " clip-path="url(#pb87395d299)" style="fill: #f4f7f9; stroke: #22303a; stroke-width: 2.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Compress a gas equilibrium and it shifts toward whichever side has FEWER gas molecules -->
+    
     <g style="fill: #22303a" transform="translate(132.069281 31.248) scale(0.132 -0.132)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -768,7 +766,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)}$   —   4 molecules of gas on the left, 2 on the right -->
+    
     <g style="fill: #4a5a63" transform="translate(264.582 59.76) scale(0.108 -0.108)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1362,7 +1360,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- before -->
+    
     <g style="fill: #22303a" transform="translate(149.756 88.08115) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-Bold-62"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="71.582031"/>
@@ -1373,7 +1371,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- large volume, low pressure -->
+    
     <g style="fill: #4a5a63" transform="translate(106.786359 395.503331) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1458,7 +1456,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- 18 gas molecules -->
+    
     <g style="fill: #22303a" transform="translate(119.733625 433.328775) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -1534,7 +1532,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- compressed -->
+    
     <g style="fill: #22303a" transform="translate(428.17475 88.08115) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-Bold-63"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="59.277344"/>
@@ -1549,7 +1547,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- same molecules, half the volume -->
+    
     <g style="fill: #4a5a63" transform="translate(388.145859 395.503331) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-61" x="52.099609"/>
@@ -1585,7 +1583,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- 18 gas molecules -->
+    
     <g style="fill: #22303a" transform="translate(415.545625 433.328775) scale(0.104 -0.104)">
      <use xlink:href="#DejaVuSans-Bold-31"/>
      <use xlink:href="#DejaVuSans-Bold-38" x="69.580078"/>
@@ -1606,7 +1604,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- new equilibrium -->
+    
     <g style="fill: #22303a" transform="translate(700.36575 88.08115) scale(0.112 -0.112)">
      <use xlink:href="#DejaVuSans-Bold-6e"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="71.191406"/>
@@ -1626,7 +1624,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- shifted to the smaller side -->
+    
     <g style="fill: #4a5a63" transform="translate(689.936172 395.503331) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-64" d="M 2906 2969 
@@ -1686,7 +1684,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- 16 gas molecules -->
+    
     <g style="fill: #22303a" transform="translate(700.665625 433.328775) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-36" d="M 2316 2303 
@@ -1739,7 +1737,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- squeeze -->
+    
     <g style="fill: #22303a" transform="translate(312.301731 222.2784) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-73" d="M 3200 3397 
@@ -1882,7 +1880,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- react -->
+    
     <g style="fill: #22303a" transform="translate(592.013659 222.2784) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-72" d="M 2853 2969 
@@ -1998,21 +1996,21 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- $\mathrm{N_2}$ -->
+    
     <g style="fill: #22303a" transform="translate(84.5136 476.108937) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(75.761719 -16.3125) scale(0.7)"/>
     </g>
    </g>
    <g id="text_15">
-    <!-- $\mathrm{H_2}$ -->
+    
     <g style="fill: #22303a" transform="translate(180.7416 476.108937) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-32" transform="translate(76.152344 -16.3125) scale(0.7)"/>
     </g>
    </g>
    <g id="text_16">
-    <!-- $\mathrm{NH_3}$ -->
+    
     <g style="fill: #22303a" transform="translate(276.9696 476.108937) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(74.804688 0.09375)"/>
@@ -2020,7 +2018,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- Compression raises every partial pressure at once, so $Q$ no longer equals $K$. Converting 4 molecules into 2 -->
+    
     <g style="fill: #4a5a63" transform="translate(206.34 516.011272) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-43" d="M 4447 4306 
@@ -2462,7 +2460,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-20" transform="translate(5244.482422 0.015625)"/>
      <use xlink:href="#DejaVuSans-Oblique-32" transform="translate(5276.269531 0.015625)"/>
     </g>
-    <!-- removes some of that added pressure — the stress is partially offset, never erased. -->
+    
     <g style="fill: #4a5a63" transform="translate(262.434281 527.005034) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-Oblique-66" d="M 3059 4863 

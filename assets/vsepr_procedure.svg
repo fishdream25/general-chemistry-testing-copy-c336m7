@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="907.2pt" height="432pt" viewBox="0 0 907.2 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -82,7 +80,7 @@ z
 " clip-path="url(#p34d4701a06)" style="fill: #f7fafb; stroke: #6b3fa0; stroke-width: 1.5; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Four steps from a Lewis structure to a shape -->
+    
     <g style="fill: #22303a" transform="translate(290.095078 75.317085) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -521,7 +519,7 @@ Q 179.587461 371.248515 183.957461 371.248515
 z
 " style="fill: #fdf3e7; stroke: #e0c9a6; stroke-linejoin: miter"/>
     </g>
-    <!-- Steps 3 and 4 are where the confusion lives. The ELECTRON geometry counts every domain, including lone pairs; the -->
+    
     <g style="fill: #22303a" transform="translate(185.384687 336.408453) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -1300,7 +1298,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="5760.490234"/>
      <use xlink:href="#DejaVuSans-65" x="5823.869141"/>
     </g>
-    <!-- MOLECULAR geometry names only the positions of the atoms. Water has a tetrahedral electron geometry and a BENT -->
+    
     <g style="fill: #22303a" transform="translate(183.957461 350.655632) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
@@ -1512,7 +1510,7 @@ z
      <use xlink:href="#DejaVuSans-4e" x="5779.5625"/>
      <use xlink:href="#DejaVuSans-54" x="5854.367188"/>
     </g>
-    <!-- molecular shape — same molecule, two different correct answers to two different questions. -->
+    
     <g style="fill: #22303a" transform="translate(244.748555 364.902812) scale(0.095 -0.095)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -1642,7 +1640,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Draw the -->
+    
     <g style="fill: #1f6f8b" transform="translate(184.844766 177.366091) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-44" d="M 1791 3756 
@@ -1678,7 +1676,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-68" x="374.804688"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="445.996094"/>
     </g>
-    <!-- Lewis structure -->
+    
     <g style="fill: #1f6f8b" transform="translate(166.385953 191.112982) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-4c"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="63.720703"/>
@@ -1698,7 +1696,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Chapter 9 -->
+    
     <g style="fill: #22303a" transform="translate(189.260375 260.215798) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -1744,7 +1742,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Count ELECTRON -->
+    
     <g style="fill: #b8621b" transform="translate(321.388547 170.492646) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-43" d="M 4288 256 
@@ -1894,7 +1892,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-4f" x="786.035156"/>
      <use xlink:href="#DejaVuSans-Bold-4e" x="871.044922"/>
     </g>
-    <!-- DOMAINS on the -->
+    
     <g style="fill: #b8621b" transform="translate(322.437234 184.239536) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-4d" d="M 588 4666 
@@ -1983,7 +1981,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-68" x="795.166016"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="866.357422"/>
     </g>
-    <!-- central atom -->
+    
     <g style="fill: #b8621b" transform="translate(333.351234 197.986427) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-6c" d="M 538 4863 
@@ -2009,7 +2007,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- each lone pair = 1 -->
+    
     <g style="fill: #22303a" transform="translate(329.457 247.687073) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-3d" d="M 678 2906 
@@ -2059,7 +2057,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="827.832031"/>
      <use xlink:href="#DejaVuSans-31" x="859.619141"/>
     </g>
-    <!-- each bond = 1, -->
+    
     <g style="fill: #22303a" transform="translate(336.321 260.215798) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -2104,7 +2102,7 @@ z
      <use xlink:href="#DejaVuSans-31" x="671.826172"/>
      <use xlink:href="#DejaVuSans-2c" x="735.449219"/>
     </g>
-    <!-- single or multiple -->
+    
     <g style="fill: #22303a" transform="translate(331.789 272.744523) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-69" x="52.099609"/>
@@ -2127,7 +2125,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Domains give the -->
+    
     <g style="fill: #2e7d5b" transform="translate(495.681141 170.412958) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-67" d="M 2919 594 
@@ -2192,7 +2190,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-68" x="844.677734"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="915.869141"/>
     </g>
-    <!-- ELECTRON -->
+    
     <g style="fill: #2e7d5b" transform="translate(515.879531 184.239536) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-45"/>
      <use xlink:href="#DejaVuSans-Bold-4c" x="68.310547"/>
@@ -2203,7 +2201,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-4f" x="418.945312"/>
      <use xlink:href="#DejaVuSans-Bold-4e" x="503.955078"/>
     </g>
-    <!-- geometry -->
+    
     <g style="fill: #2e7d5b" transform="translate(518.185687 197.986427) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-79" d="M 78 3500 
@@ -2235,7 +2233,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- 2 linear · 3 trigonal planar -->
+    
     <g style="fill: #22303a" transform="translate(488.46025 247.687073) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -2299,7 +2297,7 @@ z
      <use xlink:href="#DejaVuSans-61" x="1201.953125"/>
      <use xlink:href="#DejaVuSans-72" x="1263.232422"/>
     </g>
-    <!-- 4 tetrahedral · 5 trig. bipyr. -->
+    
     <g style="fill: #22303a" transform="translate(486.014812 260.215798) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-35" d="M 691 4666 
@@ -2359,7 +2357,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="1296.142578"/>
      <use xlink:href="#DejaVuSans-2e" x="1328.130859"/>
     </g>
-    <!-- 6 octahedral -->
+    
     <g style="fill: #22303a" transform="translate(518.1025 272.744523) scale(0.088 -0.088)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -2408,7 +2406,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Ignore the lone pairs -->
+    
     <g style="fill: #6b3fa0" transform="translate(658.587047 170.452802) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-49"/>
      <use xlink:href="#DejaVuSans-Bold-67" x="37.207031"/>
@@ -2432,7 +2430,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-72" x="1072.412109"/>
      <use xlink:href="#DejaVuSans-Bold-73" x="1121.728516"/>
     </g>
-    <!-- to name the -->
+    
     <g style="fill: #6b3fa0" transform="translate(683.964328 184.27938) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-74"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="47.802734"/>
@@ -2446,7 +2444,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-68" x="544.628906"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="615.820312"/>
     </g>
-    <!-- MOLECULAR shape -->
+    
     <g style="fill: #6b3fa0" transform="translate(664.684734 198.026271) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-55" d="M 588 4666 
@@ -2485,7 +2483,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- the shape is named by -->
+    
     <g style="fill: #22303a" transform="translate(668.5545 253.951435) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -2509,7 +2507,7 @@ z
      <use xlink:href="#DejaVuSans-62" x="1019.970703"/>
      <use xlink:href="#DejaVuSans-79" x="1083.447266"/>
     </g>
-    <!-- where the ATOMS are -->
+    
     <g style="fill: #22303a" transform="translate(671.379437 266.48016) scale(0.088 -0.088)">
      <use xlink:href="#DejaVuSans-77"/>
      <use xlink:href="#DejaVuSans-68" x="81.787109"/>
@@ -2585,7 +2583,7 @@ z
 " clip-path="url(#p34d4701a06)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_11">
-    <!-- 1 -->
+    
     <g style="fill: #ffffff" transform="translate(133.567203 142.807973) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -2607,7 +2605,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- 2 -->
+    
     <g style="fill: #ffffff" transform="translate(292.597203 142.807973) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -2637,7 +2635,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- 3 -->
+    
     <g style="fill: #ffffff" transform="translate(468.367203 142.807973) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -2677,7 +2675,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- 4 -->
+    
     <g style="fill: #ffffff" transform="translate(641.347203 142.807973) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-34" d="M 2356 3675 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="244.8pt" viewBox="0 0 460.8 244.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -75,7 +73,7 @@ Q 17.343 93.321956 19.593 93.321956
 z
 " style="fill: #e8f0f7; stroke: #888888; stroke-linejoin: miter"/>
     </g>
-    <!-- NH$_3$ -->
+    
     <g transform="translate(19.593 89.200237) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -167,7 +165,7 @@ Q 17.343 183.328356 19.593 183.328356
 z
 " style="fill: #e8f0f7; stroke: #888888; stroke-linejoin: miter"/>
     </g>
-    <!-- NH$_3$ -->
+    
     <g transform="translate(19.593 179.206637) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(71.179688 0.09375)"/>
@@ -184,7 +182,7 @@ L 248.962019 133.72
 " style="fill: none; stroke: #333333; stroke-width: 1.6; stroke-linecap: round"/>
    </g>
    <g id="text_3">
-    <!-- $K_f$ -->
+    
     <g transform="translate(203.79 115.3552) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-4b" d="M 1081 4666 
@@ -254,7 +252,7 @@ Q 283.1688 138.325156 285.4188 138.325156
 z
 " style="fill: #e8f0f7; stroke: #888888; stroke-linejoin: miter"/>
     </g>
-    <!-- NH$_3$ -->
+    
     <g transform="translate(285.4188 134.203437) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(71.179688 0.09375)"/>
@@ -275,7 +273,7 @@ Q 383.9652 138.325156 386.2152 138.325156
 z
 " style="fill: #e8f0f7; stroke: #888888; stroke-linejoin: miter"/>
     </g>
-    <!-- NH$_3$ -->
+    
     <g transform="translate(386.2152 134.203437) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-48" transform="translate(71.179688 0.09375)"/>
@@ -283,7 +281,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- [Ag(NH$_3$)$_2$]$^+$ -->
+    
     <g transform="translate(310.442 184.9056) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-5b" d="M 550 4863 
@@ -466,7 +464,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- metal cation -->
+    
     <g style="fill: #555555" transform="translate(41.257133 175.387459) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -674,7 +672,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="502.246094"/>
      <use xlink:href="#DejaVuSans-6e" x="563.427734"/>
     </g>
-    <!-- (Lewis acid) -->
+    
     <g style="fill: #555555" transform="translate(42.62975 184.9056) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -801,7 +799,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- Complex-ion formation (schematic): metal cation + ligands -->
+    
     <g transform="translate(67.258828 19.44) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -1038,7 +1036,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- Ag$^+$ -->
+    
     <g style="fill: #ffffff" transform="translate(56.796 134.82) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1064,7 +1062,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- Ag$^+$ -->
+    
     <g style="fill: #ffffff" transform="translate(334.602 134.51) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-41" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-67" transform="translate(68.408203 0.826562)"/>

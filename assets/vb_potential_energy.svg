@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="835.2pt" height="403.2pt" viewBox="0 0 835.2 403.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -50,7 +48,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0.5 -->
+      
       <g transform="translate(114.874054 336.024313) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -120,7 +118,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 1.0 -->
+      
       <g transform="translate(244.913037 336.024313) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -151,7 +149,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 1.5 -->
+      
       <g transform="translate(374.95202 336.024313) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-31"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -166,7 +164,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 2.0 -->
+      
       <g transform="translate(504.991003 336.024313) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -207,7 +205,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 2.5 -->
+      
       <g transform="translate(635.029986 336.024313) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -222,7 +220,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 3.0 -->
+      
       <g transform="translate(765.068969 336.024313) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -265,7 +263,7 @@ z
      </g>
     </g>
     <g id="text_7">
-     <!-- distance between the two nuclei  (Å) -->
+     
      <g transform="translate(345.187875 350.800375) scale(0.104 -0.104)">
       <defs>
        <path id="DejaVuSans-64" d="M 2906 2969 
@@ -681,7 +679,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <!-- −600 -->
+      
       <g transform="translate(24.900188 320.876874) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-2212" d="M 678 2272 
@@ -736,7 +734,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- −400 -->
+      
       <g transform="translate(24.900188 274.355301) scale(0.092 -0.092)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -773,7 +771,7 @@ z
       </g>
      </g>
      <g id="text_10">
-      <!-- −200 -->
+      
       <g transform="translate(24.900188 227.833729) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-2212"/>
        <use xlink:href="#DejaVuSans-32" x="83.789062"/>
@@ -789,7 +787,7 @@ z
       </g>
      </g>
      <g id="text_11">
-      <!-- 0 -->
+      
       <g transform="translate(44.3165 181.312156) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-30"/>
       </g>
@@ -802,7 +800,7 @@ z
       </g>
      </g>
      <g id="text_12">
-      <!-- 200 -->
+      
       <g transform="translate(32.6095 134.790584) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-32"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -817,7 +815,7 @@ z
       </g>
      </g>
      <g id="text_13">
-      <!-- 400 -->
+      
       <g transform="translate(32.6095 88.269011) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-34"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -832,7 +830,7 @@ z
       </g>
      </g>
      <g id="text_14">
-      <!-- 600 -->
+      
       <g transform="translate(32.6095 41.747439) scale(0.092 -0.092)">
        <use xlink:href="#DejaVuSans-36"/>
        <use xlink:href="#DejaVuSans-30" x="63.623047"/>
@@ -841,7 +839,7 @@ z
      </g>
     </g>
     <g id="text_15">
-     <!-- potential energy  (kJ/mol) -->
+     
      <g transform="translate(18.737312 244.072188) rotate(-90) scale(0.104 -0.104)">
       <defs>
        <path id="DejaVuSans-70" d="M 1159 525 
@@ -1142,7 +1140,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 1.3; stroke-linecap: round"/>
    </g>
    <g id="text_16">
-    <!-- bond enthalpy -->
+    
     <g style="fill: #c0392b" transform="translate(629.341525 224.705264) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-62"/>
      <use xlink:href="#DejaVuSans-6f" x="63.476562"/>
@@ -1158,7 +1156,7 @@ z
      <use xlink:href="#DejaVuSans-70" x="599.853516"/>
      <use xlink:href="#DejaVuSans-79" x="663.330078"/>
     </g>
-    <!-- 436 kJ/mol -->
+    
     <g style="fill: #c0392b" transform="translate(629.341525 237.643514) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-34"/>
      <use xlink:href="#DejaVuSans-33" x="63.623047"/>
@@ -1173,7 +1171,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- 74 pm -->
+    
     <g style="fill: #c0392b" transform="translate(169.251953 298.624012) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -1193,7 +1191,7 @@ z
      <use xlink:href="#DejaVuSans-70" x="159.033203"/>
      <use xlink:href="#DejaVuSans-6d" x="222.509766"/>
     </g>
-    <!-- bond length -->
+    
     <g style="fill: #c0392b" transform="translate(155.709203 311.562262) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-62"/>
      <use xlink:href="#DejaVuSans-6f" x="63.476562"/>
@@ -1209,7 +1207,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- far apart: -->
+    
     <g style="fill: #4a5a63" transform="translate(694.361017 155.843857) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-66" d="M 2375 4863 
@@ -1258,7 +1256,7 @@ z
      <use xlink:href="#DejaVuSans-74" x="396.533203"/>
      <use xlink:href="#DejaVuSans-3a" x="435.742188"/>
     </g>
-    <!-- no interaction -->
+    
     <g style="fill: #4a5a63" transform="translate(694.361017 168.51256) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-6e"/>
      <use xlink:href="#DejaVuSans-6f" x="63.378906"/>
@@ -1277,7 +1275,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- attraction wins — -->
+    
     <g style="fill: #2e7d5b" transform="translate(304.244068 222.261828) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -1306,7 +1304,7 @@ z
      <use xlink:href="#DejaVuSans-20" x="745.458984"/>
      <use xlink:href="#DejaVuSans-2014" x="777.246094"/>
     </g>
-    <!-- energy falls as the -->
+    
     <g style="fill: #2e7d5b" transform="translate(304.244068 234.930531) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-65"/>
      <use xlink:href="#DejaVuSans-6e" x="61.523438"/>
@@ -1328,7 +1326,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="800.544922"/>
      <use xlink:href="#DejaVuSans-65" x="863.923828"/>
     </g>
-    <!-- orbitals overlap -->
+    
     <g style="fill: #2e7d5b" transform="translate(304.244068 247.599234) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-76" d="M 191 3500 
@@ -1361,7 +1359,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- too close: nuclei and -->
+    
     <g style="fill: #b8621b" transform="translate(85.778576 92.001424) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-6f" x="39.208984"/>
@@ -1385,7 +1383,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="908.300781"/>
      <use xlink:href="#DejaVuSans-64" x="971.679688"/>
     </g>
-    <!-- electrons repel, energy -->
+    
     <g style="fill: #b8621b" transform="translate(85.778576 104.670128) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -1422,7 +1420,7 @@ z
      <use xlink:href="#DejaVuSans-67" x="1034.863281"/>
      <use xlink:href="#DejaVuSans-79" x="1098.339844"/>
     </g>
-    <!-- rises steeply -->
+    
     <g style="fill: #b8621b" transform="translate(85.778576 117.338831) scale(0.094 -0.094)">
      <use xlink:href="#DejaVuSans-72"/>
      <use xlink:href="#DejaVuSans-69" x="41.113281"/>
@@ -1440,7 +1438,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- A bond is the bottom of an energy well -->
+    
     <g style="fill: #22303a" transform="translate(310.253297 21.6) scale(0.134 -0.134)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1520,7 +1518,7 @@ z
    </g>
   </g>
   <g id="text_22">
-   <!-- Valence bond theory pictures a bond as two atomic orbitals overlapping. The minimum is the compromise between attraction -->
+   
    <g style="fill: #4a5a63" transform="translate(121.456672 381.038791) scale(0.094 -0.094)">
     <defs>
      <path id="DejaVuSans-56" d="M 1831 0 
@@ -1666,7 +1664,7 @@ z
     <use xlink:href="#DejaVuSans-6f" x="6176.421875"/>
     <use xlink:href="#DejaVuSans-6e" x="6237.603516"/>
    </g>
-   <!-- pulling the atoms together and repulsion pushing them apart — and its depth IS the bond enthalpy of Chapter 9. -->
+   
    <g style="fill: #4a5a63" transform="translate(151.720266 395.136) scale(0.094 -0.094)">
     <defs>
      <path id="DejaVuSans-49" d="M 628 4666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="950.4pt" height="561.6pt" viewBox="0 0 950.4 561.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -43,7 +41,7 @@ z
 " clip-path="url(#p682edb3221)" style="fill: #f6f1e8; stroke: #4a5a63; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- One electron moves — and that single transfer is both an oxidation and a reduction -->
+    
     <g style="fill: #22303a" transform="translate(158.871016 37.0224) scale(0.134 -0.134)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -581,7 +579,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{2Na(s) + F_2(g) \rightarrow 2NaF(s)}$   —   following one sodium and one fluorine -->
+    
     <g style="fill: #4a5a63" transform="translate(290.682 65.5344) scale(0.108 -0.108)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -1079,7 +1077,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- oxidation number 0 -->
+    
     <g style="fill: #4a5a63" transform="translate(117.521437 264.4056) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -1187,7 +1185,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- oxidation number +1 -->
+    
     <g style="fill: #4a5a63" transform="translate(373.922578 264.4056) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -1227,7 +1225,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- loses 1 e$^-$ -->
+    
     <g style="fill: #b8621b" transform="translate(264.086 161.7624) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -1265,7 +1263,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- OXIDIZED -->
+    
     <g style="fill: #b8621b" transform="translate(41.1625 177.444) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-58" d="M 3188 2381 
@@ -1353,7 +1351,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- so Na is the -->
+    
     <g style="fill: #b8621b" transform="translate(45.387656 218.648962) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -1389,7 +1387,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="463.818359"/>
      <use xlink:href="#DejaVuSans-65" x="527.197266"/>
     </g>
-    <!-- REDUCING agent -->
+    
     <g style="fill: #b8621b" transform="translate(33.131531 228.95095) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
@@ -1542,7 +1540,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- oxidation number 0 -->
+    
     <g style="fill: #4a5a63" transform="translate(117.521437 471.1176) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-78" x="58.056641"/>
@@ -1565,7 +1563,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- oxidation number −1 -->
+    
     <g style="fill: #4a5a63" transform="translate(373.922578 471.1176) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-6f"/>
      <use xlink:href="#DejaVuSans-78" x="58.056641"/>
@@ -1589,7 +1587,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- gains 1 e$^-$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(263.386 368.4744) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-Bold-67" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-Bold-61" transform="translate(71.582031 0.015625)"/>
@@ -1604,7 +1602,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- REDUCED -->
+    
     <g style="fill: #2e7d5b" transform="translate(41.4815 384.156) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-52" d="M 2297 2597 
@@ -1684,7 +1682,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- so F is the -->
+    
     <g style="fill: #2e7d5b" transform="translate(49.00225 425.360963) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-73"/>
      <use xlink:href="#DejaVuSans-6f" x="52.099609"/>
@@ -1698,7 +1696,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="385.253906"/>
      <use xlink:href="#DejaVuSans-65" x="448.632812"/>
     </g>
-    <!-- OXIDIZING agent -->
+    
     <g style="fill: #2e7d5b" transform="translate(33.469344 435.66295) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-4f" d="M 2522 4238 
@@ -1769,7 +1767,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- the same electron -->
+    
     <g style="fill: #6b3fa0" transform="translate(100.911375 341.388) scale(0.094 -0.094)">
      <defs>
       <path id="DejaVuSans-Oblique-74" d="M 2706 3500 
@@ -2077,7 +2075,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- The four names, untangled -->
+    
     <g style="fill: #22303a" transform="translate(634.706525 175.3056) scale(0.116 -0.116)">
      <defs>
       <path id="DejaVuSans-Bold-54" d="M 31 4666 
@@ -2129,7 +2127,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- is oxidized -->
+    
     <g style="fill: #b8621b" transform="translate(564.3 216.648) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-7a" d="M 366 3500 
@@ -2160,7 +2158,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- loses electrons · ON goes UP -->
+    
     <g style="fill: #22303a" transform="translate(564.3 240.8832) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-63" d="M 3122 3366 
@@ -2244,7 +2242,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- is reduced -->
+    
     <g style="fill: #2e7d5b" transform="translate(564.3 267.9696) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-69"/>
      <use xlink:href="#DejaVuSans-Bold-73" x="34.277344"/>
@@ -2259,7 +2257,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- gains electrons · ON goes DOWN -->
+    
     <g style="fill: #22303a" transform="translate(564.3 292.2048) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-57" d="M 213 4666 
@@ -2312,7 +2310,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- reducing agent -->
+    
     <g style="fill: #b8621b" transform="translate(564.3 319.2912) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-72"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="49.316406"/>
@@ -2331,7 +2329,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- the one oxidized · gives e$^-$ away -->
+    
     <g style="fill: #22303a" transform="translate(564.3 343.5264) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-7a" d="M 353 3500 
@@ -2410,7 +2408,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- oxidizing agent -->
+    
     <g style="fill: #2e7d5b" transform="translate(564.3 370.6128) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-6f"/>
      <use xlink:href="#DejaVuSans-Bold-78" x="68.701172"/>
@@ -2430,7 +2428,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- the one reduced · takes e$^-$ -->
+    
     <g style="fill: #22303a" transform="translate(564.3 394.848) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -2477,7 +2475,7 @@ z
     </g>
    </g>
    <g id="text_23">
-    <!-- An agent is named for what it does to the OTHER species. -->
+    
     <g style="fill: #4a5a63" transform="translate(592.615884 414.8064) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Oblique-41" d="M 2356 4666 
@@ -2813,7 +2811,7 @@ z
     </g>
    </g>
    <g id="text_24">
-    <!-- Neither half can happen alone: the electron sodium loses is exactly the electron fluorine gains. Every redox reaction splits -->
+    
     <g style="fill: #4a5a63" transform="translate(180.8895 504.74445) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Oblique-4e" d="M 1081 4666 
@@ -3033,7 +3031,7 @@ z
      <use xlink:href="#DejaVuSans-Oblique-74" x="6040.185547"/>
      <use xlink:href="#DejaVuSans-Oblique-73" x="6079.394531"/>
     </g>
-    <!-- this way, and §18.2 pulls the two halves physically apart so the electron has to travel through a wire. -->
+    
     <g style="fill: #4a5a63" transform="translate(232.00125 515.49435) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Oblique-2c" d="M 575 794 
@@ -3330,7 +3328,7 @@ z
 " clip-path="url(#p682edb3221)" style="fill: #ffffff; stroke: #2e7d5b; stroke-width: 2.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_25">
-    <!-- Na -->
+    
     <g style="fill: #b8621b" transform="translate(151.741828 202.415188) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -3352,7 +3350,7 @@ z
     </g>
    </g>
    <g id="text_26">
-    <!-- Na$^+$ -->
+    
     <g style="fill: #b8621b" transform="translate(406.075 202.415188) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-Bold-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-Bold-61" transform="translate(83.691406 0.826562)"/>
@@ -3360,7 +3358,7 @@ z
     </g>
    </g>
    <g id="text_27">
-    <!-- F -->
+    
     <g style="fill: #2e7d5b" transform="translate(157.127687 409.127187) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-46" d="M 588 4666 
@@ -3381,7 +3379,7 @@ z
     </g>
    </g>
    <g id="text_28">
-    <!-- F$^-$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(411.47 409.127187) scale(0.13 -0.13)">
      <use xlink:href="#DejaVuSans-Bold-46" transform="translate(0 0.09375)"/>
      <use xlink:href="#DejaVuSans-2212" transform="translate(82.905273 38.375) scale(0.7)"/>
@@ -3431,7 +3429,7 @@ z
 " clip-path="url(#p682edb3221)" style="fill: #6b3fa0"/>
    </g>
    <g id="text_29">
-    <!-- e$^-$ -->
+    
     <g style="fill: #ffffff" transform="translate(215.046 296.113837) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-Bold-65" transform="translate(0 0.86875)"/>
      <use xlink:href="#DejaVuSans-2212" transform="translate(82.416992 39.15) scale(0.7)"/>

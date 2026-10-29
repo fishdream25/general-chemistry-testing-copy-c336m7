@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="496.8pt" viewBox="0 0 892.8 496.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -133,7 +131,7 @@ z
 " style="fill: #8b9aa3; stroke: #8b9aa3; stroke-width: 1.8; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- -3 -->
+    
     <g style="fill: #22303a" transform="translate(181.845141 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-2d" d="M 313 2009 
@@ -181,7 +179,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- -2 -->
+    
     <g style="fill: #22303a" transform="translate(233.181141 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -214,7 +212,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- -1 -->
+    
     <g style="fill: #22303a" transform="translate(284.517141 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -237,7 +235,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- 0 -->
+    
     <g style="fill: #22303a" transform="translate(337.693125 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-30" d="M 2034 4250 
@@ -266,7 +264,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- +1 -->
+    
     <g style="fill: #22303a" transform="translate(384.755484 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-2b" d="M 2944 4013 
@@ -290,21 +288,21 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- +2 -->
+    
     <g style="fill: #22303a" transform="translate(436.091484 222.602845) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-2b"/>
      <use xlink:href="#DejaVuSans-32" x="83.789062"/>
     </g>
    </g>
    <g id="text_7">
-    <!-- +3 -->
+    
     <g style="fill: #22303a" transform="translate(487.427484 222.602845) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-2b"/>
      <use xlink:href="#DejaVuSans-33" x="83.789062"/>
     </g>
    </g>
    <g id="text_8">
-    <!-- +4 -->
+    
     <g style="fill: #22303a" transform="translate(538.763484 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -332,7 +330,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- +5 -->
+    
     <g style="fill: #22303a" transform="translate(590.099484 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-35" d="M 691 4666 
@@ -366,7 +364,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- +6 -->
+    
     <g style="fill: #22303a" transform="translate(641.435484 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -405,7 +403,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- +7 -->
+    
     <g style="fill: #22303a" transform="translate(692.771484 222.602845) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -434,7 +432,7 @@ z
 " style="fill: #c0392b; stroke: #c0392b; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_12">
-    <!-- OXIDATION — loses electrons, number goes UP -->
+    
     <g style="fill: #c0392b" transform="translate(492.54825 116.791684) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -935,7 +933,7 @@ z
 " style="fill: #2e7d5b; stroke: #2e7d5b; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="text_13">
-    <!-- REDUCTION — gains electrons, number goes DOWN -->
+    
     <g style="fill: #2e7d5b" transform="translate(154.374 116.791684) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-52" d="M 2297 2597 
@@ -1113,7 +1111,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- Oxidation number: a bookkeeping charge that tracks where electrons went -->
+    
     <g style="fill: #22303a" transform="translate(168.637563 83.263821) scale(0.136 -0.136)">
      <defs>
       <path id="DejaVuSans-Bold-78" d="M 1422 1791 
@@ -1323,7 +1321,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- The rules are a convention, not a measurement — no sulfur atom really carries six positive charges. What matters is that the number CHANGES when electrons move. -->
+    
     <g style="fill: #4a5a63" transform="translate(56.4195 431.893344) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -2121,7 +2119,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- Assigning one: the sulfur in $\mathrm{SO_4^{2-}}$ -->
+    
     <g style="fill: #22303a" transform="translate(354.71 290.725123) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-66" d="M 2841 4863 
@@ -2224,7 +2222,7 @@ z
 " clip-path="url(#pc4a0cb75cb)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_17">
-    <!-- Oxygen is $-2$ (the usual rule), and there are four of them:  $4(-2) = -8$ -->
+    
     <g style="fill: #22303a" transform="translate(207.576 319.345706) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -2429,7 +2427,7 @@ z
 " clip-path="url(#pc4a0cb75cb)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_18">
-    <!-- The whole ion carries a charge of $-2$, so every oxidation number must sum to $-2$ -->
+    
     <g style="fill: #22303a" transform="translate(207.576 347.507865) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-54" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-68" transform="translate(61.083984 0.015625)"/>
@@ -2525,7 +2523,7 @@ z
 " clip-path="url(#pc4a0cb75cb)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_19">
-    <!-- $x + (-8) = -2 \;\Rightarrow\; x = +6$.   Sulfur is $+6$. -->
+    
     <g style="fill: #22303a" transform="translate(207.576 375.6794) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-78" d="M 3841 3500 
@@ -2596,7 +2594,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- 1 -->
+    
     <g style="fill: #ffffff" transform="translate(183.798984 319.079143) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-31" d="M 750 831 
@@ -2618,7 +2616,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- 2 -->
+    
     <g style="fill: #ffffff" transform="translate(183.798984 347.241303) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-32" d="M 1844 884 
@@ -2648,7 +2646,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- 3 -->
+    
     <g style="fill: #ffffff" transform="translate(183.798984 375.403462) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-Bold-33" d="M 2981 2516 
@@ -2701,7 +2699,7 @@ Q 314.65425 161.8155 316.57425 161.8155
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- Na metal -->
+    
     <g style="fill: #4a5a63" transform="translate(316.57425 157.899) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-4e"/>
      <use xlink:href="#DejaVuSans-Bold-61" x="83.691406"/>
@@ -2727,7 +2725,7 @@ Q 379.506 181.763696 381.426 181.763696
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- $\mathrm{Na^+}$ -->
+    
     <g style="fill: #1f6f8b" transform="translate(381.426 177.847196) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.826562)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.826562)"/>
@@ -2748,7 +2746,7 @@ Q 278.658 181.763696 280.578 181.763696
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- $\mathrm{Cl^-}$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(280.578 177.847196) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-6c" transform="translate(69.824219 0.015625)"/>
@@ -2769,7 +2767,7 @@ Q 621.882 182.830196 623.802 182.830196
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- S in $\mathrm{SO_4^{2-}}$ -->
+    
     <g style="fill: #b8621b" transform="translate(623.802 178.222196) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -2830,7 +2828,7 @@ Q 522.954 161.8155 524.874 161.8155
 z
 " style="fill: #ffffff"/>
     </g>
-    <!-- C in $\mathrm{CO_2}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(524.874 157.899) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-Bold-43" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-Bold-20" transform="translate(73.388672 0.015625)"/>

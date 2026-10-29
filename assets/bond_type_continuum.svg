@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="417.6pt" viewBox="0 0 892.8 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -30,7 +28,7 @@ z
   </g>
   <g id="axes_1">
    <g id="text_1">
-    <!-- Bond type is a continuum, and $\Delta$EN locates you on it -->
+    
     <g style="fill: #22303a" transform="translate(254.01 73.536681) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -512,7 +510,7 @@ z
 " clip-path="url(#p30c7f7eb10)" style="fill: #e6dff0; stroke: #6b3fa0; stroke-width: 1.6; stroke-linejoin: miter"/>
    </g>
    <g id="text_2">
-    <!-- 0 -->
+    
     <g style="fill: #22303a" transform="translate(167.136 218.46167) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-30" d="M 2034 4250 
@@ -541,7 +539,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- 0.3 -->
+    
     <g style="fill: #22303a" transform="translate(214.805591 218.46167) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-2e" d="M 684 794 
@@ -590,7 +588,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- 2 -->
+    
     <g style="fill: #22303a" transform="translate(515.463273 218.46167) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-32" d="M 1228 531 
@@ -622,7 +620,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- 3.3 -->
+    
     <g style="fill: #22303a" transform="translate(737.2965 218.46167) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-33"/>
      <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -630,7 +628,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- electronegativity difference,  $\Delta$EN -->
+    
     <g style="fill: #4a5a63" transform="translate(371.421 240.633843) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -1007,7 +1005,7 @@ Q 191.544 333.140242 195.96 333.140242
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- The boundaries at 0.3 and 2.0 are conventions, not physics. Nothing changes abruptly as $\Delta$EN crosses 2.0 — -->
+    
     <g style="fill: #22303a" transform="translate(195.96 297.913942) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -1259,7 +1257,7 @@ z
      <use xlink:href="#DejaVuSans-20" transform="translate(5317.626953 0.015625)"/>
      <use xlink:href="#DejaVuSansDisplay-2014" transform="translate(5349.414062 0.015625)"/>
     </g>
-    <!-- the electron is simply shared less and less equally until, at the far end, it has effectively been handed over. -->
+    
     <g style="fill: #22303a" transform="translate(199.3755 312.330592) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -1431,7 +1429,7 @@ z
      <use xlink:href="#DejaVuSans-72" x="5315.128906"/>
      <use xlink:href="#DejaVuSans-2e" x="5347.117188"/>
     </g>
-    <!-- A bond described as ionic is the limiting case of a polar covalent bond, not a different kind of thing. -->
+    
     <g style="fill: #22303a" transform="translate(218.34075 326.727742) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1621,7 +1619,7 @@ L 720.547091 150.922897
 " clip-path="url(#p30c7f7eb10)" style="fill: none; stroke: #6b3fa0; stroke-width: 1.3; stroke-linecap: square"/>
    </g>
    <g id="text_8">
-    <!-- nonpolar -->
+    
     <g style="fill: #2e7d5b" transform="translate(170.690233 176.413944) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-72" d="M 3138 2547 
@@ -1651,7 +1649,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-61" x="385.644531"/>
      <use xlink:href="#DejaVuSans-Bold-72" x="453.125"/>
     </g>
-    <!-- covalent -->
+    
     <g style="fill: #2e7d5b" transform="translate(171.745295 188.998273) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-Bold-76" d="M 97 3500 
@@ -1676,7 +1674,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- polar covalent -->
+    
     <g style="fill: #b8621b" transform="translate(329.274166 182.706108) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-70"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="71.582031"/>
@@ -1695,7 +1693,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- ionic -->
+    
     <g style="fill: #6b3fa0" transform="translate(618.069183 182.706108) scale(0.102 -0.102)">
      <use xlink:href="#DejaVuSans-Bold-69"/>
      <use xlink:href="#DejaVuSans-Bold-6f" x="34.277344"/>
@@ -1705,7 +1703,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- $\mathrm{Cl_2}$ -->
+    
     <g style="fill: #2e7d5b" transform="translate(163.182 141.984438) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 
@@ -1736,13 +1734,13 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- 0 -->
+    
     <g style="fill: #4a5a63" transform="translate(167.51775 121.954632) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-30"/>
     </g>
    </g>
    <g id="text_13">
-    <!-- $\mathrm{HI}$ -->
+    
     <g style="fill: #b8621b" transform="translate(245.265273 141.984438) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-48" d="M 628 4666 
@@ -1773,7 +1771,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- 0.46 -->
+    
     <g style="fill: #4a5a63" transform="translate(240.95371 121.954632) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1833,7 +1831,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $\mathrm{HCl}$ -->
+    
     <g style="fill: #b8621b" transform="translate(329.083091 141.984438) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-48" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-43" transform="translate(75.195312 0.015625)"/>
@@ -1841,7 +1839,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- 0.96 -->
+    
     <g style="fill: #4a5a63" transform="translate(328.035528 121.954632) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-39" d="M 703 97 
@@ -1882,7 +1880,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- $\mathrm{H_2O}$ -->
+    
     <g style="fill: #b8621b" transform="translate(376.408909 141.984438) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4f" d="M 2522 4238 
@@ -1913,7 +1911,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- 1.24 -->
+    
     <g style="fill: #4a5a63" transform="translate(376.801347 121.954632) scale(0.084 -0.084)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -1938,7 +1936,7 @@ z
     </g>
    </g>
    <g id="text_19">
-    <!-- $\mathrm{NaCl}$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(547.342909 141.984438) scale(0.096 -0.096)">
      <use xlink:href="#DejaVuSans-4e" transform="translate(0 0.015625)"/>
      <use xlink:href="#DejaVuSans-61" transform="translate(74.804688 0.015625)"/>
@@ -1947,7 +1945,7 @@ z
     </g>
    </g>
    <g id="text_20">
-    <!-- 2.23 -->
+    
     <g style="fill: #4a5a63" transform="translate(549.223347 121.954632) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-32"/>
      <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -1956,7 +1954,7 @@ z
     </g>
    </g>
    <g id="text_21">
-    <!-- $\mathrm{KF}$ -->
+    
     <g style="fill: #6b3fa0" transform="translate(714.595091 141.984438) scale(0.096 -0.096)">
      <defs>
       <path id="DejaVuSans-4b" d="M 628 4666 
@@ -1992,7 +1990,7 @@ z
     </g>
    </g>
    <g id="text_22">
-    <!-- 3.16 -->
+    
     <g style="fill: #4a5a63" transform="translate(711.195528 121.954632) scale(0.084 -0.084)">
      <use xlink:href="#DejaVuSans-33"/>
      <use xlink:href="#DejaVuSans-2e" x="63.623047"/>

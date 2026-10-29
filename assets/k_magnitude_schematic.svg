@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="442.828pt" height="253.296pt" viewBox="0 0 442.828 253.296" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -62,7 +60,7 @@ z
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
-    <!-- mostly -->
+    
     <g transform="translate(57.846398 229.829364) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-6d" d="M 3328 2828 
@@ -200,7 +198,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="249.902344"/>
      <use xlink:href="#DejaVuSans-79" x="277.685547"/>
     </g>
-    <!-- products -->
+    
     <g transform="translate(49.362335 239.347505) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -327,7 +325,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- reactants -->
+    
     <g transform="translate(124.148553 66.066502) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-65" d="M 3597 1894 
@@ -420,7 +418,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- $K \gg 1$ -->
+    
     <g transform="translate(91.664 41.868) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-Oblique-4b" d="M 1081 4666 
@@ -511,7 +509,7 @@ z
    <g id="matplotlib.axis_3"/>
    <g id="matplotlib.axis_4"/>
    <g id="text_4">
-    <!-- products -->
+    
     <g transform="translate(281.562333 66.066503) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-70"/>
      <use xlink:href="#DejaVuSans-72" x="63.476562"/>
@@ -524,7 +522,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- mostly -->
+    
     <g transform="translate(356.348559 229.829363) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-6d"/>
      <use xlink:href="#DejaVuSans-6f" x="97.412109"/>
@@ -533,7 +531,7 @@ z
      <use xlink:href="#DejaVuSans-6c" x="249.902344"/>
      <use xlink:href="#DejaVuSans-79" x="277.685547"/>
     </g>
-    <!-- reactants -->
+    
     <g transform="translate(356.348559 239.347504) scale(0.085 -0.085)">
      <use xlink:href="#DejaVuSans-72"/>
      <use xlink:href="#DejaVuSans-65" x="38.863281"/>
@@ -547,7 +545,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- $K \ll 1$ -->
+    
     <g transform="translate(323.864 41.868) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-226a" d="M 6238 3253 
@@ -577,7 +575,7 @@ z
    </g>
   </g>
   <g id="text_7">
-   <!-- What K's magnitude tells you (schematic) -->
+   
    <g transform="translate(106.434781 15.558281) scale(0.11 -0.11)">
     <defs>
      <path id="DejaVuSans-57" d="M 213 4666 

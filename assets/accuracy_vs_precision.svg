@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="280.8pt" viewBox="0 0 864 280.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -94,7 +92,7 @@ L 0 -4.5
     </g>
    </g>
    <g id="text_1">
-    <!-- Accurate -->
+    
     <g style="fill: #2e7d5b" transform="translate(85.822969 42.882297) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -263,7 +261,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-74" x="383.935547"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="431.738281"/>
     </g>
-    <!-- and precise -->
+    
     <g style="fill: #2e7d5b" transform="translate(77.678906 54.64) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-6e" d="M 4056 2131 
@@ -481,7 +479,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- Precise -->
+    
     <g style="fill: #b8621b" transform="translate(303.754453 42.882297) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-50" d="M 588 4666 
@@ -514,7 +512,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-73" x="283.984375"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="343.505859"/>
     </g>
-    <!-- but not accurate -->
+    
     <g style="fill: #b8621b" transform="translate(276.129609 54.64) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -665,7 +663,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Accurate -->
+    
     <g style="fill: #b8621b" transform="translate(512.422969 42.882297) scale(0.105 -0.105)">
      <use xlink:href="#DejaVuSans-Bold-41"/>
      <use xlink:href="#DejaVuSans-Bold-63" x="77.392578"/>
@@ -676,7 +674,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-74" x="383.935547"/>
      <use xlink:href="#DejaVuSans-Bold-65" x="431.738281"/>
     </g>
-    <!-- but not precise -->
+    
     <g style="fill: #b8621b" transform="translate(493.63125 54.64) scale(0.105 -0.105)">
      <use xlink:href="#DejaVuSans-Bold-62"/>
      <use xlink:href="#DejaVuSans-Bold-75" x="71.582031"/>
@@ -764,7 +762,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Neither -->
+    
     <g style="fill: #a63d2f" transform="translate(729.799102 54.64) scale(0.105 -0.105)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -836,7 +834,7 @@ z
    </g>
   </g>
   <g id="text_5">
-   <!-- Accuracy is closeness to the truth (the centre). Precision is closeness to each other. -->
+   
    <g transform="translate(170.515625 15.114047) scale(0.125 -0.125)">
     <defs>
      <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1266,7 +1264,7 @@ z
    </g>
   </g>
   <g id="text_6">
-   <!-- The two are independent — which is why a consistently mis-calibrated balance gives beautifully precise, entirely wrong results. -->
+   
    <g style="fill: #4a5a63" transform="translate(138.03125 270.972) scale(0.092 -0.092)">
     <defs>
      <path id="DejaVuSans-54" d="M -19 4666 

@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="475.2pt" viewBox="0 0 892.8 475.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -56,7 +54,7 @@ z
 " clip-path="url(#p3431ddbc21)" style="fill: #e8f1f5; stroke: #a8c4d2; stroke-width: 1.4; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Signs are taken from the system's point of view -->
+    
     <g style="fill: #22303a" transform="translate(271.120922 82.674649) scale(0.138 -0.138)">
      <defs>
       <path id="DejaVuSans-Bold-53" d="M 3834 4519 
@@ -524,7 +522,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- ask: did the system GAIN it, or LOSE it? -->
+    
     <g style="fill: #4a5a63" transform="translate(355.176875 103.686985) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
@@ -1091,7 +1089,7 @@ Q 196.593 402.221806 201.693 402.221806
 z
 " style="fill: #eef3f5; stroke: #c8d4d9; stroke-linejoin: miter"/>
     </g>
-    <!-- $\Delta U = q + w$  adds the two together, so both must be signed the same way — from the system's side. -->
+    
     <g style="fill: #22303a" transform="translate(201.693 379.271806) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-394" d="M 2188 4044 
@@ -1717,7 +1715,7 @@ z
      <use xlink:href="#DejaVuSans-65" transform="translate(4923.347656 0.015625)"/>
      <use xlink:href="#DejaVuSans-2e" transform="translate(4984.871094 0.015625)"/>
     </g>
-    <!-- A gas that is compressed while giving off heat has $w&gt;0$ and $q&lt;0$, and the two partly cancel. -->
+    
     <g style="fill: #22303a" transform="translate(217.911 394.979806) scale(0.102 -0.102)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1935,7 +1933,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- HEAT  $q$ -->
+    
     <g style="fill: #22303a" transform="translate(260.648 160.683896) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-48" d="M 588 4666 
@@ -2022,7 +2020,7 @@ z
 " clip-path="url(#p3431ddbc21)" style="fill: #c0392b"/>
    </g>
    <g id="text_5">
-    <!-- WORK  $w$ -->
+    
     <g style="fill: #22303a" transform="translate(596.626 160.709083) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-Bold-57" d="M 191 4666 
@@ -2131,7 +2129,7 @@ z
 " clip-path="url(#p3431ddbc21)" style="fill: #c0392b"/>
    </g>
    <g id="text_6">
-    <!-- $q &gt; 0$ -->
+    
     <g style="fill: #ffffff" transform="translate(162.444 215.315877) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-Oblique-71" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-3e" transform="translate(82.958984 0.78125)"/>
@@ -2139,7 +2137,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- system ABSORBS heat -->
+    
     <g style="fill: #22303a" transform="translate(219.294 201.604911) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -2197,7 +2195,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- endothermic — a cold pack -->
+    
     <g style="fill: #4a5a63" transform="translate(219.294 224.363482) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-2014" d="M 313 1978 
@@ -2250,7 +2248,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- $q &lt; 0$ -->
+    
     <g style="fill: #ffffff" transform="translate(162.444 292.530264) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-Oblique-71" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-3c" transform="translate(82.958984 0.78125)"/>
@@ -2258,7 +2256,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- system RELEASES heat -->
+    
     <g style="fill: #22303a" transform="translate(219.294 278.819298) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-4c" d="M 588 4666 
@@ -2294,7 +2292,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- exothermic — a burning candle -->
+    
     <g style="fill: #4a5a63" transform="translate(219.294 301.577869) scale(0.092 -0.092)">
      <defs>
       <path id="DejaVuSans-78" d="M 3513 3500 
@@ -2345,7 +2343,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- $w &gt; 0$ -->
+    
     <g style="fill: #ffffff" transform="translate(501.684 215.340252) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-Oblique-77" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-3e" transform="translate(101.269531 0.78125)"/>
@@ -2353,7 +2351,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- work done ON the system -->
+    
     <g style="fill: #22303a" transform="translate(559.674 201.604911) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-64" d="M 2919 2988 
@@ -2422,7 +2420,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- a gas being compressed -->
+    
     <g style="fill: #4a5a63" transform="translate(559.674 224.363482) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-20" x="61.279297"/>
@@ -2449,7 +2447,7 @@ z
     </g>
    </g>
    <g id="text_15">
-    <!-- $w &lt; 0$ -->
+    
     <g style="fill: #ffffff" transform="translate(501.684 292.554639) scale(0.12 -0.12)">
      <use xlink:href="#DejaVuSans-Oblique-77" transform="translate(0 0.78125)"/>
      <use xlink:href="#DejaVuSans-3c" transform="translate(101.269531 0.78125)"/>
@@ -2457,7 +2455,7 @@ z
     </g>
    </g>
    <g id="text_16">
-    <!-- work done BY the system -->
+    
     <g style="fill: #22303a" transform="translate(559.674 278.819298) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-Bold-59" d="M -63 4666 
@@ -2499,7 +2497,7 @@ z
     </g>
    </g>
    <g id="text_17">
-    <!-- a gas expanding, pushing out -->
+    
     <g style="fill: #4a5a63" transform="translate(559.674 301.577869) scale(0.092 -0.092)">
      <use xlink:href="#DejaVuSans-61"/>
      <use xlink:href="#DejaVuSans-20" x="61.279297"/>

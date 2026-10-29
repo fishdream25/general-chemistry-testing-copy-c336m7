@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="302.4pt" viewBox="0 0 460.8 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -50,7 +48,7 @@ L 0 3.5
       </g>
      </g>
      <g id="text_1">
-      <!-- 0 -->
+      
       <g transform="translate(75.58471 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-30" d="M 2034 4250 
@@ -86,7 +84,7 @@ z
       </g>
      </g>
      <g id="text_2">
-      <!-- 1 -->
+      
       <g transform="translate(146.309427 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-31" d="M 794 531 
@@ -115,7 +113,7 @@ z
       </g>
      </g>
      <g id="text_3">
-      <!-- 2 -->
+      
       <g transform="translate(217.034144 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-32" d="M 1228 531 
@@ -154,7 +152,7 @@ z
       </g>
      </g>
      <g id="text_4">
-      <!-- 3 -->
+      
       <g transform="translate(287.758861 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-33" d="M 2597 2516 
@@ -201,7 +199,7 @@ z
       </g>
      </g>
      <g id="text_5">
-      <!-- 4 -->
+      
       <g transform="translate(358.483578 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-34" d="M 2419 4116 
@@ -235,7 +233,7 @@ z
       </g>
      </g>
      <g id="text_6">
-      <!-- 5 -->
+      
       <g transform="translate(429.208295 270.430438) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-35" d="M 691 4666 
@@ -269,7 +267,7 @@ z
      </g>
     </g>
     <g id="text_7">
-     <!-- Q = [Zn$^{2+}$]$_{anode}$ / [Zn$^{2+}$]$_{cathode}$ -->
+     
      <g transform="translate(180.285 285.330438) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-51" d="M 2522 4238 
@@ -660,7 +658,7 @@ L -3.5 0
       </g>
      </g>
      <g id="text_8">
-      <!-- −0.02 -->
+      
       <g transform="translate(24.924688 251.432404) scale(0.1 -0.1)">
        <defs>
         <path id="DejaVuSans-2212" d="M 678 2272 
@@ -693,7 +691,7 @@ z
       </g>
      </g>
      <g id="text_9">
-      <!-- −0.01 -->
+      
       <g transform="translate(24.924688 224.103021) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-2212"/>
        <use xlink:href="#DejaVuSans-30" x="83.789062"/>
@@ -710,7 +708,7 @@ z
       </g>
      </g>
      <g id="text_10">
-      <!-- 0.00 -->
+      
       <g transform="translate(33.304375 196.773639) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -726,7 +724,7 @@ z
       </g>
      </g>
      <g id="text_11">
-      <!-- 0.01 -->
+      
       <g transform="translate(33.304375 169.444256) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -742,7 +740,7 @@ z
       </g>
      </g>
      <g id="text_12">
-      <!-- 0.02 -->
+      
       <g transform="translate(33.304375 142.114873) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -758,7 +756,7 @@ z
       </g>
      </g>
      <g id="text_13">
-      <!-- 0.03 -->
+      
       <g transform="translate(33.304375 114.78549) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -774,7 +772,7 @@ z
       </g>
      </g>
      <g id="text_14">
-      <!-- 0.04 -->
+      
       <g transform="translate(33.304375 87.456108) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -790,7 +788,7 @@ z
       </g>
      </g>
      <g id="text_15">
-      <!-- 0.05 -->
+      
       <g transform="translate(33.304375 60.126725) scale(0.1 -0.1)">
        <use xlink:href="#DejaVuSans-30"/>
        <use xlink:href="#DejaVuSans-2e" x="63.623047"/>
@@ -800,7 +798,7 @@ z
      </g>
     </g>
     <g id="text_16">
-     <!-- E (V) -->
+     
      <g transform="translate(18.845 157.218313) rotate(-90) scale(0.1 -0.1)">
       <defs>
        <path id="DejaVuSans-45" d="M 628 4666 
@@ -954,7 +952,7 @@ L 98.508085 133.163016
 " style="fill: none; stroke: #555555; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_17">
-    <!-- [Zn$^{2+}$]$_{anode}$=0.10 M, [Zn$^{2+}$]$_{cathode}$=0.50 M -->
+    
     <g transform="translate(198.997979 79.604625) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-4d" d="M 628 4666 
@@ -1024,7 +1022,7 @@ z
      <use xlink:href="#DejaVuSans-20" transform="translate(1991.157227 0.765625)"/>
      <use xlink:href="#DejaVuSans-4d" transform="translate(2022.944336 0.765625)"/>
     </g>
-    <!-- Q=0.20, E=0.0207 V -->
+    
     <g transform="translate(198.997979 89.122765) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-37" d="M 525 4666 
@@ -1059,7 +1057,7 @@ z
     </g>
    </g>
    <g id="text_18">
-    <!-- Concentration cell: E vs. Q (Zn$^{2+}$/Zn, n=2) -->
+    
     <g transform="translate(138.475 22.464) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-43" d="M 4122 4306 

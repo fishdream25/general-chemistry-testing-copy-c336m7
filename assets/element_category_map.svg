@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="360pt" viewBox="0 0 648 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -470,7 +468,7 @@ z
 " clip-path="url(#pa18fe02b72)" style="fill: #c0392b; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- Representative -->
+    
     <g style="fill: #ffffff" transform="translate(17.73793 95.396281) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-52" d="M 2841 2188 
@@ -712,7 +710,7 @@ z
      <use xlink:href="#DejaVuSans-76" x="634.851562"/>
      <use xlink:href="#DejaVuSans-65" x="694.03125"/>
     </g>
-    <!-- (main group) -->
+    
     <g style="fill: #ffffff" transform="translate(22.223008 104.914421) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-28" d="M 1984 4856 
@@ -865,7 +863,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- Noble gases -->
+    
     <g style="fill: #ffffff" transform="translate(92.979844 100.155351) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -929,7 +927,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Transition metals -->
+    
     <g style="fill: #ffffff" transform="translate(151.729766 100.155351) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -964,7 +962,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Group 2B -->
+    
     <g style="fill: #ffffff" transform="translate(237.242734 95.396281) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-47" d="M 3809 666 
@@ -1058,7 +1056,7 @@ z
      <use xlink:href="#DejaVuSans-32" x="336.177734"/>
      <use xlink:href="#DejaVuSans-42" x="399.800781"/>
     </g>
-    <!-- (Zn, Cd, Hg) -->
+    
     <g style="fill: #ffffff" transform="translate(231.266172 104.914421) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-5a" d="M 359 4666 
@@ -1161,7 +1159,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Lanthanides -->
+    
     <g style="fill: #ffffff" transform="translate(300.21875 100.155351) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-4c" d="M 628 4666 
@@ -1207,7 +1205,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- Actinides -->
+    
     <g style="fill: #ffffff" transform="translate(375.932148 100.155351) scale(0.085 -0.085)">
      <defs>
       <path id="DejaVuSans-41" d="M 2188 4044 
@@ -1260,7 +1258,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- Element categories by subshell being filled -->
+    
     <g transform="translate(196.979062 19.44) scale(0.12 -0.12)">
      <defs>
       <path id="DejaVuSans-45" d="M 628 4666 

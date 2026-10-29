@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="921.6pt" height="504pt" viewBox="0 0 921.6 504" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -82,7 +80,7 @@ z
 " clip-path="url(#p88eac65555)" style="fill: #f7fafb; stroke: #c8d4d9; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <!-- A reaction stops when one ingredient runs out -->
+    
     <g style="fill: #22303a" transform="translate(285.581125 85.458961) scale(0.142 -0.142)">
      <defs>
       <path id="DejaVuSans-Bold-41" d="M 3419 850 
@@ -502,7 +500,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- $\mathrm{1\ bolt + 2\ nuts \rightarrow 1\ assembly}$ -->
+    
     <g style="fill: #4a5a63" transform="translate(384.342 108.975765) scale(0.124 -0.124)">
      <defs>
       <path id="DejaVuSans-31" d="M 794 531 
@@ -871,7 +869,7 @@ Q 213.156062 426.839229 218.356062 426.839229
 z
 " style="fill: #fdf3e7; stroke: #e0c9a6; stroke-linejoin: miter"/>
     </g>
-    <!-- Notice that the nuts are limiting even though there are MORE of them. What matters is not which -->
+    
     <g style="fill: #22303a" transform="translate(218.356062 403.484323) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-4e" d="M 628 4666 
@@ -1239,7 +1237,7 @@ z
      <use xlink:href="#DejaVuSans-63" x="4765.710938"/>
      <use xlink:href="#DejaVuSans-68" x="4820.691406"/>
     </g>
-    <!-- reactant you have least of, but which one runs out first given the ratio the reaction demands. -->
+    
     <g style="fill: #22303a" transform="translate(228.609 419.476354) scale(0.104 -0.104)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -1375,7 +1373,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- you start with -->
+    
     <g style="fill: #22303a" transform="translate(248.979922 149.540119) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-79" d="M 78 3500 
@@ -1497,7 +1495,7 @@ z
 " clip-path="url(#p88eac65555)" style="fill: #1f6f8b"/>
    </g>
    <g id="text_5">
-    <!-- 4 bolts -->
+    
     <g style="fill: #1f6f8b" transform="translate(208.726188 229.314787) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-34" d="M 2419 4116 
@@ -1608,7 +1606,7 @@ z
 " clip-path="url(#p88eac65555)" style="fill: #b8621b"/>
    </g>
    <g id="text_6">
-    <!-- 6 nuts -->
+    
     <g style="fill: #b8621b" transform="translate(349.511344 229.314787) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
@@ -1651,7 +1649,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- you can build -->
+    
     <g style="fill: #22303a" transform="translate(613.625188 149.540119) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-62" d="M 2400 722 
@@ -1845,7 +1843,7 @@ z
 " clip-path="url(#p88eac65555)" style="fill: #b8621b"/>
    </g>
    <g id="text_8">
-    <!-- only 3 assemblies -->
+    
     <g style="fill: #2e7d5b" transform="translate(561.450156 229.314787) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-33" d="M 2597 2516 
@@ -1922,7 +1920,7 @@ z
 " clip-path="url(#p88eac65555)" style="fill: #9fb0b8"/>
    </g>
    <g id="text_9">
-    <!-- 1 bolt left over -->
+    
     <g style="fill: #4a5a63" transform="translate(725.699531 229.314787) scale(0.1 -0.1)">
      <use xlink:href="#DejaVuSans-31"/>
      <use xlink:href="#DejaVuSans-20" x="63.623047"/>
@@ -1943,7 +1941,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- NUTS are limiting -->
+    
     <g style="fill: #c0392b" transform="translate(234.467859 296.999862) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-4e" d="M 588 4666 
@@ -2071,7 +2069,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- They run out first, so they alone -->
+    
     <g style="fill: #22303a" transform="translate(210.650469 324.923252) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -2120,7 +2118,7 @@ z
      <use xlink:href="#DejaVuSans-6e" x="1481.542969"/>
      <use xlink:href="#DejaVuSans-65" x="1544.921875"/>
     </g>
-    <!-- decide how much you can make. -->
+    
     <g style="fill: #22303a" transform="translate(208.627031 339.160439) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-6b" d="M 581 4863 
@@ -2170,7 +2168,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- BOLTS are in excess -->
+    
     <g style="fill: #4a5a63" transform="translate(589.733813 297.044393) scale(0.114 -0.114)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -2273,7 +2271,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- Some is still sitting there when -->
+    
     <g style="fill: #22303a" transform="translate(576.444219 324.923252) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-53" d="M 3425 4513 
@@ -2341,7 +2339,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="1419.673828"/>
      <use xlink:href="#DejaVuSans-6e" x="1481.197266"/>
     </g>
-    <!-- the reaction stops. -->
+    
     <g style="fill: #22303a" transform="translate(606.884063 339.160439) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 

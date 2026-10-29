@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1000.8pt" height="511.2pt" viewBox="0 0 1000.8 511.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -127,7 +125,7 @@ Q 720.765 216.458891 720.765 225.537541
 " style="fill: none; stroke-dasharray: 3,3; stroke-dashoffset: 0; stroke: #b8621b; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- Every stoichiometry problem is this one road, walked left to right -->
+    
     <g style="fill: #22303a" transform="translate(253.88375 90.227744) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-Bold-45" d="M 588 4666 
@@ -680,7 +678,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- and the only step that knows any chemistry is the middle one -->
+    
     <g style="fill: #4a5a63" transform="translate(348.548719 116.168991) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Oblique-61" d="M 3438 1997 
@@ -1168,7 +1166,7 @@ Q 257.153125 361.66784 263.203125 361.66784
 z
 " style="fill: #fdecea; stroke: #e3c4bf; stroke-linejoin: miter"/>
     </g>
-    <!-- You can only cross from substance A to substance B in the middle of the road — in MOLES. -->
+    
     <g style="fill: #22303a" transform="translate(263.203125 336.415535) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-59" d="M -13 4666 
@@ -1797,7 +1795,7 @@ z
      <use xlink:href="#DejaVuSans-53" x="4444.941406"/>
      <use xlink:href="#DejaVuSans-2e" x="4508.417969"/>
     </g>
-    <!-- Grams of one substance never convert directly into grams of another. -->
+    
     <g style="fill: #22303a" transform="translate(320.50625 353.330183) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-47" d="M 3809 666 
@@ -1941,7 +1939,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- Two optional side roads hang off the mole boxes: multiply by Avogadro's number to reach a count of -->
+    
     <g style="fill: #4a5a63" transform="translate(266.689594 414.168549) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-54" d="M -19 4666 
@@ -2132,7 +2130,7 @@ z
      <use xlink:href="#DejaVuSans-6f" x="4928.541016"/>
      <use xlink:href="#DejaVuSans-66" x="4989.722656"/>
     </g>
-    <!-- particles, or (Chapter 5) use the gas laws to reach a volume. -->
+    
     <g style="fill: #4a5a63" transform="translate(363.98675 428.865639) scale(0.098 -0.098)">
      <defs>
       <path id="DejaVuSans-2c" d="M 750 794 
@@ -2281,7 +2279,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- MASS of A -->
+    
     <g style="fill: #ffffff" transform="translate(165.978906 261.474849) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Bold-4d" d="M 588 4666 
@@ -2358,7 +2356,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-20" x="463.46875"/>
      <use xlink:href="#DejaVuSans-Bold-41" x="498.283203"/>
     </g>
-    <!-- $\it{grams}$ -->
+    
     <g style="fill: #ffffff" transform="translate(180.26 275.464099) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-Oblique-67" d="M 3816 3500 
@@ -2408,7 +2406,7 @@ z
     </g>
    </g>
    <g id="text_6">
-    <!-- MOLES of A -->
+    
     <g style="fill: #ffffff" transform="translate(369.64168 268.618615) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-4f" d="M 2719 3878 
@@ -2455,7 +2453,7 @@ z
     </g>
    </g>
    <g id="text_7">
-    <!-- MOLES of B -->
+    
     <g style="fill: #ffffff" transform="translate(578.959062 268.618615) scale(0.115 -0.115)">
      <defs>
       <path id="DejaVuSans-Bold-42" d="M 2456 2859 
@@ -2504,7 +2502,7 @@ z
     </g>
    </g>
    <g id="text_8">
-    <!-- MASS of B -->
+    
     <g style="fill: #ffffff" transform="translate(793.793359 261.474849) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Bold-4d"/>
      <use xlink:href="#DejaVuSans-Bold-41" x="99.511719"/>
@@ -2516,7 +2514,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-20" x="463.46875"/>
      <use xlink:href="#DejaVuSans-Bold-42" x="498.283203"/>
     </g>
-    <!-- $\it{grams}$ -->
+    
     <g style="fill: #ffffff" transform="translate(808.01 275.464099) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-Oblique-67"/>
      <use xlink:href="#DejaVuSans-Oblique-72" transform="translate(63.476562 0)"/>
@@ -2526,7 +2524,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- ÷ molar mass of A -->
+    
     <g style="fill: #1f6f8b" transform="translate(247.815781 165.153311) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-f7" d="M 2203 1234 
@@ -2569,7 +2567,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- g/mol, from A's formula -->
+    
     <g style="fill: #4a5a63" transform="translate(249.304219 191.536557) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-2f" d="M 1625 4666 
@@ -2606,7 +2604,7 @@ z
     </g>
    </g>
    <g id="text_11">
-    <!-- × mole ratio -->
+    
     <g style="fill: #c0392b" transform="translate(474.626172 165.153311) scale(0.106 -0.106)">
      <defs>
       <path id="DejaVuSans-Bold-d7" d="M 4563 3359 
@@ -2640,7 +2638,7 @@ z
     </g>
    </g>
    <g id="text_12">
-    <!-- the coefficients of the -->
+    
     <g style="fill: #4a5a63" transform="translate(462.248438 185.471753) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-74"/>
      <use xlink:href="#DejaVuSans-68" x="39.208984"/>
@@ -2666,7 +2664,7 @@ z
      <use xlink:href="#DejaVuSans-68" x="969.921875"/>
      <use xlink:href="#DejaVuSans-65" x="1033.300781"/>
     </g>
-    <!-- balanced equation -->
+    
     <g style="fill: #4a5a63" transform="translate(469.655859 197.601362) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-71" d="M 947 1747 
@@ -2716,7 +2714,7 @@ z
     </g>
    </g>
    <g id="text_13">
-    <!-- × molar mass of B -->
+    
     <g style="fill: #b8621b" transform="translate(666.377891 165.153311) scale(0.106 -0.106)">
      <use xlink:href="#DejaVuSans-Bold-d7"/>
      <use xlink:href="#DejaVuSans-Bold-20" x="83.789062"/>
@@ -2738,7 +2736,7 @@ z
     </g>
    </g>
    <g id="text_14">
-    <!-- g/mol, from B's formula -->
+    
     <g style="fill: #4a5a63" transform="translate(667.795078 191.536557) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-67"/>
      <use xlink:href="#DejaVuSans-2f" x="63.476562"/>

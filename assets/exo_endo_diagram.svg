@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
-  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="288pt" viewBox="0 0 576 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -49,7 +47,7 @@ L 207.357482 233.806424
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_1">
-    <!-- reactants -->
+    
     <g transform="translate(57.518437 113.014154) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-72" d="M 2631 2963 
@@ -232,7 +230,7 @@ z
     </g>
    </g>
    <g id="text_2">
-    <!-- products -->
+    
     <g transform="translate(194.999766 261.710769) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-70" d="M 1159 525 
@@ -342,7 +340,7 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- releases -->
+    
     <g style="fill: #c0392b" transform="translate(132.478359 167.990892) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-6c" d="M 603 4863 
@@ -362,7 +360,7 @@ z
      <use xlink:href="#DejaVuSans-65" x="303.072266"/>
      <use xlink:href="#DejaVuSans-73" x="364.595703"/>
     </g>
-    <!-- heat -->
+    
     <g style="fill: #c0392b" transform="translate(141.087422 178.068923) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-68" d="M 3513 2113 
@@ -392,7 +390,7 @@ z
     </g>
    </g>
    <g id="text_4">
-    <!-- $\Delta H&lt;0$ -->
+    
     <g transform="translate(130.2 100.622769) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-394" d="M 2188 4044 
@@ -461,7 +459,7 @@ z
     </g>
    </g>
    <g id="text_5">
-    <!-- Exothermic -->
+    
     <g transform="translate(115.675703 69.84) scale(0.11 -0.11)">
      <defs>
       <path id="DejaVuSans-45" d="M 628 4666 
@@ -572,7 +570,7 @@ L 492.407831 137.884419
 " style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
    </g>
    <g id="text_6">
-    <!-- reactants -->
+    
     <g transform="translate(340.118438 261.710769) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-72"/>
      <use xlink:href="#DejaVuSans-65" x="38.863281"/>
@@ -586,7 +584,7 @@ L 492.407831 137.884419
     </g>
    </g>
    <g id="text_7">
-    <!-- products -->
+    
     <g transform="translate(477.599766 113.014154) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-70"/>
      <use xlink:href="#DejaVuSans-72" x="63.476562"/>
@@ -599,7 +597,7 @@ L 492.407831 137.884419
     </g>
    </g>
    <g id="text_8">
-    <!-- absorbs -->
+    
     <g style="fill: #2980b9" transform="translate(416.066953 167.990892) scale(0.09 -0.09)">
      <defs>
       <path id="DejaVuSans-62" d="M 3116 1747 
@@ -637,7 +635,7 @@ z
      <use xlink:href="#DejaVuSans-62" x="279.150391"/>
      <use xlink:href="#DejaVuSans-73" x="342.626953"/>
     </g>
-    <!-- heat -->
+    
     <g style="fill: #2980b9" transform="translate(423.687422 178.068923) scale(0.09 -0.09)">
      <use xlink:href="#DejaVuSans-68"/>
      <use xlink:href="#DejaVuSans-65" x="63.378906"/>
@@ -646,7 +644,7 @@ z
     </g>
    </g>
    <g id="text_9">
-    <!-- $\Delta H&gt;0$ -->
+    
     <g transform="translate(412.8 94.427077) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-3e" d="M 678 3150 
@@ -667,7 +665,7 @@ z
     </g>
    </g>
    <g id="text_10">
-    <!-- Endothermic -->
+    
     <g transform="translate(394.381875 69.84) scale(0.11 -0.11)">
      <use xlink:href="#DejaVuSans-45"/>
      <use xlink:href="#DejaVuSans-6e" x="63.183594"/>
@@ -684,7 +682,7 @@ z
    </g>
   </g>
   <g id="text_11">
-   <!-- Energy diagrams: exothermic vs. endothermic processes -->
+   
    <g transform="translate(117.272813 14.878125) scale(0.12 -0.12)">
     <defs>
      <path id="DejaVuSans-67" d="M 2906 1791 
