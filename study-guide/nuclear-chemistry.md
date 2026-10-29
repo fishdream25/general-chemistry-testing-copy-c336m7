@@ -8,6 +8,8 @@ title: Chapter 19: Nuclear Chemistry
 
 Nuclear marker 05:16:34 (review r2)
 
+Nuclear marker2 05:25:26 (review r2)
+
 :::info
 **Reference:** Yu Wang's General Chemistry Lecture Notes, Chapter 19 (CC BY 4.0)
 **Audience:** introductory undergraduate general chemistry, second semester
