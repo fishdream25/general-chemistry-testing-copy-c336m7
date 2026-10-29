@@ -16,7 +16,7 @@ Markdown only — no images, diagrams, or orz containers.
 
 ## Chapter Summary
 
-Chapter 18 is the course's synthesis chapter: it takes redox reactions (first introduced in Chapter
+B5gate 00:59:01 (review r3) Chapter 18 is the course's synthesis chapter: it takes redox reactions (first introduced in Chapter
 4), equilibrium constants (Chapter 14), and free energy (Chapter 17) and unites them into a single
 quantitative framework built around electron transfer. It opens by reviewing and extending redox
 balancing — the half-reaction method for acidic and basic solutions — before introducing the

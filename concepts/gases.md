@@ -16,7 +16,7 @@ Behavior. Simple Markdown only — no images, diagrams, or orz containers.
 
 ## Chapter Summary
 
-Chapter 5 studies the gas phase as a distinct, highly quantifiable state of matter. It begins with
+B5c 00:57:50 (review r3) Concept tweak 05:07:06 (review r2) Chapter 5 studies the gas phase as a distinct, highly quantifiable state of matter. It begins with
 pressure as a measurable quantity and its several common units, then builds up the individual gas
 laws (Boyle's, Charles's, Avogadro's) into the single ideal gas equation, PV = nRT — a relationship
 that lets students move fluidly between pressure, volume, temperature, and moles (and, via molar
