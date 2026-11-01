@@ -571,32 +571,3 @@ Forwards, the state-function idea introduced here is the one that lasts. Chapter
 | `assets/formation_enthalpy_reference.svg` | — (self-generated, matplotlib) | CC BY 4.0 | Self-generated with matplotlib; released under this package's CC BY 4.0 license. |
 | `assets/hess_law_cycle.svg` | — (self-generated, matplotlib) | CC BY 4.0 | Self-generated with matplotlib using the study guide's own worked-example data; released under this package's CC BY 4.0 license. |
 
-
-Reopen check 1793258619508 (r7 live).
-
-
-Reopen check 1793258647458 (r7 live).
-
-
-Reopen check 1793258676349 (r7 live).
-
-
-Reopen check 1793258736194 (r7 live).
-
-
-Reopen check 1793258762545 (r7 live).
-
-
-Reopen check 1793258787548 (r7 live).
-
-
-Debug 1793258839370 (r7 live).
-
-
-Reopen check 1793259403425 (r7 live).
-
-
-Reopen check 1793259429787 (r7 live).
-
-
-Reopen check 1793259455020 (r7 live).
